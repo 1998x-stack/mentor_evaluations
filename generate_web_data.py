@@ -21,16 +21,17 @@ def generate_school_data(mentor_metrics: Dict) -> List[Dict]:
     })
 
     for mentor_id, data in mentor_metrics.items():
-        school = data.get('school', '')
-        if not school or school == 'nan':
+        school = str(data.get('school', '未知'))
+        # Clean various forms of NaN/None
+        if not school or school in ['nan', 'NaN', 'None', '', 'null', '未知']:
             school = '未知学校'
 
         school_stats[school]['mentor_count'] += 1
         school_stats[school]['total_evaluations'] += data.get('evaluation_count', 0)
         school_stats[school]['avg_score'].append(data.get('total_score', 5.0))
 
-        dept = data.get('department', '')
-        if dept and dept != 'nan':
+        dept = str(data.get('department', '未知'))
+        if dept and dept not in ['nan', 'NaN', 'None', '', 'null', '未知']:
             school_stats[school]['departments'].add(dept)
 
     # Convert to list format
@@ -57,17 +58,30 @@ def generate_mentor_list_by_school(mentor_metrics: Dict) -> Dict[str, List]:
     mentors_by_school = defaultdict(list)
 
     for mentor_id, data in mentor_metrics.items():
-        school = data.get('school', '')
-        if not school or school == 'nan':
+        school = str(data.get('school', '未知'))
+        if not school or school in ['nan', 'NaN', 'None', '', 'null', '未知']:
             school = '未知学校'
+
+        name = str(data.get('name', '未知'))
+        if not name or name in ['nan', 'NaN', 'None', '', 'null']:
+            name = '未知导师'
+
+        dept = str(data.get('department', '未知'))
+        if not dept or dept in ['nan', 'NaN', 'None', '', 'null']:
+            dept = '未知院系'
+
+        # Support both old format (evaluation_count) and new format (evaluationCount)
+        eval_count = data.get('evaluationCount', data.get('evaluation_count', 0))
+        total_score = data.get('totalScore', data.get('total_score', 5.0))
+        dim_scores = data.get('dimensionScores', data.get('dimension_scores', {}))
 
         mentor_summary = {
             'id': mentor_id,
-            'name': data.get('name', '未知导师'),
-            'department': data.get('department', ''),
-            'evaluationCount': data.get('evaluation_count', 0),
-            'totalScore': data.get('total_score', 5.0),
-            'dimensionScores': data.get('dimension_scores', {})
+            'name': name,
+            'department': dept,
+            'evaluationCount': eval_count,
+            'totalScore': total_score,
+            'dimensionScores': dim_scores
         }
 
         mentors_by_school[school].append(mentor_summary)
@@ -89,18 +103,40 @@ def generate_mentor_details(mentor_metrics: Dict, output_dir: str):
 
     count = 0
     for mentor_id, data in mentor_metrics.items():
+        # Clean all string fields
+        name = str(data.get('name', '未知'))
+        if not name or name in ['nan', 'NaN', 'None', '', 'null']:
+            name = '未知导师'
+
+        school = str(data.get('school', '未知'))
+        if not school or school in ['nan', 'NaN', 'None', '', 'null']:
+            school = '未知学校'
+
+        dept = str(data.get('department', '未知'))
+        if not dept or dept in ['nan', 'NaN', 'None', '', 'null']:
+            dept = '未知院系'
+
+        # Support both old and new format
+        eval_count = data.get('evaluationCount', data.get('evaluation_count', 0))
+        total_score = data.get('totalScore', data.get('total_score', 5.0))
+        dim_scores = data.get('dimensionScores', data.get('dimension_scores', {}))
+        dim_reasons = data.get('dimensionReasons', data.get('dimension_reasons', {}))
+        overall_rec = data.get('overallRecommendation', data.get('overall_recommendation', ''))
+
         detail = {
             'id': mentor_id,
-            'name': data.get('name', '未知导师'),
-            'school': data.get('school', '未知学校'),
-            'department': data.get('department', ''),
-            'evaluationCount': data.get('evaluation_count', 0),
-            'totalScore': data.get('total_score', 5.0),
-            'dimensionScores': data.get('dimension_scores', {}),
+            'name': name,
+            'school': school,
+            'department': dept,
+            'evaluationCount': eval_count,
+            'totalScore': total_score,
+            'dimensionScores': dim_scores,
+            'dimensionReasons': dim_reasons,  # Add reasons
+            'overallRecommendation': overall_rec,  # Add AI recommendation
             'evaluations': [
                 {
                     'comment': eval_data['comment'],
-                    'dimensions': eval_data['dimensions']
+                    'dimensions': eval_data.get('dimensions', {})
                 }
                 for eval_data in data.get('evaluations', [])
             ]

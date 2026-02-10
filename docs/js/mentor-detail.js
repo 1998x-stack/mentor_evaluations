@@ -98,25 +98,38 @@ function initializeRadarChart() {
     canvas.radarChart = radarChart;
     radarChart.setData(labels, values);
 
-    // Render legend
-    renderDimensionLegend(dimensionScores);
+    // Render legend with reasons
+    const dimensionReasons = mentorData.dimensionReasons || {};
+    renderDimensionLegend(dimensionScores, dimensionReasons);
 }
 
 /**
- * Render dimension legend
+ * Render dimension legend with reasons
  */
-function renderDimensionLegend(dimensionScores) {
+function renderDimensionLegend(dimensionScores, dimensionReasons = {}) {
     const legend = document.getElementById('dimensionLegend');
 
     legend.innerHTML = Object.entries(dimensionScores)
-        .map(([name, score]) => `
-            <div class="legend-item">
-                <span class="legend-label">${escapeHtml(name)}</span>
-                <span class="legend-score" style="color: ${getScoreColor(score)}">
-                    ${formatScore(score)}
-                </span>
-            </div>
-        `).join('');
+        .map(([name, score]) => {
+            const reason = dimensionReasons[name] || '';
+            return `
+                <div class="legend-item" ${reason ? `title="${escapeHtml(reason)}"` : ''}>
+                    <div class="legend-item-content">
+                        <div class="legend-item-header">
+                            <span class="legend-label">${escapeHtml(name)}</span>
+                            <span class="legend-score" style="color: ${getScoreColor(score)}">
+                                ${formatScore(score)}
+                            </span>
+                        </div>
+                        ${reason ? `
+                            <div class="legend-reason">
+                                ${escapeHtml(reason)}
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+            `;
+        }).join('');
 }
 
 /**

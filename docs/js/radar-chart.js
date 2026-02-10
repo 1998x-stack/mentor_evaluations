@@ -10,17 +10,17 @@ class RadarChart {
 
         // Default options
         this.options = {
-            radius: 120,
+            radius: 160,  // 增大半径
             levels: 5,
             maxValue: 10,
-            labelFont: '14px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto',
-            valueFont: 'bold 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto',
-            strokeColor: '#d2d2d7',
-            fillColor: 'rgba(102, 126, 234, 0.2)',
+            labelFont: 'bold 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto',
+            valueFont: 'bold 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto',
+            strokeColor: '#8e8e93',
+            fillColor: 'rgba(102, 126, 234, 0.25)',
             lineColor: 'rgba(102, 126, 234, 1)',
             pointColor: '#667eea',
             labelColor: '#1d1d1f',
-            gridColor: '#f5f5f7',
+            gridColor: '#e5e5ea',
             ...options
         };
 
@@ -177,28 +177,65 @@ class RadarChart {
     drawLabels() {
         const { radius, labelFont, valueFont, labelColor } = this.options;
         const angleStep = (Math.PI * 2) / this.labels.length;
-        const labelOffset = 30;
+        const labelOffset = 45;  // 增加标签距离
 
         this.ctx.fillStyle = labelColor;
-        this.ctx.textAlign = 'center';
-        this.ctx.textBaseline = 'middle';
 
         for (let i = 0; i < this.labels.length; i++) {
             const angle = angleStep * i - Math.PI / 2;
             const labelX = this.centerX + (radius + labelOffset) * Math.cos(angle);
             const labelY = this.centerY + (radius + labelOffset) * Math.sin(angle);
 
-            // Draw label
+            // 根据角度调整文字对齐方式
+            if (Math.abs(Math.cos(angle)) < 0.1) {
+                this.ctx.textAlign = 'center';
+            } else if (Math.cos(angle) > 0) {
+                this.ctx.textAlign = 'left';
+            } else {
+                this.ctx.textAlign = 'right';
+            }
+
+            if (Math.abs(Math.sin(angle)) < 0.1) {
+                this.ctx.textBaseline = 'middle';
+            } else if (Math.sin(angle) > 0) {
+                this.ctx.textBaseline = 'top';
+            } else {
+                this.ctx.textBaseline = 'bottom';
+            }
+
+            // Draw label with background
             this.ctx.font = labelFont;
+            const labelWidth = this.ctx.measureText(this.labels[i]).width;
+
+            // 绘制标签背景
+            this.ctx.fillStyle = 'rgba(255, 255, 255, 0.95)';
+            this.ctx.fillRect(
+                labelX - labelWidth / 2 - 8,
+                labelY - 10,
+                labelWidth + 16,
+                24
+            );
+
+            // 绘制标签文字
+            this.ctx.fillStyle = labelColor;
+            this.ctx.textAlign = 'center';
+            this.ctx.textBaseline = 'middle';
             this.ctx.fillText(this.labels[i], labelX, labelY);
 
-            // Draw value
+            // Draw value below label with color based on score
             if (this.data[i] !== undefined) {
+                const score = this.data[i];
+                let scoreColor;
+                if (score >= 7) scoreColor = '#34C759';  // Green
+                else if (score >= 5) scoreColor = '#FF9500';  // Orange
+                else scoreColor = '#FF3B30';  // Red
+
                 this.ctx.font = valueFont;
+                this.ctx.fillStyle = scoreColor;
                 this.ctx.fillText(
-                    this.data[i].toFixed(1),
+                    score.toFixed(1) + ' 分',
                     labelX,
-                    labelY + 18
+                    labelY + 20
                 );
             }
         }

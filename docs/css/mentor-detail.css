@@ -107,39 +107,69 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 350px;
+    min-height: 500px;
     margin-bottom: var(--spacing-md);
+    padding: var(--spacing-lg);
 }
 
 #radarChart {
     max-width: 100%;
-    max-height: 350px;
+    max-height: 100%;
+    width: 600px;
+    height: 500px;
 }
 
 .dimension-legend {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: var(--spacing-sm);
 }
 
 .legend-item {
+    padding: var(--spacing-md);
+    background: var(--color-background-secondary);
+    border-radius: var(--radius-md);
+    border-left: 4px solid var(--color-primary);
+    transition: all var(--transition-fast);
+    cursor: help;
+}
+
+.legend-item:hover {
+    box-shadow: var(--shadow-sm);
+    transform: translateX(2px);
+}
+
+.legend-item-content {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+}
+
+.legend-item-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: var(--spacing-xs) var(--spacing-sm);
-    background: var(--color-background-secondary);
-    border-radius: var(--radius-sm);
 }
 
 .legend-label {
-    font-size: 0.875rem;
-    color: var(--color-text-secondary);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-text-primary);
 }
 
 .legend-score {
-    font-weight: 600;
-    font-size: 0.9375rem;
+    font-weight: 700;
+    font-size: 1.125rem;
     color: var(--color-text-primary);
+}
+
+.legend-reason {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+    padding-left: var(--spacing-xs);
+    border-left: 2px solid var(--color-border);
+    margin-left: var(--spacing-xs);
 }
 
 /* Stats Card */

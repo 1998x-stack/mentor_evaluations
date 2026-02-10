@@ -1,8 +1,8 @@
 {
   "id": "e5de7f71-d0b8-438e-a343-37114c954410",
-  "name": NaN,
-  "school": NaN,
-  "department": NaN,
+  "name": "未知导师",
+  "school": "未知学校",
+  "department": "未知院系",
   "evaluationCount": 1,
   "totalScore": 6.55,
   "dimensionScores": {

@@ -1,7 +1,7 @@
 {
   "id": "2c28b9d6-e3be-43f3-8fdb-b602f44066c7",
   "name": "牛文生",
-  "school": NaN,
+  "school": "未知",
   "department": "计算机学院",
   "evaluationCount": 1,
   "totalScore": 5.0,
