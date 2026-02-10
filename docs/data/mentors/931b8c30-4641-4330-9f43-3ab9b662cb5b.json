@@ -1,0 +1,19 @@
+{
+  "id": "931b8c30-4641-4330-9f43-3ab9b662cb5b",
+  "name": "张志刚",
+  "school": "北京大学",
+  "department": "信息科学技术学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "师生关系": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：该老师脾气很差，非常暴躁，绝不能容忍任何学生反驳他，很直男癌。",
+      "dimensions": {
+        "师生关系": "该老师脾气很差，非常暴躁，绝不能容忍任何学生反驳他，很直男癌。"
+      }
+    }
+  ]
+}

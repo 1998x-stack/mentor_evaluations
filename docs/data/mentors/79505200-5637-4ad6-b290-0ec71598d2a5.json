@@ -1,0 +1,19 @@
+{
+  "id": "79505200-5637-4ad6-b290-0ec71598d2a5",
+  "name": "李稻葵",
+  "school": "清华大学",
+  "department": "经济管理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "经管学院教授，博士生导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "虽然李老师工作很忙，但对学生的学业、生活、工作都十分关心，能有幸跟随老师学习，你就从了吧。",
+      "dimensions": {}
+    }
+  ]
+}

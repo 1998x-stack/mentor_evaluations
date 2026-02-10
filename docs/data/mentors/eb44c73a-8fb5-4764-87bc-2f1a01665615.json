@@ -1,0 +1,19 @@
+{
+  "id": "eb44c73a-8fb5-4764-87bc-2f1a01665615",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "师生关系": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：浙江人，教授本科数学分析和拓扑学，办公室于厦门大学海韵校区。 与学生关系：此人师德较差，多次索要学生大额贿赂，索要未果即以个人权力给学生施压。",
+      "dimensions": {
+        "师生关系": "此人师德较差，多次索要学生大额贿赂，索要未果即以个人权力给学生施压。"
+      }
+    }
+  ]
+}

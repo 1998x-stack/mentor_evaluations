@@ -1,0 +1,15 @@
+{
+  "id": "7562cf03-dd6c-4895-a6dc-26acdf885109",
+  "name": "郑戈",
+  "school": "上海交通大学",
+  "department": "安泰经济与管理学院，中欧国际工商学院，凯原法学院，外国语学院，人文学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室在法学院四楼",
+      "dimensions": {}
+    }
+  ]
+}

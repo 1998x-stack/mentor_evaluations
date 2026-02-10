@@ -1,0 +1,15 @@
+{
+  "id": "a7f67d07-8b19-47d7-82de-aed5c20b9ceb",
+  "name": "陈泽宗",
+  "school": "武汉大学",
+  "department": "电子信息学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听说拿奖学金要上交实验室",
+      "dimensions": {}
+    }
+  ]
+}

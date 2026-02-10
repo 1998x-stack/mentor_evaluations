@@ -1,0 +1,15 @@
+{
+  "id": "ef6366ff-23a8-4617-94b6-a7644e04cc02",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研热情不高，出差频率较高",
+      "dimensions": {}
+    }
+  ]
+}

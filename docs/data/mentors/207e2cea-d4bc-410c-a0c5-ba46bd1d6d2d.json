@@ -1,0 +1,19 @@
+{
+  "id": "207e2cea-d4bc-410c-a0c5-ba46bd1d6d2d",
+  "name": "何军华",
+  "school": "电子科技大学",
+  "department": "数学科学学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：老师人很好，讲课非常好",
+      "dimensions": {
+        "毕业去向": "老师人很好，讲课非常好"
+      }
+    }
+  ]
+}

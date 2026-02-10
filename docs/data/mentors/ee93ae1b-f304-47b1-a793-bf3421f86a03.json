@@ -1,0 +1,15 @@
+{
+  "id": "ee93ae1b-f304-47b1-a793-bf3421f86a03",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "唐老师现在的研究方向是计算机视觉，在做的是基础研究。\n人超级nice，没有管的很严，事情都是可以商量着来的。而且唐老师很年轻，所以实力还是有的，交流起来也更好一点。",
+      "dimensions": {}
+    }
+  ]
+}

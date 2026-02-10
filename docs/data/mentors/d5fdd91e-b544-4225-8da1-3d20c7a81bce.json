@@ -1,0 +1,19 @@
+{
+  "id": "d5fdd91e-b544-4225-8da1-3d20c7a81bce",
+  "name": "龚克",
+  "school": "南开大学",
+  "department": "电子信息与光学工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这个是南开校长，不是什么导师吧！建议删除。",
+      "dimensions": {}
+    },
+    {
+      "comment": "有些虚伪，能力不行，南开越来越水",
+      "dimensions": {}
+    }
+  ]
+}

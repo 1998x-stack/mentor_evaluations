@@ -1,0 +1,15 @@
+{
+  "id": "1c7e6f78-ad2d-48b6-9b2d-85186f40f0fc",
+  "name": "宋健",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "那是极好的老师",
+      "dimensions": {}
+    }
+  ]
+}

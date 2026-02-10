@@ -1,0 +1,15 @@
+{
+  "id": "4dfd4137-c0a7-4c5c-8660-93a598f1e830",
+  "name": "余宏杰",
+  "school": "复旦大学",
+  "department": "经济学院，管理学院，法学院，基础医学院，公共卫生学院，护理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：复旦公共卫生学院硕士，博士生导师",
+      "dimensions": {}
+    }
+  ]
+}

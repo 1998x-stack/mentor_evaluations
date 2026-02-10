@@ -1,0 +1,15 @@
+{
+  "id": "8029020d-340b-413b-91aa-278f140accf4",
+  "name": "刘宝利",
+  "school": NaN,
+  "department": "物理研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "他的学生每天都在挨骂，骂的哆哆嗦嗦，相当可怜。毕业季也不会给任何时间找工作，生死由命了，相当过分了。",
+      "dimensions": {}
+    }
+  ]
+}

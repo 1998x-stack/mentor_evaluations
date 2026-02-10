@@ -1,0 +1,15 @@
+{
+  "id": "5cbc7cfe-0f9e-4430-974f-ee87df3af1b9",
+  "name": "张旭",
+  "school": "东华大学",
+  "department": "纺织学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人不错 踏实肯干 是个好老师",
+      "dimensions": {}
+    }
+  ]
+}

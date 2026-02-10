@@ -1,0 +1,15 @@
+{
+  "id": "d870f26b-c1f2-4a6d-814b-0e8f52feca24",
+  "name": "陈平",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陈平 http://web.xidian.edu.cn/chenping/",
+      "dimensions": {}
+    }
+  ]
+}

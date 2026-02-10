@@ -1,0 +1,15 @@
+{
+  "id": "432c051d-4acb-4a7e-ac06-c75058f0bcb3",
+  "name": "李林",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "等待评价",
+      "dimensions": {}
+    }
+  ]
+}

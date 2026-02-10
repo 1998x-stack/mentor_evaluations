@@ -1,0 +1,15 @@
+{
+  "id": "96ca08ec-386d-4065-8fe0-bc3ca8a60432",
+  "name": "王占杰",
+  "school": "大连理工大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不懂计算机网络来讲网络 不懂Java来讲Java 误人子弟的老师",
+      "dimensions": {}
+    }
+  ]
+}

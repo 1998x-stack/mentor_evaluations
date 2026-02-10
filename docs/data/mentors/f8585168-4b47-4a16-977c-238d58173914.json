@@ -1,0 +1,15 @@
+{
+  "id": "f8585168-4b47-4a16-977c-238d58173914",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "比较记仇。本科双非二本。做的科研毫无意义。",
+      "dimensions": {}
+    }
+  ]
+}

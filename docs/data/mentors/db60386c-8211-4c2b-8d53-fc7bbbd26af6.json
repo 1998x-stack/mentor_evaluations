@@ -1,0 +1,15 @@
+{
+  "id": "db60386c-8211-4c2b-8d53-fc7bbbd26af6",
+  "name": "唐建中",
+  "school": "浙江大学",
+  "department": "机械工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "特别好的老师",
+      "dimensions": {}
+    }
+  ]
+}

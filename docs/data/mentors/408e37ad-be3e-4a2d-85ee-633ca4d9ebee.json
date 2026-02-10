@@ -1,0 +1,35 @@
+{
+  "id": "408e37ad-be3e-4a2d-85ee-633ca4d9ebee",
+  "name": "付建勋",
+  "school": "上海大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 6,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "哲学大师，擅长研究方向“人与人之间的差距”。\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "典型的学术老板！会搞项目，善治人，治学一般",
+      "dimensions": {}
+    },
+    {
+      "comment": "脾气差，乱骂人，言而无信，导师能力低",
+      "dimensions": {}
+    },
+    {
+      "comment": "跟着付老师有种退学的冲动",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师学术能力低，公关水平很高，所以也能拿到一些项目。对科研经费管理严谨，学生补休水平一般，补休方面总是言而无信，总之对钱太过计较。与学生关系为师徒关系，徒弟伺候师傅三年后学艺，自学成才后独立门户。因为独立门户，所以毕业后去向不一。",
+      "dimensions": {}
+    },
+    {
+      "comment": "总体来说还是很不错的，可能假期比较少。",
+      "dimensions": {}
+    }
+  ]
+}

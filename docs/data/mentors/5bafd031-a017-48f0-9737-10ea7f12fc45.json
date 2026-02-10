@@ -1,0 +1,15 @@
+{
+  "id": "5bafd031-a017-48f0-9737-10ea7f12fc45",
+  "name": "顾宏",
+  "school": "大连理工大学",
+  "department": "控制科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "情商颜值均在线的神话。",
+      "dimensions": {}
+    }
+  ]
+}

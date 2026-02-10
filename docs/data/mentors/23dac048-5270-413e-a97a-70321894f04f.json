@@ -1,0 +1,15 @@
+{
+  "id": "23dac048-5270-413e-a97a-70321894f04f",
+  "name": "张伟利老师",
+  "school": "电子科技大学",
+  "department": "通信与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "选修课给分高，自动化方向，硬件多。对学生很热情，愿意花时间在和学生交流上。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "335530c7-a678-43af-a305-f288250c5671",
+  "name": "刘刚",
+  "school": "清华大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "会要求潜规则女学生，经常骂学生。",
+      "dimensions": {}
+    }
+  ]
+}

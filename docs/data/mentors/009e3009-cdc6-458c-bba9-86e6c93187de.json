@@ -1,0 +1,15 @@
+{
+  "id": "009e3009-cdc6-458c-bba9-86e6c93187de",
+  "name": "宋学官",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "压力比较大，和上班一样，早八晚十",
+      "dimensions": {}
+    }
+  ]
+}

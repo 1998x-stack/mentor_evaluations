@@ -1,0 +1,15 @@
+{
+  "id": "b64c1d9f-3273-4d22-b689-8ff7f2e87b51",
+  "name": "曾平",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "曾平 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

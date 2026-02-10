@@ -1,0 +1,19 @@
+{
+  "id": "364bc110-313c-43d0-82f1-bfbc0ba1bfbc",
+  "name": "丁大伟",
+  "school": "西安交通大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "年轻帅气的丁老师，经费充足，科研能力强，人也很nice，对学生很好，平时还会邀请学生一起打羽毛球。",
+      "dimensions": {}
+    },
+    {
+      "comment": "年轻有活力的老师，能发文章懂生活，与学生和睦相处，人品好。真想给5分，怕太高调",
+      "dimensions": {}
+    }
+  ]
+}

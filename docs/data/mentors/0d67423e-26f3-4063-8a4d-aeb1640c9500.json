@@ -1,0 +1,15 @@
+{
+  "id": "0d67423e-26f3-4063-8a4d-aeb1640c9500",
+  "name": "赵秀栩",
+  "school": "武汉理工大学",
+  "department": "机电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很和蔼，对学生很好。会耐心指导学生。",
+      "dimensions": {}
+    }
+  ]
+}

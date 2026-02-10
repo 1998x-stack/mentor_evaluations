@@ -1,0 +1,15 @@
+{
+  "id": "c8c99983-b562-40f9-a593-a8e3dc289df6",
+  "name": "门朝光",
+  "school": "哈尔滨工程大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "抠门，一毛钱没有，项目特",
+      "dimensions": {}
+    }
+  ]
+}

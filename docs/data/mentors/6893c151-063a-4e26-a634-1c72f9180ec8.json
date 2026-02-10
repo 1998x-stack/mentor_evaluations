@@ -1,0 +1,19 @@
+{
+  "id": "6893c151-063a-4e26-a634-1c72f9180ec8",
+  "name": "张承进",
+  "school": "山东大学",
+  "department": "信息科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：优秀的老师，善于发现优秀的学生。",
+      "dimensions": {
+        "师生关系": "优秀的老师，善于发现优秀的学生。"
+      }
+    }
+  ]
+}

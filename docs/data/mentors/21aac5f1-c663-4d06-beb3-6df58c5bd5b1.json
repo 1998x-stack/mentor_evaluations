@@ -1,0 +1,15 @@
+{
+  "id": "21aac5f1-c663-4d06-beb3-6df58c5bd5b1",
+  "name": "陈德强",
+  "school": "重庆大学",
+  "department": "建设管理与房地产学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "谨慎选择。",
+      "dimensions": {}
+    }
+  ]
+}

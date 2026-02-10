@@ -1,0 +1,19 @@
+{
+  "id": "c5c9f6bf-ba35-41e5-ab30-699cddfa22f7",
+  "name": "徐端全",
+  "school": "华中科技大学",
+  "department": "电子与信息工程系",
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "导师能力": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：本科嵌入式老师 导师能力：上课很认真 也很有水平 对学生很负责 每节课必点人回答问题",
+      "dimensions": {
+        "导师能力": "上课很认真 也很有水平 对学生很负责 每节课必点人回答问题"
+      }
+    }
+  ]
+}

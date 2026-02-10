@@ -1,0 +1,15 @@
+{
+  "id": "3d1b2bd5-e1ba-4b09-8342-1d80de41c222",
+  "name": "胡勇",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "钦定的接班人",
+      "dimensions": {}
+    }
+  ]
+}

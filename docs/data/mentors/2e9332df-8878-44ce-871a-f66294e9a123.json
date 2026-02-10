@@ -1,0 +1,15 @@
+{
+  "id": "2e9332df-8878-44ce-871a-f66294e9a123",
+  "name": "王健林",
+  "school": "北京化工大学",
+  "department": "信息科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王健林教授要求非常严格。如果你想学有所成，一定要跟这么一位要求严格的老师",
+      "dimensions": {}
+    }
+  ]
+}

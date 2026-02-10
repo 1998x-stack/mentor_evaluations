@@ -1,0 +1,23 @@
+{
+  "id": "9d1beb7d-d6e4-4562-bac3-0c3ea6567c32",
+  "name": "戴志涛",
+  "school": "北京邮电大学",
+  "department": "计算机学院",
+  "evaluationCount": 2,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "导师能力": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "戴局长项目很多的，人很nice的，学不学东西要看你自己的",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：戴局长，好评如潮，不错，可以跟老师多交流交流",
+      "dimensions": {
+        "导师能力": "戴局长，好评如潮，不错，可以跟老师多交流交流"
+      }
+    }
+  ]
+}

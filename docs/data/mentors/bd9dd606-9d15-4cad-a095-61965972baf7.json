@@ -1,0 +1,15 @@
+{
+  "id": "bd9dd606-9d15-4cad-a095-61965972baf7",
+  "name": "汤一",
+  "school": "浙江大学",
+  "department": "农业与生物技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很不负责，胡乱给个乱七八糟的课题就什么也不管了",
+      "dimensions": {}
+    }
+  ]
+}

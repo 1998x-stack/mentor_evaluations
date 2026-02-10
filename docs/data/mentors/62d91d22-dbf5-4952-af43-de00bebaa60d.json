@@ -1,0 +1,19 @@
+{
+  "id": "62d91d22-dbf5-4952-af43-de00bebaa60d",
+  "name": "胡建设",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好老师  高分子大牛 人品好 学术严谨",
+      "dimensions": {}
+    },
+    {
+      "comment": "有机高分子扛把子 是个好老师",
+      "dimensions": {}
+    }
+  ]
+}

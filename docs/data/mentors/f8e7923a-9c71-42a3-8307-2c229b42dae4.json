@@ -1,0 +1,15 @@
+{
+  "id": "f8e7923a-9c71-42a3-8307-2c229b42dae4",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "谢生，男，1978年生人，博士，副教授 http://www.tju.edu.cn/seie/szdw/fjs/201106/t20110601_105414.html",
+      "dimensions": {}
+    }
+  ]
+}

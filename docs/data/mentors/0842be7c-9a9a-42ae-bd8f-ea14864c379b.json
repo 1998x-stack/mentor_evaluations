@@ -1,0 +1,15 @@
+{
+  "id": "0842be7c-9a9a-42ae-bd8f-ea14864c379b",
+  "name": "张平",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张平，女，1968年生人，博士，副教授 http://www.tju.edu.cn/seie/szdw/fjs/201106/t20110601_105417.html",
+      "dimensions": {}
+    }
+  ]
+}

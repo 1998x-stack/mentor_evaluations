@@ -1,0 +1,15 @@
+{
+  "id": "16734e32-11b0-4fe4-a9fe-78afacd1121e",
+  "name": "向馗",
+  "school": "武汉理工大学",
+  "department": "自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不建议选择",
+      "dimensions": {}
+    }
+  ]
+}

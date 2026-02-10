@@ -1,0 +1,19 @@
+{
+  "id": "6ac88f98-700b-4e7b-ac7f-b76a8e9bcf9d",
+  "name": "李药兰",
+  "school": "暨南大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "导师能力": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：无真才实学，仗着自己是校长老婆为所欲为。",
+      "dimensions": {
+        "导师能力": "无真才实学，仗着自己是校长老婆为所欲为。"
+      }
+    }
+  ]
+}

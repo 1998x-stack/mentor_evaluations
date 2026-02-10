@@ -1,0 +1,36 @@
+{
+  "id": "e2cdc906-6d19-4d5d-8282-8fe348afa2fb",
+  "name": "杨梦宁",
+  "school": "重庆大学",
+  "department": "软件学院",
+  "evaluationCount": 2,
+  "totalScore": 4.65,
+  "dimensionScores": {
+    "导师能力": 4.12,
+    "经费情况": 5.0,
+    "师生关系": 4.12,
+    "毕业去向": 5.0,
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：靠关系进的学院，而且据说关系特别硬。学院年轻教师里面最水没有之一，以下是EI检索出的含他名字的所有文章，即是他博士至今发表过的所有文章，全都是挂名既不是一作也不是通讯作者。唯一一篇重庆大学学报的一作文章还是中文发表，并且重大学报曾经因为被重大老师灌水导致影响因子过低被踢出EI index。希望大家擦亮眼睛不要报，让这种水货老师混不下去。 1. Duplication Detection for Software Bug Reports based on Topic Model Zou, Jie (Key Laboratory of Dependable Service Computing in Cyber, Physical Society Ministry of Education, Chongqing; 400044, China); Xu, Ling; Yang, Mengning; Yan, Meng; Yang, Dan; Zhang, Xiaohong Source: Proceedings of International Conference on Service Science, ICSS, v 0, p 60-65, October 2, 2017, Proceedings - 2016 9th International Conference on Service Science, ICSS 2016 2. Towards comprehending the non-functional requirements through Developers’ eyes: An exploration of Stack Overflow using topic analysis Zou, Jie (Key Laboratory of Dependable Service Computing in Cyber Physical Society (Chongqing University), Ministry of Education, Chongqing; 400044, China); Xu, Ling; Yang, Mengning; Zhang, Xiaohong; Yang, Dan Source: Information and Software Technology, v 84, p 19-32, April 1, 2017 3. Automated change-prone class prediction on unlabeled dataset using unsupervised method Yan, Meng (Key Laboratory of Dependable Service Computing in Cyber Physical Society Ministry of Education, Chongqing; 400044, China); Zhang, Xiaohong; Liu, Chao; Xu, Ling; Yang, Mengning; Yang, Dan Source: Information and Software Technology, v 92, p 1-16, December 2017 4. Self-learning change-prone class prediction Yan, Meng (School of Software Engineering, Chongqing University, Chongqing; 401331, China); Yang, Mengning; Liu, Chao; Zhang, Xiaohong Source: Proceedings of the International Conference on Software Engineering and Knowledge Engineering, SEKE, v 2016-January, p 134-140, 2016, Proceedings - SEKE 2016: 28th International Conference on Software Engineering and Knowledge Engineering 5. Predicting component failures using latent Dirichlet allocation Liu, Hailin (Key Laboratory of Dependable Service Computing in Cyber Physical Society, Ministry of Education, Chongqing; 400044, China); Xu, Ling; Yang, Mengning; Yan, Meng; Zhang, Xiaohong Source: Mathematical Problems in Engineering, v 2015, 2015 6. Automated duplicate bug report detection using multi-factor analysis Zou, Jie (School of Software Engineering, Chongqing University, Chongqing; 401331, China); Xu, Ling; Yang, Mengning; Zhang, Xiaohong; Zeng, Jun; Hirokawa, Sachio Source: IEICE Transactions on Information and Systems, v E99D, n 7, p 1762-1775, July 2016 7. An improved HEED clustering algorithm for Wireless Sensor Network Yang, Mengning (College of Software, Chongqing University, Chongqing 400044, China); Yang, Dan; Huang, Chao Source: Chongqing Daxue Xuebao/Journal of Chongqing University, v 35, n 8, p 101-106, August 2012 Language: Chinese 8. Local covariant region detection based on image contour corner Xu, Ling (School of Software Engineering, Chongqing University, Chongqing, China); Yang, Mengning; Wang, Hongxing; Lin, Xiaoze Source: Proceedings of the 2012 4th International Symposium on Information Science and Engineering, ISISE 2012, p 232-235, 2012, Proceedings of the 2012 4th International Symposium on Information Science and Engineering, ISISE 2012 导师能力：负无穷，关系户 经费发放：没有经费，开公司的 与学生关系：基本不管学生 学生毕业去向：没有前途",
+      "dimensions": {
+        "导师能力": "负无穷，",
+        "经费情况": "没有",
+        "师生关系": "基本不管学生 学生毕业",
+        "毕业去向": "没有前途"
+      }
+    },
+    {
+      "comment": "利益相关：靠关系祖荫进的学院，水到爆炸。上课靠吹牛，科研靠挂名，一作文章基本没有。 导师能力：可以说是非常垃圾了 经费发放：可以说是非常垃圾了 学生补助：可以说是非常垃圾了 与学生关系：可以说是非常垃圾了 学生毕业去向：没有任何前途",
+      "dimensions": {
+        "导师能力": "可以说是非常垃圾了",
+        "经费情况": "可以说是非常垃圾了 学生",
+        "学生补助": "可以说是非常垃圾了 与学生",
+        "师生关系": "可以说是非常垃圾了 学生毕业",
+        "毕业去向": "没有任何前途"
+      }
+    }
+  ]
+}

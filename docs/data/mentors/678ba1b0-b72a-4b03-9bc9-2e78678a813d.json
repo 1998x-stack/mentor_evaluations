@@ -1,0 +1,15 @@
+{
+  "id": "678ba1b0-b72a-4b03-9bc9-2e78678a813d",
+  "name": "方亮",
+  "school": "西安交通大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很有想法的老师，做的课题比较新颖",
+      "dimensions": {}
+    }
+  ]
+}

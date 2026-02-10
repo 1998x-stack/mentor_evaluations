@@ -1,0 +1,21 @@
+{
+  "id": "61da356c-e5c0-4c7b-bce9-dba09cfc4ed6",
+  "name": "陈少松",
+  "school": "南京理工大学",
+  "department": "能源与动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：五号门 学生补助：800 学生毕业去向：靠自己。",
+      "dimensions": {
+        "学生补助": "800 学生毕业",
+        "毕业去向": "靠自己。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1965fcf4-2b5e-45b6-9991-84d6e84a2661",
+  "name": "杨巍",
+  "school": "浙江大学",
+  "department": "医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师能力一般般，对学生比较扣",
+      "dimensions": {}
+    }
+  ]
+}

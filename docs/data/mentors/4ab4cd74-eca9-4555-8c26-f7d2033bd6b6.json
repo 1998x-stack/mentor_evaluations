@@ -1,0 +1,23 @@
+{
+  "id": "4ab4cd74-eca9-4555-8c26-f7d2033bd6b6",
+  "name": "王兵",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "和蔼可亲",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常热心的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "呵呵，挺好的老师，热心的书记",
+      "dimensions": {}
+    }
+  ]
+}

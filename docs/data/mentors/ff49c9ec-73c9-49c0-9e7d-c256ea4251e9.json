@@ -1,0 +1,15 @@
+{
+  "id": "ff49c9ec-73c9-49c0-9e7d-c256ea4251e9",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "田老师对本科生很好，对研究生也还好，科研成果很多。",
+      "dimensions": {}
+    }
+  ]
+}

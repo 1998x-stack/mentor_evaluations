@@ -1,0 +1,15 @@
+{
+  "id": "456f8942-a56f-4d49-9e3d-c0bc80e13190",
+  "name": "郑平",
+  "school": "浙江大学",
+  "department": "环境与资源学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "郑老师学术渊博，是环境工程国家重点学科的带头人。对学生科研和工作投入大量时间和精力，是难得的好老师！",
+      "dimensions": {}
+    }
+  ]
+}

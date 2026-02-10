@@ -1,0 +1,15 @@
+{
+  "id": "051db32d-1f25-436d-a2d7-eacc66986b79",
+  "name": "陆平",
+  "school": "浙江大学",
+  "department": "医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "该导师，暂时离职在哈佛做博后。",
+      "dimensions": {}
+    }
+  ]
+}

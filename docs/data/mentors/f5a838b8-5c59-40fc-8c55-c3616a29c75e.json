@@ -1,0 +1,19 @@
+{
+  "id": "f5a838b8-5c59-40fc-8c55-c3616a29c75e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "此导师实验室中骂学生，同实验楼层表示能被震撼到",
+      "dimensions": {}
+    },
+    {
+      "comment": "挺好的，老师很关心学生，而且不喜欢给学生特别大的压力。不过就是课题需要自己想，要求自主能力较好。",
+      "dimensions": {}
+    }
+  ]
+}

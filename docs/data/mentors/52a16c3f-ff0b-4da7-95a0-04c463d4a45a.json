@@ -1,0 +1,15 @@
+{
+  "id": "52a16c3f-ff0b-4da7-95a0-04c463d4a45a",
+  "name": "张慧鹏",
+  "school": "华北电力大学",
+  "department": "数理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "讲课思路清晰，性格平易近人",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8ef9a741-f1e1-474e-8744-3370464264c9",
+  "name": "张霞",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，经费也充足，压力不是太大，能给你充分完成想法的空间。",
+      "dimensions": {}
+    }
+  ]
+}

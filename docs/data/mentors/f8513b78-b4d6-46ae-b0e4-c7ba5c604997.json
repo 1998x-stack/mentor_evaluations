@@ -1,0 +1,19 @@
+{
+  "id": "f8513b78-b4d6-46ae-b0e4-c7ba5c604997",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：徐老师人很好，为学生着想，难得的好老师",
+      "dimensions": {
+        "师生关系": "徐老师人很好，为学生着想，难得的好老师"
+      }
+    }
+  ]
+}

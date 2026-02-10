@@ -1,0 +1,15 @@
+{
+  "id": "2027c933-b7a0-4d93-8bd4-c79e10d97ae1",
+  "name": "刘波澜",
+  "school": "北京理工大学",
+  "department": "机械与车辆学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师对待学生挺客气的，挺好的。",
+      "dimensions": {}
+    }
+  ]
+}

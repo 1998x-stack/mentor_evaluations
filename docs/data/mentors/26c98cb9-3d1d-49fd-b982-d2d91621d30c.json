@@ -1,0 +1,19 @@
+{
+  "id": "26c98cb9-3d1d-49fd-b982-d2d91621d30c",
+  "name": "顾玉超",
+  "school": "中国海洋大学",
+  "department": "医药学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：课讲得不怎么能听懂，但人不错",
+      "dimensions": {
+        "导师能力": "课讲得不怎么能听懂，但人不错"
+      }
+    }
+  ]
+}

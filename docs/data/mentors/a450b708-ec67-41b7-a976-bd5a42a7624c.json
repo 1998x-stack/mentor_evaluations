@@ -1,0 +1,15 @@
+{
+  "id": "a450b708-ec67-41b7-a976-bd5a42a7624c",
+  "name": "赵有健",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "有点古代胖游侠的感觉，自己不太带学生了",
+      "dimensions": {}
+    }
+  ]
+}

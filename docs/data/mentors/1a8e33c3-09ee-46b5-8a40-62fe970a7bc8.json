@@ -1,0 +1,19 @@
+{
+  "id": "1a8e33c3-09ee-46b5-8a40-62fe970a7bc8",
+  "name": "曾大治",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "已经不是北理工老师了，为了赚钱，去年已辞职当信息学院某群老师自己创办的公司的副总经理了",
+      "dimensions": {}
+    },
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

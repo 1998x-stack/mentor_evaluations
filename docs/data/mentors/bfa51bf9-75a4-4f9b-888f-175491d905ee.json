@@ -1,0 +1,19 @@
+{
+  "id": "bfa51bf9-75a4-4f9b-888f-175491d905ee",
+  "name": "刘志宏",
+  "school": "西安电子科大",
+  "department": "网络与信息安全学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师可以允许实习，平常基本啥也不管",
+      "dimensions": {}
+    },
+    {
+      "comment": "学生特喜欢老师，老师特照顾学生",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1275334c-cbb3-4b92-b3ab-162e1bc518c5",
+  "name": "宋康",
+  "school": "天津大学",
+  "department": "机械工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "各种鸡汤各种灌，个人能力强但不适合带学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "宋老师精通控制理论，有留学精力，在内燃机电控方面成果丰硕，为人和蔼，是一名优秀的导师～",
+      "dimensions": {}
+    }
+  ]
+}

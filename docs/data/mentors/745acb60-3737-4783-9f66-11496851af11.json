@@ -1,0 +1,19 @@
+{
+  "id": "745acb60-3737-4783-9f66-11496851af11",
+  "name": "周共健",
+  "school": "哈尔滨工业大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生专横霸道，极不信任，无所不用其极压榨学生。",
+      "dimensions": {}
+    },
+    {
+      "comment": "一星都高了，零分，不顾学生死活。",
+      "dimensions": {}
+    }
+  ]
+}

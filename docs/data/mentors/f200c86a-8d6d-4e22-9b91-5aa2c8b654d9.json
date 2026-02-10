@@ -1,0 +1,19 @@
+{
+  "id": "f200c86a-8d6d-4e22-9b91-5aa2c8b654d9",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "本来是不错的老师，可惜被一帮贪心的导师给带坏了",
+      "dimensions": {}
+    },
+    {
+      "comment": "李老师有勇气，有魄力，有胆量，有...... 总之，跟人不一样",
+      "dimensions": {}
+    }
+  ]
+}

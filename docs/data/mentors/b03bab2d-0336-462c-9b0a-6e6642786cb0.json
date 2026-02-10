@@ -1,0 +1,15 @@
+{
+  "id": "b03bab2d-0336-462c-9b0a-6e6642786cb0",
+  "name": "王超",
+  "school": "东南大学",
+  "department": "电子科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王老师乃正人君子，人品极佳，相貌帅气。做王老师的学生那是极好的。",
+      "dimensions": {}
+    }
+  ]
+}

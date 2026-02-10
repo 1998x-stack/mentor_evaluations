@@ -1,0 +1,21 @@
+{
+  "id": "8fbdbf60-da93-44a0-971a-77bc878b743a",
+  "name": "游庆龙",
+  "school": "长安大学",
+  "department": "公路学院",
+  "evaluationCount": 1,
+  "totalScore": 4.12,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：湖南口音，说话有点狂 学生补助：听说很少 工作时间：忙，天天待着听宣",
+      "dimensions": {
+        "学生补助": "听说很少 工作",
+        "工作时间": "忙，天天待着听宣"
+      }
+    }
+  ]
+}

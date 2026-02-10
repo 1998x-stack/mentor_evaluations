@@ -1,0 +1,15 @@
+{
+  "id": "2f6f0413-e790-4d2a-afdf-ac2df8530c07",
+  "name": "Jake Zhao",
+  "school": "北京大学",
+  "department": "深圳研究生院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：you guys",
+      "dimensions": {}
+    }
+  ]
+}

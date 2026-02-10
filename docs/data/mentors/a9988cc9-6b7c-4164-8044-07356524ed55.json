@@ -1,0 +1,15 @@
+{
+  "id": "a9988cc9-6b7c-4164-8044-07356524ed55",
+  "name": "王辉",
+  "school": "武汉理工大学",
+  "department": "汽车工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "嘴炮型导师，脑子里只有利益交换",
+      "dimensions": {}
+    }
+  ]
+}

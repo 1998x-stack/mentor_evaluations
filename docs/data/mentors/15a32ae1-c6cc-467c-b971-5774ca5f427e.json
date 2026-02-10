@@ -1,0 +1,19 @@
+{
+  "id": "15a32ae1-c6cc-467c-b971-5774ca5f427e",
+  "name": "崔继文",
+  "school": "哈尔滨工业大学",
+  "department": "电气工程及自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人很好，但是管理很一般，组内比较乱。课题主要靠学生，能不能完成，主要靠运气，平时有用的指导较少。",
+      "dimensions": {}
+    },
+    {
+      "comment": "为人正直、热心，愿意帮助学生。注重管理和学术建设，能听取学生的意见，反思管理和学术上的不足。",
+      "dimensions": {}
+    }
+  ]
+}

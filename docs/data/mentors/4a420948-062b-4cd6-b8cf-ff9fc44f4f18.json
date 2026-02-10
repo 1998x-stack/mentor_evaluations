@@ -1,0 +1,19 @@
+{
+  "id": "4a420948-062b-4cd6-b8cf-ff9fc44f4f18",
+  "name": "葛永新",
+  "school": "重庆大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：实验室小boss，严肃 导师能力：导师能力在软院还算可以，偶有不错的论文发表，严肃中有点装逼",
+      "dimensions": {
+        "导师能力": ""
+      }
+    }
+  ]
+}

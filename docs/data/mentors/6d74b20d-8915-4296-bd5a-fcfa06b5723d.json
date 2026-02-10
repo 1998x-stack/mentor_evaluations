@@ -1,0 +1,23 @@
+{
+  "id": "6d74b20d-8915-4296-bd5a-fcfa06b5723d",
+  "name": "姚立纲",
+  "school": "福州大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "实力很强的博导，高水平老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "恩师，和蔼可亲，就是平时太忙了，其他都很完美",
+      "dimensions": {}
+    },
+    {
+      "comment": "姚老师是一位非常成功敬业的老师，很有大局观，很有眼光，很有胸怀。",
+      "dimensions": {}
+    }
+  ]
+}

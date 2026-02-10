@@ -1,0 +1,19 @@
+{
+  "id": "67cd5c0e-523d-4808-b9a7-e7e65bd40506",
+  "name": "王江云",
+  "school": NaN,
+  "department": "生物物理研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：生物物理所六号楼6415 学生补助：有补助",
+      "dimensions": {
+        "学生补助": "有"
+      }
+    }
+  ]
+}

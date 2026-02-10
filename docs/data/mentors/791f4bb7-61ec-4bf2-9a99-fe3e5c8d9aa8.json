@@ -1,0 +1,15 @@
+{
+  "id": "791f4bb7-61ec-4bf2-9a99-fe3e5c8d9aa8",
+  "name": "许志华",
+  "school": "中国海洋大学",
+  "department": "经济学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研能力强，对学生也特别好",
+      "dimensions": {}
+    }
+  ]
+}

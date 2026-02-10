@@ -1,0 +1,15 @@
+{
+  "id": "b23b5de4-043b-4350-bdce-cdcd7f274168",
+  "name": "宋飞",
+  "school": "四川大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研能力强，专业知识扎实且丰富。",
+      "dimensions": {}
+    }
+  ]
+}

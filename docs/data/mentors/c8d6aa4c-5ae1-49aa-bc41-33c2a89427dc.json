@@ -1,0 +1,19 @@
+{
+  "id": "c8d6aa4c-5ae1-49aa-bc41-33c2a89427dc",
+  "name": "许小亮",
+  "school": "中国科学技术大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "经费发放：经费比较贫瘠，我路过他们实验室差点以为是杂物间。仪器都老掉牙了。",
+      "dimensions": {
+        "经费情况": ""
+      }
+    }
+  ]
+}

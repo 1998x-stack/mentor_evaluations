@@ -1,0 +1,15 @@
+{
+  "id": "89cb69a5-e20b-452d-9017-1b674d57ebd6",
+  "name": "李斌桥",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李斌桥，男， 博士，教授 http://www.tju.edu.cn/seie/szdw/js/201109/t20110906_113466.html",
+      "dimensions": {}
+    }
+  ]
+}

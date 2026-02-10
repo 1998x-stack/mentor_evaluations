@@ -1,0 +1,15 @@
+{
+  "id": "d47dc336-0dc4-406a-9b7e-a751065c6fba",
+  "name": "王肇颖",
+  "school": "天津大学",
+  "department": "精密仪器与光电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：教授本科生物理光学",
+      "dimensions": {}
+    }
+  ]
+}

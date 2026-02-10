@@ -1,0 +1,15 @@
+{
+  "id": "152fccf7-843b-43d8-a1f8-31d31509cf8d",
+  "name": "王华",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

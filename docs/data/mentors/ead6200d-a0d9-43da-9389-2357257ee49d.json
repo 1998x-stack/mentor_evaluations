@@ -1,0 +1,19 @@
+{
+  "id": "ead6200d-a0d9-43da-9389-2357257ee49d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "为人很好，对学生比较严格，经常督促学生勤于学习。学术方面：曾经发过很多高质量paper，现在担任所长不自己发了，指导学生做。与学生关系：对学生很热心，补助不少，学院中上等水平，做项目还额外发钱。前途方面：鼓励学生research，完成基本工作要求可以外出实习。",
+      "dimensions": {
+        "师生关系": "对学生很热心，"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d9bae0ff-3594-4fe0-b094-3eaf387321d8",
+  "name": "张玲玲",
+  "school": "中国科学院大学",
+  "department": "经济与管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术能力很一般，道德品质一般，智商情商一般，建议不要入坑。",
+      "dimensions": {}
+    }
+  ]
+}

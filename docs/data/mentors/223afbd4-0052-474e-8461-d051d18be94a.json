@@ -1,0 +1,15 @@
+{
+  "id": "223afbd4-0052-474e-8461-d051d18be94a",
+  "name": "熊盛武",
+  "school": "武汉理工大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "思维敏捷，精力充沛。团队年轻老师多，科研水平高",
+      "dimensions": {}
+    }
+  ]
+}

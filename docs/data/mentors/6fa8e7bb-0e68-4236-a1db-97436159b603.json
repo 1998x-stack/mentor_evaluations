@@ -1,0 +1,19 @@
+{
+  "id": "6fa8e7bb-0e68-4236-a1db-97436159b603",
+  "name": "陈萍",
+  "school": "西南大学",
+  "department": "生物技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：呵呵呵，从不为学生着想，谁报谁知道。",
+      "dimensions": {
+        "导师能力": "呵呵呵，从不为学生着想，谁报谁知道。"
+      }
+    }
+  ]
+}

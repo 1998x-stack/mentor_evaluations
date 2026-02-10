@@ -1,0 +1,15 @@
+{
+  "id": "b32287ec-c392-4b24-9dc3-d62c2f11c0e0",
+  "name": "姚春德",
+  "school": "天津大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "做甲醇的专家，但好像已经退休了",
+      "dimensions": {}
+    }
+  ]
+}

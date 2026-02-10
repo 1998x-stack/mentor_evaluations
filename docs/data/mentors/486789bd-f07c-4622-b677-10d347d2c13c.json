@@ -1,0 +1,15 @@
+{
+  "id": "486789bd-f07c-4622-b677-10d347d2c13c",
+  "name": "王秀美",
+  "school": "上海财经大学",
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：电院智能所老师,副教授",
+      "dimensions": {}
+    }
+  ]
+}

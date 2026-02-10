@@ -1,0 +1,19 @@
+{
+  "id": "3416f59c-b462-4497-8b04-ecabad2f3b9a",
+  "name": "蔡杰",
+  "school": "南京师范大学",
+  "department": "化学与材料科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "经费发放：听说很难拿到项目的，所以不是很有钱",
+      "dimensions": {
+        "经费情况": "听说很难拿到项目的，所以不是很有钱"
+      }
+    }
+  ]
+}

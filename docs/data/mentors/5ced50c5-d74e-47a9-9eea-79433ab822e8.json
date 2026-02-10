@@ -1,0 +1,15 @@
+{
+  "id": "5ced50c5-d74e-47a9-9eea-79433ab822e8",
+  "name": "魏勇",
+  "school": "华中师范大学",
+  "department": "美术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "谁选谁倒霉，别的不多说。",
+      "dimensions": {}
+    }
+  ]
+}

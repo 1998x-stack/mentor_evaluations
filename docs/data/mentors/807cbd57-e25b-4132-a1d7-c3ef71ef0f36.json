@@ -1,0 +1,15 @@
+{
+  "id": "807cbd57-e25b-4132-a1d7-c3ef71ef0f36",
+  "name": "王海福",
+  "school": "北京理工大学",
+  "department": "机电学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "北京理工大学机电学院兵器科学与技术专业教授、博导",
+      "dimensions": {}
+    }
+  ]
+}

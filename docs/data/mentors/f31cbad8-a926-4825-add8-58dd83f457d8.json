@@ -1,0 +1,15 @@
+{
+  "id": "f31cbad8-a926-4825-add8-58dd83f457d8",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "吴裕功 男 教授 http://www.tju.edu.cn/seie/szdw/js/201110/t20111004_114379.html",
+      "dimensions": {}
+    }
+  ]
+}

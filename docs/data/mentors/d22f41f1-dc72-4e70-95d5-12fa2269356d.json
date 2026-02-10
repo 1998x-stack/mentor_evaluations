@@ -1,0 +1,15 @@
+{
+  "id": "d22f41f1-dc72-4e70-95d5-12fa2269356d",
+  "name": "张连营",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生不好，跟他读研不好找工作",
+      "dimensions": {}
+    }
+  ]
+}

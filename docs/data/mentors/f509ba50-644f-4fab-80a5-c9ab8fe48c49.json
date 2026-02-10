@@ -1,0 +1,15 @@
+{
+  "id": "f509ba50-644f-4fab-80a5-c9ab8fe48c49",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很nice的一位老师，对学生关心，关注学生的科研进度。",
+      "dimensions": {}
+    }
+  ]
+}

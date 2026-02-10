@@ -1,0 +1,23 @@
+{
+  "id": "76d58dde-b613-41e0-86cf-2e05db33f841",
+  "name": "马春文",
+  "school": "吉林大学",
+  "department": "经济学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "佐证，的确如此，姿势水平很高，但是目前关注的领域不明",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：上过导论和宏观 导师能力：博览群书",
+      "dimensions": {
+        "导师能力": "博览群书"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f804d179-3713-4681-8eaa-ab3a71790b33",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很和蔼的一个老师，一看就知道年轻的时候很帅",
+      "dimensions": {}
+    }
+  ]
+}

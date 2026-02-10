@@ -1,0 +1,15 @@
+{
+  "id": "edf212fe-9b33-4014-a5be-8083316c0fde",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：脸圆圆胖胖的老师",
+      "dimensions": {}
+    }
+  ]
+}

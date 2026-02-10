@@ -1,0 +1,19 @@
+{
+  "id": "3d34cc94-237d-4d19-ac5e-a11f2ccbf95d",
+  "name": "陈家旭",
+  "school": "北京中医药大学",
+  "department": "基础医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：据学生说全是造假，浪费国家经费",
+      "dimensions": {
+        "导师能力": "据学生说全是造假，浪费国家"
+      }
+    }
+  ]
+}

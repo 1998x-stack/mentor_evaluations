@@ -1,0 +1,15 @@
+{
+  "id": "60d7f0a7-2df2-498b-920b-8bec8482c4bf",
+  "name": "肖夏",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "肖夏 性别：女 职称：教授 http://www.tju.edu.cn/seie/szdw/jybcsjrc/201109/t20110908_113632.html",
+      "dimensions": {}
+    }
+  ]
+}

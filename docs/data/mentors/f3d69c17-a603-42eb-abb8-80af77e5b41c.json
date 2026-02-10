@@ -1,0 +1,15 @@
+{
+  "id": "f3d69c17-a603-42eb-abb8-80af77e5b41c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "真是一个“好导师” 讲述很多读书的好处",
+      "dimensions": {}
+    }
+  ]
+}

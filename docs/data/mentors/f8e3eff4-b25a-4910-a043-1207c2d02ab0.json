@@ -1,0 +1,19 @@
+{
+  "id": "f8e3eff4-b25a-4910-a043-1207c2d02ab0",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：王老师有河南口音哦 经费发放：文科都是学校统一拨款",
+      "dimensions": {
+        "经费情况": "文科都是学校统一拨款"
+      }
+    }
+  ]
+}

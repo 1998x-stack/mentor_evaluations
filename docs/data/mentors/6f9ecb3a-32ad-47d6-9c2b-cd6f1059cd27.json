@@ -1,0 +1,23 @@
+{
+  "id": "6f9ecb3a-32ad-47d6-9c2b-cd6f1059cd27",
+  "name": "张学工",
+  "school": "清华大学",
+  "department": "自动化系",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常好 切切实实的在训练学生的思维与科研",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常欣赏张老师，希望有志研究生信的同学前来学习",
+      "dimensions": {}
+    },
+    {
+      "comment": "张老师真的是非常nice的一位老师",
+      "dimensions": {}
+    }
+  ]
+}

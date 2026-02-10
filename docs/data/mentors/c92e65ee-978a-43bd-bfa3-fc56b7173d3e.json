@@ -1,0 +1,27 @@
+{
+  "id": "c92e65ee-978a-43bd-bfa3-fc56b7173d3e",
+  "name": "尚学群",
+  "school": "西北工业大学",
+  "department": "计算机学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：非常棒的老师，导师能力高，对学生也很好。",
+      "dimensions": {
+        "导师能力": "非常棒的老师，"
+      }
+    },
+    {
+      "comment": "教研室整体找工作都不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "超级温柔的老师!很好相处",
+      "dimensions": {}
+    }
+  ]
+}

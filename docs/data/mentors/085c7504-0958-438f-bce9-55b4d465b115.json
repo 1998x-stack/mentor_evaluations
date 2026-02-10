@@ -1,0 +1,19 @@
+{
+  "id": "085c7504-0958-438f-bce9-55b4d465b115",
+  "name": "康凯",
+  "school": "电子科技大学",
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：长得还比较帅 导师能力：今年一篇isscc，足以说明问题，之前还有jssc，都是国内加起来就十几篇的期刊，放心来。。。",
+      "dimensions": {
+        "导师能力": "今年一篇isscc，足以说明问题，之前还有jssc，都是国内加起来就十几篇的期刊，放心来。。。"
+      }
+    }
+  ]
+}

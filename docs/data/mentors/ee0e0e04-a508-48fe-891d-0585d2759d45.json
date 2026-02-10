@@ -1,0 +1,19 @@
+{
+  "id": "ee0e0e04-a508-48fe-891d-0585d2759d45",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很一般的老师，做材料水平一般，对学生态度不好，关系紧张。",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生态度不好，方向也不太好。只是表面看起来还行。",
+      "dimensions": {}
+    }
+  ]
+}

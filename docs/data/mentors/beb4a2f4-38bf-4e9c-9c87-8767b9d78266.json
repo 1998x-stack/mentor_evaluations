@@ -1,0 +1,15 @@
+{
+  "id": "beb4a2f4-38bf-4e9c-9c87-8767b9d78266",
+  "name": "杨玉玲",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "等待评价",
+      "dimensions": {}
+    }
+  ]
+}

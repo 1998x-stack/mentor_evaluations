@@ -1,0 +1,21 @@
+{
+  "id": "c2fffa51-5836-47bd-a25f-e48f991b6559",
+  "name": "余丙军",
+  "school": "西南交通大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "师生关系": 6.75,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：余老师来自安徽省 与学生关系：绝对的好 学生毕业去向：允许实习",
+      "dimensions": {
+        "师生关系": "绝对的好 学生毕业",
+        "毕业去向": "允许实习"
+      }
+    }
+  ]
+}

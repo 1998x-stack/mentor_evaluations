@@ -1,0 +1,19 @@
+{
+  "id": "91971b86-60b2-4bec-96a7-d6283009babb",
+  "name": "马建峰",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "工资高，项目多，很锻炼能力，也很有远见。",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师很忙，经常出差，接触的次数不多，但个人感觉老师人很好。",
+      "dimensions": {}
+    }
+  ]
+}

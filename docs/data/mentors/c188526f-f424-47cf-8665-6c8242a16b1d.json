@@ -1,0 +1,19 @@
+{
+  "id": "c188526f-f424-47cf-8665-6c8242a16b1d",
+  "name": "樊建席",
+  "school": "苏州大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：连续三年高引用率学者",
+      "dimensions": {
+        "导师能力": "连续三年高引用率学者"
+      }
+    }
+  ]
+}

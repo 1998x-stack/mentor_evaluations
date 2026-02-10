@@ -1,0 +1,15 @@
+{
+  "id": "42db6805-c342-43ef-81c6-732ca58fa613",
+  "name": "李佳峰",
+  "school": "北京理工大学",
+  "department": "机械与车辆学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：9栋322，江苏口音，没啥口头禅",
+      "dimensions": {}
+    }
+  ]
+}

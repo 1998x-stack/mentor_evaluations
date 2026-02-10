@@ -1,0 +1,19 @@
+{
+  "id": "eefe0597-6e6f-4651-bb93-3d31ca70c894",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很同意一楼的说法",
+      "dimensions": {}
+    },
+    {
+      "comment": "希望大家不要选择这两个导师： 1、这两个导师研究水平有限，对学生的指导有限； 2、私活较多，部分私活对个人的发展没有什么意义； 3、不支持学生实习、找工作，有学生甚至研三还要帮他做事； 4、经常以毕业要挟学生，逼学生写论文； 5、不听劝告的同学，后果自付啊。",
+      "dimensions": {}
+    }
+  ]
+}

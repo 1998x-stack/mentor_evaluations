@@ -1,0 +1,15 @@
+{
+  "id": "0e745282-63d8-4180-9eab-8b9b10267beb",
+  "name": "孙亮",
+  "school": "大连理工大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "年轻有为！",
+      "dimensions": {}
+    }
+  ]
+}

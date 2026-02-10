@@ -1,0 +1,15 @@
+{
+  "id": "f47d3b52-3c04-4ab2-b634-f0dfcb57e609",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "曾上过甘老师的课，为人比较nice，科研做的也不错",
+      "dimensions": {}
+    }
+  ]
+}

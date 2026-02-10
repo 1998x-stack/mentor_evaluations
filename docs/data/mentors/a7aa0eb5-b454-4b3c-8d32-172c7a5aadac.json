@@ -1,0 +1,19 @@
+{
+  "id": "a7aa0eb5-b454-4b3c-8d32-172c7a5aadac",
+  "name": "杨坪",
+  "school": "同济大学",
+  "department": "土木工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我只能说我真的不想说啥",
+      "dimensions": {}
+    },
+    {
+      "comment": "实名羡慕，他学生都挺闲的，每次路过看到他学生都是在看直播，刷剧，或者开视频和别人大声聊天，实习也不管。不过辛苦那个办公室其他的人了。",
+      "dimensions": {}
+    }
+  ]
+}

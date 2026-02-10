@@ -1,0 +1,19 @@
+{
+  "id": "ebb06f9b-51db-4139-b5f2-b05c5442adce",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "权老师是院长，虽然我不是权老师的学生，但知道权老师学术很厉害。",
+      "dimensions": {}
+    },
+    {
+      "comment": "液压方面有几把刷子。机电系主任。",
+      "dimensions": {}
+    }
+  ]
+}

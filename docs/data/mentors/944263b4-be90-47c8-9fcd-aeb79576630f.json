@@ -1,0 +1,15 @@
+{
+  "id": "944263b4-be90-47c8-9fcd-aeb79576630f",
+  "name": "王新华",
+  "school": "浙江大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人本身很nice，就是处在一个不好的大课题组，老师自己的学生经常不做自己课题，而是被发配到工厂干活",
+      "dimensions": {}
+    }
+  ]
+}

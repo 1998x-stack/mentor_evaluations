@@ -1,0 +1,19 @@
+{
+  "id": "0f0e7bc0-c41b-4994-89a1-72d96e87a39c",
+  "name": "王宝会",
+  "school": "北京航空航天大学",
+  "department": "软件学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "可惜知乎都看不到了，滑稽\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "               呵呵",
+      "dimensions": {}
+    }
+  ]
+}

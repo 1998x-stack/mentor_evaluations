@@ -1,0 +1,15 @@
+{
+  "id": "acd96625-8f6c-4a0b-8345-95eb7cbc5f4e",
+  "name": "徐中",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不称职！生活琐事麻烦学生，答辩论文实验完全不管，拿生病为由躲避指导和求助！",
+      "dimensions": {}
+    }
+  ]
+}

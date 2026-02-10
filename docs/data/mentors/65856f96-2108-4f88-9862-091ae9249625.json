@@ -1,0 +1,19 @@
+{
+  "id": "65856f96-2108-4f88-9862-091ae9249625",
+  "name": "唐媛",
+  "school": "中南大学",
+  "department": "基础医学院、口腔医学院、护理学院、药学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：学院老师们早就知道了同学们的愿望，所以从来不敢怠慢 导师能力：五星好评",
+      "dimensions": {
+        "导师能力": "五星好评"
+      }
+    }
+  ]
+}

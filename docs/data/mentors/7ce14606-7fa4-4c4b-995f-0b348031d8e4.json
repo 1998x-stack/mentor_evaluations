@@ -1,0 +1,19 @@
+{
+  "id": "7ce14606-7fa4-4c4b-995f-0b348031d8e4",
+  "name": "徐明",
+  "school": "东南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "脾气较好，但没有自己的课题。",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生很好，懂的东西也很多",
+      "dimensions": {}
+    }
+  ]
+}

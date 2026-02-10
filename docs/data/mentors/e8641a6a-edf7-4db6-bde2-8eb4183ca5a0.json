@@ -1,0 +1,15 @@
+{
+  "id": "e8641a6a-edf7-4db6-bde2-8eb4183ca5a0",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "项目太多，很多大四的愣头青选导师觉得项目多能历练人，项目好比毕业设计，做一个的确有长进，但做五六个呢？重复性的劳动罢了。",
+      "dimensions": {}
+    }
+  ]
+}

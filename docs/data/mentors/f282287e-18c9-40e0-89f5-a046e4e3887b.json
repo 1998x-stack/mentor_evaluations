@@ -1,0 +1,15 @@
+{
+  "id": "f282287e-18c9-40e0-89f5-a046e4e3887b",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "除了说句,野鸡误人子弟,还能怎么样呢",
+      "dimensions": {}
+    }
+  ]
+}

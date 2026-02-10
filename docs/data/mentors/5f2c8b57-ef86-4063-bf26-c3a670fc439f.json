@@ -1,0 +1,15 @@
+{
+  "id": "5f2c8b57-ef86-4063-bf26-c3a670fc439f",
+  "name": "刘夫锋",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好老师",
+      "dimensions": {}
+    }
+  ]
+}

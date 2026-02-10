@@ -1,0 +1,19 @@
+{
+  "id": "ec3b4bf6-156a-4bce-83f8-14ea38181b06",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：在齐老师的指导下做过节能减排，齐老师对我们非常有耐心，经常悉心指导我们，做实验的费用也是由齐老师的经费报销的。",
+      "dimensions": {
+        "师生关系": "在齐老师的指导下做过节能减排，齐老师对我们非常有耐心，经常悉心指导我们，做实验的费用也是由齐老师的"
+      }
+    }
+  ]
+}

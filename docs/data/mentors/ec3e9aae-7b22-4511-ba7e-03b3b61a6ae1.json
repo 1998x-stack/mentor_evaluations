@@ -1,0 +1,15 @@
+{
+  "id": "ec3e9aae-7b22-4511-ba7e-03b3b61a6ae1",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "上过陈老师工程热力学，非常幽默又认真",
+      "dimensions": {}
+    }
+  ]
+}

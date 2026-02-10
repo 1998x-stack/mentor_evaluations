@@ -1,0 +1,15 @@
+{
+  "id": "24439777-a5b8-4c7e-9939-bbf5041426d9",
+  "name": "陈立功",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听说人很好！",
+      "dimensions": {}
+    }
+  ]
+}

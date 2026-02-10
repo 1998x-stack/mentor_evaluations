@@ -1,0 +1,15 @@
+{
+  "id": "fe89f110-6190-4b74-9f34-29b2052ae8fe",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人特别好，科研水平高，很有想法",
+      "dimensions": {}
+    }
+  ]
+}

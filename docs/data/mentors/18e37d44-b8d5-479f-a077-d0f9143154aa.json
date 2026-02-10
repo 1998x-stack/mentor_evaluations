@@ -1,0 +1,31 @@
+{
+  "id": "18e37d44-b8d5-479f-a077-d0f9143154aa",
+  "name": "李红",
+  "school": "东南大学",
+  "department": "电子科学与工程学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我是方圆，李老师的水平，信得过。",
+      "dimensions": {}
+    },
+    {
+      "comment": "她能做导师?   一个职称是讲师级别的人。",
+      "dimensions": {}
+    },
+    {
+      "comment": "说话基本靠吼，四楼一姐，学术，呵呵呵呵…",
+      "dimensions": {}
+    },
+    {
+      "comment": "每次和她讲话就感觉欠她钱，态度极差，人品吗，呵呵呵呵",
+      "dimensions": {}
+    },
+    {
+      "comment": "李红这大龄剩女来着干嘛？她是导师吗？？？",
+      "dimensions": {}
+    }
+  ]
+}

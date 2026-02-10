@@ -1,0 +1,15 @@
+{
+  "id": "85a19b6b-ea03-4c04-b5dd-3c57e36357a4",
+  "name": "汤定娜",
+  "school": "中南财经政法大学",
+  "department": "工商管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不建议。",
+      "dimensions": {}
+    }
+  ]
+}

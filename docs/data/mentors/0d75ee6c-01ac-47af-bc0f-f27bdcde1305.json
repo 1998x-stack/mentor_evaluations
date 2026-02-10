@@ -1,0 +1,19 @@
+{
+  "id": "0d75ee6c-01ac-47af-bc0f-f27bdcde1305",
+  "name": "高凤新",
+  "school": "北京理工大学",
+  "department": "光电学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "高老师绝对是光电学院一大奇葩，啥也不会，一问三不知，真不知道是怎么在光电学院干的，后台很硬吧。",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：办公地点北理工光电学院信息楼",
+      "dimensions": {}
+    }
+  ]
+}

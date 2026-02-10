@@ -1,0 +1,15 @@
+{
+  "id": "1d501cdd-61a2-40dc-806e-a310785d9218",
+  "name": "周颖",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "周老师人非常的好，对同学很照顾，是个善良的好老师",
+      "dimensions": {}
+    }
+  ]
+}

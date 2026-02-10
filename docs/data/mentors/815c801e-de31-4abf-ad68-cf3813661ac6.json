@@ -1,0 +1,19 @@
+{
+  "id": "815c801e-de31-4abf-ad68-cf3813661ac6",
+  "name": "任成祖",
+  "school": "天津大学",
+  "department": "机械工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "把自己亲属安插在学院里",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师是机械领域的名师，可以来读研，受益匪浅",
+      "dimensions": {}
+    }
+  ]
+}

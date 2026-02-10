@@ -1,0 +1,15 @@
+{
+  "id": "a0034fff-f3d4-4c45-8270-9b6f2bd167fc",
+  "name": "王保平",
+  "school": "东南大学",
+  "department": "电子科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "haixingba",
+      "dimensions": {}
+    }
+  ]
+}

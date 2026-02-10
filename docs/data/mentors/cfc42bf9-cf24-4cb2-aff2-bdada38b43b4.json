@@ -1,0 +1,25 @@
+{
+  "id": "cfc42bf9-cf24-4cb2-aff2-bdada38b43b4",
+  "name": "马敬堂",
+  "school": "西南财经大学",
+  "department": "经济数学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：我那一篇science..... 导师能力：合作发了第二篇 经费发放：>1000K 与学生关系：我那一篇science..... 工作时间：还算仁慈",
+      "dimensions": {
+        "导师能力": "合作发了第二篇",
+        "经费情况": ">1000K 与学生",
+        "师生关系": "我那一篇science..... 工作",
+        "工作时间": "还算仁慈"
+      }
+    }
+  ]
+}

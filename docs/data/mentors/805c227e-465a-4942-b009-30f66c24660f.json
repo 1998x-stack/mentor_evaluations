@@ -1,0 +1,15 @@
+{
+  "id": "805c227e-465a-4942-b009-30f66c24660f",
+  "name": "陈国慧",
+  "school": "西安交通大学",
+  "department": "能源与动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人很好",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a8ed1fe5-61fd-49ce-88b9-24f4ea2c3e52",
+  "name": "杜安",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "等待评价",
+      "dimensions": {}
+    }
+  ]
+}

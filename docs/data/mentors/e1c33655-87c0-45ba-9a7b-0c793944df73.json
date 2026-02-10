@@ -1,0 +1,15 @@
+{
+  "id": "e1c33655-87c0-45ba-9a7b-0c793944df73",
+  "name": "李素梅",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李素梅",
+      "dimensions": {}
+    }
+  ]
+}

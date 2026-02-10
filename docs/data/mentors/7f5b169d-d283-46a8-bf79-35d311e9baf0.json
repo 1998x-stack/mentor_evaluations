@@ -1,0 +1,21 @@
+{
+  "id": "7f5b169d-d283-46a8-bf79-35d311e9baf0",
+  "name": "辜海彬",
+  "school": "四川大学",
+  "department": "轻纺与食品学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：皮革楼，402实验室导师 经费发放：没钱 学生毕业去向：不允许实习",
+      "dimensions": {
+        "经费情况": "没钱 学生毕业",
+        "毕业去向": "不允许实习"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "29c37e5e-0f5c-4888-aace-b586cab2dc1b",
+  "name": "吕伟",
+  "school": "武汉理工大学",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "该导师学术能力强，对学生认真负责，会认真的根据学生的研究方向和特长来制定培养计划。",
+      "dimensions": {}
+    }
+  ]
+}

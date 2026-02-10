@@ -1,0 +1,19 @@
+{
+  "id": "c99c5910-7ba5-4527-bb27-459c61db38a5",
+  "name": "何婷婷",
+  "school": "华中师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：计算机学院院长 导师能力：学术基本不搞了，偏政治了。",
+      "dimensions": {
+        "导师能力": "学术基本不搞了，偏政治了。"
+      }
+    }
+  ]
+}

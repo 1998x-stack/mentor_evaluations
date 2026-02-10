@@ -1,0 +1,19 @@
+{
+  "id": "7de0e906-af97-46b7-b213-9d18f76bb035",
+  "name": "郑征",
+  "school": "北京航空航天大学",
+  "department": "自动化科学与电气工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听过课，讲的很好，很年轻的教授，前途不可限量",
+      "dimensions": {}
+    },
+    {
+      "comment": "不是他的学生，但是因为毕设的关系看过他写的论文…直接把别人十多年前的东西拿过来说是自己的创新…",
+      "dimensions": {}
+    }
+  ]
+}

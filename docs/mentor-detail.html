@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>导师详情 - 导师评价系统</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/mentor-detail.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">
+                <a href="index.html" style="color: inherit; text-decoration: none;">导师评价</a>
+            </h1>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">学校</a>
+                <a href="#" class="nav-link" id="backToMentors">导师</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <section class="breadcrumb-section">
+        <div class="container">
+            <nav class="breadcrumb">
+                <a href="index.html" class="breadcrumb-link">学校</a>
+                <span class="breadcrumb-separator">›</span>
+                <a href="#" class="breadcrumb-link" id="schoolBreadcrumb">...</a>
+                <span class="breadcrumb-separator">›</span>
+                <span class="breadcrumb-current" id="mentorBreadcrumb">...</span>
+            </nav>
+        </div>
+    </section>
+
+    <!-- Mentor Header -->
+    <section class="mentor-header">
+        <div class="container">
+            <div class="mentor-header-content">
+                <div class="mentor-header-info">
+                    <h2 class="mentor-name" id="mentorName">...</h2>
+                    <div class="mentor-meta">
+                        <span class="mentor-school" id="mentorSchool">...</span>
+                        <span class="separator">•</span>
+                        <span class="mentor-dept" id="mentorDept">...</span>
+                    </div>
+                </div>
+                <div class="mentor-header-score">
+                    <div class="overall-score" id="overallScore">-</div>
+                    <div class="score-label" id="scoreLabel">-</div>
+                    <div class="evaluation-count" id="evaluationCount">- 条评价</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="content-section">
+        <div class="container">
+            <div class="content-grid">
+                <!-- Radar Chart -->
+                <div class="card radar-card">
+                    <h3 class="card-title">评价维度</h3>
+                    <div class="radar-container">
+                        <canvas id="radarChart"></canvas>
+                    </div>
+                    <div class="dimension-legend" id="dimensionLegend"></div>
+                </div>
+
+                <!-- Quick Stats -->
+                <div class="card stats-card">
+                    <h3 class="card-title">统计信息</h3>
+                    <div class="stats-list">
+                        <div class="stat-row">
+                            <span class="stat-row-label">评价总数</span>
+                            <span class="stat-row-value" id="statTotalEval">-</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-row-label">覆盖维度</span>
+                            <span class="stat-row-value" id="statDimensions">-</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-row-label">综合评分</span>
+                            <span class="stat-row-value" id="statOverallScore">-</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Evaluations -->
+            <div class="card evaluations-card">
+                <div class="card-header">
+                    <h3 class="card-title">学生评价</h3>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="all">全部</button>
+                        <button class="filter-btn" data-filter="positive">正面</button>
+                        <button class="filter-btn" data-filter="negative">负面</button>
+                    </div>
+                </div>
+
+                <div class="evaluations-list" id="evaluationsList">
+                    <div class="loading">加载中...</div>
+                </div>
+
+                <div class="show-more-container" id="showMoreContainer" style="display: none;">
+                    <button class="show-more-btn" id="showMoreBtn">查看更多评价</button>
+                </div>
+            </div>
+
+            <!-- Suggestions -->
+            <div class="card suggestions-card">
+                <h3 class="card-title">选择建议</h3>
+                <div class="suggestions-content" id="suggestionsContent">
+                    <div class="loading">分析中...</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">
+                本平台仅供参考，评价来自学生真实反馈
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/common.js"></script>
+    <script src="js/radar-chart.js"></script>
+    <script src="js/mentor-detail.js"></script>
+</body>
+</html>

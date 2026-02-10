@@ -1,0 +1,15 @@
+{
+  "id": "486282c7-3475-4d13-bb85-92296482e8d2",
+  "name": "曾碧",
+  "school": "广东工业大学",
+  "department": "计算机科学与技术",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很好，项目丰富，做项目有补贴，论文奖金高",
+      "dimensions": {}
+    }
+  ]
+}

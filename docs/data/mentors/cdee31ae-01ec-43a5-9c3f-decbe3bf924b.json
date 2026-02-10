@@ -1,0 +1,15 @@
+{
+  "id": "cdee31ae-01ec-43a5-9c3f-decbe3bf924b",
+  "name": "丁运生",
+  "school": "合肥工业大学",
+  "department": "化学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "带学生出去饭局就是陪酒，非常功利，上课就是吹b",
+      "dimensions": {}
+    }
+  ]
+}

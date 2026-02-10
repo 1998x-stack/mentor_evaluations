@@ -1,0 +1,19 @@
+{
+  "id": "4f079687-8517-4804-849d-4922ed11e8e6",
+  "name": "孟秀云",
+  "school": "北京理工大学",
+  "department": "宇航学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：短发 学生毕业去向：排课排成傻逼 一点不关注学生学啥 不负责任 简直有毒",
+      "dimensions": {
+        "毕业去向": "排课排成傻逼 一点不关注学生学啥 不负责任 简直有毒"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "04d85291-9738-4647-8087-0e4483d5f7d4",
+  "name": "李光石",
+  "school": "上海大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "目前为上海大学师资博士后",
+      "dimensions": {}
+    }
+  ]
+}

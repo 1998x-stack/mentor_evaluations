@@ -1,0 +1,15 @@
+{
+  "id": "a12baa7f-6849-4989-8087-dd5775c38a30",
+  "name": "袁武",
+  "school": "北京理工大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "教数据结构的 ..",
+      "dimensions": {}
+    }
+  ]
+}

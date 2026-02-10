@@ -1,0 +1,15 @@
+{
+  "id": "2e72c717-38fb-4610-af29-cdf5c535fc0b",
+  "name": "冯小明",
+  "school": "四川大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "令人敬佩的好老师，学术严谨，人生明灯",
+      "dimensions": {}
+    }
+  ]
+}

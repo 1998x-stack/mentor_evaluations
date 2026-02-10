@@ -1,0 +1,15 @@
+{
+  "id": "6a2d41c2-554e-4586-9332-38a0ef998f3a",
+  "name": "丁一宁",
+  "school": "大连理工大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很固执 很自私 不把学生当回事儿",
+      "dimensions": {}
+    }
+  ]
+}

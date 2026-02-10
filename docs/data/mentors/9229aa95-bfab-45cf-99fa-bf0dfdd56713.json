@@ -1,0 +1,15 @@
+{
+  "id": "9229aa95-bfab-45cf-99fa-bf0dfdd56713",
+  "name": "商澎",
+  "school": "西北工业大学",
+  "department": "生命学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "前生命学院院长，课题组成立以来，已经有两名学生被逼退学",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f63c1879-1cb0-40a9-b41f-c6c02bd4adaf",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：老师导师能力很高，想法很多，对学生很好。",
+      "dimensions": {
+        "导师能力": "老师"
+      }
+    }
+  ]
+}

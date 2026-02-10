@@ -1,0 +1,15 @@
+{
+  "id": "8ec31c7c-d672-476b-af88-1d448d8a81b2",
+  "name": "张强哲",
+  "school": "南开大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人品挺差的，对学生非常差。不建议找他",
+      "dimensions": {}
+    }
+  ]
+}

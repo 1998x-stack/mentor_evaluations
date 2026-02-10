@@ -1,0 +1,15 @@
+{
+  "id": "4cc764d8-82fa-419f-a7a5-48325bc43e4f",
+  "name": "刘丽艳",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "刘老师三件宝：你得看文献，你得找机理，你得表征留证据。\n两参数，你要做个正交实验啊。一参数，你得做个误差棒啊。\n去汇报，你这掌握的不够透彻啊，你应该两句话就让我这个外行人听懂啊。\n投论文，你中午投完了不干活怎么办，不给投。\nps：为啥不能零星。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5926c97f-ce4e-44fd-b8dc-53b59a1739fe",
+  "name": "刘伍明",
+  "school": "中科院研究单位(R-Z)",
+  "department": "物理研究所",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "什么是学问?见到了刘老师就见到了学问！",
+      "dimensions": {}
+    },
+    {
+      "comment": "刘伍明老师与人和善，学术精湛，课题组经费充足，经常帮助你联系合伙人。",
+      "dimensions": {}
+    }
+  ]
+}

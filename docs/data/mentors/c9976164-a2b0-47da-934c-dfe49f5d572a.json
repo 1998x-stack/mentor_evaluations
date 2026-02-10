@@ -1,0 +1,19 @@
+{
+  "id": "c9976164-a2b0-47da-934c-dfe49f5d572a",
+  "name": "李原",
+  "school": "四川大学",
+  "department": "电气信息学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：好像和周凯一个组，看下周凯世界一流吧，微笑，不说了，下面全5分，XSWL 导师能力：文章好像都是编的？？ 汇编语言啊！！！！",
+      "dimensions": {
+        "导师能力": "文章好像都是编的？？ 汇编语言啊！！！！"
+      }
+    }
+  ]
+}

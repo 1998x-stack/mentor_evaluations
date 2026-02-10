@@ -1,0 +1,15 @@
+{
+  "id": "7b4c7f45-d2bc-4439-ba29-cb85dc963e2d",
+  "name": "王涛",
+  "school": "安庆师范大学",
+  "department": "化学",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "认真负责，是本科毕业设计导师",
+      "dimensions": {}
+    }
+  ]
+}

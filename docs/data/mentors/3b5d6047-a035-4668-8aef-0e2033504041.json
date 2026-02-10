@@ -1,0 +1,15 @@
+{
+  "id": "3b5d6047-a035-4668-8aef-0e2033504041",
+  "name": "李玲霞",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李玲霞 性别：女 职称：教授 http://www.tju.edu.cn/seie/szdw/jybcsjrc/201110/t20111004_114381.html",
+      "dimensions": {}
+    }
+  ]
+}

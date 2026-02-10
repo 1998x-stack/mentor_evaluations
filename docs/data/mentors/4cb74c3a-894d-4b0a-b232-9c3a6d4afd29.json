@@ -1,0 +1,15 @@
+{
+  "id": "4cb74c3a-894d-4b0a-b232-9c3a6d4afd29",
+  "name": "邓长虹",
+  "school": "武汉大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "志大才疏",
+      "dimensions": {}
+    }
+  ]
+}

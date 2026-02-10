@@ -1,0 +1,23 @@
+{
+  "id": "2ece4352-3e43-4d10-844d-81c77f6b72a5",
+  "name": "徐萍",
+  "school": "北京航空航天大学",
+  "department": "自动化科学与电气工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人很好，有时候给学生买零食吃，请学生吃饭",
+      "dimensions": {}
+    },
+    {
+      "comment": "脾气很好的老师，学生相对比较自由，有自己想做的事情的人可以选择",
+      "dimensions": {}
+    },
+    {
+      "comment": "脾气非常好的老师，学生很自由",
+      "dimensions": {}
+    }
+  ]
+}

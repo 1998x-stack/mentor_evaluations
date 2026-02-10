@@ -1,0 +1,15 @@
+{
+  "id": "fbfc0592-be82-4566-8ddb-0644527ef10e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术能力一流，经费发放充足，学生补助中上，课题组实验条件一流",
+      "dimensions": {}
+    }
+  ]
+}

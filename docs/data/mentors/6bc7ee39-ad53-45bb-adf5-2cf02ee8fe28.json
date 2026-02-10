@@ -1,0 +1,21 @@
+{
+  "id": "6bc7ee39-ad53-45bb-adf5-2cf02ee8fe28",
+  "name": "黄吉平",
+  "school": "复旦大学",
+  "department": "物理学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：呵呵 导师能力：导师能力很棒，这个没什么问题 与学生关系：呵呵，加入组里之前注意一下自己的性别",
+      "dimensions": {
+        "导师能力": "",
+        "师生关系": "呵呵，加入组里之前注意一下自己的性别"
+      }
+    }
+  ]
+}

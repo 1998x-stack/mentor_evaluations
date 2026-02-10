@@ -1,0 +1,19 @@
+{
+  "id": "f2a6c219-6e3c-4230-8d60-987f904ee74d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：澳大利亚同事 导师能力：导师能力很差，push学生为主，经常灌水，选这个导师要慎重。",
+      "dimensions": {
+        "导师能力": ""
+      }
+    }
+  ]
+}

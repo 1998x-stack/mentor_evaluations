@@ -1,0 +1,23 @@
+{
+  "id": "e5f922a3-c527-49c5-bea3-348a03312392",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 4.42,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：数媒系老师，超级腹黑，猥琐 学生补助：无 工作时间：晚上加班，双休加班 学生毕业去向：不允许",
+      "dimensions": {
+        "学生补助": "无 工作",
+        "工作时间": "晚上加班，双休加班 学生毕业",
+        "毕业去向": "不允许"
+      }
+    }
+  ]
+}

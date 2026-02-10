@@ -1,0 +1,23 @@
+{
+  "id": "e62a0c50-cc08-4280-9eb3-d6c790bd362d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：本身南洋理工的博士后，去年发了一篇natural communication，科研能力还是很强的 经费发放：经费发放对比本院其他老师来说是比较多的，也鼓励学生做科研 与学生关系：非常push并且严格，选他一定要走心理准备",
+      "dimensions": {
+        "导师能力": "本身南洋理工的博士后，去年发了一篇natural communication，科研能力还是很强的",
+        "经费情况": "",
+        "师生关系": "非常push并且严格，选他一定要走心理准备"
+      }
+    }
+  ]
+}

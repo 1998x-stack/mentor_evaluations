@@ -1,0 +1,23 @@
+{
+  "id": "c9380031-d9be-4085-ada9-42c3ba799c8c",
+  "name": "姚素英",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，也很严谨，不过要退休了",
+      "dimensions": {}
+    },
+    {
+      "comment": "姚素英 教授 http://www.tju.edu.cn/seie/szdw/js/201109/t20110906_113465.html",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师啊，不过已经退休了。",
+      "dimensions": {}
+    }
+  ]
+}

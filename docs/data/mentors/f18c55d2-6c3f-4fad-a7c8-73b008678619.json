@@ -1,0 +1,23 @@
+{
+  "id": "f18c55d2-6c3f-4fad-a7c8-73b008678619",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.58,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力看头衔就知道了 经费发放：经费充足。 学生毕业去向：出路都不错",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": "",
+        "毕业去向": "出路都不错"
+      }
+    }
+  ]
+}

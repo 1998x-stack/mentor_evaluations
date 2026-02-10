@@ -1,0 +1,21 @@
+{
+  "id": "fb42622a-8b3b-4a2b-8abe-0d140cc6f9ce",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：经常请学生吃饭 学生毕业去向：会帮学生介绍工作，实习",
+      "dimensions": {
+        "师生关系": "经常请学生吃饭 学生毕业",
+        "毕业去向": "会帮学生介绍工作，实习"
+      }
+    }
+  ]
+}

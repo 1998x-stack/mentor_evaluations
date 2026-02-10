@@ -1,0 +1,15 @@
+{
+  "id": "d09375cf-fea1-46e3-b886-b0424d789e76",
+  "name": "文石军",
+  "school": "中山大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "抢一作",
+      "dimensions": {}
+    }
+  ]
+}

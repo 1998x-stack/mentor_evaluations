@@ -1,0 +1,35 @@
+{
+  "id": "b36f1ab4-5002-4174-8232-54347e4f8c5a",
+  "name": "石磊",
+  "school": "大连医科大学",
+  "department": "生物医学工程",
+  "evaluationCount": 6,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人世界少有的极品，提起来就恶心人 。",
+      "dimensions": {}
+    },
+    {
+      "comment": "细胞生物学专业的导师。\n同学们 好好活着不好吗?",
+      "dimensions": {}
+    },
+    {
+      "comment": "想锻炼自己承受能力的看过来，小鞋包够穿",
+      "dimensions": {}
+    },
+    {
+      "comment": "心里小风飕飕的，背后小刀唰唰的",
+      "dimensions": {}
+    },
+    {
+      "comment": "活着就是一种奢求！！！",
+      "dimensions": {}
+    },
+    {
+      "comment": "自身水平极差，压榨学生",
+      "dimensions": {}
+    }
+  ]
+}

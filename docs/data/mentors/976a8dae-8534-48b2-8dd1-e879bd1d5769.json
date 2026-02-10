@@ -1,0 +1,21 @@
+{
+  "id": "976a8dae-8534-48b2-8dd1-e879bd1d5769",
+  "name": "张卫新",
+  "school": "合肥工业大学",
+  "department": "化学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：化工院那边比较厉害的，而且是院长 工作时间：算是比较忙的",
+      "dimensions": {
+        "导师能力": "化工院那边比较厉害的，而且是院长 工作",
+        "工作时间": "算是比较忙的"
+      }
+    }
+  ]
+}

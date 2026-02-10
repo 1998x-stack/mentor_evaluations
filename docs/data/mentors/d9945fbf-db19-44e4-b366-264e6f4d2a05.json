@@ -1,0 +1,15 @@
+{
+  "id": "d9945fbf-db19-44e4-b366-264e6f4d2a05",
+  "name": "张华",
+  "school": "华中科技大学",
+  "department": "电子与信息工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "别来！他只听马洪的话，说啥都不管事。他的学生就是帮马洪项目组凑人头的。",
+      "dimensions": {}
+    }
+  ]
+}

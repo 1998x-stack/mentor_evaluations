@@ -1,0 +1,19 @@
+{
+  "id": "a11fcc46-9d20-409c-af28-dbe5321139f6",
+  "name": "肖孟",
+  "school": "武汉大学",
+  "department": "物理科学与技术学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "本科做过业余科研，感觉还可以。基本是放养式，也没做出来什么好东西，有点惭愧。导师给人感觉很腼腆，看着总是想笑。",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常棒的老师！会很耐心地指导学生！",
+      "dimensions": {}
+    }
+  ]
+}

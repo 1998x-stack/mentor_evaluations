@@ -1,0 +1,15 @@
+{
+  "id": "fa377b72-e10a-4542-804a-1db2155a0515",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "如果你来到了软院，偏向于科研，那就来吧。可能华科不是一个globally optimal solution, 显然沈刚老师是一个目前的locally optimal solution ：） 自己的感受是沈老师的科研level是很高的，相对应需要自己充分了解一些基本的知识后，学习速率会非常高，不然会浪费大量时间精力在基本知识上，会让学习曲线很陡峭 ：）",
+      "dimensions": {}
+    }
+  ]
+}

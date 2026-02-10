@@ -1,0 +1,19 @@
+{
+  "id": "c3f9a401-a3c0-4a5c-a74d-62b4faee27f9",
+  "name": "傅十和",
+  "school": "西南财经大学",
+  "department": "经济与管理研究院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：与学生关系淡漠，学生都有点精神失常了，n年无法毕业。",
+      "dimensions": {
+        "师生关系": "与学生"
+      }
+    }
+  ]
+}

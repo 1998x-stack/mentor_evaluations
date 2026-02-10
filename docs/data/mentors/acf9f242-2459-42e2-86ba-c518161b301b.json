@@ -1,0 +1,15 @@
+{
+  "id": "acf9f242-2459-42e2-86ba-c518161b301b",
+  "name": "张智焕",
+  "school": "浙江大学",
+  "department": "机械工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "感觉这个老师什么都不懂",
+      "dimensions": {}
+    }
+  ]
+}

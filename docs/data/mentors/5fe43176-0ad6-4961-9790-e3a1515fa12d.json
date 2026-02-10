@@ -1,0 +1,15 @@
+{
+  "id": "5fe43176-0ad6-4961-9790-e3a1515fa12d",
+  "name": "沈晓蓉",
+  "school": "北京航空航天大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "完全不靠谱",
+      "dimensions": {}
+    }
+  ]
+}

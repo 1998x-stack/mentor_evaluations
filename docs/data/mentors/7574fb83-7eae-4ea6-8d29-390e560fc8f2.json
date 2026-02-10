@@ -1,0 +1,15 @@
+{
+  "id": "7574fb83-7eae-4ea6-8d29-390e560fc8f2",
+  "name": "马雅丽",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "隶属于王德伦团队，没有实质性指导",
+      "dimensions": {}
+    }
+  ]
+}

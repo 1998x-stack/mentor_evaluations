@@ -1,0 +1,23 @@
+{
+  "id": "53d4dae7-c3aa-471c-aded-e70c095c5005",
+  "name": "姜彤",
+  "school": "华北电力大学",
+  "department": "电气与电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "此老师导师能力极高，就是表达起来云里雾里",
+      "dimensions": {}
+    },
+    {
+      "comment": "学生毕业去向：Re: 姜彤我觉得是个大坑，讲课就是关根太次，为人也一般",
+      "dimensions": {
+        "毕业去向": "Re: 姜彤我觉得是个大坑，讲课就是关根太次，为人也一般"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2a8ea260-4d08-4f31-8fd4-07f845b03399",
+  "name": "陈不孝",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "哈哈哈，这名字给的。小心不孝老师找你哦",
+      "dimensions": {}
+    },
+    {
+      "comment": "名字叫陈伯孝，不是陈不孝 学术应该挺牛的，其他不了解",
+      "dimensions": {}
+    },
+    {
+      "comment": "电子所的，在他这里读博很压抑，能别来就别来吧。",
+      "dimensions": {}
+    }
+  ]
+}

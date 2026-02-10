@@ -1,0 +1,15 @@
+{
+  "id": "9246fb0f-b0b8-4d9c-aa2f-a553ce915ee5",
+  "name": "王笃金",
+  "school": NaN,
+  "department": "化学研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不可言，不科研，只克言",
+      "dimensions": {}
+    }
+  ]
+}

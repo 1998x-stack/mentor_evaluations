@@ -1,0 +1,15 @@
+{
+  "id": "3c253eca-5cb4-4b3a-b2c5-a4485e1a4524",
+  "name": "张美琴",
+  "school": "复旦大学",
+  "department": "经济学院，管理学院，法学院，基础医学院，公共卫生学院，护理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "高度怀疑人格分裂 最喜欢说的事情是发文章 找她说我很忙 不找她又说起你都不和我交流 已知天命之年不过区区一个硕导 整个科里没人待见她",
+      "dimensions": {}
+    }
+  ]
+}

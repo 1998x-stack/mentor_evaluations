@@ -1,0 +1,15 @@
+{
+  "id": "9fa9488f-7f85-498c-b33c-17a4a13a6529",
+  "name": "李静",
+  "school": "华南理工大学",
+  "department": "化学与化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室在化工学院逸夫工程馆2楼",
+      "dimensions": {}
+    }
+  ]
+}

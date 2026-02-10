@@ -1,0 +1,19 @@
+{
+  "id": "859a1c76-e4f0-4b34-b5f1-906cf7cf53f3",
+  "name": "杜志强",
+  "school": "武汉大学",
+  "department": "遥感信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "工作时间": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：口头禅：务必。。。。。 工作时间：全年无休，过年会放",
+      "dimensions": {
+        "工作时间": "全年无休，过年会放"
+      }
+    }
+  ]
+}

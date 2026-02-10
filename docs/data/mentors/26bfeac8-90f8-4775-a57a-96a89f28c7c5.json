@@ -1,0 +1,21 @@
+{
+  "id": "26bfeac8-90f8-4775-a57a-96a89f28c7c5",
+  "name": "李闻一",
+  "school": "华中师范大学",
+  "department": "经济管理学院",
+  "evaluationCount": 1,
+  "totalScore": 4.12,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：事多没钱挨骂 学生补助：甚至于无 工作时间：经常周末以及晚上加班",
+      "dimensions": {
+        "学生补助": "甚至于无 工作",
+        "工作时间": "经常周末以及晚上加班"
+      }
+    }
+  ]
+}

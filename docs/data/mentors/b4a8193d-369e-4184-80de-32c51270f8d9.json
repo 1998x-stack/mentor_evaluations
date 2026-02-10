@@ -1,0 +1,15 @@
+{
+  "id": "b4a8193d-369e-4184-80de-32c51270f8d9",
+  "name": "万波",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "万波 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

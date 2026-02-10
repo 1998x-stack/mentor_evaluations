@@ -1,0 +1,15 @@
+{
+  "id": "9d145d46-0973-4bfe-9bbb-c4be91a8a1b2",
+  "name": "赵峰",
+  "school": "北京航空航天大学",
+  "department": "生物与医学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生还不错，很支持学生，只不过最近不怎么搞科研了",
+      "dimensions": {}
+    }
+  ]
+}

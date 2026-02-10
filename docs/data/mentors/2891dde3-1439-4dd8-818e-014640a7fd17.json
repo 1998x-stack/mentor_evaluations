@@ -1,0 +1,19 @@
+{
+  "id": "2891dde3-1439-4dd8-818e-014640a7fd17",
+  "name": "陈德富",
+  "school": "南开大学",
+  "department": "生命科学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好老师，特别仔细认真\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "博士答辩，别的导师都看不下去了，能花点钱给学生做实验么？",
+      "dimensions": {}
+    }
+  ]
+}

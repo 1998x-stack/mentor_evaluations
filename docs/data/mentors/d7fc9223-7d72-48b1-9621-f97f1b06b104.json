@@ -1,0 +1,15 @@
+{
+  "id": "d7fc9223-7d72-48b1-9621-f97f1b06b104",
+  "name": "宿文姬",
+  "school": "华南理工大学",
+  "department": "土木与交通学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "经常教育学生怎么做人，但貌似自己不会做人",
+      "dimensions": {}
+    }
+  ]
+}

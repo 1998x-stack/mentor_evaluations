@@ -1,0 +1,15 @@
+{
+  "id": "99819a1f-acaa-4543-85e2-0b1f1afdc0ee",
+  "name": "夏建国",
+  "school": "武汉大学",
+  "department": "政治与公共管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品非常差",
+      "dimensions": {}
+    }
+  ]
+}

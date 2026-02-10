@@ -1,0 +1,15 @@
+{
+  "id": "ec4587ca-f846-49ce-b638-17b1a110e91a",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "庄晴光 千人计划 男 教授 http://www.tju.edu.cn/seie/szdw/qrjh/201106/t20110611_106121.html",
+      "dimensions": {}
+    }
+  ]
+}

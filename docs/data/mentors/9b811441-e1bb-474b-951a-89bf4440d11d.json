@@ -1,0 +1,21 @@
+{
+  "id": "9b811441-e1bb-474b-951a-89bf4440d11d",
+  "name": "高翔",
+  "school": "西北农林科技大学",
+  "department": "农学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：以前在科研大楼2208 学生补助：能不发就不发 工作时间：随便",
+      "dimensions": {
+        "学生补助": "能不发就不发 工作",
+        "工作时间": "随便"
+      }
+    }
+  ]
+}

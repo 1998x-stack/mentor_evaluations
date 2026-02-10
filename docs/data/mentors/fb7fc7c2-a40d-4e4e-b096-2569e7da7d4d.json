@@ -1,0 +1,19 @@
+{
+  "id": "fb7fc7c2-a40d-4e4e-b096-2569e7da7d4d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "虽然快退休了但是仍然有热情，但是不太关心学生，科研思路偏理想化。",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师资源很多，经验丰富，教研室氛围较好",
+      "dimensions": {}
+    }
+  ]
+}

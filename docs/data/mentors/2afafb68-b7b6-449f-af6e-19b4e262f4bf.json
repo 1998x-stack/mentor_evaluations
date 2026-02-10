@@ -1,0 +1,19 @@
+{
+  "id": "2afafb68-b7b6-449f-af6e-19b4e262f4bf",
+  "name": "顾东晓",
+  "school": "合肥工业大学",
+  "department": "管理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "选了你会后悔，会痛苦三年。",
+      "dimensions": {}
+    },
+    {
+      "comment": "没有一分钱补助，事多，什么事都要干。不让学生实习，并且老是让学生写论文送人。",
+      "dimensions": {}
+    }
+  ]
+}

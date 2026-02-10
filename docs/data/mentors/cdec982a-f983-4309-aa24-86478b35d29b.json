@@ -1,0 +1,23 @@
+{
+  "id": "cdec982a-f983-4309-aa24-86478b35d29b",
+  "name": "苏涛",
+  "school": NaN,
+  "department": "电子工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "总体感觉一般，老师主要搞行政了",
+      "dimensions": {}
+    },
+    {
+      "comment": "不是信号那个，这个说的是搞微波的，电院副院长，滤波器大神，有前途，但老师平时较忙。",
+      "dimensions": {}
+    },
+    {
+      "comment": "请问一下苏涛老师组里的吴边老师怎么样",
+      "dimensions": {}
+    }
+  ]
+}

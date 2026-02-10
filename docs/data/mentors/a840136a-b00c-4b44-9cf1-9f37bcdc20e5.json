@@ -1,0 +1,25 @@
+{
+  "id": "a840136a-b00c-4b44-9cf1-9f37bcdc20e5",
+  "name": "聂明新",
+  "school": "武汉理工大学",
+  "department": "信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：喜欢喝豆浆 喜欢说自己长得帅 导师能力：正儿八经谈废话 与学生关系：鸡汤帝",
+      "dimensions": {
+        "导师能力": "正儿八经谈废话 与学生",
+        "师生关系": "鸡汤帝"
+      }
+    },
+    {
+      "comment": "聂老师明明喜欢喝可乐 本科生凑个脸",
+      "dimensions": {}
+    }
+  ]
+}

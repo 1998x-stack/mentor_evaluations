@@ -1,0 +1,23 @@
+{
+  "id": "e60f547d-baf5-4b90-8288-6a7420de5c63",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：1600 工作时间：不加班 学生毕业去向：有前途，学生都进入了bat工作，还有今日头条的，年薪33万。",
+      "dimensions": {
+        "学生补助": "1600 工作",
+        "工作时间": "不加班 学生毕业",
+        "毕业去向": "有前途，学生都进入了bat工作，还有今日头条的，年薪33万。"
+      }
+    }
+  ]
+}

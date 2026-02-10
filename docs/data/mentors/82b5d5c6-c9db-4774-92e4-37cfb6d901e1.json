@@ -1,0 +1,15 @@
+{
+  "id": "82b5d5c6-c9db-4774-92e4-37cfb6d901e1",
+  "name": "滕建辅",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "滕建辅",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1da1364c-e3f6-4f05-904e-2cf8301b7982",
+  "name": "杨辉",
+  "school": "浙江大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "基本不管学生和课题组，大组导师能力在无机所里算低的",
+      "dimensions": {}
+    }
+  ]
+}

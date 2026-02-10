@@ -1,0 +1,15 @@
+{
+  "id": "9e4d2c9c-eba0-4a26-a81f-27d1e337f917",
+  "name": "庄乃峰",
+  "school": "福州大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "私活多，补助少，毕业的时候莫名其妙会卡一下",
+      "dimensions": {}
+    }
+  ]
+}

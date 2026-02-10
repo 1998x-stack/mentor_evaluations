@@ -1,0 +1,15 @@
+{
+  "id": "3a45364b-2cdc-40fe-9227-2ff190811da1",
+  "name": "赵东",
+  "school": "北京林业大学",
+  "department": "工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研副院长，人脉很广，人很好",
+      "dimensions": {}
+    }
+  ]
+}

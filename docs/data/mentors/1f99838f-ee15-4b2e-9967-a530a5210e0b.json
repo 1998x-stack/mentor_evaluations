@@ -1,0 +1,15 @@
+{
+  "id": "1f99838f-ee15-4b2e-9967-a530a5210e0b",
+  "name": "王泉",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "计算机学院院长 外设所所长，擅长图形图像及输入输出设备。为人超级好",
+      "dimensions": {}
+    }
+  ]
+}

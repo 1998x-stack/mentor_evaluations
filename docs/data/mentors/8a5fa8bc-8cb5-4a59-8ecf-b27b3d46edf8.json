@@ -1,0 +1,15 @@
+{
+  "id": "8a5fa8bc-8cb5-4a59-8ecf-b27b3d46edf8",
+  "name": "郭鹏",
+  "school": "华北电力大学",
+  "department": "控制与计算机工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：说完一句话结尾是，是吧，对吧",
+      "dimensions": {}
+    }
+  ]
+}

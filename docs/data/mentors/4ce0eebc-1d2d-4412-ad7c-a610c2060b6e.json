@@ -1,0 +1,15 @@
+{
+  "id": "4ce0eebc-1d2d-4412-ad7c-a610c2060b6e",
+  "name": "张新荣",
+  "school": "清华大学",
+  "department": "化学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "无论是同行口碑还是学生之间，张老师的人品和对待科学的态度在国内无出其右",
+      "dimensions": {}
+    }
+  ]
+}

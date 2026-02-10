@@ -1,0 +1,15 @@
+{
+  "id": "fe0104a3-3c8f-4a30-8c3f-8f873f3f6b43",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "垃圾导师，坑害学生，德不配位，虽然科研能力出众，但是得意忘形，心胸狭窄。不尊重其他课题组的老教师，不待见其它课题组的学生",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bebaabde-be3c-498b-b873-1927c85a66a4",
+  "name": "赵强(男)",
+  "school": "南开大学",
+  "department": "生命科学学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "欺骗学生，导致多年做的专利被抢走！骗子加流氓！",
+      "dimensions": {}
+    },
+    {
+      "comment": "不懂装懂，压榨学生。抢学生的成果。贪污。",
+      "dimensions": {}
+    },
+    {
+      "comment": "总是拿毕业来压迫学生！",
+      "dimensions": {}
+    },
+    {
+      "comment": "特别喜欢忽左忽右，飘忽不定，跟着他干活能累死恶心死！",
+      "dimensions": {}
+    }
+  ]
+}

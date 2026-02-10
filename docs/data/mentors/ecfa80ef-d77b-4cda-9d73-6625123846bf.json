@@ -1,0 +1,15 @@
+{
+  "id": "ecfa80ef-d77b-4cda-9d73-6625123846bf",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师是个好老师 学术大牛，不过学生的话，能力越强越容易被延毕",
+      "dimensions": {}
+    }
+  ]
+}

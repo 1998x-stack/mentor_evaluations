@@ -1,0 +1,15 @@
+{
+  "id": "49144e45-6b89-42a0-a713-c2d87e5aeeba",
+  "name": "吴慈生",
+  "school": "合肥工业大学",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：游客加入，请问这个老师怎么样",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "381e1053-7779-403f-81ab-e1e6af280ba0",
+  "name": "乔春华",
+  "school": "苏州大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：苏州大学独墅湖校区二期云轩楼",
+      "dimensions": {}
+    }
+  ]
+}

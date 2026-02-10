@@ -1,0 +1,15 @@
+{
+  "id": "949cb7ff-bb86-45e9-b893-48fc5da14b25",
+  "name": "熊建生",
+  "school": "武汉大学",
+  "department": "政治与公共管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生非常恶劣",
+      "dimensions": {}
+    }
+  ]
+}

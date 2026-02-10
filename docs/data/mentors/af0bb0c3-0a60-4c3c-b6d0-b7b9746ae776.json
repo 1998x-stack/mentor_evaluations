@@ -1,0 +1,19 @@
+{
+  "id": "af0bb0c3-0a60-4c3c-b6d0-b7b9746ae776",
+  "name": "宁光",
+  "school": "上海交通大学",
+  "department": "医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：听说宁光作风不行 ，对女学生那样，求证知情人士解答",
+      "dimensions": {
+        "师生关系": "听说宁光作风不行 ，对女学生那样，求证知情人士解答"
+      }
+    }
+  ]
+}

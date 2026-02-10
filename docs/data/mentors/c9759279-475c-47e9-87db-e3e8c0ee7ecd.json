@@ -1,0 +1,15 @@
+{
+  "id": "c9759279-475c-47e9-87db-e3e8c0ee7ecd",
+  "name": "吴琦",
+  "school": "北京航空航天大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术不错，对学生也不错。",
+      "dimensions": {}
+    }
+  ]
+}

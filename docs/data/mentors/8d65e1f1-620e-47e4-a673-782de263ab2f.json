@@ -1,0 +1,15 @@
+{
+  "id": "8d65e1f1-620e-47e4-a673-782de263ab2f",
+  "name": "赵宗江",
+  "school": "北京中医药大学",
+  "department": "基础医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大坑一个，勿入！",
+      "dimensions": {}
+    }
+  ]
+}

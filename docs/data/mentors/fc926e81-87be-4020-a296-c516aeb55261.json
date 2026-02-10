@@ -1,0 +1,15 @@
+{
+  "id": "fc926e81-87be-4020-a296-c516aeb55261",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老贾是我大学期间遇到讲课讲得最好的老师，没有之一",
+      "dimensions": {}
+    }
+  ]
+}

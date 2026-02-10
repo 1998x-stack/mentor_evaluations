@@ -1,0 +1,25 @@
+{
+  "id": "f4e9d990-c2b4-49db-ba0e-5aa831a9c115",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：论文很多 经费发放：经费充足 与学生关系：自我激励 学生毕业去向：中广核",
+      "dimensions": {
+        "导师能力": "论文很多",
+        "经费情况": "",
+        "师生关系": "自我激励 学生毕业",
+        "毕业去向": "中广核"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "22a6465e-104a-48ee-8d05-80e770b8a67b",
+  "name": "田玉敏",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "田玉敏 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5358ccdd-8ddc-4c08-8950-831abd18d5ac",
+  "name": "张方国",
+  "school": "中山大学",
+  "department": "数学与计算科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "教师简介: 张方国, 博士，中山大学数据科学与计算机学院 教授、博士生导师。 中山大学网络空间安全系主任，中山大学网络空间安全研究所所长； 广东省信息安全技术重点实验室副主任； 中国密码学会常务理事。",
+      "dimensions": {}
+    }
+  ]
+}

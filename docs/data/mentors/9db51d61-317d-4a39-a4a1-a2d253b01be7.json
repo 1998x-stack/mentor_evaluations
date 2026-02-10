@@ -1,0 +1,15 @@
+{
+  "id": "9db51d61-317d-4a39-a4a1-a2d253b01be7",
+  "name": "梅宏",
+  "school": "北京理工大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：中国科学院院士，北京理工大学副校长。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f64f08c3-f522-43dd-a2a3-45dacda0a6f4",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "放羊，甩手，延期，混子，",
+      "dimensions": {}
+    }
+  ]
+}

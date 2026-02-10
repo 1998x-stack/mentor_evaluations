@@ -1,0 +1,21 @@
+{
+  "id": "a99f2325-a6ec-471c-a129-47bffd4ef1b3",
+  "name": "瞿芳术",
+  "school": "哈尔滨工业大学",
+  "department": "市政环境工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：离职了 与学生关系：利益驱使的关系，论文成果就呵呵 学生毕业去向：对找工作没什么用",
+      "dimensions": {
+        "师生关系": "利益驱使的",
+        "毕业去向": "对找工作没什么用"
+      }
+    }
+  ]
+}

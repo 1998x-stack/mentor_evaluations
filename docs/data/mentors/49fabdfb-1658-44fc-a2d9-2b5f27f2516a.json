@@ -1,0 +1,27 @@
+{
+  "id": "49fabdfb-1658-44fc-a2d9-2b5f27f2516a",
+  "name": "姜晓滨",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好老师 真的是很好的导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "为人和善，有学术前途。",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研能力强，对学生很好，对学生负责，改文章很快不拖拉，真正的好导师！",
+      "dimensions": {}
+    },
+    {
+      "comment": "年轻，态度好，平易近人。",
+      "dimensions": {}
+    }
+  ]
+}

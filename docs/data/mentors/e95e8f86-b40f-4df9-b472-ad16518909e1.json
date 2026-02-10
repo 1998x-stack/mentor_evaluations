@@ -1,0 +1,15 @@
+{
+  "id": "e95e8f86-b40f-4df9-b472-ad16518909e1",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师完全不做学术，并且需要学生大量做项目\n",
+      "dimensions": {}
+    }
+  ]
+}

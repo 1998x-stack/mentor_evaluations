@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>导师列表 - 导师评价系统</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/mentors.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">
+                <a href="index.html" style="color: inherit; text-decoration: none;">导师评价</a>
+            </h1>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">学校</a>
+                <a href="#" class="nav-link active">导师</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <section class="breadcrumb-section">
+        <div class="container">
+            <nav class="breadcrumb">
+                <a href="index.html" class="breadcrumb-link">学校</a>
+                <span class="breadcrumb-separator">›</span>
+                <span class="breadcrumb-current" id="schoolName">...</span>
+            </nav>
+        </div>
+    </section>
+
+    <!-- School Header -->
+    <section class="school-header">
+        <div class="container">
+            <h2 class="school-header-title" id="schoolHeaderTitle">...</h2>
+            <div class="school-header-stats">
+                <div class="school-header-stat">
+                    <div class="stat-label">导师数量</div>
+                    <div class="stat-value" id="mentorCount">-</div>
+                </div>
+                <div class="school-header-stat">
+                    <div class="stat-label">平均评分</div>
+                    <div class="stat-value" id="avgScore">-</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mentors List -->
+    <section class="mentors-section">
+        <div class="container">
+            <!-- Search and Filter -->
+            <div class="controls">
+                <div class="search-container">
+                    <input
+                        type="text"
+                        id="searchInput"
+                        class="search-input"
+                        placeholder="搜索导师姓名或院系..."
+                    >
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20">
+                        <path fill="currentColor" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"/>
+                    </svg>
+                </div>
+
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-sort="evaluationCount">按评价数</button>
+                    <button class="filter-btn" data-sort="totalScore">按评分</button>
+                    <button class="filter-btn" data-sort="name">按姓名</button>
+                </div>
+            </div>
+
+            <!-- Mentors Grid -->
+            <div class="mentors-grid" id="mentorsGrid">
+                <div class="loading">加载中...</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">
+                本平台仅供参考，评价来自学生真实反馈
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/common.js"></script>
+    <script src="js/mentors.js"></script>
+</body>
+</html>

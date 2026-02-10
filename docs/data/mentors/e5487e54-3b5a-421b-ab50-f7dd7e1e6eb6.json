@@ -1,0 +1,19 @@
+{
+  "id": "e5487e54-3b5a-421b-ab50-f7dd7e1e6eb6",
+  "name": "王燕",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王老师是个好老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "王燕老师是个非常和蔼的老师，与学生更像是朋友关系，很是关心学生。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fd3744f8-01cb-4664-b6f5-cc042f04888a",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：上过曾老师图像处理的本科课程，希望有同学能添加评价",
+      "dimensions": {}
+    }
+  ]
+}

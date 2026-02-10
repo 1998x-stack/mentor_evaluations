@@ -1,0 +1,15 @@
+{
+  "id": "f0201fab-dbd3-4cd0-b802-810020157d29",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "著名物理学家，经济学家，教育家",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d86ac5ae-16a3-4c3d-93c7-0a9e58fc90d5",
+  "name": "罗建",
+  "school": "上海大学",
+  "department": "机电工程与自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师， 尊重学生",
+      "dimensions": {}
+    }
+  ]
+}

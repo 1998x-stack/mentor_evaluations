@@ -1,0 +1,225 @@
+/* ============================================
+   Mentors Page Styles
+   ============================================ */
+
+/* Breadcrumb */
+.breadcrumb-section {
+    background: var(--color-background-secondary);
+    padding: var(--spacing-md) 0;
+}
+
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    font-size: 0.875rem;
+}
+
+.breadcrumb-link {
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: opacity var(--transition-fast);
+}
+
+.breadcrumb-link:hover {
+    opacity: 0.7;
+}
+
+.breadcrumb-separator {
+    color: var(--color-text-secondary);
+}
+
+.breadcrumb-current {
+    color: var(--color-text-primary);
+    font-weight: 500;
+}
+
+/* School Header */
+.school-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: var(--spacing-xxl) 0;
+    text-align: center;
+}
+
+.school-header-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: var(--spacing-lg);
+    letter-spacing: -1px;
+}
+
+.school-header-stats {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-xxl);
+}
+
+.school-header-stat {
+    text-align: center;
+}
+
+.school-header-stat .stat-label {
+    font-size: 0.9375rem;
+    opacity: 0.9;
+    margin-bottom: var(--spacing-xs);
+}
+
+.school-header-stat .stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+/* Mentors Section */
+.mentors-section {
+    padding: var(--spacing-xxl) 0;
+}
+
+.controls {
+    display: flex;
+    gap: var(--spacing-md);
+    margin-bottom: var(--spacing-xl);
+    align-items: center;
+}
+
+.controls .search-container {
+    flex: 1;
+    max-width: 400px;
+}
+
+/* Mentors Grid */
+.mentors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: var(--spacing-md);
+}
+
+.mentor-card {
+    background: var(--color-surface);
+    border-radius: var(--radius-lg);
+    padding: var(--spacing-lg);
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-medium);
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    border: 2px solid transparent;
+}
+
+.mentor-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-hover);
+    border-color: var(--color-primary);
+}
+
+.mentor-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-bottom: var(--spacing-md);
+}
+
+.mentor-info h3 {
+    font-size: 1.375rem;
+    font-weight: 600;
+    margin-bottom: var(--spacing-xs);
+}
+
+.mentor-department {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+}
+
+.mentor-score-badge {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-md);
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-align: center;
+    min-width: 60px;
+}
+
+.mentor-score-badge .score-label {
+    font-size: 0.75rem;
+    opacity: 0.9;
+    margin-top: 0.25rem;
+}
+
+/* Dimension Preview */
+.dimension-preview {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+    margin-bottom: var(--spacing-md);
+}
+
+.dimension-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.375rem 0.75rem;
+    background: var(--color-background-secondary);
+    border-radius: var(--radius-sm);
+    font-size: 0.8125rem;
+}
+
+.dimension-tag-name {
+    color: var(--color-text-secondary);
+}
+
+.dimension-tag-score {
+    font-weight: 600;
+    color: var(--color-text-primary);
+}
+
+/* Mentor Stats */
+.mentor-stats {
+    display: flex;
+    justify-content: space-between;
+    padding-top: var(--spacing-md);
+    border-top: 1px solid var(--color-border);
+}
+
+.mentor-stat {
+    text-align: center;
+}
+
+.mentor-stat-value {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-primary);
+}
+
+.mentor-stat-label {
+    font-size: 0.8125rem;
+    color: var(--color-text-secondary);
+    margin-top: 0.25rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .school-header-title {
+        font-size: 1.75rem;
+    }
+
+    .school-header-stats {
+        flex-direction: column;
+        gap: var(--spacing-md);
+    }
+
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .controls .search-container {
+        max-width: none;
+    }
+
+    .mentors-grid {
+        grid-template-columns: 1fr;
+    }
+}

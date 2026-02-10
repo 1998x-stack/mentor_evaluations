@@ -1,0 +1,19 @@
+{
+  "id": "f28331c2-c227-4d67-9f84-8479cab34e31",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "女老师事业心不强，心思主要在孩子上。几乎不读文献，只能凭经验给学生点建议。经费发放有限。人比较随和。",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研能力一般，基本上给不了学生什么指导。实验室属于放养型。学生平时工作时间自由。",
+      "dimensions": {}
+    }
+  ]
+}

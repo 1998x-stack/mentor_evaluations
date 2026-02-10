@@ -1,0 +1,19 @@
+{
+  "id": "0eb20ac8-64e4-4beb-8e76-5f45bc9aaa62",
+  "name": "陈怡疆",
+  "school": "厦门大学",
+  "department": "信息科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 8.25,
+  "dimensionScores": {
+    "师生关系": 8.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：教编译原理，研究方向是自然语言处理，为人可爱 与学生关系：上课认真负责，对学生态度很好",
+      "dimensions": {
+        "师生关系": "上课认真负责，对学生态度很好"
+      }
+    }
+  ]
+}

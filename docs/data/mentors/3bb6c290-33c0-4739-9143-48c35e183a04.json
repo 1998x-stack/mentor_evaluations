@@ -1,0 +1,19 @@
+{
+  "id": "3bb6c290-33c0-4739-9143-48c35e183a04",
+  "name": "霍玉秋",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "以前给我们上过物理化学课，完全对着PPT无感情低声读，下面学生趴倒一片。简直无语！",
+      "dimensions": {}
+    },
+    {
+      "comment": "东北师范大学本硕，东北大学博士。50多岁了，还只是副教授，基本处于混吃等死状态，没有仪器没有经费，为人强势，死逼学生，历届学生没有对她有过好感的。建议不要报她的实验室。",
+      "dimensions": {}
+    }
+  ]
+}

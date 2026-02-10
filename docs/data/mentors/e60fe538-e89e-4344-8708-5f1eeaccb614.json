@@ -1,0 +1,15 @@
+{
+  "id": "e60fe538-e89e-4344-8708-5f1eeaccb614",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "能力很强，对学生要求偏高，还可以接受吧",
+      "dimensions": {}
+    }
+  ]
+}

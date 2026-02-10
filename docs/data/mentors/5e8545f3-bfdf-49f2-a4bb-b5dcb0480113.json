@@ -1,0 +1,15 @@
+{
+  "id": "5e8545f3-bfdf-49f2-a4bb-b5dcb0480113",
+  "name": "孙永宣",
+  "school": "合肥工业大学",
+  "department": "计算机与信息学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，认真负责，爱讲ppt.作业还少",
+      "dimensions": {}
+    }
+  ]
+}

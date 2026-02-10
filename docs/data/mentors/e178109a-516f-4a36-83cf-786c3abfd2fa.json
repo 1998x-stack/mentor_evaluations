@@ -1,0 +1,15 @@
+{
+  "id": "e178109a-516f-4a36-83cf-786c3abfd2fa",
+  "name": "段振华",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "段振华 http://web.xidian.edu.cn/zhhduan/",
+      "dimensions": {}
+    }
+  ]
+}

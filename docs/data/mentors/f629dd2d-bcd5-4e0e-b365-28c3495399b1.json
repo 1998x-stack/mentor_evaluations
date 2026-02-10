@@ -1,0 +1,27 @@
+{
+  "id": "f629dd2d-bcd5-4e0e-b365-28c3495399b1",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "此实验室适合博士来～",
+      "dimensions": {}
+    },
+    {
+      "comment": "此老师有钱，只要你努力，但如果不努力，那能被骂成狗～",
+      "dimensions": {}
+    },
+    {
+      "comment": "适合做学术~",
+      "dimensions": {}
+    },
+    {
+      "comment": "想来做做学术还是可以的，为了混日子或者找好工作，不是一个好选择。",
+      "dimensions": {}
+    }
+  ]
+}

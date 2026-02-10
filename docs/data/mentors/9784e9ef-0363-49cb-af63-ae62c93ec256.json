@@ -1,0 +1,15 @@
+{
+  "id": "9784e9ef-0363-49cb-af63-ae62c93ec256",
+  "name": "丁凡",
+  "school": "浙江大学",
+  "department": "机械工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "机械学院非常优秀的老师，一般都是招的浙大优秀本科生，口碑非常好。",
+      "dimensions": {}
+    }
+  ]
+}

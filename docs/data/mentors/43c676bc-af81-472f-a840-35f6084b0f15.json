@@ -1,0 +1,15 @@
+{
+  "id": "43c676bc-af81-472f-a840-35f6084b0f15",
+  "name": "张涛",
+  "school": "东南大学",
+  "department": "仪器科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "还可以",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "92e4fa5f-d04e-4698-8e80-0715da20b762",
+  "name": "丁立",
+  "school": "北京航空航天大学",
+  "department": "生物与医学工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "打卡上班，劳务中饱私囊，",
+      "dimensions": {}
+    },
+    {
+      "comment": "一点也不小气，挺大方的，科研上更多需要自己努力，实验室环境还行，分人吧",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师很不错，对学生也很好。",
+      "dimensions": {}
+    }
+  ]
+}

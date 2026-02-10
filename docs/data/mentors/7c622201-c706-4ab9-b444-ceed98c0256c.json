@@ -1,0 +1,15 @@
+{
+  "id": "7c622201-c706-4ab9-b444-ceed98c0256c",
+  "name": "刘晓峻",
+  "school": "南京大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生非常好，很护着学生。\n指导学生非常认真负责。\n组内基本没有延期的。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9c947beb-8b52-406b-9ab3-27177f5223e5",
+  "name": "孟令杰",
+  "school": "西安交通大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师认真负责，人超nice，不可多得神仙导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "敬业爱岗，学术能力突出，个人修养高，对待学生以鼓励为主，课题组氛围很好，实验条件好",
+      "dimensions": {}
+    }
+  ]
+}

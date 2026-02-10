@@ -1,0 +1,15 @@
+{
+  "id": "af95ed82-5f70-4005-92df-d5d4348d6e93",
+  "name": "张彦华",
+  "school": "北京航空航天大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师人很好，讲课认真，对学生有耐心",
+      "dimensions": {}
+    }
+  ]
+}

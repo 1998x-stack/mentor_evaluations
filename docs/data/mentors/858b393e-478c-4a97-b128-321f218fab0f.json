@@ -1,0 +1,23 @@
+{
+  "id": "858b393e-478c-4a97-b128-321f218fab0f",
+  "name": "徐晖",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人很温和，对自己学生超级好，还带学生去自己家里吃饭，凡事有商有量，难得一见的好老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人很好，师生之间有感情。但是科研工作你也要好好做。每月都会有400块钱。",
+      "dimensions": {}
+    },
+    {
+      "comment": "在分析里面真的是人最nice的老师了，但是实验要求并不低",
+      "dimensions": {}
+    }
+  ]
+}

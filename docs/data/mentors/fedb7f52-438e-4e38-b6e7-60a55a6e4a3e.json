@@ -1,0 +1,15 @@
+{
+  "id": "fedb7f52-438e-4e38-b6e7-60a55a6e4a3e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "艾老师特别温和，有问题她会很耐心地帮助你，平时不怎么管你。",
+      "dimensions": {}
+    }
+  ]
+}

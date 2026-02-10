@@ -1,0 +1,15 @@
+{
+  "id": "5b6e9ff9-d81b-4788-becc-dd16ad565fe2",
+  "name": "李龙海",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李龙海 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

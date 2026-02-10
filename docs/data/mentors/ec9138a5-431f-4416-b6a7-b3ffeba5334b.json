@@ -1,0 +1,19 @@
+{
+  "id": "ec9138a5-431f-4416-b6a7-b3ffeba5334b",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "天线与微波技术国家重点实验室主任，天线所所长，理论水平高，人缘好，人脉广，课题组氛围轻松，毕业找工作能倾力推荐。",
+      "dimensions": {}
+    },
+    {
+      "comment": "龚老师是非常好的一个老师，very perfect",
+      "dimensions": {}
+    }
+  ]
+}

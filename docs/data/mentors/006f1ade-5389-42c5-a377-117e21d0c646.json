@@ -1,0 +1,15 @@
+{
+  "id": "006f1ade-5389-42c5-a377-117e21d0c646",
+  "name": "白芳",
+  "school": "南开大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不在药学院的，八里台生物楼",
+      "dimensions": {}
+    }
+  ]
+}

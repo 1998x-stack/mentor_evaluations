@@ -1,0 +1,15 @@
+{
+  "id": "4e51f66f-bc96-4008-a4c3-e10894abfec8",
+  "name": "张怡元",
+  "school": "厦门大学",
+  "department": "医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "手术国内一流，带教一流，学生有较多的练手机会，骨科开了自己的基础实验室",
+      "dimensions": {}
+    }
+  ]
+}

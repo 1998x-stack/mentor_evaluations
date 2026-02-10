@@ -1,0 +1,15 @@
+{
+  "id": "fd60cf1d-ce2f-45cf-b23a-219ae08ca442",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "该导师已离职创业，学生已转手给医学院导师。",
+      "dimensions": {}
+    }
+  ]
+}

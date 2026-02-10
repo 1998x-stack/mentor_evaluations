@@ -1,0 +1,15 @@
+{
+  "id": "e4142be1-d0f6-45e8-b98a-376dccaa4798",
+  "name": "幺莉",
+  "school": "天津大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：给本科生教学电机学",
+      "dimensions": {}
+    }
+  ]
+}

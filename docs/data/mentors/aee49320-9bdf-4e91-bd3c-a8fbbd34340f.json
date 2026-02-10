@@ -1,0 +1,19 @@
+{
+  "id": "aee49320-9bdf-4e91-bd3c-a8fbbd34340f",
+  "name": "吴洁",
+  "school": "华中科技大学",
+  "department": "数学与统计学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：我最爱的微积分老师，非常关心学生，十分敬业",
+      "dimensions": {
+        "师生关系": "我最爱的微积分老师，非常关心学生，十分敬业"
+      }
+    }
+  ]
+}

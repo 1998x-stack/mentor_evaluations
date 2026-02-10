@@ -1,0 +1,15 @@
+{
+  "id": "4bfb812a-8e72-43c1-b744-ab0a86576f0b",
+  "name": "张辉",
+  "school": "浙江大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "研究方向偏科研，工作的慎重。老师大方随和，比较好面子，不好意思让学生吃亏。",
+      "dimensions": {}
+    }
+  ]
+}

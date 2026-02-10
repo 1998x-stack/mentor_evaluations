@@ -1,0 +1,19 @@
+{
+  "id": "6c8f3602-eab5-4b20-a61c-58eec5ac526d",
+  "name": "熊源泉",
+  "school": "东南大学",
+  "department": "能源与环境学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "太过严肃，和学生很难亲近！",
+      "dimensions": {}
+    },
+    {
+      "comment": "抠门，不知道为何如此小气",
+      "dimensions": {}
+    }
+  ]
+}

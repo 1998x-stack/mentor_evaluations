@@ -1,0 +1,19 @@
+{
+  "id": "ffe3da59-5d27-49f1-8f49-8cd4996d0054",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师人很好，平时比较忙，但是对人很好，人脉资源丰富",
+      "dimensions": {
+        "师生关系": "老师人很好，平时比较忙，但是对人很好，人脉资源丰富"
+      }
+    }
+  ]
+}

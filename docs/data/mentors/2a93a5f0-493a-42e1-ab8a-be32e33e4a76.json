@@ -1,0 +1,31 @@
+{
+  "id": "2a93a5f0-493a-42e1-ab8a-be32e33e4a76",
+  "name": "何桢",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "何老师还是不错的。 至少对待自己的学生还是很宽容的。",
+      "dimensions": {}
+    },
+    {
+      "comment": "后悔没有选何老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "何老师，是个好人。",
+      "dimensions": {}
+    },
+    {
+      "comment": "真正质量管理界的大牛，想从事此行业的学生跟何老师准没错的。",
+      "dimensions": {}
+    },
+    {
+      "comment": "好导师，言传身教！ 工作5+2，白加黑啊~",
+      "dimensions": {}
+    }
+  ]
+}

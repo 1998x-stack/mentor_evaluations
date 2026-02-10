@@ -1,0 +1,19 @@
+{
+  "id": "faa86640-c47b-48b7-a3d1-511239e46acf",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "学生补助": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：第一学期每个月240，以后无",
+      "dimensions": {
+        "学生补助": "第一学期每个月240，以后无"
+      }
+    }
+  ]
+}

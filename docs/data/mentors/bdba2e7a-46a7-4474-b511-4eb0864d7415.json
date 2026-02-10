@@ -1,0 +1,15 @@
+{
+  "id": "bdba2e7a-46a7-4474-b511-4eb0864d7415",
+  "name": "李凤华",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李凤华 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

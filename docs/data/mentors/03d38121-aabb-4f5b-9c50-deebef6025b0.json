@@ -1,0 +1,19 @@
+{
+  "id": "03d38121-aabb-4f5b-9c50-deebef6025b0",
+  "name": "纪志坚",
+  "school": "青岛大学",
+  "department": "自动化",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "情商低到要命的老师，一意孤行，以自己为中心，不顾学生感受，人走茶凉，自我标榜极其清高，实际负责程度感人",
+      "dimensions": {}
+    },
+    {
+      "comment": "挺好的老师，只是与学生的关系处理一般",
+      "dimensions": {}
+    }
+  ]
+}

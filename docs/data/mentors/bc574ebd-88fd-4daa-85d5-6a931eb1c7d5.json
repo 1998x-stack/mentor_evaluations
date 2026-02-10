@@ -1,0 +1,15 @@
+{
+  "id": "bc574ebd-88fd-4daa-85d5-6a931eb1c7d5",
+  "name": "宋强",
+  "school": "北京理工大学",
+  "department": "机械与车辆学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术太差，人品低劣，一到毕业的关键时刻就拿各种屁事来卡人。",
+      "dimensions": {}
+    }
+  ]
+}

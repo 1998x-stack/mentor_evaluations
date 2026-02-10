@@ -1,0 +1,19 @@
+{
+  "id": "b5b31a43-cdce-49e1-8226-715e4fe58cbb",
+  "name": "黄忠亿",
+  "school": "清华大学",
+  "department": "数学科学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：关系很好，黄老师是一位值得尊敬的老师",
+      "dimensions": {
+        "师生关系": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "09f361fb-6cca-4d97-9450-dc455921298b",
+  "name": "孔胜利",
+  "school": "中国科学技术大学",
+  "department": "数学科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：非常nice的老师 减肥励志role model",
+      "dimensions": {
+        "师生关系": "非常nice的老师 减肥励志role model"
+      }
+    }
+  ]
+}

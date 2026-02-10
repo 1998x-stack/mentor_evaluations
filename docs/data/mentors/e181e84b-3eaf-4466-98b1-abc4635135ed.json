@@ -1,0 +1,23 @@
+{
+  "id": "e181e84b-3eaf-4466-98b1-abc4635135ed",
+  "name": "金小峥",
+  "school": "合肥工业大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "金老师跳槽了，不在工大哦",
+      "dimensions": {}
+    },
+    {
+      "comment": "好像跳槽了吧，去了沿海某高校",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：老师在逸夫楼1120，不是官网上写的1120",
+      "dimensions": {}
+    }
+  ]
+}

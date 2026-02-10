@@ -1,0 +1,15 @@
+{
+  "id": "ec6a6467-6885-4d1e-a015-3b30e2d31efc",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好老师，六十岁高龄了给我们认真的讲摩擦学原理这门课",
+      "dimensions": {}
+    }
+  ]
+}

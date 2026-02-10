@@ -1,0 +1,27 @@
+{
+  "id": "f9832baf-95ac-4a00-8b2d-cf70f9db5861",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "机械学院难得一见的好老师，带出了很多优秀的学生。",
+      "dimensions": {}
+    },
+    {
+      "comment": "学院学术能力最强的老师，培养出大把大把的神人。\n方向感兴趣的话是不二选择，不感兴趣的话找何炳蔚。",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常非常非常优秀的导师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "实力很强的博导，高层次老师",
+      "dimensions": {}
+    }
+  ]
+}

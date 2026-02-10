@@ -1,0 +1,15 @@
+{
+  "id": "9c3d9138-8ebc-41cb-baed-4f11b9e49ca6",
+  "name": "付少峰",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "付少峰 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

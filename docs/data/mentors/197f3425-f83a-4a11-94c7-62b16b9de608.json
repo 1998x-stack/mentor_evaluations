@@ -1,0 +1,15 @@
+{
+  "id": "197f3425-f83a-4a11-94c7-62b16b9de608",
+  "name": "陈振宇",
+  "school": "南京大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "实验室氛围很好，资源充足。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "517e1452-db7e-40a3-add9-54ebdd8179a0",
+  "name": "李久艳",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师好，待人宽和，指导有方",
+      "dimensions": {}
+    }
+  ]
+}

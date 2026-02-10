@@ -1,0 +1,19 @@
+{
+  "id": "10ab057a-a562-42d4-a744-8032c46cc2bd",
+  "name": "邓勇",
+  "school": "上海交通大学",
+  "department": "电子信息与电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：虽然邓老师已经不在sjtu了 与学生关系：邓老师为人真的非常非常nice，“学为人师，行为世范”",
+      "dimensions": {
+        "师生关系": "邓老师为人真的非常非常nice，“学为人师，行为世范”"
+      }
+    }
+  ]
+}

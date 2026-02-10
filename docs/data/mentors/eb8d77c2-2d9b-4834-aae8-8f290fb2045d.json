@@ -1,0 +1,19 @@
+{
+  "id": "eb8d77c2-2d9b-4834-aae8-8f290fb2045d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    },
+    {
+      "comment": "快九十岁了还天天认真坐班工作，学生们嘴上可能不说，但都打心眼里佩服这位“老北理工人”！",
+      "dimensions": {}
+    }
+  ]
+}

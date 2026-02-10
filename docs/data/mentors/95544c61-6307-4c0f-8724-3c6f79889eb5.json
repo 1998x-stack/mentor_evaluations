@@ -1,0 +1,19 @@
+{
+  "id": "95544c61-6307-4c0f-8724-3c6f79889eb5",
+  "name": "鲁雄刚",
+  "school": "上海大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研眼光长远，研究平台好！",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术思想深邃，对科研任务规划严谨细致，待人随和。",
+      "dimensions": {}
+    }
+  ]
+}

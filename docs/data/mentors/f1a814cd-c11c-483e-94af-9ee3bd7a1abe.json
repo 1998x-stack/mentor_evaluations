@@ -1,0 +1,15 @@
+{
+  "id": "f1a814cd-c11c-483e-94af-9ee3bd7a1abe",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陈性元 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

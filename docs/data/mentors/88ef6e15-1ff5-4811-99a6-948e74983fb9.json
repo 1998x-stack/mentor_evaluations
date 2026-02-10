@@ -1,0 +1,15 @@
+{
+  "id": "88ef6e15-1ff5-4811-99a6-948e74983fb9",
+  "name": "罗梅",
+  "school": "合肥工业大学",
+  "department": "化学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "五十多岁没结婚，有机化学差的一塌糊涂",
+      "dimensions": {}
+    }
+  ]
+}

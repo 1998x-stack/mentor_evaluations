@@ -1,0 +1,23 @@
+{
+  "id": "92fe9ec1-b539-4079-828e-c9a9873e81fb",
+  "name": "王晓",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人很好",
+      "dimensions": {}
+    },
+    {
+      "comment": "很好的导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力好",
+      "dimensions": {}
+    }
+  ]
+}

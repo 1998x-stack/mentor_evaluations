@@ -1,0 +1,19 @@
+{
+  "id": "af10bd23-fe80-4931-b494-01d18f26eb84",
+  "name": "肖瑞",
+  "school": "内蒙古医科大学",
+  "department": "病理学",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系:良师益友。与学生关系很融洽。医科大对学生最好的老师了。 \n科研水平: 真材实料，水平很高。\n",
+      "dimensions": {
+        "师生关系": "良师益友。与学生"
+      }
+    }
+  ]
+}

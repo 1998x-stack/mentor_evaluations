@@ -1,0 +1,15 @@
+{
+  "id": "4babece5-088d-4aad-ab76-3b8faa47bbbb",
+  "name": "王立成",
+  "school": "大连理工大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听说不错，人挺好的老师。",
+      "dimensions": {}
+    }
+  ]
+}

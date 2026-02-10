@@ -1,0 +1,15 @@
+{
+  "id": "fc55ef08-4160-41fe-bd2f-25a741a6a36c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "会计系最垃圾的老师，上课完全不知道在讲什么",
+      "dimensions": {}
+    }
+  ]
+}

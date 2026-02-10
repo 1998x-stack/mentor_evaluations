@@ -1,0 +1,21 @@
+{
+  "id": "1029c3a9-3383-46c5-8490-86c15e84d630",
+  "name": "高召兵",
+  "school": NaN,
+  "department": "上海药物研究所",
+  "evaluationCount": 1,
+  "totalScore": 4.12,
+  "dimensionScores": {
+    "经费情况": 5.0,
+    "师生关系": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "经费发放：老是蹭别忘记组试剂仪器 与学生关系：侮辱学生，水平差还天天想发naturescience",
+      "dimensions": {
+        "经费情况": "老是蹭别忘记组试剂仪器 与学生",
+        "师生关系": "侮辱学生，水平差还天天想发naturescience"
+      }
+    }
+  ]
+}

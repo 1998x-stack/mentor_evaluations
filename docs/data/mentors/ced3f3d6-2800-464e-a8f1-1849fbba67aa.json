@@ -1,0 +1,19 @@
+{
+  "id": "ced3f3d6-2800-464e-a8f1-1849fbba67aa",
+  "name": "辛峰",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：架子特别大，理论水平不高，觉得别人都不容自己的一个人",
+      "dimensions": {
+        "导师能力": "架子特别大，理论水平不高，觉得别人都不容自己的一个人"
+      }
+    }
+  ]
+}

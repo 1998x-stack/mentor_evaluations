@@ -1,0 +1,21 @@
+{
+  "id": "319e052b-2a16-436c-a694-4d70d7608ccb",
+  "name": "吴婷",
+  "school": "南京大学",
+  "department": "数学系",
+  "evaluationCount": 1,
+  "totalScore": 6.25,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：很赞 与学生关系：老师人特别好，对学生能耐心指导",
+      "dimensions": {
+        "导师能力": "很赞 与学生",
+        "师生关系": "老师人特别好，对学生能耐心指导"
+      }
+    }
+  ]
+}

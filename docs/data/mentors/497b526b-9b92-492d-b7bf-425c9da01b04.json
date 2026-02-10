@@ -1,0 +1,23 @@
+{
+  "id": "497b526b-9b92-492d-b7bf-425c9da01b04",
+  "name": "陈爱新",
+  "school": "北京航空航天大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师好，氛围也好，对学生很不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "一句话，可遇不可求！陈老师导师能力高，对学生各方面极好。课题组科研和生活氛围均很棒。",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师耐心实力强，性格好，处处为学生着想，学术指导总能抓住重点。实验室氛围超好！",
+      "dimensions": {}
+    }
+  ]
+}

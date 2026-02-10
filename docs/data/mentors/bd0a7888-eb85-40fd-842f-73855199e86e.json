@@ -1,0 +1,19 @@
+{
+  "id": "bd0a7888-eb85-40fd-842f-73855199e86e",
+  "name": "陈洪",
+  "school": "东南大学",
+  "department": "医学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很差劲",
+      "dimensions": {}
+    },
+    {
+      "comment": "啥都不说了。。已经毕业了读博了，跳出火坑了，这就是个坑货。下面的孩子们千万不要报啊。。。",
+      "dimensions": {}
+    }
+  ]
+}

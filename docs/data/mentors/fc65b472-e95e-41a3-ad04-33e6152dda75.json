@@ -1,0 +1,15 @@
+{
+  "id": "fc65b472-e95e-41a3-ad04-33e6152dda75",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "果园院长",
+      "dimensions": {}
+    }
+  ]
+}

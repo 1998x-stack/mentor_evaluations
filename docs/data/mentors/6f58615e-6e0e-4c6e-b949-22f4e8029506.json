@@ -1,0 +1,15 @@
+{
+  "id": "6f58615e-6e0e-4c6e-b949-22f4e8029506",
+  "name": "陈曦",
+  "school": "南京师范大学",
+  "department": "商学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人严厉，学术蛮好",
+      "dimensions": {}
+    }
+  ]
+}

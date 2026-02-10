@@ -1,0 +1,23 @@
+{
+  "id": "b7d7bd17-2230-4ac4-bb0e-d491c7dfbf48",
+  "name": "石琪",
+  "school": "太原理工大学",
+  "department": "化学化工学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人极其差，情商基本上只有三岁，敏感心眼小，爱推卸责任，跟着他读书，就是要发疯。",
+      "dimensions": {}
+    },
+    {
+      "comment": "一切都是为了自己的利益，人品极差，心眼小还想做大事，和每届学生关系都不行，没有周末。",
+      "dimensions": {}
+    },
+    {
+      "comment": "心眼小，有点女生性格，和他说话要十分小心，因为你每次和他说完话，他不知道会理解啥样，然后再去向大导打小报告，喜欢背后评价所有的学生，觉得所有的学生都不行。",
+      "dimensions": {}
+    }
+  ]
+}

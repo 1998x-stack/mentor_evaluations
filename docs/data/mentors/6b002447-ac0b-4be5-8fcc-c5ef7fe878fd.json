@@ -1,0 +1,23 @@
+{
+  "id": "6b002447-ac0b-4be5-8fcc-c5ef7fe878fd",
+  "name": "刘引烽",
+  "school": "上海大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：自从本科到研究生一直和刘老师关系挺好，但是不是他的学生 与学生关系：和学生关系都挺好，刘老师很好说话，基本没听到差评。",
+      "dimensions": {
+        "师生关系": "和学生"
+      }
+    },
+    {
+      "comment": "利益相关：高分子系副主任，，，看着和蔼可亲",
+      "dimensions": {}
+    }
+  ]
+}

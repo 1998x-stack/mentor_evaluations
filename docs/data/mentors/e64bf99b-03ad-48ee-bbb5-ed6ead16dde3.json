@@ -1,0 +1,15 @@
+{
+  "id": "e64bf99b-03ad-48ee-bbb5-ed6ead16dde3",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "接了好多项目，手下都是女生",
+      "dimensions": {}
+    }
+  ]
+}

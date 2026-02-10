@@ -1,0 +1,15 @@
+{
+  "id": "dd34714d-0117-4467-aa55-6bbca23a3788",
+  "name": "王琨(男)",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王琨（男）是硕士生导师，学科是计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

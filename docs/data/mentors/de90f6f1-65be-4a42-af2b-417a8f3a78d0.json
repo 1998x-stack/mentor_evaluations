@@ -1,0 +1,27 @@
+{
+  "id": "de90f6f1-65be-4a42-af2b-417a8f3a78d0",
+  "name": "陈曦",
+  "school": "北京交通大学",
+  "department": "土木建筑工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "四星推荐。陈老师是编程序的，岩土工程方面编程序的，很牛。",
+      "dimensions": {}
+    },
+    {
+      "comment": "五星推荐。经常看到他骑着自行车，带着他的小娃娃，他俩还经常去操场踢足球，真幸福。挺好。",
+      "dimensions": {}
+    },
+    {
+      "comment": "推荐。导师能力很高，在岩土工程数值方法方面很强，很牛。陈老师也经常很晚才下班的，很佩服。可能他横向项目少，补助比较少甚至没有，对学生要求也高，现在学生水平太差了吧。",
+      "dimensions": {}
+    },
+    {
+      "comment": "很牛，学术编程序的。可能横向那种挣钱的项目比较少。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "425ca507-b67e-4a9a-9130-1fe496f5ccc7",
+  "name": "李强",
+  "school": "清华大学",
+  "department": "人文学院，新闻与传播学院，美术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "欢迎大家投票和评论",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59be00ea-f3f1-472b-b65f-246d4939ebf2",
+  "name": "姜文",
+  "school": NaN,
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "属于龚书喜老师课题组，年轻有为，目前比较不错的硕导之一。",
+      "dimensions": {}
+    }
+  ]
+}

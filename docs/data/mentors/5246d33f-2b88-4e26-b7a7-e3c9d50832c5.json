@@ -1,0 +1,19 @@
+{
+  "id": "5246d33f-2b88-4e26-b7a7-e3c9d50832c5",
+  "name": "马建峰",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很忙，经常出差，接触的次数不多，但个人感觉老师人很好。",
+      "dimensions": {}
+    },
+    {
+      "comment": "工资高，项目多，很锻炼能力，也很有远见。",
+      "dimensions": {}
+    }
+  ]
+}

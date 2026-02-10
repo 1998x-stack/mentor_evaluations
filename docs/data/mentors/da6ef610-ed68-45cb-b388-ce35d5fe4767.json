@@ -1,0 +1,21 @@
+{
+  "id": "da6ef610-ed68-45cb-b388-ce35d5fe4767",
+  "name": "吴宝贵",
+  "school": "中国石油大学(华东)",
+  "department": "机电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75,
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：尊重学生，为学生着想，与学生关系融洽 学生毕业去向：关心学生毕业去向",
+      "dimensions": {
+        "师生关系": "尊重学生，为学生着想，与学生",
+        "毕业去向": "关心学生毕业"
+      }
+    }
+  ]
+}

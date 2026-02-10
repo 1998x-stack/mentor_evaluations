@@ -1,0 +1,27 @@
+{
+  "id": "e5fb943b-85b9-4e9d-bf61-78e809fc3df0",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：208 导师能力：学术型 学生补助：500 工作时间：周六加",
+      "dimensions": {
+        "导师能力": "学术型 学生",
+        "学生补助": "500 工作",
+        "工作时间": "周六加"
+      }
+    },
+    {
+      "comment": "师德极差 几乎没有师德 压榨学生 只能给他写论文 补助很少 情商不在线 认为什么都是理所应当 ",
+      "dimensions": {}
+    }
+  ]
+}

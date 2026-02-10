@@ -1,0 +1,15 @@
+{
+  "id": "c469bdb7-2cbd-44ca-bf9e-c477664d0f65",
+  "name": "李昂生",
+  "school": "北京航空航天大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：从中科院软件所跳槽到北航计算机学院。",
+      "dimensions": {}
+    }
+  ]
+}

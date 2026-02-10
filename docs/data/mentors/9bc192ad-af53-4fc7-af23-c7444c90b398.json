@@ -1,0 +1,15 @@
+{
+  "id": "9bc192ad-af53-4fc7-af23-c7444c90b398",
+  "name": "刘春",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "极品。",
+      "dimensions": {}
+    }
+  ]
+}

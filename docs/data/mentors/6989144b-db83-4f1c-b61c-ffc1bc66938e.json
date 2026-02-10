@@ -1,0 +1,15 @@
+{
+  "id": "6989144b-db83-4f1c-b61c-ffc1bc66938e",
+  "name": "王宝安",
+  "school": "东南大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听说是电气学院风云人物，不敢妄评。",
+      "dimensions": {}
+    }
+  ]
+}

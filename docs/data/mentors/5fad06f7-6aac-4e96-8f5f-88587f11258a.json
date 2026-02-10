@@ -1,0 +1,15 @@
+{
+  "id": "5fad06f7-6aac-4e96-8f5f-88587f11258a",
+  "name": "李国逊",
+  "school": "南开大学",
+  "department": "医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "性格真的超好，重来不会骂人，哪怕他再生你的气，最多就是他自己暗暗叹一口气，让你产生无限的愧疚。",
+      "dimensions": {}
+    }
+  ]
+}

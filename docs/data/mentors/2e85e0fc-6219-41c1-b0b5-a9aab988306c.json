@@ -1,0 +1,15 @@
+{
+  "id": "2e85e0fc-6219-41c1-b0b5-a9aab988306c",
+  "name": "张小兵",
+  "school": "南开大学",
+  "department": "物理科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "期末考试会划重点，但是还是会挂人",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f8c26dd1-1c38-4784-b838-4781dd9737b6",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨力 http://web.xidian.edu.cn/yangli/",
+      "dimensions": {}
+    }
+  ]
+}

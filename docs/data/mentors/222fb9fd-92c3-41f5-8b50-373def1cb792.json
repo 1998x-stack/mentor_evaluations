@@ -1,0 +1,15 @@
+{
+  "id": "222fb9fd-92c3-41f5-8b50-373def1cb792",
+  "name": "安建平",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

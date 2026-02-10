@@ -1,0 +1,19 @@
+{
+  "id": "23cf2d8a-51e6-4d54-b988-a7509f49838a",
+  "name": "陆军",
+  "school": "北京化工大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陆老师棒棒哒，希望大家多多支持。\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "化新楼B座204，陆老师是一个学识渊博的老师，待人和蔼，具有优青称号，实验室常年人数保持在15-20之间，有留学生，硕士有补助，博士补助高点，人才培养以学生自我发挥！实验经费充足，实验上愿意花钱！\n",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "b08899e5-a66c-4d57-b6d0-d607dbf04329",
+  "name": "王宁",
+  "school": "大连理工大学",
+  "department": "电气工程学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "男友导师。超级好。处处为学生考虑。心特别善。",
+      "dimensions": {}
+    },
+    {
+      "comment": "王宁老师人很随和，不管生活，学业还是就业工作处处为学生着想，真真切切是学术界的一股清流。满分好评！",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，为学生着想",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师非常nice，值得学习。。",
+      "dimensions": {}
+    },
+    {
+      "comment": "满分都不够给，我老师就是好，哪都好",
+      "dimensions": {}
+    }
+  ]
+}

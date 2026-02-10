@@ -1,0 +1,15 @@
+{
+  "id": "ee227054-4619-45a4-b081-f43627e0a183",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不知道为什么在这出现，是行政老师，主管科研，不带学生。",
+      "dimensions": {}
+    }
+  ]
+}

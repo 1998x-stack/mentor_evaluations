@@ -1,0 +1,15 @@
+{
+  "id": "44906fa2-189a-4545-b9fc-cb2a94fe3cc1",
+  "name": "张兴华",
+  "school": "武汉大学",
+  "department": "生命科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "课题很有意思，但是跟生物学的关系不大，有点偏物理，老板人还是很nice的",
+      "dimensions": {}
+    }
+  ]
+}

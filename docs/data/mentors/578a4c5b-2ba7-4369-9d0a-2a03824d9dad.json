@@ -1,0 +1,29 @@
+{
+  "id": "578a4c5b-2ba7-4369-9d0a-2a03824d9dad",
+  "name": "彭响方",
+  "school": "华南理工大学",
+  "department": "机械与汽车学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：不评价自己看 https://baijiahao.baidu.com/s?id=161467 ... der&for=pc 导师能力：https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 经费发放：https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 学生补助：https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 与学生关系：https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 工作时间：https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 学生毕业去向：https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc",
+      "dimensions": {
+        "导师能力": "https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc",
+        "经费情况": "https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 学生",
+        "学生补助": "https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 与学生",
+        "师生关系": "https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 工作",
+        "工作时间": "https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc 学生毕业",
+        "毕业去向": "https://baijiahao.baidu.com/s?id=1614673772376197017&wfr=spider&for=pc"
+      }
+    }
+  ]
+}

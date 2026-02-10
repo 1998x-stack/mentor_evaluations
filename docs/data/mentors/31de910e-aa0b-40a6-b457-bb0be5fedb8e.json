@@ -1,0 +1,15 @@
+{
+  "id": "31de910e-aa0b-40a6-b457-bb0be5fedb8e",
+  "name": "史先俊",
+  "school": "哈尔滨工业大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "讲课认真，极富经验，深入学生，细致入微。",
+      "dimensions": {}
+    }
+  ]
+}

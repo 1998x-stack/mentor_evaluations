@@ -1,0 +1,21 @@
+{
+  "id": "bae8e92f-e083-4c37-8d5a-ee7bd794b1af",
+  "name": "杨福霞",
+  "school": "华中农业大学",
+  "department": "经济管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：人文楼副楼 A218 导师能力：发表多篇ssci 学生补助：1000",
+      "dimensions": {
+        "导师能力": "发表多篇ssci 学生",
+        "学生补助": "1000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6f5b1c93-cca0-4f59-ab7b-453249453d85",
+  "name": "王越",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

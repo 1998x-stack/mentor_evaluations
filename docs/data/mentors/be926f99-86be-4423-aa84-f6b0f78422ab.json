@@ -1,0 +1,23 @@
+{
+  "id": "be926f99-86be-4423-aa84-f6b0f78422ab",
+  "name": "吴建平",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常nice. 不愧是清华计算机系系主任",
+      "dimensions": {}
+    },
+    {
+      "comment": "虽然老吴很nice，不过这个评价没意义，因为老吴不带学生了，所以要看实际跟的小老板，不过，老吴的学生有一个好处，就是博二可以自己选小老板，如果受不了一定要换",
+      "dimensions": {}
+    },
+    {
+      "comment": "吴老板人比较nice，但已经不带学生了～都是将学生分给其他老师",
+      "dimensions": {}
+    }
+  ]
+}

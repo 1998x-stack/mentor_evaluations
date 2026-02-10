@@ -1,0 +1,15 @@
+{
+  "id": "2c28b9d6-e3be-43f3-8fdb-b602f44066c7",
+  "name": "牛文生",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "牛文生 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "45f33a7b-7165-41ac-b4d6-15ede957944f",
+  "name": "陈建勋",
+  "school": "长安大学",
+  "department": "公路学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：交通科技大厦1001 学生补助：800 工作时间：经常加班",
+      "dimensions": {
+        "学生补助": "800 工作",
+        "工作时间": "经常加班"
+      }
+    }
+  ]
+}

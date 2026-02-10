@@ -1,0 +1,15 @@
+{
+  "id": "9a809e4f-2c7e-4414-b592-351737f5b195",
+  "name": "唐军",
+  "school": "东南大学",
+  "department": "建筑学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好 也有不少项目 还有猫",
+      "dimensions": {}
+    }
+  ]
+}

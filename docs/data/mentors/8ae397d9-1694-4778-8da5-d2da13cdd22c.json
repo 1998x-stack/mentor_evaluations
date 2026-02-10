@@ -1,0 +1,15 @@
+{
+  "id": "8ae397d9-1694-4778-8da5-d2da13cdd22c",
+  "name": "许鲁",
+  "school": NaN,
+  "department": "计算技术研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不替学生考虑，指导很少，博士六年才能毕业，浪费青春浪费生命",
+      "dimensions": {}
+    }
+  ]
+}

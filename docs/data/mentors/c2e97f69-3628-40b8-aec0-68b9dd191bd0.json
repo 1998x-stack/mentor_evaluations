@@ -1,0 +1,15 @@
+{
+  "id": "c2e97f69-3628-40b8-aec0-68b9dd191bd0",
+  "name": "廖桂生",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "看人下菜，经常做损人利己的事",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "45fec4a2-4aea-46b5-a863-191ae23742ff",
+  "name": "王印",
+  "school": "四川农业大学",
+  "department": "动物医学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "心中最好的老师，没有之一",
+      "dimensions": {}
+    },
+    {
+      "comment": "能当您的学生，是我的福气，处处为学生着想",
+      "dimensions": {}
+    },
+    {
+      "comment": "感谢王老师对我的容忍和教导",
+      "dimensions": {}
+    }
+  ]
+}

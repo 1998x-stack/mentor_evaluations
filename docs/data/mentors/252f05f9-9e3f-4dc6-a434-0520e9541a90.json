@@ -1,0 +1,19 @@
+{
+  "id": "252f05f9-9e3f-4dc6-a434-0520e9541a90",
+  "name": "樊红敏",
+  "school": "郑州大学",
+  "department": "公共管理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "奇葩老师 不光坑自己学生一辈子 还坑学生全家",
+      "dimensions": {}
+    },
+    {
+      "comment": "千言万语汇成一句话：没有假期，多劳少得，甚至负得，付出太多，最后毕业了啥jb用都没用。",
+      "dimensions": {}
+    }
+  ]
+}

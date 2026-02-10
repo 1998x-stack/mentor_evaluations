@@ -1,0 +1,15 @@
+{
+  "id": "b188c803-ae2b-466b-9c84-4ba8320059e9",
+  "name": "张庆顺",
+  "school": "重庆大学",
+  "department": "建筑城规学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术和设计能力都强，要求严格",
+      "dimensions": {}
+    }
+  ]
+}

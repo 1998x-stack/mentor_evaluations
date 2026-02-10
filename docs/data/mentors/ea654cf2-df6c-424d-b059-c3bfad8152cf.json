@@ -1,0 +1,21 @@
+{
+  "id": "ea654cf2-df6c-424d-b059-c3bfad8152cf",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 4.12,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：计算机系5楼 学生补助：很少 工作时间：放养式指导",
+      "dimensions": {
+        "学生补助": "很少 工作",
+        "工作时间": "放养式指导"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c013f554-72f8-4d66-b0cb-7b079ba869b0",
+  "name": "陈伟",
+  "school": "吉林大学",
+  "department": "机械科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "没怎么带学生，但是通过交流，这个人还是很nice的",
+      "dimensions": {}
+    }
+  ]
+}

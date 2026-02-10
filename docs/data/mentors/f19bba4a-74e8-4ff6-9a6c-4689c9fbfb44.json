@@ -1,0 +1,15 @@
+{
+  "id": "f19bba4a-74e8-4ff6-9a6c-4689c9fbfb44",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：请了解的同学评价一下这位教授",
+      "dimensions": {}
+    }
+  ]
+}

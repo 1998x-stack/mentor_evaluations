@@ -1,0 +1,21 @@
+{
+  "id": "8384258e-7f35-490d-be12-091a444da7c4",
+  "name": "蒋栋",
+  "school": "华中科技大学",
+  "department": "电气与电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：杰出青千，在电力电子领域有知名度 经费发放：经费宽裕",
+      "dimensions": {
+        "导师能力": "杰出青千，在电力电子领域有知名度",
+        "经费情况": ""
+      }
+    }
+  ]
+}

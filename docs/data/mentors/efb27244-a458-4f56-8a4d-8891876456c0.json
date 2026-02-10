@@ -1,0 +1,27 @@
+{
+  "id": "efb27244-a458-4f56-8a4d-8891876456c0",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好老师！真心好！",
+      "dimensions": {}
+    },
+    {
+      "comment": "刘老师人太好了，遇到好导师很幸运！",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，如果再选一次，我还会选刘老师做导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "好人呐！",
+      "dimensions": {}
+    }
+  ]
+}

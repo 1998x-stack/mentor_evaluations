@@ -1,0 +1,29 @@
+{
+  "id": "f8739982-ca1c-4762-940f-4c5d9c54e994",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：老师年轻有为，学术能力很强 与学生关系：深受学生爱戴",
+      "dimensions": {
+        "导师能力": "老师年轻有为，学术能力很强 与学生",
+        "师生关系": "深受学生爱戴"
+      }
+    },
+    {
+      "comment": "离婚加破产，顺子不复当年了",
+      "dimensions": {}
+    },
+    {
+      "comment": "近年来积极投身互联网创业，早已无心思教书育人",
+      "dimensions": {}
+    }
+  ]
+}

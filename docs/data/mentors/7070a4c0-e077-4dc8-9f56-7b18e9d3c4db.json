@@ -1,0 +1,23 @@
+{
+  "id": "7070a4c0-e077-4dc8-9f56-7b18e9d3c4db",
+  "name": "郭雄",
+  "school": "西安交通大学",
+  "department": "医学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "郭老师对学生是出了名的好，不为名，不为利，只为学生好；我一生中的转折点不少，最大的转折就在郭老师这里，是他给我机会，让我有了不同的人生，在这对老师表示衷心的感谢！",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师和蔼可亲，平易近人。科研能力极强，人际关系很好，对学生很好。",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，师恩永记",
+      "dimensions": {}
+    }
+  ]
+}

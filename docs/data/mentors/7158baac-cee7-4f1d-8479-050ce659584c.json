@@ -1,0 +1,19 @@
+{
+  "id": "7158baac-cee7-4f1d-8479-050ce659584c",
+  "name": "詹仁左",
+  "school": "上海交通大学",
+  "department": "安泰经济与管理学院，中欧国际工商学院，凯原法学院，外国语学院，人文学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：詹老师是很棒的画家，人特别好。但是已经退休了。",
+      "dimensions": {
+        "师生关系": "詹老师是很棒的画家，人特别好。但是已经退休了。"
+      }
+    }
+  ]
+}

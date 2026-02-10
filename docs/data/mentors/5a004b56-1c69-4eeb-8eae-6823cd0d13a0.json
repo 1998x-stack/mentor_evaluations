@@ -1,0 +1,19 @@
+{
+  "id": "5a004b56-1c69-4eeb-8eae-6823cd0d13a0",
+  "name": "陈星",
+  "school": "合肥工业大学",
+  "department": "外国语言学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：胖戳 与学生关系：乱开学生玩笑",
+      "dimensions": {
+        "师生关系": "乱开学生玩笑"
+      }
+    }
+  ]
+}

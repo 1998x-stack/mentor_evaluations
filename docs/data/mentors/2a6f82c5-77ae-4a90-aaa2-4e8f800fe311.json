@@ -1,0 +1,15 @@
+{
+  "id": "2a6f82c5-77ae-4a90-aaa2-4e8f800fe311",
+  "name": "陈亮",
+  "school": "河北工业大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好啊 很不错 人很好 性格好 脾气好",
+      "dimensions": {}
+    }
+  ]
+}

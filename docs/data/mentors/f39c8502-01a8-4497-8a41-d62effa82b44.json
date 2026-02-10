@@ -1,0 +1,15 @@
+{
+  "id": "f39c8502-01a8-4497-8a41-d62effa82b44",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：该老师对学生极为严苛，办公室在材料学院。",
+      "dimensions": {}
+    }
+  ]
+}

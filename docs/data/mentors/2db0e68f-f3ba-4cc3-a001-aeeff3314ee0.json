@@ -1,0 +1,27 @@
+{
+  "id": "2db0e68f-f3ba-4cc3-a001-aeeff3314ee0",
+  "name": "向宏军",
+  "school": "北京交通大学",
+  "department": "土木建筑工程学院",
+  "evaluationCount": 3,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "优青，导师能力高，论文很多。对学生不错。未来很有潜力",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：我向导绝对是土建最好的导师，年纪轻，能力强，给professor Xiang 打Call",
+      "dimensions": {
+        "导师能力": "我向导绝对是土建最好的导师，年纪轻，能力强，给professor Xiang 打Call"
+      }
+    },
+    {
+      "comment": "推荐吧。很帅的老师，年轻有为。他的结构动力学课程不错的，哈哈",
+      "dimensions": {}
+    }
+  ]
+}

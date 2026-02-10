@@ -1,0 +1,15 @@
+{
+  "id": "46155316-0122-4bec-b67e-7f3bd95a62e0",
+  "name": "金明玉",
+  "school": "延边大学",
+  "department": "医学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "私自将学生的信息上报，然后让学生将劳务费转到固定的卡号。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "58bd6e91-8a1b-439d-aa89-74799a7b1fde",
+  "name": "陆汝钤",
+  "school": NaN,
+  "department": "数学与系统科学研究院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "如果想走科研这条路，不要来，如果只是想拿学位，那就更不要来了",
+      "dimensions": {}
+    },
+    {
+      "comment": "最好不来这，智商情商都很高的除外。",
+      "dimensions": {}
+    },
+    {
+      "comment": "陆老师岁数比较大了，没有精力带学生。学生延期毕业是常态。感觉整个师门很压抑，没有好的学术氛围。",
+      "dimensions": {}
+    },
+    {
+      "comment": "学生毕业去向：陆老师的学生毕业很困难，基本在自己做科研，得不到指导",
+      "dimensions": {
+        "毕业去向": "陆老师的学生毕业很困难，基本在自己做科研，得不到指导"
+      }
+    }
+  ]
+}

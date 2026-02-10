@@ -1,0 +1,19 @@
+{
+  "id": "6e51fa95-64ba-4b43-9c21-0164212adf3e",
+  "name": "徐暾海",
+  "school": "北京中医药大学",
+  "department": "中药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：每年都有学生哭着喊想要退学要转导师的，当然在体制下大部分只能忍气吞声熬到毕业",
+      "dimensions": {
+        "师生关系": "每年都有学生哭着喊想要退学要转导师的，当然在体制下大部分只能忍气吞声熬到毕业"
+      }
+    }
+  ]
+}

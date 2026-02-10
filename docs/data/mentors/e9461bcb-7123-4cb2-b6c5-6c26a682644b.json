@@ -1,0 +1,15 @@
+{
+  "id": "e9461bcb-7123-4cb2-b6c5-6c26a682644b",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：口头禅：可以！很好！",
+      "dimensions": {}
+    }
+  ]
+}

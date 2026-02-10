@@ -1,0 +1,19 @@
+{
+  "id": "1bbd3ff8-fe21-4cd0-b4f1-bc02f98932fc",
+  "name": "李文渊",
+  "school": "东南大学",
+  "department": "信息科学与工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "差到爆，宁可不读也不要来！！！",
+      "dimensions": {}
+    },
+    {
+      "comment": "不知道为啥喜欢招女学生。学生发论文，他必须是第一作者。总之，几乎没听说他有啥优点，满坑爹的导师。",
+      "dimensions": {}
+    }
+  ]
+}

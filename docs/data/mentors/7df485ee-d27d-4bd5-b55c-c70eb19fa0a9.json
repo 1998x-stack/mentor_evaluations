@@ -1,0 +1,15 @@
+{
+  "id": "7df485ee-d27d-4bd5-b55c-c70eb19fa0a9",
+  "name": "刘剑淼",
+  "school": "华中科技大学",
+  "department": "生命科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人不常在学校 对学生指导非常细致",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "910c52d6-17eb-4499-9511-c5e06ab1d06c",
+  "name": "张洪潮",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我叫周凯，可持续所团队非常棒！欢迎大家加入！",
+      "dimensions": {}
+    },
+    {
+      "comment": "我叫李明政，同款为老师代言。一位全心全意为学生着想，尽全力帮助学生的尽职尽责的好老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "我叫朱南京，我为张老师带盐，张老师绝对的好老师。",
+      "dimensions": {}
+    }
+  ]
+}

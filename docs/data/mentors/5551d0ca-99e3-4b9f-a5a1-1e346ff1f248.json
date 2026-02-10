@@ -1,0 +1,29 @@
+{
+  "id": "5551d0ca-99e3-4b9f-a5a1-1e346ff1f248",
+  "name": "王刚",
+  "school": "香港科技大学",
+  "department": "Department of Civil and Environmental Engineering",
+  "evaluationCount": 2,
+  "totalScore": 5.44,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：华水利系本科 伯克利博士毕业 王老师非常聪明有趣 导师能力：还用问么 非常好啊 学生补助：按照香港规定来 与学生关系：关系很好 工作时间：加班不加班看自己吧",
+      "dimensions": {
+        "导师能力": "还用问么 非常好啊 学生",
+        "学生补助": "按照香港规定来 与学生",
+        "师生关系": "",
+        "工作时间": "加班不加班看自己吧"
+      }
+    },
+    {
+      "comment": "利益相关：马上联系王老师，希望师兄师姐评论",
+      "dimensions": {}
+    }
+  ]
+}

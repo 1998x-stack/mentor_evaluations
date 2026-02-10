@@ -1,0 +1,15 @@
+{
+  "id": "1c4ec9ee-3498-4b4b-ab81-2c5c52080bfd",
+  "name": "李四海",
+  "school": "西北工业大学",
+  "department": "自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "选过他的课，感觉很油的一个老师",
+      "dimensions": {}
+    }
+  ]
+}

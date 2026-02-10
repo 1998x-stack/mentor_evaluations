@@ -1,0 +1,15 @@
+{
+  "id": "92883c1b-6c69-48a1-bcbd-6e498e107596",
+  "name": "孙瑜",
+  "school": "南京理工大学",
+  "department": "自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "脾气较怀，与学生关系不佳",
+      "dimensions": {}
+    }
+  ]
+}

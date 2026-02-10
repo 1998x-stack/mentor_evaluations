@@ -1,0 +1,15 @@
+{
+  "id": "d8bfba69-2df9-464b-8ac0-da5da2de36df",
+  "name": "王立国",
+  "school": "哈尔滨工业大学",
+  "department": "电气工程及自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很好，循序善诱，教书育人",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6ef5f5fa-a185-45f0-9d9d-560f8dba20ba",
+  "name": "AndersLindquist",
+  "school": "上海交通大学",
+  "department": "电子信息与电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：在lindquist面前，其他所有的导师都是渣渣。。。但是，lindquist不带学生吧？",
+      "dimensions": {
+        "导师能力": "在lindquist面前，其他所有的导师都是渣渣。。。但是，lindquist不带学生吧？"
+      }
+    }
+  ]
+}

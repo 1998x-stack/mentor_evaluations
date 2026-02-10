@@ -1,0 +1,15 @@
+{
+  "id": "a8213884-54af-4c17-a24d-55a677f0a71d",
+  "name": "李凯",
+  "school": "东南大学",
+  "department": "计算机科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李老师想法超群，标新立异，是一个能拿图灵的男人。",
+      "dimensions": {}
+    }
+  ]
+}

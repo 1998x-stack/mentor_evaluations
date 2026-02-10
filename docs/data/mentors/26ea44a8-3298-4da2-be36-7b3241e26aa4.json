@@ -1,0 +1,15 @@
+{
+  "id": "26ea44a8-3298-4da2-be36-7b3241e26aa4",
+  "name": "章东",
+  "school": "南京大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "章老师为人随和，实验室经费充足，课题组没有硬性要求，时间相对弹性，导师也认真负责，会提供最好的帮助",
+      "dimensions": {}
+    }
+  ]
+}

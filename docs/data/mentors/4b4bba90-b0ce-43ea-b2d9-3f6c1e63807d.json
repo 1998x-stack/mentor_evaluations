@@ -1,0 +1,15 @@
+{
+  "id": "4b4bba90-b0ce-43ea-b2d9-3f6c1e63807d",
+  "name": "李辉",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李辉 http://web.xidian.edu.cn/hli/",
+      "dimensions": {}
+    }
+  ]
+}

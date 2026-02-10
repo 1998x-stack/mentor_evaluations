@@ -1,0 +1,15 @@
+{
+  "id": "29037e79-18f4-4585-a5f9-b578c3ca18b0",
+  "name": "陈悦",
+  "school": "南开大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "药化合成方向，药学院几个比较好的老师之一",
+      "dimensions": {}
+    }
+  ]
+}

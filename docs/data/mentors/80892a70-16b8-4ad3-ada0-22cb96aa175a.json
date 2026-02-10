@@ -1,0 +1,15 @@
+{
+  "id": "80892a70-16b8-4ad3-ada0-22cb96aa175a",
+  "name": "赵扬",
+  "school": "厦门大学",
+  "department": "航空航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：吉林大学硕博，项目少钱少人比较懒散",
+      "dimensions": {}
+    }
+  ]
+}

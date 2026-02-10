@@ -1,0 +1,19 @@
+{
+  "id": "f8c7a188-6ad8-45d9-bebc-1bdcfb863ccd",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "工作时间：周六加班，有事随时来。",
+      "dimensions": {
+        "工作时间": "周六加班，有事随时来。"
+      }
+    }
+  ]
+}

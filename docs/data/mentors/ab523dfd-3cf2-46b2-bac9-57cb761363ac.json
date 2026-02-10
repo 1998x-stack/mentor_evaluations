@@ -1,0 +1,15 @@
+{
+  "id": "ab523dfd-3cf2-46b2-bac9-57cb761363ac",
+  "name": "彭杰",
+  "school": "清华大学",
+  "department": "航天航空学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "如果喜欢他的方向，跟着他做相当不错",
+      "dimensions": {}
+    }
+  ]
+}

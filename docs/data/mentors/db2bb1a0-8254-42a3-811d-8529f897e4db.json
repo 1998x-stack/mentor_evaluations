@@ -1,0 +1,15 @@
+{
+  "id": "db2bb1a0-8254-42a3-811d-8529f897e4db",
+  "name": "吴洪",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "和蔼可亲，关心学生的老师。因材施教，与学生经常交流，培养的方向会尊重学生的意愿的好老师。",
+      "dimensions": {}
+    }
+  ]
+}

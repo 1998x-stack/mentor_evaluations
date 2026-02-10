@@ -1,0 +1,15 @@
+{
+  "id": "5532907f-2d52-4f73-8528-0e6019db77c6",
+  "name": "孔庆鹏",
+  "school": NaN,
+  "department": "昆明动物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学生延期严重",
+      "dimensions": {}
+    }
+  ]
+}

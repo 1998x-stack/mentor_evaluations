@@ -1,0 +1,27 @@
+{
+  "id": "8621a9ab-e70a-4b2c-8eb3-e803ddcc65c9",
+  "name": "诸海滨",
+  "school": "东南大学",
+  "department": "化学化工学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "一位传奇式的人物,估计读研时候受到不少刺激,在他眼里药名康德就是相当优秀的企业,也不需要找工作,毕业后直接对接就行,想体验鬼畜研究生生活的同学不要错过",
+      "dimensions": {}
+    },
+    {
+      "comment": "化院流传这一句话：报名别报诸海滨就行了",
+      "dimensions": {}
+    },
+    {
+      "comment": "同楼上,有别的选择别来!",
+      "dimensions": {}
+    },
+    {
+      "comment": "诸老师不招女生的,女生一骂就哭",
+      "dimensions": {}
+    }
+  ]
+}

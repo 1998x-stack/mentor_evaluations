@@ -1,0 +1,19 @@
+{
+  "id": "a4b1bcdf-f85e-4f4b-bb27-a79769a62b66",
+  "name": "陶小马",
+  "school": "同济大学",
+  "department": "经济与管理学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "师生关系": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：博导中得到的学生选票最低，low",
+      "dimensions": {
+        "师生关系": "博导中得到的学生选票最低，low"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "791dc905-8c44-45d8-8a8d-7f1051becf79",
+  "name": "槐文信",
+  "school": "武汉大学",
+  "department": "水利水电学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：水利大环境不佳，河流方向发展又是垫底",
+      "dimensions": {
+        "毕业去向": "水利大环境不佳，河流方向发展又是垫底"
+      }
+    }
+  ]
+}

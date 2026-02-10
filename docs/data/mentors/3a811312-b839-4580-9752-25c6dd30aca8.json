@@ -1,0 +1,15 @@
+{
+  "id": "3a811312-b839-4580-9752-25c6dd30aca8",
+  "name": "王继龙",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王老师人特别nice，情商特别高，相处十分融洽。美中不足的是科研能力没有那么重视。",
+      "dimensions": {}
+    }
+  ]
+}

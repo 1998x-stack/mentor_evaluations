@@ -1,0 +1,15 @@
+{
+  "id": "6db23054-2a09-4352-b65a-3b6ce025c53f",
+  "name": "单杭冠",
+  "school": "浙江大学",
+  "department": "信息与电子工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术能力差，心眼小，还对学生使阴招",
+      "dimensions": {}
+    }
+  ]
+}

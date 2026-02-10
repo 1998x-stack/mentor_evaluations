@@ -1,0 +1,15 @@
+{
+  "id": "c7a53b94-46b7-4ad9-93f0-f6d258983f6c",
+  "name": "张建州",
+  "school": "四川大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我知道有一届收了两个学生，一个研二退学 另一个研三精神障碍退学。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1cb78c1e-654e-40d9-b677-db2d23343e0f",
+  "name": "林晓惠",
+  "school": "大连理工大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "照本宣科讲数据结构的老师 机器一般。。。",
+      "dimensions": {}
+    }
+  ]
+}

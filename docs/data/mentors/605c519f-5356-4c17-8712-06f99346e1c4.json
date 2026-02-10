@@ -1,0 +1,23 @@
+{
+  "id": "605c519f-5356-4c17-8712-06f99346e1c4",
+  "name": "栗萍",
+  "school": "北京理工大学",
+  "department": "机电学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学院书记 973首席 某训文口中的 “大教授 大博导”",
+      "dimensions": {}
+    },
+    {
+      "comment": "不是我导师，是传说中的别人家导师，学术人品双佳",
+      "dimensions": {}
+    },
+    {
+      "comment": "大牛，水平很高",
+      "dimensions": {}
+    }
+  ]
+}

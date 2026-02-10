@@ -1,0 +1,23 @@
+{
+  "id": "1117075a-5006-4943-8de6-f20b612628d1",
+  "name": "张晓进",
+  "school": "中国药科大学",
+  "department": "理学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师学术能力强 为人随和 愿意亲自指导学生 想从事药化的同学们快来啊",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研能力很强，毕竟关心学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：中国药科大学理学院化学系",
+      "dimensions": {}
+    }
+  ]
+}

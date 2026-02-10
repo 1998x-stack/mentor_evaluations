@@ -1,0 +1,23 @@
+{
+  "id": "ee604628-d4c5-48cd-8db5-8998ed1e0f27",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：航天一院做总体 导师能力：偏工程和管理，毕竟是做总体的，偏向于统筹规划",
+      "dimensions": {
+        "导师能力": "偏工程和管理，毕竟是做总体的，偏向于统筹规划"
+      }
+    },
+    {
+      "comment": "利益相关：航天某院大牛，人称闵总",
+      "dimensions": {}
+    }
+  ]
+}

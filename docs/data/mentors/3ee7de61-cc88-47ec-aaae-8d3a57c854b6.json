@@ -1,0 +1,15 @@
+{
+  "id": "3ee7de61-cc88-47ec-aaae-8d3a57c854b6",
+  "name": "丁智",
+  "school": "浙江大学",
+  "department": "建筑工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：浙江大学城市学院",
+      "dimensions": {}
+    }
+  ]
+}

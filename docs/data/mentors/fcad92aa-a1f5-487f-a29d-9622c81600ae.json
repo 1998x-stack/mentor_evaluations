@@ -1,0 +1,19 @@
+{
+  "id": "fcad92aa-a1f5-487f-a29d-9622c81600ae",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：邓校长全部零星可太真实了 经费发放：为什么非要评个20字才行，我真的是佛了，CC",
+      "dimensions": {
+        "经费情况": "为什么非要评个20字才行，我真的是佛了，CC"
+      }
+    }
+  ]
+}

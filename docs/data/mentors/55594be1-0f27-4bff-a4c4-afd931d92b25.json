@@ -1,0 +1,19 @@
+{
+  "id": "55594be1-0f27-4bff-a4c4-afd931d92b25",
+  "name": "张海荣",
+  "school": "中国矿业大学(江苏)",
+  "department": "环境与测绘学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：导师专注gis开发技术，学生可去软件行业",
+      "dimensions": {
+        "毕业去向": "导师专注gis开发技术，学生可去软件行业"
+      }
+    }
+  ]
+}

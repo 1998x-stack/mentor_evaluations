@@ -1,0 +1,21 @@
+{
+  "id": "f29167a6-94d2-45db-b123-590b4702f955",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "经费情况": 5.0,
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室55-A-411 经费发放：经费发放充足 与学生关系：对我们都很好，很nice的一个教授",
+      "dimensions": {
+        "经费情况": "",
+        "师生关系": "对我们都很好，很nice的一个教授"
+      }
+    }
+  ]
+}

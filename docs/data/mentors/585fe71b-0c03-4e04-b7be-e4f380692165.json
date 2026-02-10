@@ -1,0 +1,15 @@
+{
+  "id": "585fe71b-0c03-4e04-b7be-e4f380692165",
+  "name": "李芳",
+  "school": "合肥工业大学",
+  "department": "化学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李芳老师脾气特别好，带实验很认真！好文章很多哒",
+      "dimensions": {}
+    }
+  ]
+}

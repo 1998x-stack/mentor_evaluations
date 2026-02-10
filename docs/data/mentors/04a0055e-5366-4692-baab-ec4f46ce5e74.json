@@ -1,0 +1,19 @@
+{
+  "id": "04a0055e-5366-4692-baab-ec4f46ce5e74",
+  "name": "吴刚",
+  "school": "东南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "还是很不错的，那边的科研文章无压力",
+      "dimensions": {}
+    },
+    {
+      "comment": "吴老师关心学生发展，帮助学生推荐找工作，不管是不是自己的学生，能帮忙的都会帮忙。平易近人，没有架子的领导。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c2a990a9-c8af-4968-88bf-ef1734dfd632",
+  "name": "李月娥",
+  "school": "中国地质大学（武汉）",
+  "department": "经济管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "会计系主任，脾气很好。",
+      "dimensions": {}
+    }
+  ]
+}

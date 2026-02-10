@@ -1,0 +1,1325 @@
+[
+  {
+    "name": NaN,
+    "mentorCount": 1384,
+    "evaluationCount": 2576,
+    "averageScore": 5.1,
+    "departmentCount": 71
+  },
+  {
+    "name": "东南大学",
+    "mentorCount": 413,
+    "evaluationCount": 1258,
+    "averageScore": 5.13,
+    "departmentCount": 21
+  },
+  {
+    "name": "浙江大学",
+    "mentorCount": 398,
+    "evaluationCount": 759,
+    "averageScore": 5.2,
+    "departmentCount": 32
+  },
+  {
+    "name": "北京航空航天大学",
+    "mentorCount": 325,
+    "evaluationCount": 728,
+    "averageScore": 5.13,
+    "departmentCount": 19
+  },
+  {
+    "name": "西安交通大学",
+    "mentorCount": 315,
+    "evaluationCount": 660,
+    "averageScore": 5.17,
+    "departmentCount": 17
+  },
+  {
+    "name": "天津大学",
+    "mentorCount": 284,
+    "evaluationCount": 560,
+    "averageScore": 5.15,
+    "departmentCount": 17
+  },
+  {
+    "name": "华中科技大学",
+    "mentorCount": 284,
+    "evaluationCount": 522,
+    "averageScore": 5.11,
+    "departmentCount": 29
+  },
+  {
+    "name": "西安电子科大",
+    "mentorCount": 278,
+    "evaluationCount": 636,
+    "averageScore": 5.09,
+    "departmentCount": 13
+  },
+  {
+    "name": "上海交通大学",
+    "mentorCount": 258,
+    "evaluationCount": 506,
+    "averageScore": 5.16,
+    "departmentCount": 17
+  },
+  {
+    "name": "清华大学",
+    "mentorCount": 244,
+    "evaluationCount": 429,
+    "averageScore": 5.13,
+    "departmentCount": 28
+  },
+  {
+    "name": "大连理工大学",
+    "mentorCount": 202,
+    "evaluationCount": 539,
+    "averageScore": 5.21,
+    "departmentCount": 24
+  },
+  {
+    "name": "中国科学技术大学",
+    "mentorCount": 199,
+    "evaluationCount": 344,
+    "averageScore": 5.14,
+    "departmentCount": 12
+  },
+  {
+    "name": "武汉大学",
+    "mentorCount": 188,
+    "evaluationCount": 269,
+    "averageScore": 5.16,
+    "departmentCount": 25
+  },
+  {
+    "name": "哈尔滨工业大学",
+    "mentorCount": 184,
+    "evaluationCount": 306,
+    "averageScore": 5.3,
+    "departmentCount": 15
+  },
+  {
+    "name": "北京邮电大学",
+    "mentorCount": 167,
+    "evaluationCount": 365,
+    "averageScore": 5.14,
+    "departmentCount": 9
+  },
+  {
+    "name": "北京大学",
+    "mentorCount": 153,
+    "evaluationCount": 242,
+    "averageScore": 5.15,
+    "departmentCount": 24
+  },
+  {
+    "name": "北京理工大学",
+    "mentorCount": 150,
+    "evaluationCount": 276,
+    "averageScore": 5.03,
+    "departmentCount": 13
+  },
+  {
+    "name": "四川大学",
+    "mentorCount": 149,
+    "evaluationCount": 265,
+    "averageScore": 5.2,
+    "departmentCount": 18
+  },
+  {
+    "name": "南开大学",
+    "mentorCount": 148,
+    "evaluationCount": 262,
+    "averageScore": 5.12,
+    "departmentCount": 13
+  },
+  {
+    "name": "重庆大学",
+    "mentorCount": 133,
+    "evaluationCount": 235,
+    "averageScore": 5.19,
+    "departmentCount": 21
+  },
+  {
+    "name": "电子科技大学",
+    "mentorCount": 123,
+    "evaluationCount": 229,
+    "averageScore": 5.16,
+    "departmentCount": 15
+  },
+  {
+    "name": "吉林大学",
+    "mentorCount": 119,
+    "evaluationCount": 197,
+    "averageScore": 5.22,
+    "departmentCount": 22
+  },
+  {
+    "name": "同济大学",
+    "mentorCount": 117,
+    "evaluationCount": 182,
+    "averageScore": 5.01,
+    "departmentCount": 14
+  },
+  {
+    "name": "东北大学",
+    "mentorCount": 115,
+    "evaluationCount": 213,
+    "averageScore": 5.15,
+    "departmentCount": 16
+  },
+  {
+    "name": "南京大学",
+    "mentorCount": 112,
+    "evaluationCount": 172,
+    "averageScore": 5.06,
+    "departmentCount": 18
+  },
+  {
+    "name": "中南大学",
+    "mentorCount": 111,
+    "evaluationCount": 244,
+    "averageScore": 5.09,
+    "departmentCount": 16
+  },
+  {
+    "name": "西北工业大学",
+    "mentorCount": 105,
+    "evaluationCount": 216,
+    "averageScore": 5.18,
+    "departmentCount": 17
+  },
+  {
+    "name": "复旦大学",
+    "mentorCount": 105,
+    "evaluationCount": 179,
+    "averageScore": 5.18,
+    "departmentCount": 14
+  },
+  {
+    "name": "中山大学",
+    "mentorCount": 105,
+    "evaluationCount": 196,
+    "averageScore": 5.05,
+    "departmentCount": 17
+  },
+  {
+    "name": "华南理工大学",
+    "mentorCount": 101,
+    "evaluationCount": 174,
+    "averageScore": 5.02,
+    "departmentCount": 14
+  },
+  {
+    "name": "上海财经大学",
+    "mentorCount": 78,
+    "evaluationCount": 182,
+    "averageScore": 5.09,
+    "departmentCount": 7
+  },
+  {
+    "name": "合肥工业大学",
+    "mentorCount": 74,
+    "evaluationCount": 120,
+    "averageScore": 5.17,
+    "departmentCount": 12
+  },
+  {
+    "name": "中国海洋大学",
+    "mentorCount": 73,
+    "evaluationCount": 142,
+    "averageScore": 5.38,
+    "departmentCount": 11
+  },
+  {
+    "name": "厦门大学",
+    "mentorCount": 71,
+    "evaluationCount": 114,
+    "averageScore": 5.06,
+    "departmentCount": 16
+  },
+  {
+    "name": "武汉理工大学",
+    "mentorCount": 70,
+    "evaluationCount": 148,
+    "averageScore": 5.04,
+    "departmentCount": 16
+  },
+  {
+    "name": "南京航空航天大学",
+    "mentorCount": 70,
+    "evaluationCount": 121,
+    "averageScore": 5.19,
+    "departmentCount": 10
+  },
+  {
+    "name": "华东理工大学",
+    "mentorCount": 63,
+    "evaluationCount": 114,
+    "averageScore": 5.0,
+    "departmentCount": 10
+  },
+  {
+    "name": "西南交通大学",
+    "mentorCount": 63,
+    "evaluationCount": 98,
+    "averageScore": 4.99,
+    "departmentCount": 16
+  },
+  {
+    "name": "北京交通大学",
+    "mentorCount": 60,
+    "evaluationCount": 164,
+    "averageScore": 5.15,
+    "departmentCount": 10
+  },
+  {
+    "name": "南京农业大学",
+    "mentorCount": 57,
+    "evaluationCount": 130,
+    "averageScore": 5.02,
+    "departmentCount": 15
+  },
+  {
+    "name": "华中师范大学",
+    "mentorCount": 51,
+    "evaluationCount": 95,
+    "averageScore": 4.9,
+    "departmentCount": 18
+  },
+  {
+    "name": "西北农林科技大学",
+    "mentorCount": 51,
+    "evaluationCount": 92,
+    "averageScore": 5.25,
+    "departmentCount": 13
+  },
+  {
+    "name": "湖南大学",
+    "mentorCount": 51,
+    "evaluationCount": 80,
+    "averageScore": 5.15,
+    "departmentCount": 15
+  },
+  {
+    "name": "上海大学",
+    "mentorCount": 49,
+    "evaluationCount": 68,
+    "averageScore": 4.95,
+    "departmentCount": 10
+  },
+  {
+    "name": "南京理工大学",
+    "mentorCount": 47,
+    "evaluationCount": 65,
+    "averageScore": 5.08,
+    "departmentCount": 11
+  },
+  {
+    "name": "华东师范大学",
+    "mentorCount": 44,
+    "evaluationCount": 86,
+    "averageScore": 5.0,
+    "departmentCount": 15
+  },
+  {
+    "name": "山东大学",
+    "mentorCount": 44,
+    "evaluationCount": 71,
+    "averageScore": 5.18,
+    "departmentCount": 10
+  },
+  {
+    "name": "北京化工大学",
+    "mentorCount": 43,
+    "evaluationCount": 84,
+    "averageScore": 5.06,
+    "departmentCount": 8
+  },
+  {
+    "name": "中国农业大学",
+    "mentorCount": 43,
+    "evaluationCount": 64,
+    "averageScore": 5.08,
+    "departmentCount": 10
+  },
+  {
+    "name": "中国药科大学",
+    "mentorCount": 40,
+    "evaluationCount": 70,
+    "averageScore": 5.15,
+    "departmentCount": 9
+  },
+  {
+    "name": "福州大学",
+    "mentorCount": 39,
+    "evaluationCount": 80,
+    "averageScore": 5.15,
+    "departmentCount": 11
+  },
+  {
+    "name": "华中农业大学",
+    "mentorCount": 35,
+    "evaluationCount": 74,
+    "averageScore": 5.04,
+    "departmentCount": 9
+  },
+  {
+    "name": "华北电力大学",
+    "mentorCount": 35,
+    "evaluationCount": 64,
+    "averageScore": 5.07,
+    "departmentCount": 7
+  },
+  {
+    "name": "兰州大学",
+    "mentorCount": 35,
+    "evaluationCount": 47,
+    "averageScore": 5.13,
+    "departmentCount": 13
+  },
+  {
+    "name": "哈尔滨工程大学",
+    "mentorCount": 33,
+    "evaluationCount": 41,
+    "averageScore": 5.17,
+    "departmentCount": 11
+  },
+  {
+    "name": "北京工业大学",
+    "mentorCount": 33,
+    "evaluationCount": 52,
+    "averageScore": 5.12,
+    "departmentCount": 10
+  },
+  {
+    "name": "华南师范大学",
+    "mentorCount": 32,
+    "evaluationCount": 106,
+    "averageScore": 4.92,
+    "departmentCount": 10
+  },
+  {
+    "name": "中国矿业大学(江苏)",
+    "mentorCount": 32,
+    "evaluationCount": 51,
+    "averageScore": 5.04,
+    "departmentCount": 11
+  },
+  {
+    "name": "北京师范大学",
+    "mentorCount": 32,
+    "evaluationCount": 52,
+    "averageScore": 5.16,
+    "departmentCount": 12
+  },
+  {
+    "name": "西南大学",
+    "mentorCount": 32,
+    "evaluationCount": 58,
+    "averageScore": 4.99,
+    "departmentCount": 16
+  },
+  {
+    "name": "长安大学",
+    "mentorCount": 31,
+    "evaluationCount": 39,
+    "averageScore": 5.07,
+    "departmentCount": 10
+  },
+  {
+    "name": "西北大学",
+    "mentorCount": 30,
+    "evaluationCount": 46,
+    "averageScore": 5.08,
+    "departmentCount": 11
+  },
+  {
+    "name": "中国石油大学(北京)",
+    "mentorCount": 30,
+    "evaluationCount": 48,
+    "averageScore": 4.9,
+    "departmentCount": 9
+  },
+  {
+    "name": "北京科技大学",
+    "mentorCount": 30,
+    "evaluationCount": 40,
+    "averageScore": 5.11,
+    "departmentCount": 9
+  },
+  {
+    "name": "江南大学",
+    "mentorCount": 30,
+    "evaluationCount": 42,
+    "averageScore": 5.07,
+    "departmentCount": 7
+  },
+  {
+    "name": "苏州大学",
+    "mentorCount": 29,
+    "evaluationCount": 38,
+    "averageScore": 5.15,
+    "departmentCount": 12
+  },
+  {
+    "name": "郑州大学",
+    "mentorCount": 29,
+    "evaluationCount": 39,
+    "averageScore": 5.04,
+    "departmentCount": 17
+  },
+  {
+    "name": "陕西师范大学",
+    "mentorCount": 28,
+    "evaluationCount": 45,
+    "averageScore": 5.16,
+    "departmentCount": 9
+  },
+  {
+    "name": "安徽大学",
+    "mentorCount": 27,
+    "evaluationCount": 60,
+    "averageScore": 5.27,
+    "departmentCount": 6
+  },
+  {
+    "name": "澳门大学",
+    "mentorCount": 25,
+    "evaluationCount": 41,
+    "averageScore": 5.04,
+    "departmentCount": 11
+  },
+  {
+    "name": "四川农业大学",
+    "mentorCount": 25,
+    "evaluationCount": 50,
+    "averageScore": 5.09,
+    "departmentCount": 7
+  },
+  {
+    "name": "太原理工大学",
+    "mentorCount": 25,
+    "evaluationCount": 33,
+    "averageScore": 5.01,
+    "departmentCount": 9
+  },
+  {
+    "name": "暨南大学",
+    "mentorCount": 24,
+    "evaluationCount": 30,
+    "averageScore": 5.06,
+    "departmentCount": 7
+  },
+  {
+    "name": "中国矿业大学(北京)",
+    "mentorCount": 22,
+    "evaluationCount": 55,
+    "averageScore": 5.08,
+    "departmentCount": 6
+  },
+  {
+    "name": "南昌大学",
+    "mentorCount": 22,
+    "evaluationCount": 41,
+    "averageScore": 5.15,
+    "departmentCount": 14
+  },
+  {
+    "name": "中国地质大学（武汉）",
+    "mentorCount": 22,
+    "evaluationCount": 25,
+    "averageScore": 5.06,
+    "departmentCount": 10
+  },
+  {
+    "name": "香港科技大学",
+    "mentorCount": 22,
+    "evaluationCount": 35,
+    "averageScore": 5.22,
+    "departmentCount": 6
+  },
+  {
+    "name": "中国石油大学(华东)",
+    "mentorCount": 22,
+    "evaluationCount": 31,
+    "averageScore": 5.13,
+    "departmentCount": 7
+  },
+  {
+    "name": "中国人民大学",
+    "mentorCount": 21,
+    "evaluationCount": 26,
+    "averageScore": 5.02,
+    "departmentCount": 10
+  },
+  {
+    "name": "广西大学",
+    "mentorCount": 19,
+    "evaluationCount": 23,
+    "averageScore": 5.06,
+    "departmentCount": 10
+  },
+  {
+    "name": "中国科学院大学",
+    "mentorCount": 18,
+    "evaluationCount": 45,
+    "averageScore": 4.96,
+    "departmentCount": 8
+  },
+  {
+    "name": "北京林业大学",
+    "mentorCount": 17,
+    "evaluationCount": 24,
+    "averageScore": 5.01,
+    "departmentCount": 8
+  },
+  {
+    "name": "河海大学",
+    "mentorCount": 17,
+    "evaluationCount": 25,
+    "averageScore": 5.13,
+    "departmentCount": 8
+  },
+  {
+    "name": "大连海事大学",
+    "mentorCount": 17,
+    "evaluationCount": 30,
+    "averageScore": 4.98,
+    "departmentCount": 7
+  },
+  {
+    "name": "湖南师范大学",
+    "mentorCount": 15,
+    "evaluationCount": 18,
+    "averageScore": 5.39,
+    "departmentCount": 8
+  },
+  {
+    "name": "中央财经大学",
+    "mentorCount": 15,
+    "evaluationCount": 21,
+    "averageScore": 5.12,
+    "departmentCount": 5
+  },
+  {
+    "name": "西南财经大学",
+    "mentorCount": 15,
+    "evaluationCount": 16,
+    "averageScore": 5.03,
+    "departmentCount": 7
+  },
+  {
+    "name": "河北工业大学",
+    "mentorCount": 14,
+    "evaluationCount": 31,
+    "averageScore": 4.95,
+    "departmentCount": 6
+  },
+  {
+    "name": "北京中医药大学",
+    "mentorCount": 14,
+    "evaluationCount": 27,
+    "averageScore": 4.91,
+    "departmentCount": 5
+  },
+  {
+    "name": "东华大学",
+    "mentorCount": 13,
+    "evaluationCount": 24,
+    "averageScore": 5.33,
+    "departmentCount": 6
+  },
+  {
+    "name": "贵州大学",
+    "mentorCount": 12,
+    "evaluationCount": 12,
+    "averageScore": 5.58,
+    "departmentCount": 7
+  },
+  {
+    "name": "海南大学",
+    "mentorCount": 12,
+    "evaluationCount": 14,
+    "averageScore": 5.1,
+    "departmentCount": 7
+  },
+  {
+    "name": "新疆大学",
+    "mentorCount": 11,
+    "evaluationCount": 16,
+    "averageScore": 5.28,
+    "departmentCount": 6
+  },
+  {
+    "name": "南京师范大学",
+    "mentorCount": 11,
+    "evaluationCount": 22,
+    "averageScore": 5.1,
+    "departmentCount": 8
+  },
+  {
+    "name": "内蒙古大学",
+    "mentorCount": 11,
+    "evaluationCount": 12,
+    "averageScore": 4.93,
+    "departmentCount": 7
+  },
+  {
+    "name": "中科院研究单位(R-Z)",
+    "mentorCount": 11,
+    "evaluationCount": 15,
+    "averageScore": 5.0,
+    "departmentCount": 7
+  },
+  {
+    "name": "东北农业大学",
+    "mentorCount": 10,
+    "evaluationCount": 11,
+    "averageScore": 4.88,
+    "departmentCount": 5
+  },
+  {
+    "name": "宁夏大学",
+    "mentorCount": 9,
+    "evaluationCount": 15,
+    "averageScore": 5.07,
+    "departmentCount": 3
+  },
+  {
+    "name": "香港中文大学",
+    "mentorCount": 8,
+    "evaluationCount": 21,
+    "averageScore": 4.83,
+    "departmentCount": 2
+  },
+  {
+    "name": "上海师范大学",
+    "mentorCount": 7,
+    "evaluationCount": 13,
+    "averageScore": 5.0,
+    "departmentCount": 3
+  },
+  {
+    "name": "东北师范大学",
+    "mentorCount": 7,
+    "evaluationCount": 12,
+    "averageScore": 5.14,
+    "departmentCount": 4
+  },
+  {
+    "name": "香港大学",
+    "mentorCount": 6,
+    "evaluationCount": 7,
+    "averageScore": 4.96,
+    "departmentCount": 4
+  },
+  {
+    "name": "中国农业科学院",
+    "mentorCount": 6,
+    "evaluationCount": 7,
+    "averageScore": 5.0,
+    "departmentCount": 5
+  },
+  {
+    "name": "石河子大学",
+    "mentorCount": 6,
+    "evaluationCount": 6,
+    "averageScore": 5.19,
+    "departmentCount": 3
+  },
+  {
+    "name": "东北林业大学",
+    "mentorCount": 6,
+    "evaluationCount": 9,
+    "averageScore": 4.88,
+    "departmentCount": 4
+  },
+  {
+    "name": "延边大学",
+    "mentorCount": 6,
+    "evaluationCount": 6,
+    "averageScore": 5.05,
+    "departmentCount": 4
+  },
+  {
+    "name": "北京协和医学院",
+    "mentorCount": 5,
+    "evaluationCount": 19,
+    "averageScore": 5.0,
+    "departmentCount": 3
+  },
+  {
+    "name": "西南科技大学",
+    "mentorCount": 5,
+    "evaluationCount": 5,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "上海科技大学",
+    "mentorCount": 4,
+    "evaluationCount": 8,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "中国政法大学",
+    "mentorCount": 4,
+    "evaluationCount": 4,
+    "averageScore": 4.63,
+    "departmentCount": 3
+  },
+  {
+    "name": "天津医科大学",
+    "mentorCount": 4,
+    "evaluationCount": 4,
+    "averageScore": 5.34,
+    "departmentCount": 3
+  },
+  {
+    "name": "华侨大学",
+    "mentorCount": 3,
+    "evaluationCount": 3,
+    "averageScore": 4.81,
+    "departmentCount": 1
+  },
+  {
+    "name": "辽宁大学",
+    "mentorCount": 3,
+    "evaluationCount": 3,
+    "averageScore": 6.08,
+    "departmentCount": 3
+  },
+  {
+    "name": "中国地质大学（北京）",
+    "mentorCount": 3,
+    "evaluationCount": 4,
+    "averageScore": 4.98,
+    "departmentCount": 2
+  },
+  {
+    "name": "西安建筑科技大学",
+    "mentorCount": 3,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "河南大学",
+    "mentorCount": 3,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "山东农业大学",
+    "mentorCount": 3,
+    "evaluationCount": 5,
+    "averageScore": 5.83,
+    "departmentCount": 3
+  },
+  {
+    "name": "辽宁师范大学",
+    "mentorCount": 3,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "天津财经大学",
+    "mentorCount": 3,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "内蒙古医科大学",
+    "mentorCount": 3,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "中科院研究单位(H-Q)",
+    "mentorCount": 2,
+    "evaluationCount": 11,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "宁波大学",
+    "mentorCount": 2,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "中南财经政法大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 4.73,
+    "departmentCount": 2
+  },
+  {
+    "name": "江苏师范大学",
+    "mentorCount": 2,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "陕西理工大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "云南师范大学",
+    "mentorCount": 2,
+    "evaluationCount": 4,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "辽宁科技大学",
+    "mentorCount": 2,
+    "evaluationCount": 6,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "安徽财经大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "青海大学",
+    "mentorCount": 2,
+    "evaluationCount": 3,
+    "averageScore": 4.86,
+    "departmentCount": 2
+  },
+  {
+    "name": "中国传媒大学",
+    "mentorCount": 2,
+    "evaluationCount": 3,
+    "averageScore": 4.8,
+    "departmentCount": 2
+  },
+  {
+    "name": "中科院研究单位(A-G)",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "浙江工业大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "西南石油大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "南方科技大学",
+    "mentorCount": 2,
+    "evaluationCount": 3,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "西藏大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "南华大学船山学院",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "扬州大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "中央民族大学",
+    "mentorCount": 2,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 2
+  },
+  {
+    "name": "武夷学院",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "天津城建大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "江西师范大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "沈阳农业大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "湘潭大学",
+    "mentorCount": 1,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "天津师范大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "北京体育大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 4.56,
+    "departmentCount": 1
+  },
+  {
+    "name": "河北农业大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "山东理工大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "石家庄铁道大学",
+    "mentorCount": 1,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "山西医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "甘肃中医药大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "哈尔滨师范大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "大连医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 6,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "仲恺农业工程学院",
+    "mentorCount": 1,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "山东中医药大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "南京工业大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "西安理工大学",
+    "mentorCount": 1,
+    "evaluationCount": 6,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "南京中医药大学",
+    "mentorCount": 1,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "昆明理工大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "青岛大学",
+    "mentorCount": 1,
+    "evaluationCount": 2,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "新疆医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "河南理工大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "广州医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "遵义医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "山西大同大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "天津商业大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "西北师范大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "广西医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "对外经贸大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "南京医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "中北大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "武汉科技大学城市学院",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "安庆师范大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "西安科技大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "广州中医药大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "桂林电子科技大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "重庆邮电大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "红河学院",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "上海应用技术大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "天津科技大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "南京医科大学康达学院",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "安徽工业大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "广东工业大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "湖北师范大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "外交学院",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "九江学院",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "济南大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "河南科技大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "上海中医药大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  },
+  {
+    "name": "安徽医科大学",
+    "mentorCount": 1,
+    "evaluationCount": 1,
+    "averageScore": 5.0,
+    "departmentCount": 1
+  }
+]

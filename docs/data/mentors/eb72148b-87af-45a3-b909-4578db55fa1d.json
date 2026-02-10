@@ -1,0 +1,19 @@
+{
+  "id": "eb72148b-87af-45a3-b909-4578db55fa1d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "导师能力": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：可为师范，教书育人，提携才俊，风骨无二。",
+      "dimensions": {
+        "导师能力": "可为师范，教书育人，提携才俊，风骨无二。"
+      }
+    }
+  ]
+}

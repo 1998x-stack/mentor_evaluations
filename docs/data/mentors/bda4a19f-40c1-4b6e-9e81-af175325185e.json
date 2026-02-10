@@ -1,0 +1,23 @@
+{
+  "id": "bda4a19f-40c1-4b6e-9e81-af175325185e",
+  "name": "苏统华",
+  "school": "哈尔滨工业大学",
+  "department": "软件学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学院最好的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "水平写在头发上，不过听说比较push",
+      "dimensions": {}
+    },
+    {
+      "comment": "为人师表，素质高。",
+      "dimensions": {}
+    }
+  ]
+}

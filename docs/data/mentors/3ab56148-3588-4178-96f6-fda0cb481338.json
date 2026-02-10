@@ -1,0 +1,19 @@
+{
+  "id": "3ab56148-3588-4178-96f6-fda0cb481338",
+  "name": "傅肃能",
+  "school": "清华大学",
+  "department": "生命科学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品低劣，总喜欢压榨学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "上面说得对，导师能力低下，还总觉得自己很牛逼自以为是。",
+      "dimensions": {}
+    }
+  ]
+}

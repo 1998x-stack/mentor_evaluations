@@ -1,0 +1,15 @@
+{
+  "id": "e66ae661-4198-4452-ac69-260c7fb531d5",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "林老师教学很厉害，心理学博士，讲课很认真负责，对学生也很好，我们是他带的第一届，对我们尽心尽力，很感激。",
+      "dimensions": {}
+    }
+  ]
+}

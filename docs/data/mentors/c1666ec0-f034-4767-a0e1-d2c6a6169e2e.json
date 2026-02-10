@@ -1,0 +1,27 @@
+{
+  "id": "c1666ec0-f034-4767-a0e1-d2c6a6169e2e",
+  "name": "张灿",
+  "school": "中国药科大学",
+  "department": "药物科学研究院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "毁我青春，我连对生活都没激情了",
+      "dimensions": {}
+    },
+    {
+      "comment": "能给5分的，都是她喜欢的人吧。第一印象很重要，除了及其个别喜欢的人大多情况都哄着你，其它的鸟都不鸟你。重男轻女。还有最好别选药化。",
+      "dimensions": {}
+    },
+    {
+      "comment": "口头禅:我不管，我不听你解释  哈哈哈哈哈",
+      "dimensions": {}
+    },
+    {
+      "comment": "水平很高，人品在中国导师里就中等，不好不坏，把她当作老板，你就能懂她为啥那么干了，不过不能被称为“老师”！",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f2a385c0-2634-4b38-a332-886c4755564e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "超级帅 超级温柔，超级牛",
+      "dimensions": {}
+    }
+  ]
+}

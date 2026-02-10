@@ -1,0 +1,19 @@
+{
+  "id": "6c03ae07-f7e7-4c27-a578-de4d64d24e95",
+  "name": "董天宇",
+  "school": "西安交通大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：东一楼西240 工作时间：工作日周一到周五，标准每天八小时，自愿加班",
+      "dimensions": {
+        "工作时间": "工作日周一到周五，标准每天八小时，自愿加班"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fe1a0da3-08b4-4829-8fe1-a8464d6a549a",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很nice，文章近几年发的很好，对学生补助也超多",
+      "dimensions": {}
+    }
+  ]
+}

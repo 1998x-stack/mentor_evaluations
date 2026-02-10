@@ -1,0 +1,15 @@
+{
+  "id": "bba44578-5f4c-4360-a903-d04a1e1159a0",
+  "name": "李石君",
+  "school": "武汉大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "把学生做宝搞",
+      "dimensions": {}
+    }
+  ]
+}

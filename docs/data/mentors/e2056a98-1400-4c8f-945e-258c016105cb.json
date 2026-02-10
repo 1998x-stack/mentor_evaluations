@@ -1,0 +1,21 @@
+{
+  "id": "e2056a98-1400-4c8f-945e-258c016105cb",
+  "name": "张尊听",
+  "school": "陕西师范大学",
+  "department": "化学化工学院",
+  "evaluationCount": 1,
+  "totalScore": 4.12,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：致知楼，眼神不太好 学生补助：老师发的钱比较少 工作时间：正常",
+      "dimensions": {
+        "学生补助": "老师发的钱比较少 工作",
+        "工作时间": "正常"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "23631f39-6866-4e18-a8f6-2f50221d6003",
+  "name": "陈帅",
+  "school": "南京理工大学",
+  "department": "自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：吹牛水平高 与学生关系：奇葩",
+      "dimensions": {
+        "导师能力": "吹牛水平高 与学生",
+        "师生关系": "奇葩"
+      }
+    }
+  ]
+}

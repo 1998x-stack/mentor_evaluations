@@ -1,0 +1,15 @@
+{
+  "id": "5cf2eee6-5f33-4ad6-bd16-46d07ca8634c",
+  "name": "刘军",
+  "school": "北京化工大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "看似牛逼哄哄，其实一塌糊涂，任务多指导差，蹭热点光会写，短短几年快百篇sci却连一个优青也评不上。对待学生不咋滴，就是个劳力",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "80186f5c-3344-4321-8b61-39ff185db99c",
+  "name": "薛安成",
+  "school": "华北电力大学",
+  "department": "电气与电子工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老板对学生非常好，为学生着想，对学生负责，女生活不多，强烈推荐和我一样的女生来老板这里！发paper还有保证",
+      "dimensions": {}
+    },
+    {
+      "comment": "推荐女生报名该导师。特别靠谱！！！！",
+      "dimensions": {}
+    },
+    {
+      "comment": "亦师亦友，态度友善，见识广泛，思维锐利，可严可松，建议来报！",
+      "dimensions": {}
+    }
+  ]
+}

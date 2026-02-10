@@ -1,0 +1,15 @@
+{
+  "id": "6f04d5d4-7f30-446f-a7cf-19cf281c15e5",
+  "name": "陈学好",
+  "school": "扬州大学",
+  "department": "园艺",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师超级好，对学生很关心，超赞",
+      "dimensions": {}
+    }
+  ]
+}

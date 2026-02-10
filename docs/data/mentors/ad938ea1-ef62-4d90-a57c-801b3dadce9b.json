@@ -1,0 +1,19 @@
+{
+  "id": "ad938ea1-ef62-4d90-a57c-801b3dadce9b",
+  "name": "张爱东",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师人特别好，课题组氛围也很好。",
+      "dimensions": {}
+    },
+    {
+      "comment": "之前的室友是他们组的，听说老师和他们吃饭喝酒还唱歌，和学生应该没有距离感，不过对学生要求严格",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c1176ca8-99e4-4ede-b02b-47af783dd702",
+  "name": "邱天",
+  "school": "华北电力大学",
+  "department": "控制与计算机工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：大三下上过他的过程参数检测及仪表 与学生关系：只说一句，老师感觉很nice",
+      "dimensions": {
+        "师生关系": "只说一句，老师感觉很nice"
+      }
+    }
+  ]
+}

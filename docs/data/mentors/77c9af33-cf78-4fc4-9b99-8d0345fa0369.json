@@ -1,0 +1,19 @@
+{
+  "id": "77c9af33-cf78-4fc4-9b99-8d0345fa0369",
+  "name": "张兰",
+  "school": "中国科学技术大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：参见 https://www.zhihu.com/question/37878656 ... /172346150",
+      "dimensions": {
+        "师生关系": "参见 https://www.zhihu.com/question/37878656 ... /172346150"
+      }
+    }
+  ]
+}

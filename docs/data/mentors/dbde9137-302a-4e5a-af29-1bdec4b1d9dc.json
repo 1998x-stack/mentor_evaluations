@@ -1,0 +1,15 @@
+{
+  "id": "dbde9137-302a-4e5a-af29-1bdec4b1d9dc",
+  "name": "白秀秀",
+  "school": "西安交通大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师为人很好，要求严格，允许实习。",
+      "dimensions": {}
+    }
+  ]
+}

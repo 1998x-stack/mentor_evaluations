@@ -1,0 +1,15 @@
+{
+  "id": "7756e458-e766-4287-9424-1192f6b482f9",
+  "name": "刘莹",
+  "school": "东北大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术能力不咋滴，水平真心不高，其他方面无功无过吧",
+      "dimensions": {}
+    }
+  ]
+}

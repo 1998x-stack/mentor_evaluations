@@ -1,0 +1,15 @@
+{
+  "id": "16fe9ec5-d3ee-496e-af03-84704889b3ef",
+  "name": "刘运峰",
+  "school": "南开大学",
+  "department": "文学院，历史学院，外国语学院，哲学院，汉语言文化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室位于主楼一楼东侧",
+      "dimensions": {}
+    }
+  ]
+}

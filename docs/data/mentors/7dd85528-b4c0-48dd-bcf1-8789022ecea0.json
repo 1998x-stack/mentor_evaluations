@@ -1,0 +1,15 @@
+{
+  "id": "7dd85528-b4c0-48dd-bcf1-8789022ecea0",
+  "name": "郑宇",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "郑宇 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

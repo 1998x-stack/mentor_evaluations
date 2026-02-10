@@ -1,0 +1,19 @@
+{
+  "id": "c491ea82-aded-4410-a74e-b7da754acce3",
+  "name": "熊兰",
+  "school": "重庆大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 9.0,
+  "dimensionScores": {
+    "师生关系": 9.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：对学生和蔼可亲，辅导学生科研认真负责，与学生相处氛围融洽，是值得学生作为榜样的好老师。",
+      "dimensions": {
+        "师生关系": "对学生和蔼可亲，辅导学生科研认真负责，与学生相处氛围融洽，是值得学生作为榜样的好老师。"
+      }
+    }
+  ]
+}

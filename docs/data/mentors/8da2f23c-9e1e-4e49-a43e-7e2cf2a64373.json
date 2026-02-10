@@ -1,0 +1,15 @@
+{
+  "id": "8da2f23c-9e1e-4e49-a43e-7e2cf2a64373",
+  "name": "牛景阳",
+  "school": "河南大学",
+  "department": "化学",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "牛老师作为河南省特聘教授，在多酸化学领域享有盛名，拥有不错的科研成果。是一个不错的好导师。",
+      "dimensions": {}
+    }
+  ]
+}

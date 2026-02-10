@@ -1,0 +1,19 @@
+{
+  "id": "bd4275c4-f3f3-4236-bff5-41988ab96edc",
+  "name": "罗珊",
+  "school": "上海交通大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：数学系五楼靠近楼梯第一间 学生补助：院系内平均水平之上",
+      "dimensions": {
+        "学生补助": "院系内平均水平之上"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "47896446-8fb8-40d1-a6e5-2b9789b58097",
+  "name": "何生",
+  "school": NaN,
+  "department": "生物物理研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：生物物理所7号楼二楼",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ff4c1e7c-37aa-49c3-bc41-3e7d6c3a2f5d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "导师能力": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：和张老师在一个组。由衷的说，张老师给的课题可行性高，学术勤勉严谨，绝对是个好老板！师兄也这样说。嘻嘻～我们组的老师都很棒～",
+      "dimensions": {
+        "导师能力": "和张老师在一个组。由衷的说，张老师给的课题可行性高，学术勤勉严谨，绝对是个好老板！师兄也这样说。嘻嘻～我们组的老师都很棒～"
+      }
+    }
+  ]
+}

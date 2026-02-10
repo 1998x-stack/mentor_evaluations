@@ -1,0 +1,19 @@
+{
+  "id": "94956e43-e763-4503-8f45-d512d09e7c98",
+  "name": "蒲菊华",
+  "school": "北京航空航天大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "毕业去向": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：很少来实验室，可以偷摸出去实习，但是自己的任务一定要完成！",
+      "dimensions": {
+        "毕业去向": "很少来实验室，可以偷摸出去实习，但是自己的任务一定要完成！"
+      }
+    }
+  ]
+}

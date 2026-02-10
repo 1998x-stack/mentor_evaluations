@@ -1,0 +1,15 @@
+{
+  "id": "23f3b139-5e12-41c1-a411-3735b3cace06",
+  "name": "牛海军",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "牛老师脾气很好，对学生特别好，只要是对学生有力的都很支持。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "17de67c0-fe8c-44dc-9bcf-e2755550b598",
+  "name": "陈卓",
+  "school": "北京理工大学",
+  "department": "材料学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "有些双标的老师，不大气",
+      "dimensions": {}
+    }
+  ]
+}

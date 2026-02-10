@@ -1,0 +1,35 @@
+{
+  "id": "f0fb625c-5eec-453d-9b9a-29d3fad854f5",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 6,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师能力高，但是其他方面要仔细考虑一下",
+      "dimensions": {}
+    },
+    {
+      "comment": "最近有人恶意刷屏，给何老师差评，请大家睁大眼睛，何老师是个好老师啊。",
+      "dimensions": {}
+    },
+    {
+      "comment": "我是何学浩教授的学生，这些差评都是被刷出来的，希望大家不要相信。 作为何老师的学生，我们非常尊敬他。他不仅在科研上是我们的导师，更是我们开始树立正确世界观的人生导师。 我代表何老师课题组的所有同学欢迎对科研有兴趣的同学加入我们课题组。 我的联系方式：lihuaping@tju.edu.cn",
+      "dimensions": {}
+    },
+    {
+      "comment": "对喜欢科研的同学来说，是非常好的选择。",
+      "dimensions": {}
+    },
+    {
+      "comment": "何老师为人正直，治学严谨，对待科研一丝不苟，在科研方面对学生的要求很严格。在生活方面，老师很随和，实验室同学间的关系融洽，每年老师都会自费组织春游、秋游，以及圣诞聚餐。 课题组的详细情况可以登陆课题组的网站查看： http://www.tjuchemistry.org/usr/hxh/simg-index.html http://www.tju.edu.cn/science/szdw/hxx/ ... 113602.htm 欢迎有抱负、有理想、对科研感兴趣的同学加入我们课题组。",
+      "dimensions": {}
+    },
+    {
+      "comment": "据说研究方向不好找工作，学生一般都转行了",
+      "dimensions": {}
+    }
+  ]
+}

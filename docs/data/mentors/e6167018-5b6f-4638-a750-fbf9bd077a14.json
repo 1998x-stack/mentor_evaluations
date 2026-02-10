@@ -1,0 +1,21 @@
+{
+  "id": "e6167018-5b6f-4638-a750-fbf9bd077a14",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "经费发放：实验经费足够，但是没补贴！ 与学生关系：安排很多杂活",
+      "dimensions": {
+        "经费情况": "实验",
+        "师生关系": "安排很多杂活"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4dcefc58-7f06-480f-8d24-f01c89bb2c43",
+  "name": "吴溪",
+  "school": "中央财经大学",
+  "department": "会计学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "真的牛，毫不夸张导师能力拯救了央财",
+      "dimensions": {}
+    },
+    {
+      "comment": "确实是牛，但太忙，不怎么管学生，好像大佬都这样，感觉只有大佬学生才能跟大佬，不然感觉学不到东西。。。",
+      "dimensions": {}
+    }
+  ]
+}

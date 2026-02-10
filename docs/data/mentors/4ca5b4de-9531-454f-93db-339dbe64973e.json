@@ -1,0 +1,15 @@
+{
+  "id": "4ca5b4de-9531-454f-93db-339dbe64973e",
+  "name": "杨林",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨林 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cdf8bb7a-6ce1-4b97-94d5-03884fc270b6",
+  "name": "王健康",
+  "school": "西北工业大学",
+  "department": "软件与微电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这个导师很好，非常推荐",
+      "dimensions": {}
+    }
+  ]
+}

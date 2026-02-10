@@ -1,0 +1,15 @@
+{
+  "id": "81bfddca-1eea-4cc7-878a-06500a055e92",
+  "name": "张维",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很像马云，虽小但精明",
+      "dimensions": {}
+    }
+  ]
+}

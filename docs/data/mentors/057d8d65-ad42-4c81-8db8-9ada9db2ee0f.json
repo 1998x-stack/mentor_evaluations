@@ -1,0 +1,15 @@
+{
+  "id": "057d8d65-ad42-4c81-8db8-9ada9db2ee0f",
+  "name": "张向荣",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "目前导师情况未知，请该导师的学生做出客观评价",
+      "dimensions": {}
+    }
+  ]
+}

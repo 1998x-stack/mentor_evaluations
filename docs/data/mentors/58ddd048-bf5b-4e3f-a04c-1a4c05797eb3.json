@@ -1,0 +1,15 @@
+{
+  "id": "58ddd048-bf5b-4e3f-a04c-1a4c05797eb3",
+  "name": "潘小东",
+  "school": "兰州大学",
+  "department": "核科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "带《核电子学》，非常和善",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c82e8981-b162-4192-9d42-1963a150bcb3",
+  "name": "谢东亮",
+  "school": "北京邮电大学",
+  "department": "网络技术研究院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：很神奇啊，网研院牛逼谢老师竟然没有人评论，我还听爆料呢",
+      "dimensions": {
+        "师生关系": "很神奇啊，网研院牛逼谢老师竟然没有人评论，我还听爆料呢"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b1f24bc7-5977-41bf-a706-6195da32acd0",
+  "name": "胡春春",
+  "school": "武汉大学",
+  "department": "测绘学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师非常好，带学生认真负责",
+      "dimensions": {}
+    }
+  ]
+}

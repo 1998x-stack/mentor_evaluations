@@ -1,0 +1,19 @@
+{
+  "id": "0eb6182c-b3cb-4bc3-8420-b7deec39a0ca",
+  "name": "桂小林",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "桂老师指导很耐心，平时工作时间自由弹性，实验室人员关系融洽，非常推荐！",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师人品好，实验室师兄弟之间气氛融洽。",
+      "dimensions": {}
+    }
+  ]
+}

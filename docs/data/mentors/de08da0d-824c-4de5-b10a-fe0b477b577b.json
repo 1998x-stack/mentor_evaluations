@@ -1,0 +1,15 @@
+{
+  "id": "de08da0d-824c-4de5-b10a-fe0b477b577b",
+  "name": "金晶",
+  "school": "哈尔滨工业大学",
+  "department": "航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很漂亮，课题组很有钱",
+      "dimensions": {}
+    }
+  ]
+}

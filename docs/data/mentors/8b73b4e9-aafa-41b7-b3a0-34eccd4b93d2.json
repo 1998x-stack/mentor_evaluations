@@ -1,0 +1,23 @@
+{
+  "id": "8b73b4e9-aafa-41b7-b3a0-34eccd4b93d2",
+  "name": "财音青格乐",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：你的导师很大程度上决定了你今后几年的生活质量和你的学术成果",
+      "dimensions": {
+        "师生关系": "你的导师很大程度上决定了你今后几年的生活质量和你的学术成果"
+      }
+    },
+    {
+      "comment": "老师这个人是真的好（超级和善啊",
+      "dimensions": {}
+    }
+  ]
+}

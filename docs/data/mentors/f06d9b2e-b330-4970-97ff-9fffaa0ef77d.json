@@ -1,0 +1,15 @@
+{
+  "id": "f06d9b2e-b330-4970-97ff-9fffaa0ef77d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "孙聪 http://web.xidian.edu.cn/suncong/",
+      "dimensions": {}
+    }
+  ]
+}

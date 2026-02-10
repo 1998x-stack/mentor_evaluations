@@ -1,0 +1,15 @@
+{
+  "id": "eeef570c-0cf1-45ae-9ae1-41099277d432",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "同学的硕导，听过一些吐槽。不做过多评价",
+      "dimensions": {}
+    }
+  ]
+}

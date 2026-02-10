@@ -1,0 +1,15 @@
+{
+  "id": "136167cb-db55-4697-913b-160137ba6968",
+  "name": "刘树田",
+  "school": "哈尔滨工业大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室在逸夫楼四楼",
+      "dimensions": {}
+    }
+  ]
+}

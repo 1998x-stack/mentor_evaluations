@@ -1,0 +1,19 @@
+{
+  "id": "f8452df6-01a9-4469-8e9f-b6720939932b",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "尽职尽责，业务超强，业界良心！",
+      "dimensions": {}
+    },
+    {
+      "comment": "醉心学术，为人师表，身正为范，崇德厚学。",
+      "dimensions": {}
+    }
+  ]
+}

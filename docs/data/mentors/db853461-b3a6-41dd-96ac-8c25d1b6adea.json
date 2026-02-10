@@ -1,0 +1,15 @@
+{
+  "id": "db853461-b3a6-41dd-96ac-8c25d1b6adea",
+  "name": "刘伟",
+  "school": "武汉大学",
+  "department": "政治与公共管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很良心，对学生很好，有口碑",
+      "dimensions": {}
+    }
+  ]
+}

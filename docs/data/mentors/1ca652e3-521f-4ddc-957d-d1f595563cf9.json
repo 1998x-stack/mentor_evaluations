@@ -1,0 +1,15 @@
+{
+  "id": "1ca652e3-521f-4ddc-957d-d1f595563cf9",
+  "name": "张可能",
+  "school": "中南大学",
+  "department": "地球科学与信息物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师能力高，头衔荣誉多，为人和善，与学生亲近，当张老师的学生，一辈子不愁吃喝。",
+      "dimensions": {}
+    }
+  ]
+}

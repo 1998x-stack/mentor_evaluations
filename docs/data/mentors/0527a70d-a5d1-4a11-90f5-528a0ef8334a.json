@@ -1,0 +1,15 @@
+{
+  "id": "0527a70d-a5d1-4a11-90f5-528a0ef8334a",
+  "name": "张麟",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "抠门的要死，研究生只能领C类奖学金， 也就是除了学校发的钱外导师一分钱奖学金也不出， 也不给三助。",
+      "dimensions": {}
+    }
+  ]
+}

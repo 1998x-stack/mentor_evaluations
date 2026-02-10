@@ -1,0 +1,19 @@
+{
+  "id": "db844c43-c4a2-4387-8523-8e968cdd9c75",
+  "name": "暴峰",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "暴老师是我的恩师，有魅力，科研牛，值得推荐。",
+      "dimensions": {}
+    },
+    {
+      "comment": "暴老师看上去高冷，其实很热血，哈哈，对学生绝对没有剥削，读研究生还是很推荐的",
+      "dimensions": {}
+    }
+  ]
+}

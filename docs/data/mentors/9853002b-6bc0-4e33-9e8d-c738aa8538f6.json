@@ -1,0 +1,19 @@
+{
+  "id": "9853002b-6bc0-4e33-9e8d-c738aa8538f6",
+  "name": "陈伊翔",
+  "school": "中国科学技术大学",
+  "department": "地球与空间科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：2019年春节其学生刘春杨自杀。调查结果尚不明确。请关注后续新闻。",
+      "dimensions": {
+        "师生关系": "2019年春节其学生刘春杨自杀。调查结果尚不明确。请关注后续新闻。"
+      }
+    }
+  ]
+}

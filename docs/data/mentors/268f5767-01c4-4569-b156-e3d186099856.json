@@ -1,0 +1,19 @@
+{
+  "id": "268f5767-01c4-4569-b156-e3d186099856",
+  "name": "吕娜",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "真的好老师，人超nice",
+      "dimensions": {}
+    },
+    {
+      "comment": "我们班主任 很负责 对学生很好",
+      "dimensions": {}
+    }
+  ]
+}

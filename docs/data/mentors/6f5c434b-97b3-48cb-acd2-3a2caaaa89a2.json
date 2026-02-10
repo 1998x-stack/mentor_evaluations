@@ -1,0 +1,15 @@
+{
+  "id": "6f5c434b-97b3-48cb-acd2-3a2caaaa89a2",
+  "name": "王恪典",
+  "school": "西安交通大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "以下各项十分制\n1.科研能力：0\n2.工资补贴：5\n3.科研前景：5\n4.人品：        3\n非常不建议",
+      "dimensions": {}
+    }
+  ]
+}

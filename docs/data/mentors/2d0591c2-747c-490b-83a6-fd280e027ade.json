@@ -1,0 +1,19 @@
+{
+  "id": "2d0591c2-747c-490b-83a6-fd280e027ade",
+  "name": "惠宁",
+  "school": "西北大学",
+  "department": "经济管理学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：绝对难得的好老师，对学生好，专心学术，到手课题都是国家级的，能选到就是福气",
+      "dimensions": {
+        "导师能力": "绝对难得的好老师，对学生好，专心学术，到手课题都是国家级的，能选到就是福气"
+      }
+    }
+  ]
+}

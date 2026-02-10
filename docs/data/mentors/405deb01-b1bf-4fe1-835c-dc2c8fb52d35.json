@@ -1,0 +1,15 @@
+{
+  "id": "405deb01-b1bf-4fe1-835c-dc2c8fb52d35",
+  "name": "刘干",
+  "school": "华中科技大学",
+  "department": "电子与信息工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很垃圾。教过我们数据结构，一个问题讲半天讲不清楚。软弱，能力很差，责任感也很低，出了状况喜欢甩锅给学生。曾经让我们怀疑\"这种人是怎么能来华科教书的\"。",
+      "dimensions": {}
+    }
+  ]
+}

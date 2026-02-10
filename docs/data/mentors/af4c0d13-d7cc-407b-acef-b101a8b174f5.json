@@ -1,0 +1,15 @@
+{
+  "id": "af4c0d13-d7cc-407b-acef-b101a8b174f5",
+  "name": "张亮仁",
+  "school": "北京大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "放羊，只问进度 教学水平照本宣科 研究生培育基本上就是博士带硕士，带人的博士坑/忙就会非常坑",
+      "dimensions": {}
+    }
+  ]
+}

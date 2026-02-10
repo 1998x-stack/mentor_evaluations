@@ -1,0 +1,19 @@
+{
+  "id": "9d0f32af-d9d3-43bb-a920-4dfb70972c51",
+  "name": "袁艳",
+  "school": "北京航空航天大学",
+  "department": "仪器科学与光电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：跟学生关系相处正常，不变态。听说曾约学生一起逛街。",
+      "dimensions": {
+        "师生关系": "跟学生"
+      }
+    }
+  ]
+}

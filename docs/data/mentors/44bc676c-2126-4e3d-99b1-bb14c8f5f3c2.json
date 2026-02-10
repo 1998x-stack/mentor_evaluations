@@ -1,0 +1,19 @@
+{
+  "id": "44bc676c-2126-4e3d-99b1-bb14c8f5f3c2",
+  "name": "李华",
+  "school": "合肥工业大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：华为退役 经费发放：老师的经费发放可能比起一些大佬不算特别多，但是老师真的是尽心利用了。",
+      "dimensions": {
+        "经费情况": "老师的"
+      }
+    }
+  ]
+}

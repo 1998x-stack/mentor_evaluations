@@ -1,0 +1,15 @@
+{
+  "id": "aece1311-61ec-4b23-a8bb-1e78a8a8ca1e",
+  "name": "袁强",
+  "school": "北京师范大学",
+  "department": "经济与工商管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "袁强，长期不做科研不看论文，粗暴干涉学生科研方向，固执己见拒绝讨论。 并且有非常明显的直男癌倾向，非常看不起女学生。 讲课水平很差，只会对着word文档念。不会编程，代码都是一个大四的学生给写的。",
+      "dimensions": {}
+    }
+  ]
+}

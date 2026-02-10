@@ -1,0 +1,15 @@
+{
+  "id": "1800cfee-511d-463d-9dbe-2591817ba8b8",
+  "name": "蔡庆生",
+  "school": "中国科学技术大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：做人工智能的老师，好像已经跑路了",
+      "dimensions": {}
+    }
+  ]
+}

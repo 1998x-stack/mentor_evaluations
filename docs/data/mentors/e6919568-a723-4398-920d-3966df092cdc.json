@@ -1,0 +1,15 @@
+{
+  "id": "e6919568-a723-4398-920d-3966df092cdc",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "吴自力 http://web.xidian.edu.cn/zlwu/",
+      "dimensions": {}
+    }
+  ]
+}

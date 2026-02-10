@@ -1,0 +1,19 @@
+{
+  "id": "4399fe68-384c-4d03-8929-842d1c553824",
+  "name": "达妮莎",
+  "school": "大连理工大学",
+  "department": "建筑与艺术学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师对毕业辅导认真负责 平时没活 只求毕业很轻松",
+      "dimensions": {}
+    },
+    {
+      "comment": "佛系导师 最大的心愿是学生们都顺利毕业 非常nice的老师",
+      "dimensions": {}
+    }
+  ]
+}

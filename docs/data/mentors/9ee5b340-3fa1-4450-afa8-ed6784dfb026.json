@@ -1,0 +1,15 @@
+{
+  "id": "9ee5b340-3fa1-4450-afa8-ed6784dfb026",
+  "name": "李鸿光",
+  "school": "上海交通大学",
+  "department": "机械与动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人极好",
+      "dimensions": {}
+    }
+  ]
+}

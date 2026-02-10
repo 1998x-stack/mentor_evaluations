@@ -1,0 +1,19 @@
+{
+  "id": "d4df0e9f-f615-433c-8094-85e9cfc8d67b",
+  "name": "潘学军",
+  "school": "大连理工大学",
+  "department": "控制科学与工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "读硕士的导师首选吧，读博不建议",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师好说话、来了会很自由",
+      "dimensions": {}
+    }
+  ]
+}

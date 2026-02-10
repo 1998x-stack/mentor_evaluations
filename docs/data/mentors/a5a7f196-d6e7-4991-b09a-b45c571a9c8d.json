@@ -1,0 +1,25 @@
+{
+  "id": "a5a7f196-d6e7-4991-b09a-b45c571a9c8d",
+  "name": "Francesco Ciucci",
+  "school": "香港科技大学",
+  "department": "Department of Mechanical and Aerospace Engineering",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：He did modeling during his PhD but he is supervising students on experimental materials science. He can publish some relatively good work. 经费发放：He has some funding and it seems he is getting more. 与学生关系：He appears caring about student but he turns quickly for no reason. Quoting from his student what he said: \"why should I care?\" 学生毕业去向：I heard some of the students may be able to find a position on their own after some struggle but do not expect to get any help from him. He can/will NOT recommend a student to a top-notch group/good academic position. I also heard that when his student refuses to do a post-doc in his lab, he delayed his graduate for several month.",
+      "dimensions": {
+        "导师能力": "He did modeling during his PhD but he is supervising students on experimental materials science. He can publish some relatively good work.",
+        "经费情况": "He has some funding and it seems he is getting more. 与学生",
+        "师生关系": "He appears caring about student but he turns quickly for no reason. Quoting from his student what he said: \"why should I care?\" 学生毕业",
+        "毕业去向": "I heard some of the students may be able to find a position on their own after some struggle but do not expect to get any help from him. He can/will NOT recommend a student to a top-notch group/good academic position. I also heard that when his student refuses to do a post-doc in his lab, he delayed his graduate for several month."
+      }
+    }
+  ]
+}

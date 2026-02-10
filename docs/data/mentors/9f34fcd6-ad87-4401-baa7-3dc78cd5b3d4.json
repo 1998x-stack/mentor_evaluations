@@ -1,0 +1,19 @@
+{
+  "id": "9f34fcd6-ad87-4401-baa7-3dc78cd5b3d4",
+  "name": "张文颖",
+  "school": "华北电力大学",
+  "department": "电气与电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "电力专家，人好又负责",
+      "dimensions": {}
+    },
+    {
+      "comment": "楼上的兄弟，你好像写错了吧。电院只有刘文颖。没听说有叫张文颖的老师呀？？？",
+      "dimensions": {}
+    }
+  ]
+}

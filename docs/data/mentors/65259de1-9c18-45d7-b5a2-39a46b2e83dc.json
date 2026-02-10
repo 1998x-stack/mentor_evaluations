@@ -1,0 +1,15 @@
+{
+  "id": "65259de1-9c18-45d7-b5a2-39a46b2e83dc",
+  "name": "李莉",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李莉 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

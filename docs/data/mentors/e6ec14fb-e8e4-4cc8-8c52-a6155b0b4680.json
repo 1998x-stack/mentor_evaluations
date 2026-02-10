@@ -1,0 +1,15 @@
+{
+  "id": "e6ec14fb-e8e4-4cc8-8c52-a6155b0b4680",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨老师人挺好的，不是他的学生，但是他给人的印象不错，热情又实在",
+      "dimensions": {}
+    }
+  ]
+}

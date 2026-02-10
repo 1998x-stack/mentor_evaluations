@@ -1,0 +1,15 @@
+{
+  "id": "4945c221-a078-4a97-b309-aa4e967dccae",
+  "name": "尹洪超",
+  "school": "大连理工大学",
+  "department": "能源与动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很好",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a661bd9b-8bb9-4923-b2ad-8ec6cfa5e79c",
+  "name": "卢鸿谦",
+  "school": "哈尔滨工业大学",
+  "department": "航天学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师能力很强，人也很随和，为学生着想",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人挺好，理论功底扎实",
+      "dimensions": {}
+    }
+  ]
+}

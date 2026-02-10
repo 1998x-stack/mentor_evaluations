@@ -1,0 +1,19 @@
+{
+  "id": "edc1a367-a216-4f2a-ba26-e511876d879f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：毕设的指导老师，本科教授课程是，汽车可靠性，新能源汽车结构与原理和汽车检测技术 导师能力：毕竟是留韩博士后，对MATLAB建模工作方面能提出一些指导意见",
+      "dimensions": {
+        "导师能力": "毕竟是留韩博士后，对MATLAB建模工作方面能提出一些指导意见"
+      }
+    }
+  ]
+}

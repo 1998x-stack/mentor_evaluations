@@ -1,0 +1,19 @@
+{
+  "id": "c9749d98-9deb-407e-9092-058b60428ff1",
+  "name": "赵会娟",
+  "school": "天津大学",
+  "department": "精密仪器与光电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这           留点口德吧？",
+      "dimensions": {}
+    },
+    {
+      "comment": "水平实在不敢恭维！人品未知！",
+      "dimensions": {}
+    }
+  ]
+}

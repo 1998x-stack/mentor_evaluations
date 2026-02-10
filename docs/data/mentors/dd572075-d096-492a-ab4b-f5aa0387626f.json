@@ -1,0 +1,27 @@
+{
+  "id": "dd572075-d096-492a-ab4b-f5aa0387626f",
+  "name": "赵力",
+  "school": "东南大学",
+  "department": "信息科学与工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "挺好的",
+      "dimensions": {}
+    },
+    {
+      "comment": "在其指导下可丰富人生阅历，除了学术，都能学到不少",
+      "dimensions": {}
+    },
+    {
+      "comment": "比较实在的导师，属于刀子嘴豆腐心的那种。与学生关系不错。 信息学院的学生，工作都相当不错。 项目较多，很杂，学术上要靠自己。",
+      "dimensions": {}
+    },
+    {
+      "comment": "哈哈，不要选赵力，就是一个坑。",
+      "dimensions": {}
+    }
+  ]
+}

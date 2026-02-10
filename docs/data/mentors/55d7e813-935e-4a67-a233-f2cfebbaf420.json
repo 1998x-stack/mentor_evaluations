@@ -1,0 +1,19 @@
+{
+  "id": "55d7e813-935e-4a67-a233-f2cfebbaf420",
+  "name": "刘海涛",
+  "school": "南开大学",
+  "department": "电子信息与光学工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "涛哥是我上大学以来遇到为数不多的、讲课清楚的老师之一。",
+      "dimensions": {}
+    },
+    {
+      "comment": "刘导科研实力很强，毕竟是发过nature的人，得了很多奖，科研风格很朴实，跟着他发文章是不用愁了。",
+      "dimensions": {}
+    }
+  ]
+}

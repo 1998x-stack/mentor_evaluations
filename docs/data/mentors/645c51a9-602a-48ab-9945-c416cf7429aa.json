@@ -1,0 +1,15 @@
+{
+  "id": "645c51a9-602a-48ab-9945-c416cf7429aa",
+  "name": "张红光",
+  "school": "北京工业大学",
+  "department": "环境与能源工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师是我见过的最好的老师！",
+      "dimensions": {}
+    }
+  ]
+}

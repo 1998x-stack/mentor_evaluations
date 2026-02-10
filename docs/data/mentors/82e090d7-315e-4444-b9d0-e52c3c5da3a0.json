@@ -1,0 +1,19 @@
+{
+  "id": "82e090d7-315e-4444-b9d0-e52c3c5da3a0",
+  "name": "耿楠",
+  "school": "西北农林科技大学",
+  "department": "信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师人不错，但是不适合教书",
+      "dimensions": {
+        "师生关系": "老师人不错，但是不适合教书"
+      }
+    }
+  ]
+}

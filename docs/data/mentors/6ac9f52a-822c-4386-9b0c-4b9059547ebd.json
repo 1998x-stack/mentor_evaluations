@@ -1,0 +1,19 @@
+{
+  "id": "6ac9f52a-822c-4386-9b0c-4b9059547ebd",
+  "name": "刘马峰",
+  "school": "四川农业大学",
+  "department": "动物医学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "具有一定的试验能力，但难以沟通",
+      "dimensions": {}
+    },
+    {
+      "comment": "狂妄自大 拍马屁 与学生关系差 与学生讲话用命令口气 ",
+      "dimensions": {}
+    }
+  ]
+}

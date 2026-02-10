@@ -1,0 +1,15 @@
+{
+  "id": "27a75dff-4629-4040-8e4c-470b874eb1d1",
+  "name": "王小云",
+  "school": "清华大学",
+  "department": "数学科学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：高等研究院。这里目前没有这个院系，就添加到数学系啦",
+      "dimensions": {}
+    }
+  ]
+}

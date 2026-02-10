@@ -1,0 +1,19 @@
+{
+  "id": "0980bd31-a88b-4e7d-b9dd-6ceb9f2fc0fd",
+  "name": "王海贤",
+  "school": "东南大学",
+  "department": "生物科学与医学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "导师能力": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：跟网上搞很多女学生的可能还比不上，但是绝对是各方面都差到一定程度的极品。强烈建议不要来。",
+      "dimensions": {
+        "导师能力": "跟网上搞很多女学生的可能还比不上，但是绝对是各方面都差到一定程度的极品。强烈建议不要来。"
+      }
+    }
+  ]
+}

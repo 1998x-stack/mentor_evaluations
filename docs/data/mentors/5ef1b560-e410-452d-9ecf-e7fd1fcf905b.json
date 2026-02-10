@@ -1,0 +1,27 @@
+{
+  "id": "5ef1b560-e410-452d-9ecf-e7fd1fcf905b",
+  "name": "常焜",
+  "school": "南京航空航天大学",
+  "department": "材料科学与技术学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "尊重学生、耐心细致、你值得选择！",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研能力一流 文章发的很猛 经费充足 尊重学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "帅老师，对学生很好。而且好年轻呀",
+      "dimensions": {}
+    },
+    {
+      "comment": "材料学院的一颗新星，为人很正派，性格很直爽，对学生很nice，科研能力很强，挺赞的。",
+      "dimensions": {}
+    }
+  ]
+}

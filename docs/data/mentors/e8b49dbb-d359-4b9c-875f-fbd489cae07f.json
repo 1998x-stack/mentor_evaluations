@@ -1,0 +1,25 @@
+{
+  "id": "e8b49dbb-d359-4b9c-875f-fbd489cae07f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.44,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：挺牛逼的 经费发放：这个不清楚 与学生关系：感觉很和谐 学生毕业去向：挺好的",
+      "dimensions": {
+        "导师能力": "挺牛逼的",
+        "经费情况": "这个不清楚 与学生",
+        "师生关系": "感觉很和谐 学生毕业",
+        "毕业去向": "挺好的"
+      }
+    }
+  ]
+}

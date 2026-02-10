@@ -1,0 +1,15 @@
+{
+  "id": "fb31f526-6524-4288-bfaf-3d787a8be7ee",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这个老师可以选  我是15级学生",
+      "dimensions": {}
+    }
+  ]
+}

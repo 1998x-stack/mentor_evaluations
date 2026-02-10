@@ -1,0 +1,15 @@
+{
+  "id": "ae04e360-fb55-43ba-9de8-8c60147878b0",
+  "name": "傅源",
+  "school": "天津医科大学",
+  "department": "基础医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "有耐心，水平高，亲自指导学生",
+      "dimensions": {}
+    }
+  ]
+}

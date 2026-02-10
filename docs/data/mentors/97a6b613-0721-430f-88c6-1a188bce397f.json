@@ -1,0 +1,15 @@
+{
+  "id": "97a6b613-0721-430f-88c6-1a188bce397f",
+  "name": "邓建国",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "very bad",
+      "dimensions": {}
+    }
+  ]
+}

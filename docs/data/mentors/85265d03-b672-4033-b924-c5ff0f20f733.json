@@ -1,0 +1,19 @@
+{
+  "id": "85265d03-b672-4033-b924-c5ff0f20f733",
+  "name": "刘强",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "新归国的老师，个人履历不错，年富力强，据说不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "刘强，男，博士，副教授，微电子学与固体电子学专业，硕士生导师，“天津市青年千人计划”入选者。 [url]http://www.tju.edu.cn/seie/szdw/qrjh/201304/t20130407_171819.html[/url]",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "24ff957f-613c-4cac-bb5c-92b8471cd9cd",
+  "name": "张鹏",
+  "school": "厦门大学",
+  "department": "能源学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常nice的一位导师",
+      "dimensions": {}
+    }
+  ]
+}

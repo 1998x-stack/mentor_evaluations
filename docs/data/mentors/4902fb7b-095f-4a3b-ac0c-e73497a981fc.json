@@ -1,0 +1,15 @@
+{
+  "id": "4902fb7b-095f-4a3b-ac0c-e73497a981fc",
+  "name": "刘华",
+  "school": "西安交通大学",
+  "department": "经济与金融学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "跟学生关系蛮好的，但是太喜欢找学生帮忙做事情了",
+      "dimensions": {}
+    }
+  ]
+}

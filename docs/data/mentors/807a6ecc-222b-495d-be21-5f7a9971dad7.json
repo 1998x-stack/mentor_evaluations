@@ -1,0 +1,15 @@
+{
+  "id": "807a6ecc-222b-495d-be21-5f7a9971dad7",
+  "name": "陈禾",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

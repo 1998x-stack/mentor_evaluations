@@ -1,0 +1,31 @@
+{
+  "id": "33e42a48-4d44-44eb-8f9d-122fd2d2b828",
+  "name": "杨健",
+  "school": "北京理工大学",
+  "department": "光电学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "希望看见的都不要来这里",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：研究方向为医学图像处理",
+      "dimensions": {}
+    },
+    {
+      "comment": "别来，来了指定后悔  200%的概率\n别来，来了指定后悔  200%的概率\n别来，来了指定后悔  200%的概率",
+      "dimensions": {}
+    },
+    {
+      "comment": "自认证导师：医学图像处理",
+      "dimensions": {}
+    },
+    {
+      "comment": "千万别来，千万别来，千万别来。\n压榨学生，免费给公司打工，抢学生论文，总是喜欢给学生洗脑。",
+      "dimensions": {}
+    }
+  ]
+}

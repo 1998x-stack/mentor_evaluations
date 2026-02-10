@@ -1,0 +1,15 @@
+{
+  "id": "db7f555f-627e-4d68-bc34-45688167ea60",
+  "name": "李庚银",
+  "school": "华北电力大学",
+  "department": "电气与电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "脾气好 但比较忙 学生需要自食其力",
+      "dimensions": {}
+    }
+  ]
+}

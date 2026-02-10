@@ -1,0 +1,19 @@
+{
+  "id": "7f07c931-1cf9-469c-9783-9f072dc5a24c",
+  "name": "李百战",
+  "school": "重庆大学",
+  "department": "城市建设与环境工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：城环学院任期十余年的院长。说话口音重。 工作时间：本身是工作狂。",
+      "dimensions": {
+        "工作时间": "本身是工作狂。"
+      }
+    }
+  ]
+}

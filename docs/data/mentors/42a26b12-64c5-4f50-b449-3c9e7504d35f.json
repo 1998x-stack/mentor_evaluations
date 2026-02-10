@@ -1,0 +1,15 @@
+{
+  "id": "42a26b12-64c5-4f50-b449-3c9e7504d35f",
+  "name": "陈浩",
+  "school": "华中农业大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：逸夫楼二楼办公室",
+      "dimensions": {}
+    }
+  ]
+}

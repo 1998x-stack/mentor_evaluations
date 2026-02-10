@@ -1,0 +1,15 @@
+{
+  "id": "7a581602-241b-4e76-8009-3c57d41648cb",
+  "name": "吴在军",
+  "school": "东南大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "nice，人很nice",
+      "dimensions": {}
+    }
+  ]
+}

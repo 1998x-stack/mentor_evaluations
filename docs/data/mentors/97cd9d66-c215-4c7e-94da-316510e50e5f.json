@@ -1,0 +1,15 @@
+{
+  "id": "97cd9d66-c215-4c7e-94da-316510e50e5f",
+  "name": "叶敏",
+  "school": "北京大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "叶老师人很好，水平很高，不过因为老师对学生要求高，做实验会辛苦些",
+      "dimensions": {}
+    }
+  ]
+}

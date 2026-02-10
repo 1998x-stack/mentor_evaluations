@@ -1,0 +1,19 @@
+{
+  "id": "010b04ff-19ae-49fe-89ce-aa337a900ceb",
+  "name": "傅莉",
+  "school": "西北工业大学",
+  "department": "材料学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "啥都不会，就会扯淡，自己花钱做实验",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研能力一般，比较注重赚钱，比较抠，不让学生做实验，让学生做项目挣钱，风评一般",
+      "dimensions": {}
+    }
+  ]
+}

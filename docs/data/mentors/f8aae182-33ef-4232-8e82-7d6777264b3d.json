@@ -1,0 +1,15 @@
+{
+  "id": "f8aae182-33ef-4232-8e82-7d6777264b3d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "樊老师人很好，随和，不压榨学生，要发好文章就看自己的造化了",
+      "dimensions": {}
+    }
+  ]
+}

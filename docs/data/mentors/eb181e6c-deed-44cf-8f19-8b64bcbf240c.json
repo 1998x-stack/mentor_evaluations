@@ -1,0 +1,23 @@
+{
+  "id": "eb181e6c-deed-44cf-8f19-8b64bcbf240c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.58,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 6.75,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：女 导师能力：很有智慧的老师 与学生关系：愿意尊重学生，像朋友一样相处 工作时间：弹性时间，较为合理",
+      "dimensions": {
+        "导师能力": "很有智慧的老师 与学生",
+        "师生关系": "愿意尊重学生，像朋友一样相处 工作",
+        "工作时间": "弹性"
+      }
+    }
+  ]
+}

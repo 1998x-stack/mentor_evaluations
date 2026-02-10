@@ -1,0 +1,27 @@
+{
+  "id": "ee597fa7-5c52-4179-8419-1c78c8a31886",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "助研很足，是航院顶薪。",
+      "dimensions": {}
+    },
+    {
+      "comment": "科学严谨，兢兢业业，刻苦钻研",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：教1北417 学生补助：补助还可以",
+      "dimensions": {
+        "学生补助": ""
+      }
+    }
+  ]
+}

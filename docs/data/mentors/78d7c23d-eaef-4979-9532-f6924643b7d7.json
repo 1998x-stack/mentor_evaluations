@@ -1,0 +1,35 @@
+{
+  "id": "78d7c23d-eaef-4979-9532-f6924643b7d7",
+  "name": "钟文琪",
+  "school": "东南大学",
+  "department": "能源与环境学院",
+  "evaluationCount": 6,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术成就高，对待学生尽心尽责，可以学到不少东西，具有大师风范！",
+      "dimensions": {}
+    },
+    {
+      "comment": "延毕家常便饭，讨厌做学术的还是别来了",
+      "dimensions": {}
+    },
+    {
+      "comment": "很有前途的导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "大师风范，未来的院士，每天都工作到晚上十一二点",
+      "dimensions": {}
+    },
+    {
+      "comment": "实验室管理非常严格",
+      "dimensions": {}
+    },
+    {
+      "comment": "要求严格，今年有不少延毕的硕士",
+      "dimensions": {}
+    }
+  ]
+}

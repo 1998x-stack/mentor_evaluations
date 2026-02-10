@@ -1,0 +1,15 @@
+{
+  "id": "8fbd260a-3cfe-4545-b628-0d4280629410",
+  "name": "魏东",
+  "school": "华南理工大学",
+  "department": "轻工与食品学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "在学术上和经济上利益至上，不太考虑学生的感受，需要学生随时待命处理实验室事情或者数据，很少有正确的学术研究指导，阻碍学生毕业去向。",
+      "dimensions": {}
+    }
+  ]
+}

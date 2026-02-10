@@ -1,0 +1,23 @@
+{
+  "id": "c1fc7274-4a43-4fad-9445-9ee337794324",
+  "name": "吴成富",
+  "school": "西北工业大学",
+  "department": "自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "学生补助": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "出了事喜欢找人背锅，科研项目少，学生获奖之后喜欢乘机分一杯羹。对不属于自己派系的老师喜欢动用手段打压，特别是年轻老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：无人机重点实验室 学生补助：高于其他老师学生",
+      "dimensions": {
+        "学生补助": "高于其他老师学生"
+      }
+    }
+  ]
+}

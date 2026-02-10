@@ -1,0 +1,19 @@
+{
+  "id": "63ef29fd-8046-4fa2-876f-80022caef132",
+  "name": "李松柏",
+  "school": "西北农林科技大学",
+  "department": "人文学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常严谨认真的好老师 风趣幽默！",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常好的一位老师，治学严谨，导师能力高，跟学生们的关系很好。虽然年龄大了，身体不太好，但是很有活力，风趣幽默，对学生的教导耐心细致。在社会调查研究方面颇有建树。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5b89a325-c53b-4609-b0e1-73fce11ab8f8",
+  "name": "孙志忠",
+  "school": "东南大学",
+  "department": "数学系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "孙老师风趣幽默，对工作兢兢业业，科研上以严谨著称，对学生关爱有加，是位极好的老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "上过他的课，南京话很重。对学生严格要求，为人和蔼，很负责。上课准时，课讲不完会拖堂，讲完才下课。给分手很紧。",
+      "dimensions": {}
+    }
+  ]
+}

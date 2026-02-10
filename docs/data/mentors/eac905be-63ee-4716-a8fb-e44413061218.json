@@ -1,0 +1,19 @@
+{
+  "id": "eac905be-63ee-4716-a8fb-e44413061218",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "一楼说的没毛病，顶顶顶顶！",
+      "dimensions": {}
+    },
+    {
+      "comment": "人倒不大，脾气不小。\n没啥素质，傻逼一个。\n",
+      "dimensions": {}
+    }
+  ]
+}

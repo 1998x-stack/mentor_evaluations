@@ -1,0 +1,15 @@
+{
+  "id": "e0b09c61-6a79-446d-88f3-c57381f43632",
+  "name": "钟鸣",
+  "school": "武汉理工大学",
+  "department": "能源与动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：its八楼大办公室",
+      "dimensions": {}
+    }
+  ]
+}

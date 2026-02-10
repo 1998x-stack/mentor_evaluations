@@ -1,0 +1,15 @@
+{
+  "id": "7cda95a5-e878-48bf-aa9b-505ba05fd3f6",
+  "name": "袁健红",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "马克思主义学院",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "25d0156a-ae58-4656-ac25-5f04f265d822",
+  "name": "管彦武",
+  "school": "吉林大学",
+  "department": "地探学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很好。科研能力不算很强。",
+      "dimensions": {}
+    }
+  ]
+}

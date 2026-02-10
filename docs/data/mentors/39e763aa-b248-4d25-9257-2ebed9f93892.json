@@ -1,0 +1,19 @@
+{
+  "id": "39e763aa-b248-4d25-9257-2ebed9f93892",
+  "name": "朱少林",
+  "school": "南京大学",
+  "department": "化学化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "慎入啊，最好亲自和师兄师姐沟通一下",
+      "dimensions": {}
+    },
+    {
+      "comment": "为什么？看这个老师很年轻，文章也很好，实验室如何？直接一星说个原因呗？",
+      "dimensions": {}
+    }
+  ]
+}

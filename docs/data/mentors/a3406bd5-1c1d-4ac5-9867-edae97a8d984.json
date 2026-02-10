@@ -1,0 +1,21 @@
+{
+  "id": "a3406bd5-1c1d-4ac5-9867-edae97a8d984",
+  "name": "刘新良",
+  "school": "同济大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：讲师 与学生关系：缺乏同理心和人情味，做事易走极端",
+      "dimensions": {
+        "导师能力": "讲师 与学生",
+        "师生关系": "缺乏同理心和人情味，做事易走极端"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fcf9ac76-79c9-4950-9e55-b838d2bce13c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：水平真的不行 经费发放：应该没经费的，只是讲师 与学生关系：没带学生吧 学生毕业去向：没带学生",
+      "dimensions": {
+        "导师能力": "水平真的不行",
+        "经费情况": "应该没",
+        "师生关系": "没带学生吧 学生毕业",
+        "毕业去向": "没带学生"
+      }
+    },
+    {
+      "comment": "水平太差了，讲课太装",
+      "dimensions": {}
+    }
+  ]
+}

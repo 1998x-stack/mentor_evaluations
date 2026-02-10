@@ -1,0 +1,19 @@
+{
+  "id": "7f4d0c03-36ec-49fb-b391-3836de999cd2",
+  "name": "蔡斌",
+  "school": "重庆大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：个子高，人很有礼貌、很绅士，对学生也都很好，感觉是个不错的老师。 与学生关系：尊重学生，很有礼貌，和学生关系都还不错，其他不清楚。",
+      "dimensions": {
+        "师生关系": "尊重学生，很有礼貌，和学生"
+      }
+    }
+  ]
+}

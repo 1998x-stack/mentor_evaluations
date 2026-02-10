@@ -1,0 +1,23 @@
+{
+  "id": "584d504a-f908-4f4a-ac9a-18416d05fc17",
+  "name": "刘强",
+  "school": "湖南大学",
+  "department": "电气与信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师认真负责，要求严格，但是没有一点补助",
+      "dimensions": {}
+    },
+    {
+      "comment": "学生补助：特别特别在乎钱。学生一毛没有",
+      "dimensions": {
+        "学生补助": "特别特别在乎钱。学生一毛没有"
+      }
+    }
+  ]
+}

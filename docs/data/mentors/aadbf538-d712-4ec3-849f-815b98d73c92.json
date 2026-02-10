@@ -1,0 +1,15 @@
+{
+  "id": "aadbf538-d712-4ec3-849f-815b98d73c92",
+  "name": "朱福喜",
+  "school": "武汉大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品不错 对学生和蔼 允许实习",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "acd502f9-22b3-4800-92ab-b20d6e0499ff",
+  "name": "李长忠",
+  "school": "青海大学",
+  "department": "生态环境工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：青海大学本校综合楼6楼生态环境工程学院院长办公",
+      "dimensions": {}
+    }
+  ]
+}

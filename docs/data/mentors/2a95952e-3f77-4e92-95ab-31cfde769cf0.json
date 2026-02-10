@@ -1,0 +1,15 @@
+{
+  "id": "2a95952e-3f77-4e92-95ab-31cfde769cf0",
+  "name": "路德春",
+  "school": "北京工业大学",
+  "department": "建筑工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师还是很负责的，不是他的学生",
+      "dimensions": {}
+    }
+  ]
+}

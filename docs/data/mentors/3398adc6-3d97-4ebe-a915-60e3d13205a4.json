@@ -1,0 +1,15 @@
+{
+  "id": "3398adc6-3d97-4ebe-a915-60e3d13205a4",
+  "name": "陈益广",
+  "school": "天津大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师在电机领域有极高的学术造诣",
+      "dimensions": {}
+    }
+  ]
+}

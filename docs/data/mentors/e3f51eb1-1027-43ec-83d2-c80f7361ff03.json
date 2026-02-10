@@ -1,0 +1,15 @@
+{
+  "id": "e3f51eb1-1027-43ec-83d2-c80f7361ff03",
+  "name": "李东升",
+  "school": "大连理工大学",
+  "department": "水利工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，对学生很不错",
+      "dimensions": {}
+    }
+  ]
+}

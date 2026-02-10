@@ -1,0 +1,19 @@
+{
+  "id": "a4c69857-06eb-4211-8662-2ae433b57d61",
+  "name": "肖依永",
+  "school": "北京航空航天大学",
+  "department": "可靠性与系统工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：学术能力超级强，14系SCI最多的老师，主要研究算法",
+      "dimensions": {
+        "导师能力": "学术能力超级强，14系SCI最多的老师，主要研究算法"
+      }
+    }
+  ]
+}

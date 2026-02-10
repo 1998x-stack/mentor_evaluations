@@ -1,0 +1,19 @@
+{
+  "id": "cd88ef6e-2777-4e1f-8a29-4808af730812",
+  "name": "龙占超",
+  "school": "华中科技大学",
+  "department": "电子与信息工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：不是他的学生但是目睹了一点事情，感觉人品有点卑劣",
+      "dimensions": {
+        "师生关系": "不是他的学生但是目睹了一点事情，感觉人品有点卑劣"
+      }
+    }
+  ]
+}

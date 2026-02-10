@@ -1,0 +1,15 @@
+{
+  "id": "33287a10-6542-4a26-92d5-2eb7382b6095",
+  "name": "杨林",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨林 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e680f3d1-328c-4153-8d4f-03b232d1f752",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "毕业要求高，据说学生文章很少，不好找工作。",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师不错，值得推荐，电磁场的牛人",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人很好，要求严格，所以学生成果也不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "据说好几年没有文章，比较惨！",
+      "dimensions": {}
+    }
+  ]
+}

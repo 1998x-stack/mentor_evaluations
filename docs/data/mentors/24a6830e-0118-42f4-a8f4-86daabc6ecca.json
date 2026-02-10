@@ -1,0 +1,19 @@
+{
+  "id": "24a6830e-0118-42f4-a8f4-86daabc6ecca",
+  "name": "姜周华",
+  "school": "东北大学",
+  "department": "冶金学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生好，水平高，值得推荐！",
+      "dimensions": {}
+    },
+    {
+      "comment": "德高望重，理论与工程相结合，典型的学以致用的导师！",
+      "dimensions": {}
+    }
+  ]
+}

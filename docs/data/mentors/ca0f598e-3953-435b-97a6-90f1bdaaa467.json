@@ -1,0 +1,19 @@
+{
+  "id": "ca0f598e-3953-435b-97a6-90f1bdaaa467",
+  "name": "孙长银",
+  "school": "东南大学",
+  "department": "自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "请孙老师课题组的学生，可以评价一下孙老师在模式识别领域的研究吗，谢谢。",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：游客，希望相关实验室的学长学姐能给点评价，老师是模式识别方向的，近几年挺火的，评价是为了重新添加孙老师，不作为参考",
+      "dimensions": {}
+    }
+  ]
+}

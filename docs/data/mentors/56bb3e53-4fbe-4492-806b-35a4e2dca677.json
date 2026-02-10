@@ -1,0 +1,19 @@
+{
+  "id": "56bb3e53-4fbe-4492-806b-35a4e2dca677",
+  "name": "陈群",
+  "school": "西北工业大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：导师不在自己办公室，在西北工业大学计算机学院316室与学生一起办公 工作时间：周六可能加班 周日不加班",
+      "dimensions": {
+        "工作时间": "周六可能加班 周日不加班"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5ce6162e-606e-4aab-b010-54f03ca56788",
+  "name": "张学军",
+  "school": "广西大学",
+  "department": "计算机与电子信息学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "计算机学院计算机视觉研究方向非常好的导师，为人亲切，科研成果显著，是计算机学院医学图像处理方面的头牌",
+      "dimensions": {}
+    }
+  ]
+}

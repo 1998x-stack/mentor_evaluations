@@ -1,0 +1,27 @@
+{
+  "id": "66256ca3-88a8-43d7-97e5-b75c642f916d",
+  "name": "肖文精",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听说迟到一次扣工资50，想问问一个月工资够迟到几次",
+      "dimensions": {}
+    },
+    {
+      "comment": "早上八点之前到，晚上十点之后走。周日加班是常事，一年只放两三个星期的假。",
+      "dimensions": {}
+    },
+    {
+      "comment": "做合成的这个工作时间很正常，肖组最近文章质量很好，好好干，付出会有回报的",
+      "dimensions": {}
+    },
+    {
+      "comment": "工资很高，一个月200吧",
+      "dimensions": {}
+    }
+  ]
+}

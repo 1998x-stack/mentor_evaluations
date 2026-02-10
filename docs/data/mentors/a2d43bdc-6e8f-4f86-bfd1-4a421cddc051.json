@@ -1,0 +1,21 @@
+{
+  "id": "a2d43bdc-6e8f-4f86-bfd1-4a421cddc051",
+  "name": "杨永明",
+  "school": "中国矿业大学(北京)",
+  "department": "力学与建筑工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：杨老师人超级好，比心 导师能力：挺好的 与学生关系：nice",
+      "dimensions": {
+        "导师能力": "挺好的 与学生",
+        "师生关系": "nice"
+      }
+    }
+  ]
+}

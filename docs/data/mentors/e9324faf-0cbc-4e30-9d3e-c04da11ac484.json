@@ -1,0 +1,19 @@
+{
+  "id": "e9324faf-0cbc-4e30-9d3e-c04da11ac484",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人特别好，就是这几年心思在教学上，科研工作也就放下了。但是你在科研学习上提出要求，老师会想办法满足你。可能会找别的老师带你。",
+      "dimensions": {}
+    },
+    {
+      "comment": "待人和蔼，气质出众，很为学生着想。会给学生提出中肯的意见。",
+      "dimensions": {}
+    }
+  ]
+}

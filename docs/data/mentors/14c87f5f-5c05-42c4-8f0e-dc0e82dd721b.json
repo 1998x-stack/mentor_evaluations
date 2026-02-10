@@ -1,0 +1,15 @@
+{
+  "id": "14c87f5f-5c05-42c4-8f0e-dc0e82dd721b",
+  "name": "胡亚元",
+  "school": "浙江大学",
+  "department": "建筑工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很坑，天天训学生，没有月钱",
+      "dimensions": {}
+    }
+  ]
+}

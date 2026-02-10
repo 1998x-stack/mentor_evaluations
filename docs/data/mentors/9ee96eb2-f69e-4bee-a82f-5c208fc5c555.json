@@ -1,0 +1,15 @@
+{
+  "id": "9ee96eb2-f69e-4bee-a82f-5c208fc5c555",
+  "name": "杨帆",
+  "school": "上海财经大学",
+  "department": "通信工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨老师人非常nice，对待学生特别好，能够很好地指导帮助学生。主要研究方向为：光网络、多粒度光交换、高速大容量路由器及交换机、分组调度算法、路由算法、光网络业务疏导算法、高速多播交换。",
+      "dimensions": {}
+    }
+  ]
+}

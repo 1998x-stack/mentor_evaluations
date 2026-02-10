@@ -1,0 +1,15 @@
+{
+  "id": "7d766c35-fdee-4bb4-bfcc-595c6e9eb38b",
+  "name": "张俊伟",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张俊伟 http://web.xidian.edu.cn/jwzhang/",
+      "dimensions": {}
+    }
+  ]
+}

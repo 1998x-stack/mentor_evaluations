@@ -1,0 +1,21 @@
+{
+  "id": "f18a663e-eb4f-45aa-865a-cf9ee3b82696",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：吹毛求疵，连硕士都不让按时毕业，与学生关系紧张 学生毕业去向：靠自己",
+      "dimensions": {
+        "师生关系": "吹毛求疵，连硕士都不让按时毕业，与学生",
+        "毕业去向": "靠自己"
+      }
+    }
+  ]
+}

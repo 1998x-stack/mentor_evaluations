@@ -1,0 +1,15 @@
+{
+  "id": "11a0697e-89a7-4139-b4da-fdc45f4a7b25",
+  "name": "张婕宇",
+  "school": "上海大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "曾经的材料科学与工程学院院长",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "04cc64d9-ed08-4a3e-89d0-40faf3462b57",
+  "name": "王适之",
+  "school": "东南大学",
+  "department": "公共卫生学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人和善，讲解耐心。不摆架子",
+      "dimensions": {}
+    },
+    {
+      "comment": "一丝不苟\n春风化雨\n循循善诱\n诲人不倦",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6bd4ec1d-dcf0-4a5e-919f-787498b41069",
+  "name": "姜晓鸿",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "姜晓鸿 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

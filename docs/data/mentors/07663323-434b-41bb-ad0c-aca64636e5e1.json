@@ -1,0 +1,31 @@
+{
+  "id": "07663323-434b-41bb-ad0c-aca64636e5e1",
+  "name": "汪峥",
+  "school": "东南大学",
+  "department": "自动化学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "极品好老师！对学生最赞！人也特别好，研究深度相当深，科研实力那是一个字，非常牛！",
+      "dimensions": {}
+    },
+    {
+      "comment": "很好。",
+      "dimensions": {}
+    },
+    {
+      "comment": "真的就是年轻有为！对学生也很好，生病了都会关心的！",
+      "dimensions": {}
+    },
+    {
+      "comment": "汪老师的确很不错的导师，对学生很负责，口碑不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生非常的好，关心学生科研情况，有项目做，给学生发的钱也比较多，是一个认真负责的老师",
+      "dimensions": {}
+    }
+  ]
+}

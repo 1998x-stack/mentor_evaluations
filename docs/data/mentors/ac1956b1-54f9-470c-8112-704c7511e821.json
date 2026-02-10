@@ -1,0 +1,15 @@
+{
+  "id": "ac1956b1-54f9-470c-8112-704c7511e821",
+  "name": "杨军",
+  "school": "北京航空航天大学",
+  "department": "化学与环境学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "没什么真才实学",
+      "dimensions": {}
+    }
+  ]
+}

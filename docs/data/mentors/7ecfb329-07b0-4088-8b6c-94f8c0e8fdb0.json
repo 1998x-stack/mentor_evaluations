@@ -1,0 +1,15 @@
+{
+  "id": "7ecfb329-07b0-4088-8b6c-94f8c0e8fdb0",
+  "name": "张剑",
+  "school": "西南石油大学",
+  "department": "软件工程",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "比较喜欢让你打杂水些没什么用的事，倒不是996，普通话不是很好",
+      "dimensions": {}
+    }
+  ]
+}

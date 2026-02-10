@@ -1,0 +1,15 @@
+{
+  "id": "7e005586-c347-421f-a19d-0f31b07d4a33",
+  "name": "张俊伟",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张俊伟 http://web.xidian.edu.cn/jwzhang/",
+      "dimensions": {}
+    }
+  ]
+}

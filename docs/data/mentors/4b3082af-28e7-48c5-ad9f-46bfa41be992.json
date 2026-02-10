@@ -1,0 +1,19 @@
+{
+  "id": "4b3082af-28e7-48c5-ad9f-46bfa41be992",
+  "name": "杨明轩",
+  "school": "北京航空航天大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨老师是真的好！！！真的好！！！！！",
+      "dimensions": {}
+    },
+    {
+      "comment": "杨老师年轻，能力很强！科研水平没有话说，组里论文蹭蹭滴发！\n杨老师非常关心同学，经常聊天呀，说家常，关心身心健康！是一个非常好的老师。",
+      "dimensions": {}
+    }
+  ]
+}

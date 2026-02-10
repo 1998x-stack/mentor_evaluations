@@ -1,0 +1,15 @@
+{
+  "id": "c1cbcc1c-89fe-4bc1-855f-625ad60aab88",
+  "name": "郭飞",
+  "school": "大连理工大学",
+  "department": "能源与动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "姓名：郭飞 办公室电话：0411-82463981 电子邮箱地址：feiguo@dlut.edu.cn 网站：http://gemn1.dlut.edu.cn/ 主要学历及工作经历： 郭飞 教授 2015年-至今 大连理工大学 能源与动力学院 教授 2013-2015年 Massachusetts Institute of Technology（美国）化学工程 博士后研究员 2012-2013年 Brown University（美国）材料科学 博士后研究员 2008-2012年 Brown University（美国）工程学院 博士 2006-2008年 浙江大学 机械与能源学院 硕士 2002-2006年 大连理工大学 动力工程系 本科",
+      "dimensions": {}
+    }
+  ]
+}

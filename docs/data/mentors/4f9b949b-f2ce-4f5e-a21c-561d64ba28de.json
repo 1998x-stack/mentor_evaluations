@@ -1,0 +1,15 @@
+{
+  "id": "4f9b949b-f2ce-4f5e-a21c-561d64ba28de",
+  "name": "周游",
+  "school": "中国人民大学",
+  "department": "财政金融学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "真心推荐。",
+      "dimensions": {}
+    }
+  ]
+}

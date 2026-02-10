@@ -1,0 +1,19 @@
+{
+  "id": "9ec94a5c-e0fb-4f4b-bd6d-a00c41f6852b",
+  "name": "苏万华",
+  "school": "天津大学",
+  "department": "机械工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "个人能力极强，科研领域有雄心壮志的学生可以考虑报考。院士的学生，特别是博士，基本都是大牛",
+      "dimensions": {}
+    },
+    {
+      "comment": "院士，大牛，绝对的前途无量，学生在工业界都是响当当的人物",
+      "dimensions": {}
+    }
+  ]
+}

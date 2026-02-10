@@ -1,0 +1,19 @@
+{
+  "id": "1503aa26-a5c5-44c2-8b94-eddcb74fe98b",
+  "name": "鄢明",
+  "school": "中山大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：被学生奉为零差评老板，每年药学院前三名必争导师，人品超好",
+      "dimensions": {
+        "导师能力": "被学生奉为零差评老板，每年药学院前三名必争导师，人品超好"
+      }
+    }
+  ]
+}

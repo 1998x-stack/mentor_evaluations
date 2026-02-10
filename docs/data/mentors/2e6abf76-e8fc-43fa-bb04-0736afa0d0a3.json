@@ -1,0 +1,27 @@
+{
+  "id": "2e6abf76-e8fc-43fa-bb04-0736afa0d0a3",
+  "name": "黄迪",
+  "school": "北京航空航天大学",
+  "department": "计算机学院",
+  "evaluationCount": 3,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "导师能力": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "黄老师人非常非常非常好，很尊重学生，理解学生！！导师能力超级高，平时也很耐心的指导学生。",
+      "dimensions": {}
+    },
+    {
+      "comment": "黄老师人好，水平又高!",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：黄老师人超级好，而且记忆力惊人。很耐心解答学生的问题",
+      "dimensions": {
+        "导师能力": "黄老师人超级好，而且记忆力惊人。很耐心解答学生的问题"
+      }
+    }
+  ]
+}

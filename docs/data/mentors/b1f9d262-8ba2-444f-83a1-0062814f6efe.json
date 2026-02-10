@@ -1,0 +1,15 @@
+{
+  "id": "b1f9d262-8ba2-444f-83a1-0062814f6efe",
+  "name": "郝枫",
+  "school": "天津财经大学",
+  "department": "理工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很负责，人很好",
+      "dimensions": {}
+    }
+  ]
+}

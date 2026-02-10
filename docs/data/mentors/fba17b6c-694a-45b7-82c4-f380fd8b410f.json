@@ -1,0 +1,19 @@
+{
+  "id": "fba17b6c-694a-45b7-82c4-f380fd8b410f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对自己学生还是不错的，虽然干活累，但是可以学到好多东西，而且补助也是发满，还经常请学生吃饭",
+      "dimensions": {}
+    },
+    {
+      "comment": "小人一个，非常贱，累死累活，每天还摆脸色",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f0679106-9a44-48e3-b947-b6f818a7fe72",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "松哥年轻有为，能力超强，人很和善，很接地气，和学生们打成一片。",
+      "dimensions": {}
+    },
+    {
+      "comment": "年轻有为，科研水平高，灵魂段子手，手术室车王",
+      "dimensions": {}
+    }
+  ]
+}

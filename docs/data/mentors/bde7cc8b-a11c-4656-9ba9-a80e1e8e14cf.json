@@ -1,0 +1,19 @@
+{
+  "id": "bde7cc8b-a11c-4656-9ba9-a80e1e8e14cf",
+  "name": "朱洪",
+  "school": "湖南大学",
+  "department": "生物学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "本科时候上过她的课，稀烂，研究能力不知道",
+      "dimensions": {}
+    },
+    {
+      "comment": "有个研究生延期毕业，毕业证都没拿直接走人",
+      "dimensions": {}
+    }
+  ]
+}

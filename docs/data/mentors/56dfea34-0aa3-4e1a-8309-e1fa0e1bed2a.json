@@ -1,0 +1,23 @@
+{
+  "id": "56dfea34-0aa3-4e1a-8309-e1fa0e1bed2a",
+  "name": "史清洪",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "奇葩一朵！附经典台词。 “啊？什么事，什么事。。。？哦，没事”",
+      "dimensions": {}
+    },
+    {
+      "comment": "人见人嫌",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研呵呵，，就是个逗比。",
+      "dimensions": {}
+    }
+  ]
+}

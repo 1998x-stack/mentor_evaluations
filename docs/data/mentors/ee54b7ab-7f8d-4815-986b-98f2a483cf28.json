@@ -1,0 +1,15 @@
+{
+  "id": "ee54b7ab-7f8d-4815-986b-98f2a483cf28",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师导师能力高，人很好，和蔼可亲，对学术很好，对学生要求较高。",
+      "dimensions": {}
+    }
+  ]
+}

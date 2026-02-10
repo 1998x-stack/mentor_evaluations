@@ -1,0 +1,15 @@
+{
+  "id": "d967af29-eb8a-4e21-8ae6-3557d489d6d3",
+  "name": "冯秀娟",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "满嘴跑火车，不做科研只陪聊天。",
+      "dimensions": {}
+    }
+  ]
+}

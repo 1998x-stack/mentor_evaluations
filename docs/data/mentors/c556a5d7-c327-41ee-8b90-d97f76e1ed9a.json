@@ -1,0 +1,15 @@
+{
+  "id": "c556a5d7-c327-41ee-8b90-d97f76e1ed9a",
+  "name": "丁男",
+  "school": "大连理工大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大工计院年轻一代的中坚力量 嵌入式课程里面讲到很多干货 个人认为丁老师很拼 头发全白了",
+      "dimensions": {}
+    }
+  ]
+}

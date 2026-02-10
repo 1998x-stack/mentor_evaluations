@@ -1,0 +1,15 @@
+{
+  "id": "c2cece56-d3d7-46e7-95c3-f967a7ecb302",
+  "name": "林有希",
+  "school": "福州大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "和蔼的老师，人很nice",
+      "dimensions": {}
+    }
+  ]
+}

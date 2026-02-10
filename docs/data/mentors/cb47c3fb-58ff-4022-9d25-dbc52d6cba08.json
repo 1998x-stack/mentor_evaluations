@@ -1,0 +1,19 @@
+{
+  "id": "cb47c3fb-58ff-4022-9d25-dbc52d6cba08",
+  "name": "黄火林",
+  "school": "大连理工大学",
+  "department": "物理与光电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "学生补助": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：物理楼4楼 学生补助：无",
+      "dimensions": {
+        "学生补助": "无"
+      }
+    }
+  ]
+}

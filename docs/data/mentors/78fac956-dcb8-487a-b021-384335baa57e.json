@@ -1,0 +1,23 @@
+{
+  "id": "78fac956-dcb8-487a-b021-384335baa57e",
+  "name": "徐恪",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "挺好的，最起码不是人渣",
+      "dimensions": {}
+    },
+    {
+      "comment": "徐恪老师指导学生很耐心，有网络经济学，博弈论，路由等几个研究方向！",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研大佬，脾气好。能发文，带学生飞",
+      "dimensions": {}
+    }
+  ]
+}

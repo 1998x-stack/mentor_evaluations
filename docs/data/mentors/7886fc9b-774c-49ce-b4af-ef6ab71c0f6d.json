@@ -1,0 +1,19 @@
+{
+  "id": "7886fc9b-774c-49ce-b4af-ef6ab71c0f6d",
+  "name": "庞涛",
+  "school": "中国药科大学",
+  "department": "药物科学研究院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "庞老师综合评价还是很nice的。科研水平还是666的。如果说缺点那就是，庞老师个人很努力，带的我们也必须很努力，很难水过去。",
+      "dimensions": {}
+    },
+    {
+      "comment": "一言难尽，欢迎实地考察",
+      "dimensions": {}
+    }
+  ]
+}

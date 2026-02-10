@@ -1,0 +1,19 @@
+{
+  "id": "ab0645ff-1ce7-4544-a7f7-1b688141ce36",
+  "name": "蒋丽忠",
+  "school": "中南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "蒋老师带了一个很好的科研团队，学术氛围非常好，与学生关系非常融洽。",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术一般",
+      "dimensions": {}
+    }
+  ]
+}

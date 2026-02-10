@@ -1,0 +1,23 @@
+{
+  "id": "10187823-3518-48af-be5e-a202579c352e",
+  "name": "李志俊",
+  "school": "武汉理工大学",
+  "department": "自动化学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常好的老师，对学生贼大方",
+      "dimensions": {}
+    },
+    {
+      "comment": "欢迎报考，你值得拥有！",
+      "dimensions": {}
+    },
+    {
+      "comment": "我只是想问问楼上，既然评价这么好为啥打分是2.5？？还没进实验室的萌新瑟瑟发抖 ",
+      "dimensions": {}
+    }
+  ]
+}

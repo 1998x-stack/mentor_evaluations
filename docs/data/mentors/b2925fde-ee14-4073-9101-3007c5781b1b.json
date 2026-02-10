@@ -1,0 +1,23 @@
+{
+  "id": "b2925fde-ee14-4073-9101-3007c5781b1b",
+  "name": "瞿昆",
+  "school": "中国科学技术大学",
+  "department": "生命科学学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "暂且不知道，只是新引进的教师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "新回国的导师，据说和学生关系超级好，生物信息学方向，不用做实验，不强求读博士",
+      "dimensions": {}
+    },
+    {
+      "comment": "人很nice的老师，和学生关系好到让我们羡慕，生信方向，挺吃香的",
+      "dimensions": {}
+    }
+  ]
+}

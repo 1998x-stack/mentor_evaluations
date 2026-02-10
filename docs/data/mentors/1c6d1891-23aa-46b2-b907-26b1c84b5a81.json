@@ -1,0 +1,15 @@
+{
+  "id": "1c6d1891-23aa-46b2-b907-26b1c84b5a81",
+  "name": "王颖",
+  "school": "北京邮电大学",
+  "department": "网络技术研究院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师会一句一句给你修改小论文，超耐心",
+      "dimensions": {}
+    }
+  ]
+}

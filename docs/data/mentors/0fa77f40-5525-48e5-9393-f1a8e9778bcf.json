@@ -1,0 +1,15 @@
+{
+  "id": "0fa77f40-5525-48e5-9393-f1a8e9778bcf",
+  "name": "朱齐丹",
+  "school": "哈尔滨工程大学",
+  "department": "自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室61#4132",
+      "dimensions": {}
+    }
+  ]
+}

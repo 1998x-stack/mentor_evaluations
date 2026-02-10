@@ -1,0 +1,19 @@
+{
+  "id": "aab40199-9b02-44bd-be52-d485ef1e623a",
+  "name": "张卓然",
+  "school": "南京航空航天大学",
+  "department": "自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师和蔼可亲，有着给人积极向上的感染力，实验室学术氛围很浓厚。",
+      "dimensions": {}
+    },
+    {
+      "comment": "张老师为人和蔼可亲，学术要求严谨，对学生研究方向把握准确，学生可以轻松快乐进行科研。",
+      "dimensions": {}
+    }
+  ]
+}

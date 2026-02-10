@@ -1,0 +1,15 @@
+{
+  "id": "fa37aae0-657a-4ea7-ba7e-627054a06f6c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "慎重。",
+      "dimensions": {}
+    }
+  ]
+}

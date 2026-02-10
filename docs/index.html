@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>导师评价系统 - 学校列表</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">导师评价</h1>
+            <nav class="nav">
+                <a href="#" class="nav-link active">学校</a>
+                <a href="#" class="nav-link" id="aboutBtn">关于</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h2 class="hero-title">发现适合你的导师</h2>
+            <p class="hero-subtitle">基于真实学生评价，帮助你做出明智的选择</p>
+
+            <!-- Search Bar -->
+            <div class="search-container">
+                <input
+                    type="text"
+                    id="searchInput"
+                    class="search-input"
+                    placeholder="搜索学校名称..."
+                >
+                <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20">
+                    <path fill="currentColor" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"/>
+                </svg>
+            </div>
+
+            <!-- Stats -->
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="totalSchools">-</div>
+                    <div class="stat-label">学校</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalMentors">-</div>
+                    <div class="stat-label">导师</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalEvaluations">-</div>
+                    <div class="stat-label">评价</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Schools List -->
+    <section class="schools-section">
+        <div class="container">
+            <div class="section-header">
+                <h3 class="section-title">学校列表</h3>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-sort="mentorCount">按导师数</button>
+                    <button class="filter-btn" data-sort="averageScore">按评分</button>
+                    <button class="filter-btn" data-sort="name">按名称</button>
+                </div>
+            </div>
+
+            <div class="schools-grid" id="schoolsGrid">
+                <!-- Schools will be loaded here -->
+                <div class="loading">加载中...</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">
+                本平台仅供参考，评价来自学生真实反馈
+            </p>
+            <p class="footer-links">
+                <a href="#" class="footer-link">隐私政策</a>
+                <a href="#" class="footer-link">使用条款</a>
+                <a href="#" class="footer-link">联系我们</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/common.js"></script>
+    <script src="js/schools.js"></script>
+</body>
+</html>

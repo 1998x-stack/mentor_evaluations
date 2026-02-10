@@ -1,0 +1,15 @@
+{
+  "id": "1d26cf30-684a-44c0-8170-9670c9a0239b",
+  "name": "毛玉良",
+  "school": "东南大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "毛老师对学生超级nice",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aed1b0a2-7d2f-4cc9-b356-d3d03f461cdb",
+  "name": "张志谦",
+  "school": "北京大学",
+  "department": "北京肿瘤医院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：https://bbs.tianya.cn/m/post-free-1408300-1.shtml 自行感悟，听说是北京四大变态叫兽之一。还好有这个网站看了一眼，差点就考他博士了",
+      "dimensions": {
+        "师生关系": "https://bbs.tianya.cn/m/post-free-1408300-1.shtml 自行感悟，听说是北京四大变态叫兽之一。还好有这个网站看了一眼，差点就考他博士了"
+      }
+    }
+  ]
+}

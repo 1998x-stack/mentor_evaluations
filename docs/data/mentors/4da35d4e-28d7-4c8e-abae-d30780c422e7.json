@@ -1,0 +1,19 @@
+{
+  "id": "4da35d4e-28d7-4c8e-abae-d30780c422e7",
+  "name": "成璟瑭",
+  "school": "吉林大学",
+  "department": "行政学院， 艺术学院， 文学院， 外国语学院， 白求恩医学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：上过课 与学生关系：对女生有过不恰当行为和语言",
+      "dimensions": {
+        "师生关系": "对女生有过不恰当行为和语言"
+      }
+    }
+  ]
+}

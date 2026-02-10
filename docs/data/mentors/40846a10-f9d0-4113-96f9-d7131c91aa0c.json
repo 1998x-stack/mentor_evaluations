@@ -1,0 +1,15 @@
+{
+  "id": "40846a10-f9d0-4113-96f9-d7131c91aa0c",
+  "name": "张晓",
+  "school": "东南大学",
+  "department": "公共卫生学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：劳保系的，讲话永远不着边际，习惯吹嘘自己有多厉害以及认识多厉害的人，耽误学生。",
+      "dimensions": {}
+    }
+  ]
+}

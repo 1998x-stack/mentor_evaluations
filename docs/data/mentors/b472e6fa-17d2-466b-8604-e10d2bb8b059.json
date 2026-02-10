@@ -1,0 +1,15 @@
+{
+  "id": "b472e6fa-17d2-466b-8604-e10d2bb8b059",
+  "name": "赵文",
+  "school": "东北大学",
+  "department": "资源与土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好导师，重学术，前土木院长",
+      "dimensions": {}
+    }
+  ]
+}

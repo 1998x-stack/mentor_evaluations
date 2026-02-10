@@ -1,0 +1,21 @@
+{
+  "id": "37d3f50f-d946-4491-837e-3c1b630e1f36",
+  "name": "妥进才",
+  "school": NaN,
+  "department": "兰州油气资源研究中心",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：会给劳务费 工作时间：自主安排",
+      "dimensions": {
+        "学生补助": "会给劳务费 工作",
+        "工作时间": "自主安排"
+      }
+    }
+  ]
+}

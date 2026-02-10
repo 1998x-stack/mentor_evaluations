@@ -1,0 +1,15 @@
+{
+  "id": "6f2e3035-b91d-496d-af1f-c1a27de94aec",
+  "name": "李巧茹",
+  "school": "河北工业大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师非常好，对学生认真负责，学术态度严谨！",
+      "dimensions": {}
+    }
+  ]
+}

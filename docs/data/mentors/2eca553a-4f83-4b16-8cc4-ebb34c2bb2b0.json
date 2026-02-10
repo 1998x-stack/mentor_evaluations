@@ -1,0 +1,23 @@
+{
+  "id": "2eca553a-4f83-4b16-8cc4-ebb34c2bb2b0",
+  "name": "王炜",
+  "school": "南京大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "假期让学生自由安排。平时鼓励学生做严谨的工作，慢一点没关系。",
+      "dimensions": {}
+    },
+    {
+      "comment": "很尊重学生的想法，老师自己也有很多idea，老板给的补助也很nice，科研实力很强，研究方向偏向应用，主页是ww.nju.edu.cn，超推荐",
+      "dimensions": {}
+    },
+    {
+      "comment": "人很温和，很有实力，是做事情的，不是灌水的。跟华为手机有合作。",
+      "dimensions": {}
+    }
+  ]
+}

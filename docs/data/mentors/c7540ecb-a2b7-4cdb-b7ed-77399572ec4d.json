@@ -1,0 +1,19 @@
+{
+  "id": "c7540ecb-a2b7-4cdb-b7ed-77399572ec4d",
+  "name": "永远",
+  "school": "西南交通大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "毕业去向": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：不管不顾，招过去就是干活儿的，冷暴力",
+      "dimensions": {
+        "毕业去向": "不管不顾，招过去就是干活儿的，冷暴力"
+      }
+    }
+  ]
+}

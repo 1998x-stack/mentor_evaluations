@@ -1,0 +1,15 @@
+{
+  "id": "55996de0-b6d9-4887-b4de-fc3264fa9797",
+  "name": "杨力",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨力 http://web.xidian.edu.cn/yangli/",
+      "dimensions": {}
+    }
+  ]
+}

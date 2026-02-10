@@ -1,0 +1,15 @@
+{
+  "id": "ba5293b2-128c-4a91-8bb0-26914cfa1acb",
+  "name": "郭永",
+  "school": "清华大学",
+  "department": "物理系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师，不过对学生比较宽松，还得自己多努力才成",
+      "dimensions": {}
+    }
+  ]
+}

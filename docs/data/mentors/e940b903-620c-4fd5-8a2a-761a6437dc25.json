@@ -1,0 +1,15 @@
+{
+  "id": "e940b903-620c-4fd5-8a2a-761a6437dc25",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

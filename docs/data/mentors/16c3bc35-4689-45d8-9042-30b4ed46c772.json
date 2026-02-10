@@ -1,0 +1,15 @@
+{
+  "id": "16c3bc35-4689-45d8-9042-30b4ed46c772",
+  "name": "李敏强",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "长江学长，杰青\n遗传算法大牛",
+      "dimensions": {}
+    }
+  ]
+}

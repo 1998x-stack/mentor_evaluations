@@ -1,0 +1,15 @@
+{
+  "id": "25f9eb6c-2fda-4336-8d90-4208065f364a",
+  "name": "李桂文",
+  "school": "哈尔滨工业大学",
+  "department": "建筑学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李奶奶已经退休了，但是是一个非常严谨的，严格的老奶奶，曾经是哈工大五老，超级棒",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ffb3f512-9833-44b7-b631-7c4d48228fa4",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人狠和蔼可亲，水平很高",
+      "dimensions": {}
+    }
+  ]
+}

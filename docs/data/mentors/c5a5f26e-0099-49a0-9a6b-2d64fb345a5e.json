@@ -1,0 +1,35 @@
+{
+  "id": "c5a5f26e-0099-49a0-9a6b-2d64fb345a5e",
+  "name": "徐欣欣",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 6,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "你发不了文章得不着国奖，想钱想疯了？靠这么几个破字诋毁别人赚钱，良心何在？",
+      "dimensions": {}
+    },
+    {
+      "comment": "估计你毕业也发不了一篇四区，就知道诽谤别人，不干正事",
+      "dimensions": {}
+    },
+    {
+      "comment": "以前的学生，你咋知道加班到11点，人家都毕业了。你咋是因为太留恋母校，不舍得毕业呗，真厉害",
+      "dimensions": {}
+    },
+    {
+      "comment": "这个软件是个垃圾，说徐老师的人也是垃圾，你的评论纯属个人看法，不客观，不真实，捏造是非！请不懂就别瞎bb",
+      "dimensions": {}
+    },
+    {
+      "comment": "嫉妒真是一件可怕的事，自己做不到就感觉别人也做不到，太可怕了",
+      "dimensions": {}
+    },
+    {
+      "comment": "不了解就不要造谣，感觉说别人坏话的都要有报应的",
+      "dimensions": {}
+    }
+  ]
+}

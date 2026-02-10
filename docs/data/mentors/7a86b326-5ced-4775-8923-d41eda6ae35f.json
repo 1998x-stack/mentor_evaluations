@@ -1,0 +1,15 @@
+{
+  "id": "7a86b326-5ced-4775-8923-d41eda6ae35f",
+  "name": "宗原",
+  "school": "华东理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "一个优秀的导师，研究方向偏流体力学，师从戴干策老师。",
+      "dimensions": {}
+    }
+  ]
+}

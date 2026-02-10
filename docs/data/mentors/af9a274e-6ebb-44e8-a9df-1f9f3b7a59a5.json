@@ -1,0 +1,15 @@
+{
+  "id": "af9a274e-6ebb-44e8-a9df-1f9f3b7a59a5",
+  "name": "刘小华",
+  "school": "四川大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "有种笑面虎的感觉。\n明明很push，很刻薄，但非要装作一副为了你好的样子",
+      "dimensions": {}
+    }
+  ]
+}

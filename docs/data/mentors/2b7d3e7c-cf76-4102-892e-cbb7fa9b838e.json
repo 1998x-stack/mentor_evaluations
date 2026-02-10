@@ -1,0 +1,21 @@
+{
+  "id": "2b7d3e7c-cf76-4102-892e-cbb7fa9b838e",
+  "name": "吴丹",
+  "school": "清华大学",
+  "department": "机械工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：吴老师经常工作到晚上很晚，打心里佩服 经费发放：这个不清楚，但项目挺多的",
+      "dimensions": {
+        "导师能力": "吴老师经常工作到晚上很晚，打心里佩服",
+        "经费情况": "这个不清楚，但项目挺多的"
+      }
+    }
+  ]
+}

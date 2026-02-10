@@ -1,0 +1,15 @@
+{
+  "id": "d4b29280-8c67-404e-bdc9-ff5d48095d85",
+  "name": "邵帅",
+  "school": "内蒙古大学",
+  "department": "交通学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "邵老师人很好，平时注重交流，大方，虽然不是他的学生，平时接触了，是个风趣幽默的老师。主要做离散元和有限元的，力学方面的基础很扎实，虽然我不是很懂。",
+      "dimensions": {}
+    }
+  ]
+}

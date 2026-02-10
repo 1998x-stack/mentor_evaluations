@@ -1,0 +1,19 @@
+{
+  "id": "8b9ec264-7b7e-4785-a999-863b033db9a5",
+  "name": "郑国磊",
+  "school": "北京航空航天大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人超好～学术非常严谨～",
+      "dimensions": {}
+    },
+    {
+      "comment": "上过郑老师的课，讲课认真有激情，对学生非常好，项目跟成飞合作较多，工程经验丰富",
+      "dimensions": {}
+    }
+  ]
+}

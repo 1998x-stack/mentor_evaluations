@@ -1,0 +1,15 @@
+{
+  "id": "38694aca-fc9c-426d-a157-9a338fb130b8",
+  "name": "张宇宁",
+  "school": "东南大学",
+  "department": "电子科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师，不仅授人以鱼，更授人以渔；教学注重对问题的分析与思考而不是对公式的机械记忆。",
+      "dimensions": {}
+    }
+  ]
+}

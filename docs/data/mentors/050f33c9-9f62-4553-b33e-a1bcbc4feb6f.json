@@ -1,0 +1,15 @@
+{
+  "id": "050f33c9-9f62-4553-b33e-a1bcbc4feb6f",
+  "name": "孙守林",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "孙老师人真的挺好的",
+      "dimensions": {}
+    }
+  ]
+}

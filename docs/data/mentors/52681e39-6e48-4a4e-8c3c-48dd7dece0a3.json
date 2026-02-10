@@ -1,0 +1,15 @@
+{
+  "id": "52681e39-6e48-4a4e-8c3c-48dd7dece0a3",
+  "name": "左志强",
+  "school": "天津大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "论文小王子",
+      "dimensions": {}
+    }
+  ]
+}

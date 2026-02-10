@@ -1,0 +1,19 @@
+{
+  "id": "f3c44325-23e1-40dd-9154-6ba9fe112a44",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：强 与学生关系：i",
+      "dimensions": {
+        "师生关系": "i"
+      }
+    }
+  ]
+}

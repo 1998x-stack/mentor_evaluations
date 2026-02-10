@@ -1,0 +1,15 @@
+{
+  "id": "65e0f59a-33c6-45c1-8eb2-21af2f0ff058",
+  "name": "蔡一夫",
+  "school": "中国科学技术大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "应该不错，很nice",
+      "dimensions": {}
+    }
+  ]
+}

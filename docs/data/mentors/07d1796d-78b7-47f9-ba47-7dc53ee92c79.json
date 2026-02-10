@@ -1,0 +1,19 @@
+{
+  "id": "07d1796d-78b7-47f9-ba47-7dc53ee92c79",
+  "name": "刘志宏",
+  "school": NaN,
+  "department": "网络与信息安全学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师可以允许实习，平常基本啥也不管",
+      "dimensions": {}
+    },
+    {
+      "comment": "学生特喜欢老师，老师特照顾学生",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "257f3fd7-7319-43cd-a205-69e2b5f08b40",
+  "name": "苏东林",
+  "school": "北京航空航天大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "最好别去",
+      "dimensions": {}
+    }
+  ]
+}

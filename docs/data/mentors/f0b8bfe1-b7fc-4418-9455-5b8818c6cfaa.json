@@ -1,0 +1,15 @@
+{
+  "id": "f0b8bfe1-b7fc-4418-9455-5b8818c6cfaa",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "与学生关系处理不行",
+      "dimensions": {}
+    }
+  ]
+}

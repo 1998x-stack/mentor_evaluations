@@ -1,0 +1,27 @@
+{
+  "id": "0e410b50-3c8a-4abd-bc8b-e245856a5c31",
+  "name": "陈建峰",
+  "school": "同济大学",
+  "department": "土木工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "控制欲极强，小气，导师能力一般，千万不要报",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：祖籍浙江余姚，南方口音，口头禅我这个",
+      "dimensions": {}
+    },
+    {
+      "comment": "表面谦谦君子，实则另外一副面孔，属于典型的双面人，精致的利己主义者。其种种神奇的事迹和言论足以入选中华迷惑行为大赏。",
+      "dimensions": {}
+    },
+    {
+      "comment": "典型的凑论文导师，对学生提供帮助极少",
+      "dimensions": {}
+    }
+  ]
+}

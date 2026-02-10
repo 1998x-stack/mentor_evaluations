@@ -1,0 +1,15 @@
+{
+  "id": "3ade0f6b-e9d9-4e50-b49f-fddcfa56ca85",
+  "name": "张雄福",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师治学态度严谨，但又很幽默，作为学生，和张老师一起会很开心！",
+      "dimensions": {}
+    }
+  ]
+}

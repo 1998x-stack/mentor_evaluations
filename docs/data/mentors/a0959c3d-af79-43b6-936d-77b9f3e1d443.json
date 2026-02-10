@@ -1,0 +1,19 @@
+{
+  "id": "a0959c3d-af79-43b6-936d-77b9f3e1d443",
+  "name": "黄宽",
+  "school": "南昌大学",
+  "department": "环境与化学工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "亦师亦友，学院学术与人品担当！良好的学术氛围和强大的学术能力让学生有获得感，能力得到质的提升，学生有文章在学院倍有面！",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术能力与人品兼具，是学习中的导师，是生活中的榜样。对学生很好，很上心。无论从学术上还是生活上，课题组整体氛围融洽。",
+      "dimensions": {}
+    }
+  ]
+}

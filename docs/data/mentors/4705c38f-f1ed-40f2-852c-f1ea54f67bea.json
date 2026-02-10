@@ -1,0 +1,27 @@
+{
+  "id": "4705c38f-f1ed-40f2-852c-f1ea54f67bea",
+  "name": "王巍",
+  "school": "武汉大学",
+  "department": "药学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "温和，聪明，思路清晰，真的很不错！！！选他就对了",
+      "dimensions": {}
+    },
+    {
+      "comment": "超级nice的老板，超级好，超级好，超级好",
+      "dimensions": {}
+    },
+    {
+      "comment": "亲切和蔼，课题多多，就差你来",
+      "dimensions": {}
+    },
+    {
+      "comment": "王巍老师人很好，做王老师的学生很幸运",
+      "dimensions": {}
+    }
+  ]
+}

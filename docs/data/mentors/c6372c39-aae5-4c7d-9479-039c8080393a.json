@@ -1,0 +1,19 @@
+{
+  "id": "c6372c39-aae5-4c7d-9479-039c8080393a",
+  "name": "廖美焱",
+  "school": "武汉大学",
+  "department": "第二临床学院",
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "师生关系": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师脾气特别好，会很认真的教我们科研和临床知识。",
+      "dimensions": {
+        "师生关系": "老师脾气特别好，会很认真的教我们科研和临床知识。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aad53830-1a3e-4087-936a-e5f84c397f52",
+  "name": "李媛",
+  "school": "四川大学",
+  "department": "电气信息学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：细声细语，身高1.75米以上 学生毕业去向：不干涉",
+      "dimensions": {
+        "毕业去向": "不干涉"
+      }
+    }
+  ]
+}

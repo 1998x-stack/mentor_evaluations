@@ -1,0 +1,15 @@
+{
+  "id": "58dfae80-3e0b-4944-8157-ea55e9e69abc",
+  "name": "陈十一",
+  "school": "北京大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "深圳去了，呵呵，护着老兄弟？",
+      "dimensions": {}
+    }
+  ]
+}

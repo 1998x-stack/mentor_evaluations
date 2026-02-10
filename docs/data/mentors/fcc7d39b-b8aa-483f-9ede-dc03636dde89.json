@@ -1,0 +1,15 @@
+{
+  "id": "fcc7d39b-b8aa-483f-9ede-dc03636dde89",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王老师人很好，处处为学生着想，而且是航空发动机领域的专家，尤其是在机械液压方面，同时还做控制规律设计等等",
+      "dimensions": {}
+    }
+  ]
+}

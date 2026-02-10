@@ -1,0 +1,19 @@
+{
+  "id": "f5d19e0c-7373-44e4-b7a7-810b207d9c6f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "管院的名导，运筹学一书的作者",
+      "dimensions": {}
+    },
+    {
+      "comment": "老吴的DEA讲的很清楚！",
+      "dimensions": {}
+    }
+  ]
+}

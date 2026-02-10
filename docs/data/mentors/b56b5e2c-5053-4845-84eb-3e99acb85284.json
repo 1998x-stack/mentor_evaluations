@@ -1,0 +1,23 @@
+{
+  "id": "b56b5e2c-5053-4845-84eb-3e99acb85284",
+  "name": "马剑鹏",
+  "school": "清华大学",
+  "department": "生命科学学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "热爱中医玄学的弱逼，节操碎一地。",
+      "dimensions": {}
+    },
+    {
+      "comment": "北美变态导，骗钱老千人。",
+      "dimensions": {}
+    },
+    {
+      "comment": "不学无术，真不知道怎么拿到千人资格的。看了他都怀疑国家千人计划。",
+      "dimensions": {}
+    }
+  ]
+}

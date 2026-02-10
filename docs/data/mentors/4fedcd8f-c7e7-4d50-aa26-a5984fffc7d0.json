@@ -1,0 +1,15 @@
+{
+  "id": "4fedcd8f-c7e7-4d50-aa26-a5984fffc7d0",
+  "name": "王进欣",
+  "school": "中国药科大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "讲课讲的不好，感觉人不太好。",
+      "dimensions": {}
+    }
+  ]
+}

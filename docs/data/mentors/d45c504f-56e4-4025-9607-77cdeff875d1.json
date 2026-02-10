@@ -1,0 +1,19 @@
+{
+  "id": "d45c504f-56e4-4025-9607-77cdeff875d1",
+  "name": "王庆",
+  "school": "东北大学",
+  "department": "机械工程与自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：机电管3楼 工作时间：不强制",
+      "dimensions": {
+        "工作时间": "不强制"
+      }
+    }
+  ]
+}

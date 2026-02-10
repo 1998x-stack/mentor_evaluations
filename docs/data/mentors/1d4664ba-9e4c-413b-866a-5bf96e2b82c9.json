@@ -1,0 +1,15 @@
+{
+  "id": "1d4664ba-9e4c-413b-866a-5bf96e2b82c9",
+  "name": "戴曦",
+  "school": "中南大学",
+  "department": "冶金与环境学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "温文尔雅 和蔼可亲 有点严肃",
+      "dimensions": {}
+    }
+  ]
+}

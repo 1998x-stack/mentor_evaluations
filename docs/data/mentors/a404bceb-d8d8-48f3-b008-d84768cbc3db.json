@@ -1,0 +1,19 @@
+{
+  "id": "a404bceb-d8d8-48f3-b008-d84768cbc3db",
+  "name": "赵慧洁",
+  "school": "北京航空航天大学",
+  "department": "仪器科学与光电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：管理变态，学生毕业时间普遍较长，博士第五年第六年开题，7年或8年毕业比较常见。",
+      "dimensions": {
+        "毕业去向": "管理变态，学生毕业"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "45e467e1-5cae-4d4c-80a1-9dbfec253a07",
+  "name": "王贻芳",
+  "school": NaN,
+  "department": "高能物理研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：不想多说前途了，学生在高能所的住宿工作都非常艰苦，最近高能所要装修三公寓宿舍楼，不合理的安排激起了所有学生的不满，但高能所任然一意孤行，举办了两次讨论会，请学生参加，但完全不采纳学生意见，仅仅是向学生通知学校决定。 总之，高能所对学生、对职工待遇和态度都是非常之差。 有关链接如下： https://www.zhihu.com/question/21379220 https://www.zhihu.com/question/28166788/answer/39684151 https://www.zhihu.com/question/313935311",
+      "dimensions": {
+        "毕业去向": "不想多说前途了，学生在高能所的住宿工作都非常艰苦，最近高能所要装修三公寓宿舍楼，不合理的安排激起了所有学生的不满，但高能所任然一意孤行，举办了两次讨论会，请学生参加，但完全不采纳学生意见，仅仅是向学生通知学校决定。 总之，高能所对学生、对职工待遇和态度都是非常之差。 有关链接如下： https://www.zhihu.com/question/21379220 https://www.zhihu.com/question/28166788/answer/39684151 https://www.zhihu.com/question/313935311"
+      }
+    }
+  ]
+}

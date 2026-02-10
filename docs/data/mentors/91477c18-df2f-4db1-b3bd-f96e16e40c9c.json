@@ -1,0 +1,19 @@
+{
+  "id": "91477c18-df2f-4db1-b3bd-f96e16e40c9c",
+  "name": "董红斌",
+  "school": "武汉大学",
+  "department": "国际软件学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不过现在没有国软了，只有计院和网安",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人很好，虽然年龄比较大，但是和学生很聊得来～",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "756af55b-fb01-42f1-92c9-afca8876e149",
+  "name": "高媛",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "隶属于王德伦团队，没有实质性指导",
+      "dimensions": {}
+    }
+  ]
+}

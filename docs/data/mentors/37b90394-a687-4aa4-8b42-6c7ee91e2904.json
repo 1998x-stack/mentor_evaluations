@@ -1,0 +1,15 @@
+{
+  "id": "37b90394-a687-4aa4-8b42-6c7ee91e2904",
+  "name": "刘栋",
+  "school": "清华大学",
+  "department": "生命科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "刘老师人非常好，科研上不会逼迫学生，注重学生人生发展，乐于帮助学生。",
+      "dimensions": {}
+    }
+  ]
+}

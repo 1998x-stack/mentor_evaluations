@@ -1,0 +1,15 @@
+{
+  "id": "30daf612-d507-4e66-badd-e6fd441b0a92",
+  "name": "李正颖",
+  "school": "武汉理工大学",
+  "department": "信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "名字错了，是李政颖老师",
+      "dimensions": {}
+    }
+  ]
+}

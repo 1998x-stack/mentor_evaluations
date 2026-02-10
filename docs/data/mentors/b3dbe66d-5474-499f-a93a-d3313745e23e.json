@@ -1,0 +1,19 @@
+{
+  "id": "b3dbe66d-5474-499f-a93a-d3313745e23e",
+  "name": "吴威",
+  "school": "北京航空航天大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：看知乎上关于CXW的帖子中，有提到VR中像陈一样的还有一个姓吴的叫兽，喜欢收女生，是此人吗？",
+      "dimensions": {
+        "导师能力": "看知乎上关于CXW的帖子中，有提到VR中像陈一样的还有一个姓吴的叫兽，喜欢收女生，是此人吗？"
+      }
+    }
+  ]
+}

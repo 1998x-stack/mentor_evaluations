@@ -1,0 +1,15 @@
+{
+  "id": "6a8a809b-3ddd-4035-accd-f8abdbb90fe7",
+  "name": "李晓英",
+  "school": "河海大学",
+  "department": "水利水电学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：讲话声音逐渐变小",
+      "dimensions": {}
+    }
+  ]
+}

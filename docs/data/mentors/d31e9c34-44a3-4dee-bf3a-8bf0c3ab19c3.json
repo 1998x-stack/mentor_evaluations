@@ -1,0 +1,21 @@
+{
+  "id": "d31e9c34-44a3-4dee-bf3a-8bf0c3ab19c3",
+  "name": "吕志伟",
+  "school": "哈尔滨工业大学",
+  "department": "航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：很久不自己搞科研了。 与学生关系：性骚扰女学生。",
+      "dimensions": {
+        "导师能力": "很久不自己搞科研了。 与学生",
+        "师生关系": "性骚扰女学生。"
+      }
+    }
+  ]
+}

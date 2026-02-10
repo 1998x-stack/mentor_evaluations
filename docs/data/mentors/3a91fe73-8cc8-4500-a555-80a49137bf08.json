@@ -1,0 +1,23 @@
+{
+  "id": "3a91fe73-8cc8-4500-a555-80a49137bf08",
+  "name": "琚亚平",
+  "school": "西安交通大学",
+  "department": "能源与动力工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "关心学生，认真指导学生嗑盐，心目中的偶像！",
+      "dimensions": {}
+    },
+    {
+      "comment": "与学生关系：老师真的很温柔！待人宽厚！和她接触之后很喜欢她！",
+      "dimensions": {
+        "师生关系": "老师真的很温柔！待人宽厚！和她接触之后很喜欢她！"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6bb7e38f-2d5f-4395-9eaf-eec93c67d035",
+  "name": "陈子江",
+  "school": "上海交通大学",
+  "department": "医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：山东大学，上海交大兼职招研究生",
+      "dimensions": {}
+    }
+  ]
+}

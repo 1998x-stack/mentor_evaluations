@@ -1,0 +1,15 @@
+{
+  "id": "6e7a6cdf-8cc9-4208-9f18-aad9733f7a9e",
+  "name": "方勇",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "方勇 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

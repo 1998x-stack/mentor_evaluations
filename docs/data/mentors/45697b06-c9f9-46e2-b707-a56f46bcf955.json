@@ -1,0 +1,19 @@
+{
+  "id": "45697b06-c9f9-46e2-b707-a56f46bcf955",
+  "name": "史超阳",
+  "school": "天津大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：刺头儿 工作时间：一片漆黑",
+      "dimensions": {
+        "工作时间": "一片漆黑"
+      }
+    }
+  ]
+}

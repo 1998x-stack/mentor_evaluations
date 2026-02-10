@@ -1,0 +1,27 @@
+{
+  "id": "3e267781-92ab-4b81-9a8f-69508861388c",
+  "name": "胡浩权",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 3,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "师生关系": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师人真的好！人很善良乐于帮助同学，而且年轻时也很帅",
+      "dimensions": {
+        "师生关系": "老师人真的好！人很善良乐于帮助同学，而且年轻时也很帅"
+      }
+    },
+    {
+      "comment": "不错的老师，项目多人品也不错。",
+      "dimensions": {}
+    },
+    {
+      "comment": "人品一等一的好，国内煤化工大牛，国家重点研发专项首席科学家。",
+      "dimensions": {}
+    }
+  ]
+}

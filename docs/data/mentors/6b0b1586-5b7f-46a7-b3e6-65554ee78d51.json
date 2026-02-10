@@ -1,0 +1,21 @@
+{
+  "id": "6b0b1586-5b7f-46a7-b3e6-65554ee78d51",
+  "name": "刘柏平",
+  "school": "华东理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：奇数 学生补助：学院中等水平 工作时间：不强制",
+      "dimensions": {
+        "学生补助": "学院中等水平 工作",
+        "工作时间": "不强制"
+      }
+    }
+  ]
+}

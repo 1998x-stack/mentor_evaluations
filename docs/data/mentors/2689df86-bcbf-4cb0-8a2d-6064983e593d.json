@@ -1,0 +1,19 @@
+{
+  "id": "2689df86-bcbf-4cb0-8a2d-6064983e593d",
+  "name": "赵息",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "赵息老师没导师能力很差，不会写论文",
+      "dimensions": {}
+    },
+    {
+      "comment": "有意思，似乎管院的赵老师学术都不咋的",
+      "dimensions": {}
+    }
+  ]
+}

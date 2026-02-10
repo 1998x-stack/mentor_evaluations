@@ -1,0 +1,21 @@
+{
+  "id": "b3e6f0cf-008f-4613-af52-ada34829d2d4",
+  "name": "李明",
+  "school": "东北农业大学",
+  "department": "农学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：学生补助为零 与学生关系：经常让学生干杂活",
+      "dimensions": {
+        "学生补助": "学生",
+        "师生关系": "经常让学生干杂活"
+      }
+    }
+  ]
+}

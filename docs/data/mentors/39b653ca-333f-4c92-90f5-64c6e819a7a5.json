@@ -1,0 +1,35 @@
+{
+  "id": "39b653ca-333f-4c92-90f5-64c6e819a7a5",
+  "name": "伍强贤",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 6,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很优秀的一个导师啊 工资高 不剥削 很替学生考虑",
+      "dimensions": {}
+    },
+    {
+      "comment": "很好的的老师，对学生很负责",
+      "dimensions": {}
+    },
+    {
+      "comment": "平易近人 思维独特  来学的不只是知识 更多的是方法以做人的道理",
+      "dimensions": {}
+    },
+    {
+      "comment": "听说伍老师很幽默 很接地气，跟学生打成一片 不拘小节，总是站在对方的角度考虑问题，还学了多门学科，是个很牛的导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "优秀的老师，因材施教，思维大胆而又创新！",
+      "dimensions": {}
+    },
+    {
+      "comment": "听说这个老师人很好，给学生的工资非常高，做实验轻松愉悦，羡慕嫉妒恨！据说一个月工资1000块",
+      "dimensions": {}
+    }
+  ]
+}

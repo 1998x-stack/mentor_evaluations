@@ -1,0 +1,15 @@
+{
+  "id": "b67f4427-9f38-41d7-953c-49adeaff8f1d",
+  "name": "李猛",
+  "school": "济南大学",
+  "department": "自动化",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "十分Nice，有耐心，经费也充足！",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fe814d27-a12f-4978-a425-7f909147703c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李科友，like you.上课刚开始挺逗的，和同学相处还挺好的，也挺好说话的。不过学术很一般，好多课本上的他自己都不懂，都得“等下，我回去查一下再跟你讲”，估计是靠关系混的副教授吧",
+      "dimensions": {}
+    }
+  ]
+}

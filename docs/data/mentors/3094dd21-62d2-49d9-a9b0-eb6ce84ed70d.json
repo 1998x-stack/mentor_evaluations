@@ -1,0 +1,21 @@
+{
+  "id": "3094dd21-62d2-49d9-a9b0-eb6ce84ed70d",
+  "name": "孔繁斌",
+  "school": "南京大学",
+  "department": "政府管理学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：老师理论水平很高，很有见地 与学生关系：非常nice，虽然很忙碌但很关心学生。",
+      "dimensions": {
+        "导师能力": "老师理论水平很高，很有见地 与学生",
+        "师生关系": "非常nice，虽然很忙碌但很关心学生。"
+      }
+    }
+  ]
+}

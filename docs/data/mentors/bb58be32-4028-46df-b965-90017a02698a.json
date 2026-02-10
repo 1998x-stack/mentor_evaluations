@@ -1,0 +1,15 @@
+{
+  "id": "bb58be32-4028-46df-b965-90017a02698a",
+  "name": "张晨",
+  "school": "合肥工业大学",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师导师能力较高对学生很严格，关心学生，是不可多得的好老师！",
+      "dimensions": {}
+    }
+  ]
+}

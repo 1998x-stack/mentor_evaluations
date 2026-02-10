@@ -1,0 +1,19 @@
+{
+  "id": "a47ea8b5-35bf-42f7-a4a2-49bdb58b2ec5",
+  "name": "郭鹏",
+  "school": "华中科技大学",
+  "department": "电子与信息工程系",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：南一楼西南203吧好像 导师能力：老师还是有水平的 只不过实验室氛围好像一般",
+      "dimensions": {
+        "导师能力": "老师还是有水平的 只不过实验室氛围好像一般"
+      }
+    }
+  ]
+}

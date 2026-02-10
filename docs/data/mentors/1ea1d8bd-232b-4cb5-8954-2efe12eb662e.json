@@ -1,0 +1,19 @@
+{
+  "id": "1ea1d8bd-232b-4cb5-8954-2efe12eb662e",
+  "name": "王晓雷",
+  "school": "南京航空航天大学",
+  "department": "机电学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王老师对学生很好，课题组就业也还不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "能力很强，对学生好，教研室氛围很好",
+      "dimensions": {}
+    }
+  ]
+}

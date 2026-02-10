@@ -1,0 +1,15 @@
+{
+  "id": "15564cfb-18ee-40d7-a40b-1e66dca63674",
+  "name": "程营",
+  "school": "南京大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研很厉害。\n对学生很好，指导学生认真负责。\n组内基本没有延期的。",
+      "dimensions": {}
+    }
+  ]
+}

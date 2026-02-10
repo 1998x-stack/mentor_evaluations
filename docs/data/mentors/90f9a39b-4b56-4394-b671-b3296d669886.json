@@ -1,0 +1,19 @@
+{
+  "id": "90f9a39b-4b56-4394-b671-b3296d669886",
+  "name": "胡摇",
+  "school": "北京理工大学",
+  "department": "光电学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生超级好，会替学生考虑也很好沟通的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生很好的老师。。。",
+      "dimensions": {}
+    }
+  ]
+}

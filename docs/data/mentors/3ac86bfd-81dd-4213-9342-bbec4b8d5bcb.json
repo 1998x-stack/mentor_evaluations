@@ -1,0 +1,15 @@
+{
+  "id": "3ac86bfd-81dd-4213-9342-bbec4b8d5bcb",
+  "name": "姚凯",
+  "school": "复旦大学",
+  "department": "经济学院，管理学院，法学院，基础医学院，公共卫生学院，护理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "千万别选！老师导师能力着实一般，但非常自负，且在课堂上公开发表过性别歧视的言论",
+      "dimensions": {}
+    }
+  ]
+}

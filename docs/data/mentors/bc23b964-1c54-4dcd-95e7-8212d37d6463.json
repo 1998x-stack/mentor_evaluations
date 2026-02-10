@@ -1,0 +1,15 @@
+{
+  "id": "bc23b964-1c54-4dcd-95e7-8212d37d6463",
+  "name": "牛丽萍",
+  "school": "东北大学",
+  "department": "冶金学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "牛老师学识渊博，在冶金材料领域研究深入，培养学生方面，处处为学生着想，注重对学生的科研能力培养，科研经费充足！",
+      "dimensions": {}
+    }
+  ]
+}

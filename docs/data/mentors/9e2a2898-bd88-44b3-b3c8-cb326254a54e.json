@@ -1,0 +1,15 @@
+{
+  "id": "9e2a2898-bd88-44b3-b3c8-cb326254a54e",
+  "name": "杨晓松",
+  "school": "华中科技大学",
+  "department": "数学与统计学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大忽悠！",
+      "dimensions": {}
+    }
+  ]
+}

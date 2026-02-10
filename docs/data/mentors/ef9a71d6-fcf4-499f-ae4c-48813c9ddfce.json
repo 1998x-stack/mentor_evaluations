@@ -1,0 +1,15 @@
+{
+  "id": "ef9a71d6-fcf4-499f-ae4c-48813c9ddfce",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对待学生严苛,不讲道理.arrogant  读他博士大概率延毕",
+      "dimensions": {}
+    }
+  ]
+}

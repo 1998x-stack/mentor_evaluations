@@ -1,0 +1,15 @@
+{
+  "id": "95c15c36-18c0-4a41-93a0-a5e65a19617e",
+  "name": "朱宏玉",
+  "school": "北京航空航天大学",
+  "department": "宇航学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "喜欢给大家讲哲学",
+      "dimensions": {}
+    }
+  ]
+}

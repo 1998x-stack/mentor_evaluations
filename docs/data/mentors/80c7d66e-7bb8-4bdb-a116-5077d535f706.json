@@ -1,0 +1,15 @@
+{
+  "id": "80c7d66e-7bb8-4bdb-a116-5077d535f706",
+  "name": "沈绪榜",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "沈绪榜 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

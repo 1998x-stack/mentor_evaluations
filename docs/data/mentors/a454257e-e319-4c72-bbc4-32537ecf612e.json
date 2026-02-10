@@ -1,0 +1,15 @@
+{
+  "id": "a454257e-e319-4c72-bbc4-32537ecf612e",
+  "name": "李海",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

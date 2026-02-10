@@ -1,0 +1,21 @@
+{
+  "id": "5575945d-3d6a-4eac-9360-bdb2182e3a27",
+  "name": "姜育刚",
+  "school": "复旦大学",
+  "department": "计算机科学技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 3.25,
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：张江校区计算机楼4楼 导师能力：毫无疑问姜育刚老师导师能力是顶尖的，每年都产出大量顶会论文，优青加长江青年 https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN 学生毕业去向：会推荐非常好的地方实习，或者国外实验室做研究",
+      "dimensions": {
+        "导师能力": "毫无疑问姜育刚老师",
+        "毕业去向": "会推荐非常好的地方实习，或者国外实验室做研究"
+      }
+    }
+  ]
+}

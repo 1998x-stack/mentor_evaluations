@@ -1,0 +1,15 @@
+{
+  "id": "da9b80f1-26bd-4abc-8ab3-3cc09fa83541",
+  "name": "赵瑾",
+  "school": "中国科学技术大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "赵老师在光催化领域深耕多年，参与发表3篇science.",
+      "dimensions": {}
+    }
+  ]
+}

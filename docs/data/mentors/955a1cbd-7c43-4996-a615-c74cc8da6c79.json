@@ -1,0 +1,15 @@
+{
+  "id": "955a1cbd-7c43-4996-a615-c74cc8da6c79",
+  "name": "姜奇",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "姜奇 http://web.xidian.edu.cn/jiangqi/",
+      "dimensions": {}
+    }
+  ]
+}

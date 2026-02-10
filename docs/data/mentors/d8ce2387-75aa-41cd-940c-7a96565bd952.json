@@ -1,0 +1,19 @@
+{
+  "id": "d8ce2387-75aa-41cd-940c-7a96565bd952",
+  "name": "马勇",
+  "school": "南京中医药大学",
+  "department": "中医学",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "骨伤的，虽然不是他的学生，但是听说学术很屌，是个直爽的人",
+      "dimensions": {}
+    },
+    {
+      "comment": "很好呀，对学生很复杂，学术也很好，补助是没有的",
+      "dimensions": {}
+    }
+  ]
+}

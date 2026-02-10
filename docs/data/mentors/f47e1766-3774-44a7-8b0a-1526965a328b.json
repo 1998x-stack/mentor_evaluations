@@ -1,0 +1,19 @@
+{
+  "id": "f47e1766-3774-44a7-8b0a-1526965a328b",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "孙老师是控制学院为数不多的实际工程经验非常丰富的老师，除了丰富的工程经验，孙老师的人品也是杠杠的。是一个真心考虑学生，真心投入教学，真心帮助学生的好老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常好的一位老师 控制学院很少的好老师 可惜不带学生。。。。。",
+      "dimensions": {}
+    }
+  ]
+}

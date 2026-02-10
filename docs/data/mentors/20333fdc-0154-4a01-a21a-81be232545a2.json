@@ -1,0 +1,23 @@
+{
+  "id": "20333fdc-0154-4a01-a21a-81be232545a2",
+  "name": "刘仿",
+  "school": "清华大学",
+  "department": "电子工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.58,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "经费情况": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：能发NP，很不错的。。 经费发放：经费还可以 与学生关系：人挺nice的",
+      "dimensions": {
+        "导师能力": "能发NP，很不错的。。",
+        "经费情况": "",
+        "师生关系": "人挺nice的"
+      }
+    }
+  ]
+}

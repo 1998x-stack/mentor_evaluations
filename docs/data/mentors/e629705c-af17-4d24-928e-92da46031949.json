@@ -1,0 +1,15 @@
+{
+  "id": "e629705c-af17-4d24-928e-92da46031949",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：舒老师是土院副院长",
+      "dimensions": {}
+    }
+  ]
+}

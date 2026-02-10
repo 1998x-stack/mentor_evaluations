@@ -1,0 +1,15 @@
+{
+  "id": "74c4bc88-13a8-4984-a390-7c0db8acd6dc",
+  "name": "宋元军",
+  "school": "哈尔滨工业大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这个老师有点意思，很有趣",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b619ded9-c613-4c17-9875-2c099008bf5a",
+  "name": "余志武",
+  "school": "中南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "余教授，做人做事一流，受益良多",
+      "dimensions": {}
+    },
+    {
+      "comment": "挺好的",
+      "dimensions": {}
+    },
+    {
+      "comment": "余老师是堪称学术大家的，学术上的造诣不必说，对学生非常和蔼，也挺关心学生的，亦师亦友。",
+      "dimensions": {}
+    }
+  ]
+}

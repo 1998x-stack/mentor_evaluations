@@ -1,0 +1,31 @@
+{
+  "id": "6d45a9c8-dd3e-4cee-96e2-c29816939214",
+  "name": "杨文超",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "压榨学生，却喜欢打感情牌，说都是为了她们好……不顾学生毕业去向，只顾自己利益。",
+      "dimensions": {}
+    },
+    {
+      "comment": "情商是真的低的没话说，最要命的是只为自己着想，学生毕业去向什么的别谈了",
+      "dimensions": {}
+    },
+    {
+      "comment": "坑爹的一批，喜欢各种忽悠，画大饼，情商低得要命",
+      "dimensions": {}
+    },
+    {
+      "comment": "与学生关系处理的很一般，和很多人都有大大小小的矛盾，嘴上说是为别人着想，却从来不去反思一下自己哪里做得不够好",
+      "dimensions": {}
+    },
+    {
+      "comment": "毁人不倦啊，这货，蛮不讲理，差评",
+      "dimensions": {}
+    }
+  ]
+}

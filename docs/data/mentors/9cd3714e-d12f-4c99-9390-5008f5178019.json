@@ -1,0 +1,15 @@
+{
+  "id": "9cd3714e-d12f-4c99-9390-5008f5178019",
+  "name": "王青",
+  "school": "清华大学",
+  "department": "物理系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "电动力学慕课讲的特别棒，可我考不上清华",
+      "dimensions": {}
+    }
+  ]
+}

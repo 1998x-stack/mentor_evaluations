@@ -1,0 +1,15 @@
+{
+  "id": "533e3fd3-f09b-4017-845e-0337ec71f115",
+  "name": "王启宁",
+  "school": "北京大学",
+  "department": "工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：这个老板怎么样？",
+      "dimensions": {}
+    }
+  ]
+}

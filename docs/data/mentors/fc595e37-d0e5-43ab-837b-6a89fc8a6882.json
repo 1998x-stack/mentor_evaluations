@@ -1,0 +1,15 @@
+{
+  "id": "fc595e37-d0e5-43ab-837b-6a89fc8a6882",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "电气学院最好老师！",
+      "dimensions": {}
+    }
+  ]
+}

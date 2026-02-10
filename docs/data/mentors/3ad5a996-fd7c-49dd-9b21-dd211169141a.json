@@ -1,0 +1,15 @@
+{
+  "id": "3ad5a996-fd7c-49dd-9b21-dd211169141a",
+  "name": "李箭",
+  "school": "华中科技大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李老师绝对是博士生导师中的典范，严格严谨严厉，在学术上具有国际视野，这是很难得的；实验室管理上也绝对是一流，各司其职，按部就班，运转流畅",
+      "dimensions": {}
+    }
+  ]
+}

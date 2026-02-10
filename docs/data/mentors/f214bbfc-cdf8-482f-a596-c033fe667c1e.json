@@ -1,0 +1,15 @@
+{
+  "id": "f214bbfc-cdf8-482f-a596-c033fe667c1e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术大佬，对学生非常好，现已调入人大商学院任教授",
+      "dimensions": {}
+    }
+  ]
+}

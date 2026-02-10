@@ -1,0 +1,15 @@
+{
+  "id": "d03a60d3-44c2-4674-955f-bf2a0a6aebd3",
+  "name": "姚曦",
+  "school": "武汉大学",
+  "department": "文学院，历史学院，哲学学院，国学院，外国语言文学学院，新闻与传播学院，艺术学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "进了师门干活干到失智哦",
+      "dimensions": {}
+    }
+  ]
+}

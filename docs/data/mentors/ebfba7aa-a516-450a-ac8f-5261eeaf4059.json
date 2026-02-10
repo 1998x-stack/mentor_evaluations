@@ -1,0 +1,19 @@
+{
+  "id": "ebfba7aa-a516-450a-ac8f-5261eeaf4059",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：严格，认真 学生补助：500",
+      "dimensions": {
+        "学生补助": "500"
+      }
+    }
+  ]
+}

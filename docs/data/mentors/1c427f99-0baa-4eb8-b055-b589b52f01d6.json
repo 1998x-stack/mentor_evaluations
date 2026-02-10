@@ -1,0 +1,15 @@
+{
+  "id": "1c427f99-0baa-4eb8-b055-b589b52f01d6",
+  "name": "李爽",
+  "school": "中国矿业大学(江苏)",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不要来不要来别来别来！",
+      "dimensions": {}
+    }
+  ]
+}

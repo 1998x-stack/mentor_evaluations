@@ -1,0 +1,15 @@
+{
+  "id": "c6589803-3418-4208-b951-af6ed0dbd435",
+  "name": "曾平",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "曾平 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

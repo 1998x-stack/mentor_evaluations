@@ -1,0 +1,15 @@
+{
+  "id": "05e8a99f-a4d3-460e-bfb4-3dcef9f0bda6",
+  "name": "王剑",
+  "school": "北京交通大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杂活特别多，导师能力基本没有，对学生基本没任何关心。",
+      "dimensions": {}
+    }
+  ]
+}

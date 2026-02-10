@@ -1,0 +1,27 @@
+{
+  "id": "256e2bcc-3802-4a66-8f32-a6435978b369",
+  "name": "龚静鸣",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不建议来。双标严重，心思较重，科研一般。\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常push，毁人不倦！！",
+      "dimensions": {}
+    },
+    {
+      "comment": "每周一次组会，汇报工作！",
+      "dimensions": {}
+    },
+    {
+      "comment": "听人吐槽说实验室自习室都有摄像头的组，无死角吗？",
+      "dimensions": {}
+    }
+  ]
+}

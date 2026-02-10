@@ -1,0 +1,19 @@
+{
+  "id": "c9cb256c-b532-4d95-bec6-c4183ba24e83",
+  "name": "刘贵昌",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "搞学术里最会挣钱的，挣钱里最会…… 算了，没有最会",
+      "dimensions": {}
+    },
+    {
+      "comment": "每个月以学生补助为由给学生发5000元／人，再要求学生取出现金还给老师，以免形成完整的资金链，变相洗钱",
+      "dimensions": {}
+    }
+  ]
+}

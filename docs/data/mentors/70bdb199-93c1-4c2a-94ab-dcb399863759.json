@@ -1,0 +1,15 @@
+{
+  "id": "70bdb199-93c1-4c2a-94ab-dcb399863759",
+  "name": "杨自强",
+  "school": "电子科技大学",
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室是科b361",
+      "dimensions": {}
+    }
+  ]
+}

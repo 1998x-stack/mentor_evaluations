@@ -1,0 +1,23 @@
+{
+  "id": "fcf136a8-eb23-4230-98ff-9527b84ee526",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "哈哈哈，这名字给的。小心不孝老师找你哦",
+      "dimensions": {}
+    },
+    {
+      "comment": "名字叫陈伯孝，不是陈不孝 学术应该挺牛的，其他不了解",
+      "dimensions": {}
+    },
+    {
+      "comment": "电子所的，在他这里读博很压抑，能别来就别来吧。",
+      "dimensions": {}
+    }
+  ]
+}

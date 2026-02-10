@@ -1,0 +1,19 @@
+{
+  "id": "cf727159-820e-41d3-9a57-da74e401b3e8",
+  "name": "张俊",
+  "school": "福州大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师，很严格，课题组氛围干劲都很好，硕士都能发二区三区SCI，适合踏实的学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "人帅脾气好，能力强年轻干劲足，课题组很团结，报了一定不后悔",
+      "dimensions": {}
+    }
+  ]
+}

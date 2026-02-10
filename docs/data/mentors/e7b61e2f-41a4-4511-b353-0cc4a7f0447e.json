@@ -1,0 +1,21 @@
+{
+  "id": "e7b61e2f-41a4-4511-b353-0cc4a7f0447e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：中传本硕博毕业 导师能力：一般，文章没什么引用量 与学生关系：接触过几次，觉得人品有问题，当她学生应该会很苦逼吧",
+      "dimensions": {
+        "导师能力": "一般，文章没什么引用量 与学生",
+        "师生关系": "接触过几次，觉得人品有问题，当她学生应该会很苦逼吧"
+      }
+    }
+  ]
+}

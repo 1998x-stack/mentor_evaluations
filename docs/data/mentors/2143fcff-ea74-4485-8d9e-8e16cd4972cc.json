@@ -1,0 +1,31 @@
+{
+  "id": "2143fcff-ea74-4485-8d9e-8e16cd4972cc",
+  "name": "高常鑫",
+  "school": "华中科技大学",
+  "department": "自动化学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "第一，对学生负责又有耐心；第二，有学术追求，走在学术一线；第三，严以律己宽以待人；第四，经费发放足，项目学术两手抓",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，年轻有为，很好相处，极力推荐！",
+      "dimensions": {}
+    },
+    {
+      "comment": "高老师学术能力、项目能力很强，手上横向纵向项目也较多，对学生也特别好，补贴也会比院里平均水平高一些。",
+      "dimensions": {}
+    },
+    {
+      "comment": "高老师人很好，特别有耐心，科研能力也很棒！",
+      "dimensions": {}
+    },
+    {
+      "comment": "高老师满分，绝对的好导师",
+      "dimensions": {}
+    }
+  ]
+}

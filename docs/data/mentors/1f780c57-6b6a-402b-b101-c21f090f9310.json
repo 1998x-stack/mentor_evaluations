@@ -1,0 +1,15 @@
+{
+  "id": "1f780c57-6b6a-402b-b101-c21f090f9310",
+  "name": "董群",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "图书馆长",
+      "dimensions": {}
+    }
+  ]
+}

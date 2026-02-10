@@ -1,0 +1,15 @@
+{
+  "id": "04b2ae71-3549-4b65-adb2-88863e694c8b",
+  "name": "牛海军",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "牛老师脾气很好，对学生特别好，只要是对学生有力的都很支持。",
+      "dimensions": {}
+    }
+  ]
+}

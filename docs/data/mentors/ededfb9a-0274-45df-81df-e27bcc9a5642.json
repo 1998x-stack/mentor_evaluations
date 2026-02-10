@@ -1,0 +1,15 @@
+{
+  "id": "ededfb9a-0274-45df-81df-e27bcc9a5642",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "尚不清楚",
+      "dimensions": {}
+    }
+  ]
+}

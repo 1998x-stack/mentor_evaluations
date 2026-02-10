@@ -1,0 +1,31 @@
+{
+  "id": "4bdc5eae-21f3-4fa0-9896-9ac0262e3ead",
+  "name": "吕广宏",
+  "school": "北京航空航天大学",
+  "department": "物理科学与核能工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力不敢恭维，人很圆滑，基本上靠混出来的 经费发放：不清楚 与学生关系：和学生关系表面看起来比较融洽，但喜欢调戏女生。没有到陈小武那样的程度，但是希望学弟学妹们引以为戒。 学生毕业去向：不清楚",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": "不清楚 与学生",
+        "师生关系": "和学生",
+        "毕业去向": "不清楚"
+      }
+    },
+    {
+      "comment": "导师能力：该导师最近一篇一区论文因抄袭被撤稿 https://www.zhihu.com/question/28257946 ... /426541089 http://iopscience.iop.org/article/10.10 ... 326/aac654",
+      "dimensions": {
+        "导师能力": "该导师最近一篇一区论文因抄袭被撤稿 https://www.zhihu.com/question/28257946 ... /426541089 http://iopscience.iop.org/article/10.10 ... 326/aac654"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ff20880e-95e6-48e8-a81a-3817f22007fe",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "壕壕壕",
+      "dimensions": {}
+    },
+    {
+      "comment": "想学习更多的现场知识么？那就来找吕老师吧。控制系统哪家强，中国东大找老吕~~",
+      "dimensions": {}
+    }
+  ]
+}

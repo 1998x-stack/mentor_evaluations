@@ -1,0 +1,15 @@
+{
+  "id": "31aa1b18-d4f7-40fb-a0d5-d54a2c4042b7",
+  "name": "向勇",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "没有学生，没有好论文，没有好项目，只能偷偷实习",
+      "dimensions": {}
+    }
+  ]
+}

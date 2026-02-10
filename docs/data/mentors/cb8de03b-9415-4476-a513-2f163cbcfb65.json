@@ -1,0 +1,21 @@
+{
+  "id": "cb8de03b-9415-4476-a513-2f163cbcfb65",
+  "name": "刘军民",
+  "school": "大连理工大学",
+  "department": "信息与通信工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师很亲切，不过退休了 学生毕业去向：做电磁的老师。",
+      "dimensions": {
+        "师生关系": "老师很亲切，不过退休了 学生毕业",
+        "毕业去向": "做电磁的老师。"
+      }
+    }
+  ]
+}

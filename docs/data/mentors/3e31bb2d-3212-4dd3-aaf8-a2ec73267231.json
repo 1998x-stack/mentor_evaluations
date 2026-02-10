@@ -1,0 +1,23 @@
+{
+  "id": "3e31bb2d-3212-4dd3-aaf8-a2ec73267231",
+  "name": "孙晓燕",
+  "school": "浙江大学",
+  "department": "建筑工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "迷之自信，自己都搞不懂",
+      "dimensions": {}
+    },
+    {
+      "comment": "不聊学术其他都还好，聊到学术那还是算了吧",
+      "dimensions": {}
+    },
+    {
+      "comment": "慎重！！！万万慎重！！！",
+      "dimensions": {}
+    }
+  ]
+}

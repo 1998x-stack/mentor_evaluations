@@ -1,0 +1,15 @@
+{
+  "id": "19b7c7d8-29c0-46ae-8ac1-d92b2c7e0964",
+  "name": "张思祥",
+  "school": "河北工业大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术能力一般！没有自己写的论文 学生一般都是免费劳动力",
+      "dimensions": {}
+    }
+  ]
+}

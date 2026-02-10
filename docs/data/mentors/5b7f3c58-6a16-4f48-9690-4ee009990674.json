@@ -1,0 +1,19 @@
+{
+  "id": "5b7f3c58-6a16-4f48-9690-4ee009990674",
+  "name": "李木国",
+  "school": "大连理工大学",
+  "department": "水利工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "超级好的老师，像是家里的长辈！！祝老师健健康康，开开心心的！！",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师搞工程的，反正就是特有钱，经常给学生钱出去吃吃喝喝，科研不太知道，反正已经岁数大了，快退休了没有时间和精力管学生，总之来了就是high",
+      "dimensions": {}
+    }
+  ]
+}

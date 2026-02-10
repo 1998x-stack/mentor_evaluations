@@ -1,0 +1,15 @@
+{
+  "id": "b1809d1b-e8f5-4229-a67e-8c627ec4db08",
+  "name": "丁洁民",
+  "school": "同济大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "别问，问就是不管不问。",
+      "dimensions": {}
+    }
+  ]
+}

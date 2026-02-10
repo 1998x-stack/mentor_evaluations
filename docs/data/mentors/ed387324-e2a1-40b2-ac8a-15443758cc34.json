@@ -1,0 +1,19 @@
+{
+  "id": "ed387324-e2a1-40b2-ac8a-15443758cc34",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人特别好，全生医最幸福实验室没有之一，在这里无论是跟着老师学还是自学都能收获挺多的，补助多，项目多，课题组庞大，师兄师姐师弟特别有爱，bingo~",
+      "dimensions": {}
+    },
+    {
+      "comment": "人贼好，我就没见过导师生过气\n项目贼多，一个学生能负责一个方向\n课题组贼大，二十人会议室经常坐不下",
+      "dimensions": {}
+    }
+  ]
+}

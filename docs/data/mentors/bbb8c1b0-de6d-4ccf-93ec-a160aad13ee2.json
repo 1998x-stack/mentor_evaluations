@@ -1,0 +1,19 @@
+{
+  "id": "bbb8c1b0-de6d-4ccf-93ec-a160aad13ee2",
+  "name": "徐国元",
+  "school": "华南理工大学",
+  "department": "土木与交通学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品好，水平高，一个很不错的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "徐老师教导学生一定要学好、走正、",
+      "dimensions": {}
+    }
+  ]
+}

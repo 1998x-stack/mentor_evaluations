@@ -1,0 +1,15 @@
+{
+  "id": "2aa8c6ed-87db-409d-94cd-1558e026f9c7",
+  "name": "潘春洪",
+  "school": NaN,
+  "department": "自动化研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：中科院自动化所模式识别实验室ADAL组大佬",
+      "dimensions": {}
+    }
+  ]
+}

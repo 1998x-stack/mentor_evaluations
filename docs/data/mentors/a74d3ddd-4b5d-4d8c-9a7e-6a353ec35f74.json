@@ -1,0 +1,19 @@
+{
+  "id": "a74d3ddd-4b5d-4d8c-9a7e-6a353ec35f74",
+  "name": "陈亮",
+  "school": "河海大学",
+  "department": "土木与交通学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好老师，和蔼可亲，经常和学生一起吃饭运动",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术读博勿入此门 。学个专硕找个工作，推荐！",
+      "dimensions": {}
+    }
+  ]
+}

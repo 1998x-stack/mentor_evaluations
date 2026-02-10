@@ -1,0 +1,15 @@
+{
+  "id": "9fbaf251-8bf4-478b-84a5-6c9d8fac010a",
+  "name": "刘立芳",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "知情的学长学姐还请给学弟学妹提供一点帮助",
+      "dimensions": {}
+    }
+  ]
+}

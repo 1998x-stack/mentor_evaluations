@@ -1,0 +1,19 @@
+{
+  "id": "496bdaab-8945-4571-b299-5b07617ba2ae",
+  "name": "张连蓬",
+  "school": "江苏师范大学",
+  "department": "遥感科学与技术",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "见解独到，视界开阔，高瞻远瞩。",
+      "dimensions": {}
+    },
+    {
+      "comment": "必须五分，指导学生无微不至，待人随和，教学有方。",
+      "dimensions": {}
+    }
+  ]
+}

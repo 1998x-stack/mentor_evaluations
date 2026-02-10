@@ -1,0 +1,23 @@
+{
+  "id": "9573faab-43f0-474e-88c7-f093024e5845",
+  "name": "徐惠彬",
+  "school": "北京航空航天大学",
+  "department": "自动化科学与电气工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不是自动化的，材料院的",
+      "dimensions": {}
+    },
+    {
+      "comment": "他是校长啊，不是自动化学院的",
+      "dimensions": {}
+    },
+    {
+      "comment": "院士加校长，厉害着呢。可惜不是自动化学院的。",
+      "dimensions": {}
+    }
+  ]
+}

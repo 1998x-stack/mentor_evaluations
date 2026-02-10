@@ -1,0 +1,15 @@
+{
+  "id": "5ebcd4b7-638f-4fac-a8a3-b22da5748e65",
+  "name": "王泉海",
+  "school": "重庆大学",
+  "department": "动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王老师幽默风趣，工程经验丰富",
+      "dimensions": {}
+    }
+  ]
+}

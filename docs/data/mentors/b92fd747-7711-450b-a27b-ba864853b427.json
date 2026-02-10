@@ -1,0 +1,19 @@
+{
+  "id": "b92fd747-7711-450b-a27b-ba864853b427",
+  "name": "杨海燕",
+  "school": "北京航空航天大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：办公地点：北航新主楼G908 导师能力：导师能力为0，只在乎自己的课程能否评上精品课程，而教学水平和人品却是触动底线级别的差。",
+      "dimensions": {
+        "导师能力": ""
+      }
+    }
+  ]
+}

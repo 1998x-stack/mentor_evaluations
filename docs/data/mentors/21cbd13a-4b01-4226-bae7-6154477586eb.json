@@ -1,0 +1,15 @@
+{
+  "id": "21cbd13a-4b01-4226-bae7-6154477586eb",
+  "name": "林生",
+  "school": "北京协和医学院",
+  "department": "药物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "据说很不错的老师了。\n",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e622b092-c163-4884-b592-170ed8f62640",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：不是很允许学生要求，不过也不是禁止。老师对学生挺好的~",
+      "dimensions": {
+        "毕业去向": "不是很允许学生要求，不过也不是禁止。老师对学生挺好的~"
+      }
+    }
+  ]
+}

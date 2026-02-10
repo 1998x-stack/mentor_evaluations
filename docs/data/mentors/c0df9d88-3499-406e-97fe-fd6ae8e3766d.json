@@ -1,0 +1,15 @@
+{
+  "id": "c0df9d88-3499-406e-97fe-fd6ae8e3766d",
+  "name": "杨黎晖",
+  "school": "西安交通大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不太会站在学生的角度考虑问题。",
+      "dimensions": {}
+    }
+  ]
+}

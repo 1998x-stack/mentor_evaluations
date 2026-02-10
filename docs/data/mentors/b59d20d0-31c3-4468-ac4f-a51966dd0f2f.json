@@ -1,0 +1,15 @@
+{
+  "id": "b59d20d0-31c3-4468-ac4f-a51966dd0f2f",
+  "name": "迟悦",
+  "school": "北京航空航天大学",
+  "department": "仪器科学与光电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "没有科研能力，就一个好看的瓶子",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "baa724e5-b582-4020-b5a9-828b550217cc",
+  "name": "程剑松",
+  "school": "南开大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人品挺好，与学生关系融洽",
+      "dimensions": {}
+    }
+  ]
+}

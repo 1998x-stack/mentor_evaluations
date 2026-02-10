@@ -1,0 +1,15 @@
+{
+  "id": "f838aae9-eb6a-487b-9e8b-bd49988c1426",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师科研能力很强，思维活跃，项目多，对学生亦师亦友，能学到很多东西，未来就业前景很好，待遇都很高",
+      "dimensions": {}
+    }
+  ]
+}

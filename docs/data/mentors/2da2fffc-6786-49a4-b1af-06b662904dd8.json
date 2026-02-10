@@ -1,0 +1,15 @@
+{
+  "id": "2da2fffc-6786-49a4-b1af-06b662904dd8",
+  "name": "Ping Shen",
+  "school": "香港科技大学",
+  "department": "Department of Physics",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "Professor",
+      "dimensions": {}
+    }
+  ]
+}

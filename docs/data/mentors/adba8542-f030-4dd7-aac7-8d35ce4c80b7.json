@@ -1,0 +1,15 @@
+{
+  "id": "adba8542-f030-4dd7-aac7-8d35ce4c80b7",
+  "name": "张超",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "顶配科研能力，顶配师德，良师益友",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "610353e4-1a4f-4413-9a12-2a003694ac43",
+  "name": "宁宁",
+  "school": "电子科技大学",
+  "department": "微电子与固体电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：办公地点电子科技大学沙河校区211楼十楼 与学生关系：手下学生刚跳楼，大家自己想吧",
+      "dimensions": {
+        "师生关系": "手下学生刚跳楼，大家自己想吧"
+      }
+    }
+  ]
+}

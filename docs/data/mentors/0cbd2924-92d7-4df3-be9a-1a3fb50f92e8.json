@@ -1,0 +1,21 @@
+{
+  "id": "0cbd2924-92d7-4df3-be9a-1a3fb50f92e8",
+  "name": "张三峰",
+  "school": "东南大学",
+  "department": "计算机科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 7.12,
+  "dimensionScores": {
+    "师生关系": 7.5,
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师人很好，很负责 学生毕业去向：学生都出路挺好的",
+      "dimensions": {
+        "师生关系": "老师人很好，很负责 学生毕业",
+        "毕业去向": "学生都出路挺好的"
+      }
+    }
+  ]
+}

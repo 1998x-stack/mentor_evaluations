@@ -1,0 +1,21 @@
+{
+  "id": "e9d94db0-c0fd-46e5-8ca7-ff6ad8a3a139",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：trans 大卡 学生毕业去向：中电14，38所随便就业",
+      "dimensions": {
+        "导师能力": "trans 大卡 学生毕业",
+        "毕业去向": "中电14，38所随便就业"
+      }
+    }
+  ]
+}

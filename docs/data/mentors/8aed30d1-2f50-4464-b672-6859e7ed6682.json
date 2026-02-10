@@ -1,0 +1,21 @@
+{
+  "id": "8aed30d1-2f50-4464-b672-6859e7ed6682",
+  "name": "康国政",
+  "school": "西南交通大学",
+  "department": "力学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：大牛 导师能力：导师能力没的说，IJP与IJF的编辑 学生毕业去向：参照专业前途",
+      "dimensions": {
+        "导师能力": "",
+        "毕业去向": "参照专业前途"
+      }
+    }
+  ]
+}

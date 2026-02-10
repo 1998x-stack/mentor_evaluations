@@ -1,0 +1,27 @@
+{
+  "id": "b5f97f73-ddc0-476e-97f4-45fd351d930b",
+  "name": "任志英",
+  "school": "福州大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师，特别关心我们，性格也nice，文章也多",
+      "dimensions": {}
+    },
+    {
+      "comment": "这是一个对学生非常负责的老师，在校期间能学到很多东西，跟着她的话无论毕业后做什么，一定都会有极大的成就。",
+      "dimensions": {}
+    },
+    {
+      "comment": "很关心学生，很负责。是个好老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "超棒的一位老师，亦师亦友，对学生超级负责，项目多，论文多",
+      "dimensions": {}
+    }
+  ]
+}

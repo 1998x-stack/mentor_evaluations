@@ -1,0 +1,19 @@
+{
+  "id": "f21c0529-e114-4766-bab2-4c10fbc64a4d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "肖老师很和蔼的~",
+      "dimensions": {}
+    },
+    {
+      "comment": "肖老师大好人啊，很不错的老师。",
+      "dimensions": {}
+    }
+  ]
+}

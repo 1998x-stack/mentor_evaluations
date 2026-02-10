@@ -1,0 +1,19 @@
+{
+  "id": "0f12c1c7-72b6-4c17-a23c-822e746bfd1c",
+  "name": "杨戈",
+  "school": "华东理工大学",
+  "department": "药学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "能具体说说杨老师是个怎么样的人么",
+      "dimensions": {}
+    },
+    {
+      "comment": "噩梦般的存在",
+      "dimensions": {}
+    }
+  ]
+}

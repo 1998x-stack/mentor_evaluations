@@ -1,0 +1,15 @@
+{
+  "id": "91f73664-b088-4205-a683-182e0381ac30",
+  "name": "欧阳威",
+  "school": "北京师范大学",
+  "department": "环境学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "亲，这边建议换个导师呢",
+      "dimensions": {}
+    }
+  ]
+}

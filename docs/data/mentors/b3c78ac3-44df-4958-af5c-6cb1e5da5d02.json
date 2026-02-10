@@ -1,0 +1,15 @@
+{
+  "id": "b3c78ac3-44df-4958-af5c-6cb1e5da5d02",
+  "name": "任秋实",
+  "school": "北京大学",
+  "department": "工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学生自生自灭，大面积延毕…",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1df01afa-1370-43e5-8b44-e4ad2adc577d",
+  "name": "王珏",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "相对于指导学生，更偏重于当领导",
+      "dimensions": {}
+    },
+    {
+      "comment": "王老师，人很好，对学生热心，很好的导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "良师益友",
+      "dimensions": {}
+    },
+    {
+      "comment": "人还算好",
+      "dimensions": {}
+    }
+  ]
+}

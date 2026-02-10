@@ -1,0 +1,19 @@
+{
+  "id": "84df3bc3-5b3f-4b64-83e8-0ebb5fd6d684",
+  "name": "杨旸",
+  "school": "华中科技大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：课题组氛围非常不好，任务非常重，从来都不休息，每天干到12点",
+      "dimensions": {
+        "师生关系": "课题组氛围非常不好，任务非常重，从来都不休息，每天干到12点"
+      }
+    }
+  ]
+}

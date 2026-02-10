@@ -1,0 +1,15 @@
+{
+  "id": "9c2ed52e-d8c7-42d9-bc83-e7a967c97621",
+  "name": "李文友",
+  "school": "南开大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生挺好的，要求不会很高",
+      "dimensions": {}
+    }
+  ]
+}

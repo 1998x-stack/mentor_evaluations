@@ -1,0 +1,15 @@
+{
+  "id": "d3098b72-fb1d-4765-b971-7232315cc125",
+  "name": "孙聪",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "孙聪 http://web.xidian.edu.cn/suncong/",
+      "dimensions": {}
+    }
+  ]
+}

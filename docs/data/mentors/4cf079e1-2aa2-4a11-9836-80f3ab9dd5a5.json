@@ -1,0 +1,23 @@
+{
+  "id": "4cf079e1-2aa2-4a11-9836-80f3ab9dd5a5",
+  "name": "吴建设",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：老师很平易近人，乐于和学生讨论交流，亲切和蔼。",
+      "dimensions": {
+        "导师能力": "老师很平易近人，乐于和学生讨论交流，亲切和蔼。"
+      }
+    },
+    {
+      "comment": "老师很平易近人，乐于和学生讨论交流，亲切和蔼。",
+      "dimensions": {}
+    }
+  ]
+}

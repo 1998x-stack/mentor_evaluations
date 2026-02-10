@@ -1,0 +1,19 @@
+{
+  "id": "fc141fd9-e437-4cc0-8c79-a9a2a85e27a3",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "毕业去向": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：这个时候导师一定不要选，特别坑，什么都不懂，根本不管你",
+      "dimensions": {
+        "毕业去向": "这个时候导师一定不要选，特别坑，什么都不懂，根本不管你"
+      }
+    }
+  ]
+}

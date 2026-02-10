@@ -1,0 +1,15 @@
+{
+  "id": "1a127870-8175-4b11-8f20-5180442b1316",
+  "name": "王选仓",
+  "school": "长安大学",
+  "department": "公路学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "只说学术，在我看来学术水平几乎没有",
+      "dimensions": {}
+    }
+  ]
+}

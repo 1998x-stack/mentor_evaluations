@@ -1,0 +1,15 @@
+{
+  "id": "8867b76c-c44a-4909-88f6-74b49c27c183",
+  "name": "梁啸",
+  "school": "辽宁大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大家一起来做保健品，大保健",
+      "dimensions": {}
+    }
+  ]
+}

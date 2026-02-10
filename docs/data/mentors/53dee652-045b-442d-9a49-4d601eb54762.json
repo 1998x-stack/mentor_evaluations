@@ -1,0 +1,15 @@
+{
+  "id": "53dee652-045b-442d-9a49-4d601eb54762",
+  "name": "赵利",
+  "school": "华南师范大学",
+  "department": "法学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "14333335333",
+      "dimensions": {}
+    }
+  ]
+}

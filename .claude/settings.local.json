@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "Bash(ls:*)",
+      "Read(//Users/mx/Desktop/mentor_evaluations/**)",
+      "Bash(grep:*)",
+      "Bash(pip3 list:*)"
+    ]
+  }
+}

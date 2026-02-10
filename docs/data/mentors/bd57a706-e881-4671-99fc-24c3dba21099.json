@@ -1,0 +1,19 @@
+{
+  "id": "bd57a706-e881-4671-99fc-24c3dba21099",
+  "name": "佟浩",
+  "school": "清华大学",
+  "department": "机械工程系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "佟老师年轻有为，善于创新，科研扎实",
+      "dimensions": {}
+    },
+    {
+      "comment": "特别上进认真的一位年轻老师。",
+      "dimensions": {}
+    }
+  ]
+}

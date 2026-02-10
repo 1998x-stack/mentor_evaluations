@@ -1,0 +1,15 @@
+{
+  "id": "c0733059-1a39-454f-9804-5958685f8763",
+  "name": "张岩",
+  "school": "哈尔滨工业大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人不错，对学生很友善，教学很认真，为学生着想。",
+      "dimensions": {}
+    }
+  ]
+}

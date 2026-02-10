@@ -1,0 +1,19 @@
+{
+  "id": "c764813a-b565-4207-9bee-55b02e1e3fd8",
+  "name": "吴乐南",
+  "school": "东南大学",
+  "department": "信息科学与工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很好",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生真的很好",
+      "dimensions": {}
+    }
+  ]
+}

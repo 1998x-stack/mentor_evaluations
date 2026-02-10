@@ -1,0 +1,15 @@
+{
+  "id": "4a34765e-2b10-4c8f-b9f5-ce14825f90aa",
+  "name": "姜责茗",
+  "school": "华南师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "你们啊 naïve ～～～",
+      "dimensions": {}
+    }
+  ]
+}

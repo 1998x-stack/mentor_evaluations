@@ -1,0 +1,19 @@
+{
+  "id": "de80cb32-2218-479a-8d05-dd9afc6a43ca",
+  "name": "龙离军",
+  "school": "东北大学",
+  "department": "信息科学与工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这1分纯粹打高了，只要不帮助洗钱/干杂活，不准开题/毕业答辩",
+      "dimensions": {}
+    },
+    {
+      "comment": "每个月的补贴要交上去，你的火车票报销以后一分都不给你，不让实习，写出论文他要一作，私吞论文，平时事多，情商非常低",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2189576f-e62a-4465-bfe8-f7507e6c5242",
+  "name": "马卓",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "马卓 http://web.xidian.edu.cn/mazhuo/",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "40d557d1-6ae9-43ab-a360-6d0f496e90f1",
+  "name": "许东卫",
+  "school": "大连理工大学",
+  "department": "电气工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "挺好的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "这个老师名字写错了！",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b097dae4-43d5-49d1-b228-1296e7bcb1e3",
+  "name": "陈小林",
+  "school": "四川大学",
+  "department": "艺术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "设计系主任",
+      "dimensions": {}
+    }
+  ]
+}

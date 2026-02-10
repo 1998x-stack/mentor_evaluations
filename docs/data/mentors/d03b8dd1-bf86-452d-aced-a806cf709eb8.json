@@ -1,0 +1,19 @@
+{
+  "id": "d03b8dd1-bf86-452d-aced-a806cf709eb8",
+  "name": "严力蛟",
+  "school": "浙江大学",
+  "department": "生命科学学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "导师能力": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：我们请求您详细的评论，您还需要至少15个字",
+      "dimensions": {
+        "导师能力": "我们请求您详细的评论，您还需要至少15个字"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "e3e81540-0120-4aa0-9d23-fd1f4d93f57d",
+  "name": "曾骏",
+  "school": "重庆大学",
+  "department": "软件学院",
+  "evaluationCount": 3,
+  "totalScore": 5.1,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.58,
+    "毕业去向": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：抢一作。不妨带大家看看曾骏的publication。 [1] Jun Zeng, Xin He, Yinghua Li, Junhao Wen, Wei Zhou: A Point-of-Interest recommendation method using user similarity. Web Intelligence 16(2): 105-112 (2018) Xin He为2017届学生 [2] Jun Zeng, Feng Li, Yinghua Li, Junhao Wen, Yingbo Wu: Exploring the Influence of Contexts for Mobile Recommendation. Int. J. Web Service Res. 14(4): 33-49 (2017) [3] Jun Zeng, Yinghua Li, Feng Li, Junhao Wen, Sachio Hirokawa: A Point-of-Interest Recommendation Method Using Location Similarity. IIAI-AAI 2017: 436-440 Yinghua Li 为2016届学生 [4] Jun Zeng, Feng Li, Haiyang Liu, Junhao Wen, Sachio Hirokawa: A Restaurant Recommender System Based on User Preference and Location in Mobile Environment. IIAI-AAI 2016: 55-60 Feng Li 为2015届学生，第一个学生 再看看他博士期间的论文 Jun Zeng, Min Gao, Junhao Wen, Sachio Hirokawa: A Hybrid Trust Degree Model in Social Network for Recommender System. IIAI-AAI 2014: 37-41 Jun Zeng, Brendan Flanagan, Qingyu Xiong, Junhao Wen, Sachio Hirokawa: Proposal of Seam Degree and Content Similarity for Web Page Segmentation. IIAI-AAI 2013: 9-14 Jun Zeng, Qingyu Xiong, Junhao Wen, Sachio Hirokawa: Extraction of Relevant Snippets from Web Pages Using Hybrid Features. IIAI-AAI 2012: 209-213 有没有发现几乎全部是投的IIAI-AAI ，这是一个什么东西呢？就是个不入流的水会议，是他博士导师长年办的，所以当然每年都投了。除此之外，以他一作的文章投到别地的很少，即便有也是很水的刊物。所有学生写的论文都要当一作，自己又没能耐发好文章，可以说是相当无耻Low b了。希望有理想的同学不要报，如果落到他手里，一定要力争论文一作不被抢走或者专硕干脆拒绝发论文好了，投这种水会之后给你的简历扣分。 导师能力：二本老师的水平都没有。为什么可以进重大软件学院呢，因为他的硕士老板是文俊浩。可以说一对水师徒了，无耻之极。有这种老师，学院会好吗？ 与学生关系：跟文老师一样的手段，当面一套背地一套。反正甭指望对你好就得了 学生毕业去向：灰暗",
+      "dimensions": {
+        "导师能力": "二本老师的水平都没有。为什么可以进重大软件学院呢，因为他的硕士老板是文俊浩。可以说一对水师徒了，无耻之极。有这种老师，学院会好吗？ 与学生",
+        "师生关系": "跟文老师一样的手段，当面一套背地一套。反正甭指望对你好就得了 学生毕业",
+        "毕业去向": "灰暗"
+      }
+    },
+    {
+      "comment": "利益相关：文老师的忠实打手，水平一脉相承的菜。但上课还算认真，尽力了。 导师能力：导师能力只够发水会水刊 经费发放：没什么经费 学生补助：没有 与学生关系：还凑合，但论文都是自己抢一作，想报的同学掂量掂量，这种行为很没品 工作时间：不限 学生毕业去向：全靠自我奋斗",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": "没什么",
+        "学生补助": "没有 与学生",
+        "师生关系": "还凑合，但论文都是自己抢一作，想报的同学掂量掂量，这种行为很没品 工作",
+        "工作时间": "不限 学生毕业",
+        "毕业去向": "全靠自我奋斗"
+      }
+    },
+    {
+      "comment": "利益相关：抢学生一作，不要脸至极 导师能力：都发的是CCF都上不了的水会和影响因子1以下的水刊，并且常发的会和水刊还是博士导师办的，水平可想而知 经费发放：蹭大老板经费 与学生关系：抢一作，你觉得呢？ 学生毕业去向：全靠自我奋斗，不被拉后腿都万幸了。",
+      "dimensions": {
+        "导师能力": "都发的是CCF都上不了的水会和影响因子1以下的水刊，并且常发的会和水刊还是博士导师办的，水平可想而知",
+        "经费情况": "蹭大老板",
+        "师生关系": "抢一作，你觉得呢？ 学生毕业",
+        "毕业去向": "全靠自我奋斗，不被拉后腿都万幸了。"
+      }
+    }
+  ]
+}

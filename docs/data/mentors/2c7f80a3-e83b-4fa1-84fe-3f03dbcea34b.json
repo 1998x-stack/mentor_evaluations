@@ -1,0 +1,15 @@
+{
+  "id": "2c7f80a3-e83b-4fa1-84fe-3f03dbcea34b",
+  "name": "王素芬",
+  "school": "中国农业大学",
+  "department": "水利与土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很好",
+      "dimensions": {}
+    }
+  ]
+}

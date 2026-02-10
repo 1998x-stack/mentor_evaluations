@@ -1,0 +1,19 @@
+{
+  "id": "6e8977b6-f62f-4de0-8f84-9bed8d3c9965",
+  "name": "刘念",
+  "school": "四川大学",
+  "department": "电气信息学院",
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "师生关系": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：很和蔼的老师，可惜已经退休了，对学生非常好，报帐都是亲自去",
+      "dimensions": {
+        "师生关系": "很和蔼的老师，可惜已经退休了，对学生非常好，报帐都是亲自去"
+      }
+    }
+  ]
+}

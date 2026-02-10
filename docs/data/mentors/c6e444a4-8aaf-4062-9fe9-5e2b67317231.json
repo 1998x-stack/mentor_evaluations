@@ -1,0 +1,27 @@
+{
+  "id": "c6e444a4-8aaf-4062-9fe9-5e2b67317231",
+  "name": "阮欣",
+  "school": "同济大学",
+  "department": "土木工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "桥梁系学长血泪经验，慎报！",
+      "dimensions": {}
+    },
+    {
+      "comment": "带的学生没几个说好的 挺会忽悠，心机重 说话带讽刺，不尊重人",
+      "dimensions": {}
+    },
+    {
+      "comment": "做人人品较差，以情怀忽悠学生，会在复试前一天告知之前确认的学生换填导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "架子比较大，官僚作风严重",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b8182fec-f275-4055-936e-3dfc0b126e17",
+  "name": "郑萍",
+  "school": NaN,
+  "department": "昆明动物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "平台一般，眼高手低",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2f954670-a579-4237-8b5b-38c04e7b3131",
+  "name": "田建华",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "还记得田老师曾经为了自己的学生在网上发起捐款。",
+      "dimensions": {}
+    },
+    {
+      "comment": "和单忠强老师是一个课题组的,对学生非常好,实验室作息时间灵活,在学术上生活上都很照顾,发文章和找工作都会帮忙",
+      "dimensions": {}
+    }
+  ]
+}

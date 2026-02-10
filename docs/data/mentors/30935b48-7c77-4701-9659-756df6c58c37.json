@@ -1,0 +1,15 @@
+{
+  "id": "30935b48-7c77-4701-9659-756df6c58c37",
+  "name": "刘天庆",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "没啥前途，基本不管学生。",
+      "dimensions": {}
+    }
+  ]
+}

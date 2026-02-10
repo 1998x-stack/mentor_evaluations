@@ -1,0 +1,21 @@
+{
+  "id": "ab2364fe-9f83-47ba-85cf-e8202219ee17",
+  "name": "张世金",
+  "school": "北京航空航天大学",
+  "department": "数学与系统科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力较高，有很大的发展潜力。 与学生关系：和学生相处非常融洽",
+      "dimensions": {
+        "导师能力": "",
+        "师生关系": "和学生相处非常融洽"
+      }
+    }
+  ]
+}

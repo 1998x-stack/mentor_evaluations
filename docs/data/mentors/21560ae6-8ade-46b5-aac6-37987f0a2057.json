@@ -1,0 +1,15 @@
+{
+  "id": "21560ae6-8ade-46b5-aac6-37987f0a2057",
+  "name": "张瑞峰",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张瑞峰",
+      "dimensions": {}
+    }
+  ]
+}

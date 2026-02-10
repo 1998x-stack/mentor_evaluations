@@ -1,0 +1,19 @@
+{
+  "id": "18b3831c-b1f1-4e1d-b02b-726183e8c6f7",
+  "name": "王桥",
+  "school": "东南大学",
+  "department": "信息科学与工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "研究领域前沿，学生工作好找，压榨较严重，导致没有时间上来评价",
+      "dimensions": {}
+    },
+    {
+      "comment": "学生见了绕道走，其他不清楚",
+      "dimensions": {}
+    }
+  ]
+}

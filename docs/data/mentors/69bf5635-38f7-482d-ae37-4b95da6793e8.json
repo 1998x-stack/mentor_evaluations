@@ -1,0 +1,15 @@
+{
+  "id": "69bf5635-38f7-482d-ae37-4b95da6793e8",
+  "name": "张学",
+  "school": "大连理工大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：大连理工大学博士",
+      "dimensions": {}
+    }
+  ]
+}

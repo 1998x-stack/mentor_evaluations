@@ -1,0 +1,15 @@
+{
+  "id": "6b4a3832-0c2d-4d6b-8a30-17e3a4651289",
+  "name": "刘凯",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "勤奋又上进的一个老师，听说在学生时代上课总坐第一排。为了保持自己的科研能力，每天都在学习新的知识，每天给自己规定要写100行以上的代码，连出差都不例外。对学生很好，从来不收礼，为人亲切和蔼，很好相处。",
+      "dimensions": {}
+    }
+  ]
+}

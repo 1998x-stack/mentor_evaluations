@@ -1,0 +1,19 @@
+{
+  "id": "cfd91418-9df3-4c6a-b41a-18b042b26bfd",
+  "name": "李树索",
+  "school": "北京航空航天大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：勇士铁杆球迷，一输球考试就难。骑士球迷慎选。",
+      "dimensions": {
+        "师生关系": "勇士铁杆球迷，一输球考试就难。骑士球迷慎选。"
+      }
+    }
+  ]
+}

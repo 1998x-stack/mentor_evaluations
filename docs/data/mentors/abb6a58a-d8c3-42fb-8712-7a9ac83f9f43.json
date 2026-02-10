@@ -1,0 +1,23 @@
+{
+  "id": "abb6a58a-d8c3-42fb-8712-7a9ac83f9f43",
+  "name": "张弛",
+  "school": "北京大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 3.83,
+  "dimensionScores": {
+    "导师能力": 3.25,
+    "师生关系": 3.25,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：差 与学生关系：差 工作时间：还可以",
+      "dimensions": {
+        "导师能力": "差 与学生",
+        "师生关系": "差 工作",
+        "工作时间": "还可以"
+      }
+    }
+  ]
+}

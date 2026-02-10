@@ -1,0 +1,15 @@
+{
+  "id": "e8497c7a-71ac-41c7-9bbe-e05a643dcbc5",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "就是个坑，要慎入，导师能力基本为零，说话不算数",
+      "dimensions": {}
+    }
+  ]
+}

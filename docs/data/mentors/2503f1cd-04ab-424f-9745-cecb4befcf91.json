@@ -1,0 +1,15 @@
+{
+  "id": "2503f1cd-04ab-424f-9745-cecb4befcf91",
+  "name": "鱼滨",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "鱼老师对学生很好，就是在给学生布置任务的时候是否可以考虑发一下助研津贴。实验室一直有项目，学生也在帮忙干活，但一分钱的助研津贴都没有拿到，学生岂能没有怨言。",
+      "dimensions": {}
+    }
+  ]
+}

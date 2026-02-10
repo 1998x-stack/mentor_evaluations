@@ -1,0 +1,15 @@
+{
+  "id": "ec130bca-4a0d-4679-af46-a9cfc7f8d870",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大牛，大牛，大牛，大牛",
+      "dimensions": {}
+    }
+  ]
+}

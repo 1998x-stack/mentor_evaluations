@@ -1,0 +1,19 @@
+{
+  "id": "89148926-67ef-438d-9664-1f6623fb77ae",
+  "name": "赵建辉",
+  "school": "北京航空航天大学",
+  "department": "仪器科学与光电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "毕业去向": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：对学生放养式管理，似乎什么都不管。",
+      "dimensions": {
+        "毕业去向": "对学生放养式管理，似乎什么都不管。"
+      }
+    }
+  ]
+}

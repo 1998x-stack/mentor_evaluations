@@ -1,0 +1,23 @@
+{
+  "id": "26c77236-5e74-435d-b612-6258e6587b02",
+  "name": "汤娜",
+  "school": "华南师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "汤老师人非常好，欢迎师弟师妹报读呀。另外赵老师是很好的老师，请大家不要被恶意带节奏",
+      "dimensions": {}
+    },
+    {
+      "comment": "Introduction\n\nMy research interest includes temporal information processing and management, and XML data management. I have published more than a dozen papers in journals, conferences and books. I have participated several projects funded by National Natural Science Foundation of China (NSFC), Ministry of Education of China (MOE), GDSF and industries. We have developed TempDB, an open source temporal data management software.\n\nEducation\n\nWork Experience\n\nHonor",
+      "dimensions": {}
+    },
+    {
+      "comment": "说到做到的好老师，科研态度严谨",
+      "dimensions": {}
+    }
+  ]
+}

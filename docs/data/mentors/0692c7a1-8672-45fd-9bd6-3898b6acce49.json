@@ -1,0 +1,19 @@
+{
+  "id": "0692c7a1-8672-45fd-9bd6-3898b6acce49",
+  "name": "赵国杰",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不错的导师，有钱、有人脉、有关系、有水平、有年纪",
+      "dimensions": {}
+    },
+    {
+      "comment": "管院四赵之首啊，清华毕业的高材生，可惜年龄不饶人，不过人都有那么个时候",
+      "dimensions": {}
+    }
+  ]
+}

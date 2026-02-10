@@ -1,0 +1,15 @@
+{
+  "id": "2fce804b-3a01-4840-80f7-f5c091f43202",
+  "name": "张昊",
+  "school": "南开大学",
+  "department": "电子信息与光学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张昊老师平易近人，没有架子，和学生相处随和，好老师",
+      "dimensions": {}
+    }
+  ]
+}

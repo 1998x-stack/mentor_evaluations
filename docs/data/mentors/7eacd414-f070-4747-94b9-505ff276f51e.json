@@ -1,0 +1,27 @@
+{
+  "id": "7eacd414-f070-4747-94b9-505ff276f51e",
+  "name": "卢文玉",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 3,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：老师不错，但是这两年组里压力大。为了自己前途不要来。",
+      "dimensions": {
+        "毕业去向": "老师不错，但是这两年组里压力大。为了自己前途不要来。"
+      }
+    },
+    {
+      "comment": "生化里面为数不多的好老师。给学生提供了不少平台，也舍得花钱。但愿老卢能多招好学生，师生彼此相得益彰",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师",
+      "dimensions": {}
+    }
+  ]
+}

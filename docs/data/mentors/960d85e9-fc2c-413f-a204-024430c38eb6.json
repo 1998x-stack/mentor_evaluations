@@ -1,0 +1,19 @@
+{
+  "id": "960d85e9-fc2c-413f-a204-024430c38eb6",
+  "name": "王琼华",
+  "school": "四川大学",
+  "department": "电子信息学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "虽然是个长江学者，但是并不懂专业知识，无法给学生提供任何学术指导。低年级完全依靠高年级学生和青年老师指导，不同的组有不同的青年老师和博士，水平参差不齐，能得到什么水平的指导，就看运气啦~\n\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "典型大老板",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a6cd744c-939b-4a8f-b3b5-da7c2354b886",
+  "name": "张楠",
+  "school": "南开大学",
+  "department": "电子信息与光学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师人很好，可以当朋友的老师",
+      "dimensions": {}
+    }
+  ]
+}

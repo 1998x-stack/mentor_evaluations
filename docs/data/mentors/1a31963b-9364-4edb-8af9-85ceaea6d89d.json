@@ -1,0 +1,15 @@
+{
+  "id": "1a31963b-9364-4edb-8af9-85ceaea6d89d",
+  "name": "郭景华",
+  "school": "厦门大学",
+  "department": "航空航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，年轻有干劲，愿意帮助学生",
+      "dimensions": {}
+    }
+  ]
+}

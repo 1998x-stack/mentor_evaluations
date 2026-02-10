@@ -1,0 +1,19 @@
+{
+  "id": "6d9f50f9-c3db-4fd4-9b4e-9a35a06b6ada",
+  "name": "董庆锋",
+  "school": "吉林大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：唐敖庆楼2楼，研究生办公室对面 工作时间：周六加班",
+      "dimensions": {
+        "工作时间": "周六加班"
+      }
+    }
+  ]
+}

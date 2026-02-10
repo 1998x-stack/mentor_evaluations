@@ -1,0 +1,15 @@
+{
+  "id": "8728e616-3caa-465d-80af-448cfd836780",
+  "name": "黄晓明",
+  "school": "东南大学",
+  "department": "交通学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "爱好高科技产品，爱好游泳，特别有智慧的一个老师",
+      "dimensions": {}
+    }
+  ]
+}

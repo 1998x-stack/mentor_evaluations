@@ -1,0 +1,15 @@
+{
+  "id": "f19dac5b-e204-473a-ab2d-476e7d6066f9",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "经费发放与学生没关系，学生毕业去向主要靠自己。",
+      "dimensions": {}
+    }
+  ]
+}

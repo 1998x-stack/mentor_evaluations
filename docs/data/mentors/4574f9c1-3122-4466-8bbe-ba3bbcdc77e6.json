@@ -1,0 +1,19 @@
+{
+  "id": "4574f9c1-3122-4466-8bbe-ba3bbcdc77e6",
+  "name": "辛钢",
+  "school": "大连理工大学",
+  "department": "化学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常垃圾的老师，素质低，谁报谁后悔",
+      "dimensions": {}
+    },
+    {
+      "comment": "自己没什么能力还瞧不起外校考来的学生。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "45a8122f-deb5-4cf5-90d6-f1c2fd0f2542",
+  "name": "张元智",
+  "school": "内蒙古医科大学",
+  "department": "临床医学",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品极差，对学生没有指导，对学生很深的戒备与人格侮辱",
+      "dimensions": {}
+    }
+  ]
+}

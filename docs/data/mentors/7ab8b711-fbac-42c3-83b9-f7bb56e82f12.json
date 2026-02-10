@@ -1,0 +1,19 @@
+{
+  "id": "7ab8b711-fbac-42c3-83b9-f7bb56e82f12",
+  "name": "晋涵养",
+  "school": "北京邮电大学",
+  "department": "信息与通信工程学院+信息光子学与光通信研究院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：没有项目，没有经费，不妨实习，刁难学生",
+      "dimensions": {
+        "毕业去向": "没有项目，没有"
+      }
+    }
+  ]
+}

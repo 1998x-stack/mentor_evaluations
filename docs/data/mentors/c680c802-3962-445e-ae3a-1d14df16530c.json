@@ -1,0 +1,15 @@
+{
+  "id": "c680c802-3962-445e-ae3a-1d14df16530c",
+  "name": "鲍捷",
+  "school": "清华大学",
+  "department": "电子工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "等待评价",
+      "dimensions": {}
+    }
+  ]
+}

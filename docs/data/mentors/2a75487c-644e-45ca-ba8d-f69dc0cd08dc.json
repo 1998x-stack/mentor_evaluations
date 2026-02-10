@@ -1,0 +1,15 @@
+{
+  "id": "2a75487c-644e-45ca-ba8d-f69dc0cd08dc",
+  "name": "刘帅",
+  "school": "华东师范大学",
+  "department": "心理与认知科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师长得特别帅，性格也很好（虽然不是他们组的学生）",
+      "dimensions": {}
+    }
+  ]
+}

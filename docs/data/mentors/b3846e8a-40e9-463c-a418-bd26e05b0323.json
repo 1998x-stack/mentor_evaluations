@@ -1,0 +1,15 @@
+{
+  "id": "b3846e8a-40e9-463c-a418-bd26e05b0323",
+  "name": "孙伟",
+  "school": "北京协和医学院",
+  "department": "临床医学研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "中日友好医院骨科专家，真正好导师",
+      "dimensions": {}
+    }
+  ]
+}

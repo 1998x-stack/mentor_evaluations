@@ -1,0 +1,15 @@
+{
+  "id": "eb5f580f-7324-4456-b3f0-dc4557446dc6",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "个人问题离开南开，转战暨南大学",
+      "dimensions": {}
+    }
+  ]
+}

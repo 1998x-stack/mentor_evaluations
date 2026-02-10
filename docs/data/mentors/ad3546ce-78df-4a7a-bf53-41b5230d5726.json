@@ -1,0 +1,23 @@
+{
+  "id": "ad3546ce-78df-4a7a-bf53-41b5230d5726",
+  "name": "王云江",
+  "school": "西安电子科大",
+  "department": "通信工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：自谋生路，自谋出路，一切还得看自己",
+      "dimensions": {
+        "毕业去向": "自谋生路，自谋出路，一切还得看自己"
+      }
+    },
+    {
+      "comment": "做科研，是一份工作。一份靠自觉，靠精力，靠眼力，靠行动力的苦差事。不客气的说，是一次蜕变是一次历练。",
+      "dimensions": {}
+    }
+  ]
+}

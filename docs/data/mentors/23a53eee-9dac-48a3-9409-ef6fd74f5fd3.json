@@ -1,0 +1,15 @@
+{
+  "id": "23a53eee-9dac-48a3-9409-ef6fd74f5fd3",
+  "name": "杨宁",
+  "school": "四川大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不错，老师横纵向课题都有!",
+      "dimensions": {}
+    }
+  ]
+}

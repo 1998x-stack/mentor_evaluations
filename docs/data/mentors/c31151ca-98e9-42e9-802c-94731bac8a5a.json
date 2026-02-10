@@ -1,0 +1,19 @@
+{
+  "id": "c31151ca-98e9-42e9-802c-94731bac8a5a",
+  "name": "陈香兰",
+  "school": "中国科学技术大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：老师 名字很好听 让我想起了 张学友唱的李香兰",
+      "dimensions": {
+        "毕业去向": "老师 名字很好听 让我想起了 张学友唱的李香兰"
+      }
+    }
+  ]
+}

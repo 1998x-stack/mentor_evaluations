@@ -1,0 +1,15 @@
+{
+  "id": "8e376099-29b4-4944-aef4-03aad713454f",
+  "name": "封举富",
+  "school": "北京大学",
+  "department": "信息科学技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "封老师很Nice",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1b1e4c48-9a84-407a-a773-aa582b89e0a2",
+  "name": "邓力铭",
+  "school": "华南师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "除了Rust 什么都不会 垃圾",
+      "dimensions": {}
+    },
+    {
+      "comment": "是个傻逼 别选他 什么都不会 天天吹 ",
+      "dimensions": {}
+    }
+  ]
+}

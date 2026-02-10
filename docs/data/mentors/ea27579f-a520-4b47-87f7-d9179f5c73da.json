@@ -1,0 +1,19 @@
+{
+  "id": "ea27579f-a520-4b47-87f7-d9179f5c73da",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陈老师很幽默！对学生也很好！",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人很好人品有口皆碑， 做的东西偏工业，发文章不太好。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "731afda6-0de6-4441-9818-8be5719b2a20",
+  "name": "周晓宇",
+  "school": "东南大学",
+  "department": "计算机科学与工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "原来还有这个网站啊，这是个不让学生开题的导师，听说和学生闹翻了？",
+      "dimensions": {}
+    },
+    {
+      "comment": "一个同学跟他各种悲催，平时不管事，最后不让毕业，跟他没有任何前途，关键是不能毕业",
+      "dimensions": {}
+    },
+    {
+      "comment": "该老师，笑面虎，不怎么热心学术，平时对学生不怎么管理，但要求出科研成果，否则延期毕业。",
+      "dimensions": {}
+    },
+    {
+      "comment": "上过他的课，就会扯扯，打太极，不热心科研，对学生无指导，却要求学生给他发论文，前途不明。",
+      "dimensions": {}
+    }
+  ]
+}

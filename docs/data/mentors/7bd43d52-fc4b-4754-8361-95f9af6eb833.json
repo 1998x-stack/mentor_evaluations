@@ -1,0 +1,19 @@
+{
+  "id": "7bd43d52-fc4b-4754-8361-95f9af6eb833",
+  "name": "薛欣宇",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "丢掉学生走的老师 现在不是东大老师 写个毛线",
+      "dimensions": {}
+    },
+    {
+      "comment": "等待评价",
+      "dimensions": {}
+    }
+  ]
+}

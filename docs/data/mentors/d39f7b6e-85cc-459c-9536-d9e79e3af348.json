@@ -1,0 +1,19 @@
+{
+  "id": "d39f7b6e-85cc-459c-9536-d9e79e3af348",
+  "name": "周雒维",
+  "school": "重庆大学",
+  "department": "电气工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "毕业困难。换题频繁。 每次指导都有可能换题。",
+      "dimensions": {}
+    },
+    {
+      "comment": "三个博士，五年没有一篇文章，不知道真假",
+      "dimensions": {}
+    }
+  ]
+}

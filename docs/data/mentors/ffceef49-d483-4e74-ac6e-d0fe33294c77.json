@@ -1,0 +1,15 @@
+{
+  "id": "ffceef49-d483-4e74-ac6e-d0fe33294c77",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师",
+      "dimensions": {}
+    }
+  ]
+}

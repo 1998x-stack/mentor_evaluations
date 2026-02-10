@@ -1,0 +1,19 @@
+{
+  "id": "8f58be6e-be52-4acc-84be-2bd8cc83f734",
+  "name": "孙永利",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "孙老师，人非常的好，竭尽所能的帮助组里的每一个学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "孙老师为人仗义，平易近人，对学生很好。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9b003ae8-6529-45f8-964e-4c01882a2daa",
+  "name": "王召",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：认真负责的老师，平易近人",
+      "dimensions": {}
+    },
+    {
+      "comment": "指导学生尽心尽力，为人平易近人，不会对学生有苛刻要求，生活学习中会主动关心学生",
+      "dimensions": {}
+    }
+  ]
+}

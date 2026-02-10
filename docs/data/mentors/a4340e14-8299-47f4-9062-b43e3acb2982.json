@@ -1,0 +1,15 @@
+{
+  "id": "a4340e14-8299-47f4-9062-b43e3acb2982",
+  "name": "张海宾",
+  "school": NaN,
+  "department": "网络与信息安全学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "一个男导师，副教授，山东人。梦想充实。现实也充实。",
+      "dimensions": {}
+    }
+  ]
+}

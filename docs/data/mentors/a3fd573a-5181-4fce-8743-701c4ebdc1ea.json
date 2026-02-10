@@ -1,0 +1,15 @@
+{
+  "id": "a3fd573a-5181-4fce-8743-701c4ebdc1ea",
+  "name": "赵胜民",
+  "school": "南开大学",
+  "department": "经济学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很帅气哈哈哈哈",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "95107b6b-b3fb-4810-9c3b-98aa31478864",
+  "name": "陈红汉",
+  "school": "中国地质大学（武汉）",
+  "department": "(武汉)资源学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：学院不多的几位搞学术的老师之一",
+      "dimensions": {
+        "导师能力": "学院不多的几位搞学术的老师之一"
+      }
+    }
+  ]
+}

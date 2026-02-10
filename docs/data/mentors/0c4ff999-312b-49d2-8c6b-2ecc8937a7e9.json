@@ -1,0 +1,23 @@
+{
+  "id": "0c4ff999-312b-49d2-8c6b-2ecc8937a7e9",
+  "name": "胡建中",
+  "school": "东南大学",
+  "department": "机械工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "相当赞的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "能力出众，待人平和，导师界良心",
+      "dimensions": {}
+    },
+    {
+      "comment": "人见人爱的胡老师，全满分没得说",
+      "dimensions": {}
+    }
+  ]
+}

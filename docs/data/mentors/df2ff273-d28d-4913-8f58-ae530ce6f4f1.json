@@ -1,0 +1,19 @@
+{
+  "id": "df2ff273-d28d-4913-8f58-ae530ce6f4f1",
+  "name": "王志",
+  "school": "南开大学",
+  "department": "电子信息与光学工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我所见过脾气最好，为人最为谦和的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，导师能力高。对学生简直不能脾气更好了。",
+      "dimensions": {}
+    }
+  ]
+}

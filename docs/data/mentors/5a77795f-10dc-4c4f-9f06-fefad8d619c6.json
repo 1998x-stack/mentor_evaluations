@@ -1,0 +1,19 @@
+{
+  "id": "5a77795f-10dc-4c4f-9f06-fefad8d619c6",
+  "name": "丁刚毅",
+  "school": "北京理工大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：严禁实习，学生几乎没有去一线互联网公司的",
+      "dimensions": {
+        "毕业去向": "严禁实习，学生几乎没有去一线互联网公司的"
+      }
+    }
+  ]
+}

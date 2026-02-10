@@ -1,0 +1,23 @@
+{
+  "id": "b27a0563-80a8-4671-afb5-afcc6fc3b151",
+  "name": "冯纯伯",
+  "school": "东南大学",
+  "department": "自动化学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "在师祖的办公室缅怀一下师祖",
+      "dimensions": {}
+    },
+    {
+      "comment": "东南大学自动化学院的骄傲~~~",
+      "dimensions": {}
+    },
+    {
+      "comment": "缅怀！",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4aaa6baf-eba7-4993-8337-bf55f68993b9",
+  "name": "杨强大",
+  "school": "东北大学",
+  "department": "冶金学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师要求严格，会亲自指导，好说话。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cd0a65ce-d52f-4a33-b43f-6a3cd175535f",
+  "name": "刘来旸",
+  "school": "北京理工大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：不允许实习，但是实验室也没事情。",
+      "dimensions": {
+        "毕业去向": "不允许实习，但是实验室也没事情。"
+      }
+    }
+  ]
+}

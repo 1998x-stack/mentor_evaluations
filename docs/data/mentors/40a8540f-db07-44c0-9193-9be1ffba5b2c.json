@@ -1,0 +1,15 @@
+{
+  "id": "40a8540f-db07-44c0-9193-9be1ffba5b2c",
+  "name": "施一",
+  "school": NaN,
+  "department": "微生物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：施一老师怎么样？实验室规模方向、前景都怎么样？",
+      "dimensions": {}
+    }
+  ]
+}

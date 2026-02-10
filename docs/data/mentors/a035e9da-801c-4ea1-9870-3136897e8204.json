@@ -1,0 +1,15 @@
+{
+  "id": "a035e9da-801c-4ea1-9870-3136897e8204",
+  "name": "张文锦",
+  "school": "东南大学",
+  "department": "仪器科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学生很自由，让人羡慕，自学也能学到不少",
+      "dimensions": {}
+    }
+  ]
+}

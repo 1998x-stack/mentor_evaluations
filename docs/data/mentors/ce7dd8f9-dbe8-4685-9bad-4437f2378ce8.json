@@ -1,0 +1,31 @@
+{
+  "id": "ce7dd8f9-dbe8-4685-9bad-4437f2378ce8",
+  "name": "万水",
+  "school": "东南大学",
+  "department": "交通学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "逼格很高啊，真实水平打个问号。",
+      "dimensions": {}
+    },
+    {
+      "comment": "这位老师真的坑，逼格高的很，我舍友被派到桥上搞了一年多监控，一月一千块，到现在学术更是呵呵了",
+      "dimensions": {}
+    },
+    {
+      "comment": "听说很抠啊",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力极高，急学生之所急，忧学生之所忧，研究项目走在了国内外前列。",
+      "dimensions": {}
+    },
+    {
+      "comment": "他的博士9成是6年走",
+      "dimensions": {}
+    }
+  ]
+}

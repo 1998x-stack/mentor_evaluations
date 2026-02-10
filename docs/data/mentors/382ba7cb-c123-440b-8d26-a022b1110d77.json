@@ -1,0 +1,15 @@
+{
+  "id": "382ba7cb-c123-440b-8d26-a022b1110d77",
+  "name": "贺英",
+  "school": "上海大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：本科材料成型加工工艺的老师",
+      "dimensions": {}
+    }
+  ]
+}

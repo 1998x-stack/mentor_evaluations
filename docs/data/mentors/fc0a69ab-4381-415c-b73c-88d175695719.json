@@ -1,0 +1,21 @@
+{
+  "id": "fc0a69ab-4381-415c-b73c-88d175695719",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 4.12,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：无 工作时间：全勤",
+      "dimensions": {
+        "学生补助": "无 工作",
+        "工作时间": "全勤"
+      }
+    }
+  ]
+}

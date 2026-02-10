@@ -1,0 +1,19 @@
+{
+  "id": "fa78e5e6-6112-4fde-b7d0-319269bbe0dd",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好导师 高屋建瓴 按时毕业",
+      "dimensions": {}
+    },
+    {
+      "comment": "是个好导师，水平高，安排合理，硕士生准时毕业",
+      "dimensions": {}
+    }
+  ]
+}

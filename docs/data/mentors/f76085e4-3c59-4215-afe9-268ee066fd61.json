@@ -1,0 +1,27 @@
+{
+  "id": "f76085e4-3c59-4215-afe9-268ee066fd61",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学识渊博，平易近人，踏实做事的人。和他探讨学术问题会受到很多启发。",
+      "dimensions": {}
+    },
+    {
+      "comment": "特别好的一位老师，学识渊博，对同学好",
+      "dimensions": {}
+    },
+    {
+      "comment": "周老师为人和善，对学生超级有耐心！",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生非常好，经常指导学生研究",
+      "dimensions": {}
+    }
+  ]
+}

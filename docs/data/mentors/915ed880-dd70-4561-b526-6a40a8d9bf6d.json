@@ -1,0 +1,31 @@
+{
+  "id": "915ed880-dd70-4561-b526-6a40a8d9bf6d",
+  "name": "王清洲",
+  "school": "河北工业大学",
+  "department": "土木工程学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "咋说呢，来就对了！～怎一个“好”字了得",
+      "dimensions": {}
+    },
+    {
+      "comment": "查看一下他的学历，就知道上面说的是真是假了\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "咋说呢，话不用多，就是好",
+      "dimensions": {}
+    },
+    {
+      "comment": "你说咋说，反正就是特别好",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生很好，绝对不会让你失望",
+      "dimensions": {}
+    }
+  ]
+}

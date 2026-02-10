@@ -1,0 +1,15 @@
+{
+  "id": "bd5bbd95-47b5-445d-a2ea-fb7f949c8930",
+  "name": "段君博",
+  "school": "西安交通大学",
+  "department": "生命科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：方向数字信号处理方面",
+      "dimensions": {}
+    }
+  ]
+}

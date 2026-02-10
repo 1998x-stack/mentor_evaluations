@@ -1,0 +1,15 @@
+{
+  "id": "e35f53ea-2675-44cb-83ba-398b5d613ddb",
+  "name": "孟力",
+  "school": "厦门大学",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "嘉庚1号楼，研究方向：神经网络与商务智能。\n非常没有耐心，他个人的家庭不和谐，把气撒在学生身上。不允许实习。学生科研，又提不出建议，一味地压榨学生。",
+      "dimensions": {}
+    }
+  ]
+}

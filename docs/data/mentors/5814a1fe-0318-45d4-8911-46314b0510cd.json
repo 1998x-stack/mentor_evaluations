@@ -1,0 +1,31 @@
+{
+  "id": "5814a1fe-0318-45d4-8911-46314b0510cd",
+  "name": "杨志双",
+  "school": "四川农业大学",
+  "department": "动物医学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "是个好导师(✪▽✪)，喜欢么么哒！",
+      "dimensions": {}
+    },
+    {
+      "comment": "禽病中心扛把子，颜值担当。",
+      "dimensions": {}
+    },
+    {
+      "comment": "工作勤奋，禽病做鸭子的",
+      "dimensions": {}
+    },
+    {
+      "comment": "是个好导师，大家都喜欢他，大众情人！",
+      "dimensions": {}
+    },
+    {
+      "comment": "微生物生物信息专业户。",
+      "dimensions": {}
+    }
+  ]
+}

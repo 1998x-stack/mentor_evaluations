@@ -1,0 +1,15 @@
+{
+  "id": "10f0bfa2-58ec-4213-9ae6-057ebce90d51",
+  "name": "高效伟",
+  "school": "大连理工大学",
+  "department": "航空航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术能力很高，对学生很好，组内气氛不错！",
+      "dimensions": {}
+    }
+  ]
+}

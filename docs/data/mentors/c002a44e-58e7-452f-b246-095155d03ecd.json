@@ -1,0 +1,15 @@
+{
+  "id": "c002a44e-58e7-452f-b246-095155d03ecd",
+  "name": "麦立强",
+  "school": "武汉理工大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "感觉有点飘，文章灌的高",
+      "dimensions": {}
+    }
+  ]
+}

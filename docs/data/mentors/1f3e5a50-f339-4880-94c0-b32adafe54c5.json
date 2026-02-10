@@ -1,0 +1,15 @@
+{
+  "id": "1f3e5a50-f339-4880-94c0-b32adafe54c5",
+  "name": "李辉",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李辉 http://web.xidian.edu.cn/hli/",
+      "dimensions": {}
+    }
+  ]
+}

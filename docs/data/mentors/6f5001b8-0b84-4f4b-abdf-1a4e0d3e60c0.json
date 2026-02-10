@@ -1,0 +1,15 @@
+{
+  "id": "6f5001b8-0b84-4f4b-abdf-1a4e0d3e60c0",
+  "name": "李兴华",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李兴华 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

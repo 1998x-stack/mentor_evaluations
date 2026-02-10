@@ -1,0 +1,31 @@
+{
+  "id": "d8617b8d-9b91-493c-beab-3b98420e13de",
+  "name": "刘海",
+  "school": "华南师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "希望研究生具有 ：\n\n1 对数据科学具有良好的专业兴趣；\n\n2 具有基本的计算机应用动手操作能力或具有良好的数学功底；\n\n3 欢迎有本科专业为数学方向的学生报考。",
+      "dimensions": {}
+    },
+    {
+      "comment": "研究方向和兴趣集中在：\n\n利用机器学习和深度学习方法对学术大数据进行挖掘应用\n\n大数据安全理论与应用技术研究\n\n知识图谱理论和算法应用研究",
+      "dimensions": {}
+    },
+    {
+      "comment": "说到做到的好老师，科研态度严谨",
+      "dimensions": {}
+    },
+    {
+      "comment": "说话实在，刀子嘴豆腐心",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人很好啊…又负责 经典口头禅：同志们",
+      "dimensions": {}
+    }
+  ]
+}

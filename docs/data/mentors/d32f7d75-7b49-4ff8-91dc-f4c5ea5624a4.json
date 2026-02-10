@@ -1,0 +1,15 @@
+{
+  "id": "d32f7d75-7b49-4ff8-91dc-f4c5ea5624a4",
+  "name": "王金渠",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "石油化工教研室",
+      "dimensions": {}
+    }
+  ]
+}

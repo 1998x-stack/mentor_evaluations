@@ -1,0 +1,19 @@
+{
+  "id": "beea5725-6c81-45a8-b4f8-3b3f9808fff6",
+  "name": "张旭斌",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "师生关系": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师工作非常负责.....人也非常和蔼可亲....手把手带着你操作仪器",
+      "dimensions": {
+        "师生关系": "老师工作非常负责.....人也非常和蔼可亲....手把手带着你操作仪器"
+      }
+    }
+  ]
+}

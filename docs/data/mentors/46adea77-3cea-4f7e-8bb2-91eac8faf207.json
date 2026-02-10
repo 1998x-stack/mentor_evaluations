@@ -1,0 +1,31 @@
+{
+  "id": "46adea77-3cea-4f7e-8bb2-91eac8faf207",
+  "name": "冯霄",
+  "school": "北京理工大学",
+  "department": "化学学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "整天乐呵呵的  挺好  nice",
+      "dimensions": {}
+    },
+    {
+      "comment": "冯老师真的超级好，认真负责，科研能力很强，跟着他能学到很多",
+      "dimensions": {}
+    },
+    {
+      "comment": "冯老师人真的很好，很友善，组内关系也特好",
+      "dimensions": {}
+    },
+    {
+      "comment": "认真，负责！带你飞！没毛病！",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师就是：来了不后悔，走时舍不得",
+      "dimensions": {}
+    }
+  ]
+}

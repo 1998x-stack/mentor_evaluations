@@ -1,0 +1,19 @@
+{
+  "id": "66a73cc9-bd9a-4930-a9d0-45ad241216b7",
+  "name": "丁雪梅",
+  "school": "哈尔滨工业大学",
+  "department": "电气工程及自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 8.25,
+  "dimensionScores": {
+    "师生关系": 8.25
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：很好的老师，很负责人，对学生也不错",
+      "dimensions": {
+        "师生关系": "很好的老师，很负责人，对学生也不错"
+      }
+    }
+  ]
+}

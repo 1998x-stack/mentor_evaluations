@@ -1,0 +1,15 @@
+{
+  "id": "a08e28c5-ce91-426f-805e-0203c502038a",
+  "name": "尹正",
+  "school": "南开大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "已离开南开，目前也已离开学术圈",
+      "dimensions": {}
+    }
+  ]
+}

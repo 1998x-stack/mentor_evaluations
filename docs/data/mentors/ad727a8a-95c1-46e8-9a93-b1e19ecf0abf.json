@@ -1,0 +1,15 @@
+{
+  "id": "ad727a8a-95c1-46e8-9a93-b1e19ecf0abf",
+  "name": "张拥军",
+  "school": "南开大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师挺好的！前女友在那读博，祝她一切顺利",
+      "dimensions": {}
+    }
+  ]
+}

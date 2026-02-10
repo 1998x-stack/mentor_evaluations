@@ -1,0 +1,21 @@
+{
+  "id": "01223b16-5544-450b-80b9-18b375f3625a",
+  "name": "王永杰",
+  "school": "中国科学院大学",
+  "department": "材料科学与光电技术学院",
+  "evaluationCount": 1,
+  "totalScore": 4.12,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：306 学生补助：少 工作时间：周六加班",
+      "dimensions": {
+        "学生补助": "少 工作",
+        "工作时间": "周六加班"
+      }
+    }
+  ]
+}

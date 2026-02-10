@@ -1,0 +1,23 @@
+{
+  "id": "662ddee0-ca96-413b-957d-9e28684cf116",
+  "name": "张巍",
+  "school": "清华大学",
+  "department": "电子工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：水平还行 经费发放：经费可以 与学生关系：还算比较nice",
+      "dimensions": {
+        "导师能力": "水平还行",
+        "经费情况": "",
+        "师生关系": "还算比较nice"
+      }
+    }
+  ]
+}

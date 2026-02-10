@@ -1,0 +1,15 @@
+{
+  "id": "9bf07e3f-9c01-43cb-ae72-99374db3672f",
+  "name": "刘英",
+  "school": "暨南大学",
+  "department": "理工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "性格随和，亲和力强，没有任何架子，与学生关系好。 治学严谨，要求较高，会亲自指导实验。 从事的研究方向比较传统，不是当下热门。 名气不大，不能作为敲门砖，所以毕业就业需要自己打拼。",
+      "dimensions": {}
+    }
+  ]
+}

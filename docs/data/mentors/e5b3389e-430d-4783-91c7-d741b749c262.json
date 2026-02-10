@@ -1,0 +1,19 @@
+{
+  "id": "e5b3389e-430d-4783-91c7-d741b749c262",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生特别好，从学生出发",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师学术水平和工程能力极高。对学生特别好。",
+      "dimensions": {}
+    }
+  ]
+}

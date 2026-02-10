@@ -1,0 +1,15 @@
+{
+  "id": "1d321696-dfd1-4907-891f-f91c3d458b05",
+  "name": "杨海涛",
+  "school": "上海科技大学",
+  "department": "生物科学",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我们老板说他做的东西做的完全没啥创新，如果不是饶子和，很难在上科大待下去",
+      "dimensions": {}
+    }
+  ]
+}

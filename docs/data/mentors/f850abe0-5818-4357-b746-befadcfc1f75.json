@@ -1,0 +1,29 @@
+{
+  "id": "f850abe0-5818-4357-b746-befadcfc1f75",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：实验中心6楼 导师能力：论文过得去，比较偏基础，不过都是博士的，硕士就靠边站好了 学生补助：想得美",
+      "dimensions": {
+        "导师能力": "论文过得去，比较偏基础，不过都是博士的，硕士就靠边站好了 学生",
+        "学生补助": "想得美"
+      }
+    },
+    {
+      "comment": "此处无声胜有声，入坑后果你懂的。。。",
+      "dimensions": {}
+    },
+    {
+      "comment": "人非常正直，很为学生着想",
+      "dimensions": {}
+    }
+  ]
+}

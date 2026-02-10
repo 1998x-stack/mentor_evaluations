@@ -1,0 +1,19 @@
+{
+  "id": "607b94a9-f5f6-49c4-887f-68b5d8d09162",
+  "name": "鲁万波",
+  "school": "西南财经大学",
+  "department": "统计学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：论文要改！（改哪里不不知道） 总是做一些学生不愿意做的事情",
+      "dimensions": {
+        "师生关系": "论文要改！（改哪里不不知道） 总是做一些学生不愿意做的事情"
+      }
+    }
+  ]
+}

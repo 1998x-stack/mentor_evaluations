@@ -1,0 +1,19 @@
+{
+  "id": "c27d1cd0-c72a-45a9-b97c-f8f4f2ab7867",
+  "name": "姚建铨",
+  "school": "天津大学",
+  "department": "精密仪器与光电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "没有长期固定的研究方向，什么热做什么，导致没有基础、蜻蜓点水，从非线性倍频到太赫兹、传感、物联网，概莫能外。",
+      "dimensions": {}
+    },
+    {
+      "comment": "排外严重，基本不参与课题，夸夸而谈，顶着个院士的虚名，何用",
+      "dimensions": {}
+    }
+  ]
+}

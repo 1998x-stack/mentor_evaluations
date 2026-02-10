@@ -1,0 +1,21 @@
+{
+  "id": "40befa7c-f5f0-4293-bbdf-40c2dbc346eb",
+  "name": "雷署丰",
+  "school": "苏州大学",
+  "department": "放射医学与公共卫生学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：苏州大学独墅湖校区401-1423 学生补助：300 工作时间：周六不休",
+      "dimensions": {
+        "学生补助": "300 工作",
+        "工作时间": "周六不休"
+      }
+    }
+  ]
+}

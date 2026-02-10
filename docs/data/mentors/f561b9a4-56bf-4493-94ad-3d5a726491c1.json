@@ -1,0 +1,15 @@
+{
+  "id": "f561b9a4-56bf-4493-94ad-3d5a726491c1",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：做操作系统的老师，已经退休了",
+      "dimensions": {}
+    }
+  ]
+}

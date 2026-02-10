@@ -1,0 +1,23 @@
+{
+  "id": "12c51c5d-573d-4496-878a-40995e5a3db1",
+  "name": "王文雅",
+  "school": "北京化工大学",
+  "department": "生命科学与技术学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "披羊皮的狼，自恃清高。",
+      "dimensions": {}
+    },
+    {
+      "comment": "我觉得是个非常好的老师，没有架子，亲自指导学生的实验，注重学生的综合培养，素质培养。非常容易相处。",
+      "dimensions": {}
+    },
+    {
+      "comment": "王老师平易近人容易相处，不会以老师的姿态施压，注重学生心理健康",
+      "dimensions": {}
+    }
+  ]
+}

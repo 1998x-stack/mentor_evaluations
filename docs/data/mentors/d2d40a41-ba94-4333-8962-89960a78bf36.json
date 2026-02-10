@@ -1,0 +1,15 @@
+{
+  "id": "d2d40a41-ba94-4333-8962-89960a78bf36",
+  "name": "梁得亮",
+  "school": "西安交通大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "电机大牛",
+      "dimensions": {}
+    }
+  ]
+}

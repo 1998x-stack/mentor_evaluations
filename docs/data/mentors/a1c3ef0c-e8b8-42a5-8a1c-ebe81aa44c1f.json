@@ -1,0 +1,15 @@
+{
+  "id": "a1c3ef0c-e8b8-42a5-8a1c-ebe81aa44c1f",
+  "name": "孙凤",
+  "school": "清华大学",
+  "department": "人文学院，新闻与传播学院，美术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "欢迎大家投票和评论",
+      "dimensions": {}
+    }
+  ]
+}

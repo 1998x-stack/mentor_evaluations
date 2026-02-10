@@ -1,0 +1,21 @@
+{
+  "id": "02e943ee-c678-45b8-8692-7dd66475fa3d",
+  "name": "吴祥",
+  "school": "合肥工业大学",
+  "department": "化学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：200 工作时间：一周一休，周天休",
+      "dimensions": {
+        "学生补助": "200 工作",
+        "工作时间": "一周一休，周天休"
+      }
+    }
+  ]
+}

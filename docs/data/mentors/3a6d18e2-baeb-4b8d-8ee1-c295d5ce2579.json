@@ -1,0 +1,15 @@
+{
+  "id": "3a6d18e2-baeb-4b8d-8ee1-c295d5ce2579",
+  "name": "田素华",
+  "school": "复旦大学",
+  "department": "经济学院，管理学院，法学院，基础医学院，公共卫生学院，护理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不建议选择。",
+      "dimensions": {}
+    }
+  ]
+}

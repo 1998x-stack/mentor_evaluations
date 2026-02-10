@@ -1,0 +1,15 @@
+{
+  "id": "003ea5d3-a65b-4ee8-91ff-0785b221eca4",
+  "name": "李明之",
+  "school": "北京大学",
+  "department": "信息科学技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "唉...............",
+      "dimensions": {}
+    }
+  ]
+}

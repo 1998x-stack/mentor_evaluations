@@ -1,0 +1,15 @@
+{
+  "id": "2e285e48-ab80-47d3-a017-8237db47787f",
+  "name": "章新杰",
+  "school": "吉林大学",
+  "department": "汽车工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "每一届都有学生走，你说好不好",
+      "dimensions": {}
+    }
+  ]
+}

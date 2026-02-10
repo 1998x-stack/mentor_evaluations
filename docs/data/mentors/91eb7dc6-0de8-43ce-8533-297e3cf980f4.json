@@ -1,0 +1,23 @@
+{
+  "id": "91eb7dc6-0de8-43ce-8533-297e3cf980f4",
+  "name": "张志为",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好很好很好很好很好很好很好的人",
+      "dimensions": {}
+    },
+    {
+      "comment": "张老师于西电本校本硕博连读深造",
+      "dimensions": {}
+    },
+    {
+      "comment": "张老师是我最喜欢的老师之一，人特别好，和学生相处特别融洽~",
+      "dimensions": {}
+    }
+  ]
+}

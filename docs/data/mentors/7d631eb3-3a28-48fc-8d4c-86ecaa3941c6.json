@@ -1,0 +1,15 @@
+{
+  "id": "7d631eb3-3a28-48fc-8d4c-86ecaa3941c6",
+  "name": "姜建国",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "姜建国 http://web.xidian.edu.cn/jgjiang/",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "66412a9b-0f9f-443d-8f06-040de565f7d9",
+  "name": "应骏",
+  "school": "上海师范大学",
+  "department": "电子信息工程（电子信息类）",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "亲切随和，不仅是学术上的导师，也在生活中给予方向。",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师每周都会对学生进行了解，以及对学生的研究方向提出建设性的建议。是一个在学习和生活都很好的一个老师，长辈亦或者朋友。",
+      "dimensions": {}
+    }
+  ]
+}

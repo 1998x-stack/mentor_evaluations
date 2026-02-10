@@ -1,0 +1,41 @@
+{
+  "id": "a6bf3eaf-fef0-40e5-9736-3e7a21f7b6b0",
+  "name": "Jang-Kyo KIM",
+  "school": "香港科技大学",
+  "department": "Department of Mechanical and Aerospace Engineering",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：Prof. Kim is an expert in composite mechanics and has extensive knowledge in functional composite as well. He also has a research direction of battery. It's worth noting that although he was not major in this area during his PhD study, he can still manage to learn all the basic knowledge in terms of the battery research and has no problem guiding the daily research and managing the future research direction of his students. He always review students' manuscripts in detail and helps to polish the English and structure of the manuscripts quite well before submission to a peer reviewed journal, which is commendable because not so many chair Professors are willing to do that. You are certainty difficult to publish paper on journals like Nature or Science in his group but you can get your works published in top journals like AEM, AFM, ACS Nano etc. as long as you work hard. Therefore, he should get a high rating in this section. 经费发放：His research funding is not so much compared to other chair Professors. With the funding, you can do daily experiments and basic characterizations for your research without any problem. There's certainly no doubt to get your salary paid each month. Still, you can't spend money as much as you want on buying expensive experimental equipment so you need to rely on the existing equipment most of the time, which is fairly enough if you don't plan to do something really big. 与学生关系：All the relations between the students and Prof. Kim is about academics. He will not interfere your personal affairs. You will have no problem to graduate on time as long as you meet the standard regarding academics. Sometimes students have arguments with him (i.e. whether or not to do Post-doc) but finally they still can graduate on time. In other words, personal grudges have nothing to do with academics, focus on your own research and everything will run smoothly. 学生毕业去向：You will get a good training regarding academics when you graduate in this group so that you are pretty suitable to find a Professorship. However, there's no good connection between this group and the enterprise/industry. You may rely on your own to explore your future if you choose a career in industry instead of academics. There are alumnus working as Professor at both HK and mainland China. Also I've heard about individuals chose to work beyond academics but not so often. One of them found a job in Apple many years ago.",
+      "dimensions": {
+        "导师能力": "Prof. Kim is an expert in composite mechanics and has extensive knowledge in functional composite as well. He also has a research direction of battery. It's worth noting that although he was not major in this area during his PhD study, he can still manage to learn all the basic knowledge in terms of the battery research and has no problem guiding the daily research and managing the future research direction of his students. He always review students' manuscripts in detail and helps to polish the English and structure of the manuscripts quite well before submission to a peer reviewed journal, which is commendable because not so many chair Professors are willing to do that. You are certainty difficult to publish paper on journals like Nature or Science in his group but you can get your works published in top journals like AEM, AFM, ACS Nano etc. as long as you work hard. Therefore, he should get a high rating in this section.",
+        "经费情况": "His research funding is not so much compared to other chair Professors. With the funding, you can do daily experiments and basic characterizations for your research without any problem. There's certainly no doubt to get your salary paid each month. Still, you can't spend money as much as you want on buying expensive experimental equipment so you need to rely on the existing equipment most of the time, which is fairly enough if you don't plan to do something really big. 与学生",
+        "师生关系": "All the relations between the students and Prof. Kim is about academics. He will not interfere your personal affairs. You will have no problem to graduate on time as long as you meet the standard regarding academics. Sometimes students have arguments with him (i.e. whether or not to do Post-doc) but finally they still can graduate on time. In other words, personal grudges have nothing to do with academics, focus on your own research and everything will run smoothly. 学生毕业",
+        "毕业去向": "You will get a good training regarding academics when you graduate in this group so that you are pretty suitable to find a Professorship. However, there's no good connection between this group and the enterprise/industry. You may rely on your own to explore your future if you choose a career in industry instead of academics. There are alumnus working as Professor at both HK and mainland China. Also I've heard about individuals chose to work beyond academics but not so often. One of them found a job in Apple many years ago."
+      }
+    },
+    {
+      "comment": "导师能力：Good at composite material. Knows nothing about battery. Can sometimes publish good work including AFM, NanoLetters, AEM. 经费发放：Has some funding. Students need to pay for utilities on their own, say nitro-gloves. 与学生关系：Doing research in his lab is tough. No report no negative results are allowed. He sometimes dislikes a student for no reason. I heard that when one of his PhD refuses to do a post-doc in his lab, he refuses to let him graduate. 学生毕业去向：Some of his student go to Germany to do post-doc.",
+      "dimensions": {
+        "导师能力": "Good at composite material. Knows nothing about battery. Can sometimes publish good work including AFM, NanoLetters, AEM.",
+        "经费情况": "Has some funding. Students need to pay for utilities on their own, say nitro-gloves. 与学生",
+        "师生关系": "Doing research in his lab is tough. No report no negative results are allowed. He sometimes dislikes a student for no reason. I heard that when one of his PhD refuses to do a post-doc in his lab, he refuses to let him graduate. 学生毕业",
+        "毕业去向": "Some of his student go to Germany to do post-doc."
+      }
+    },
+    {
+      "comment": "利益相关：韩国人…跟同系吴景深为师兄弟关系……但是两人完全没有联系…… 导师能力：学生push的好，文章差不了…全身心投在文章上… 与学生关系：连msc都卡的人……对你没看错是msc……跟学生关系差那是机械系都知道的事……这方面可以排第一……无理由dis你",
+      "dimensions": {
+        "导师能力": "学生push的好，文章差不了…全身心投在文章上… 与学生",
+        "师生关系": "连msc都卡的人……对你没看错是msc……跟学生"
+      }
+    }
+  ]
+}

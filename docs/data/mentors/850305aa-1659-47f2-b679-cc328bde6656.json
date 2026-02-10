@@ -1,0 +1,19 @@
+{
+  "id": "850305aa-1659-47f2-b679-cc328bde6656",
+  "name": "王红雨",
+  "school": "上海交通大学",
+  "department": "电子信息与电气工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这个老师太压榨，不停地拉项目，老师经常晚上十一点还在实验室，学生都不敢走 硬件水平还行，无人机就是大忽悠 总之特别辛苦",
+      "dimensions": {}
+    },
+    {
+      "comment": "补充上条评论，如果想学硬件还是能学到东西的。",
+      "dimensions": {}
+    }
+  ]
+}

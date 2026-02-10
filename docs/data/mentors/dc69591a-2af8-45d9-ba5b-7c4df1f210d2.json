@@ -1,0 +1,15 @@
+{
+  "id": "dc69591a-2af8-45d9-ba5b-7c4df1f210d2",
+  "name": "于泽",
+  "school": "北京航空航天大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生极不负责，全靠自己",
+      "dimensions": {}
+    }
+  ]
+}

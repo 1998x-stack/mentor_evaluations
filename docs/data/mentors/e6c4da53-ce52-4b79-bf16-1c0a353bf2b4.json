@@ -1,0 +1,29 @@
+{
+  "id": "e6c4da53-ce52-4b79-bf16-1c0a353bf2b4",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力为0 经费发放：套取经费发放 与学生关系：垃圾老师 学生毕业去向：学不到东西，前途堪忧",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": "套取",
+        "师生关系": "垃圾老师 学生毕业",
+        "毕业去向": "学不到东西，前途堪忧"
+      }
+    },
+    {
+      "comment": "千万别报他，报了后悔一辈子",
+      "dimensions": {}
+    }
+  ]
+}

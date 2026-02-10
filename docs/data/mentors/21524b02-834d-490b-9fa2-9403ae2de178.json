@@ -1,0 +1,19 @@
+{
+  "id": "21524b02-834d-490b-9fa2-9403ae2de178",
+  "name": "陆良秋",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听说每周讲工作报告 一次不讲扣一个月工资 两次不讲扣全年",
+      "dimensions": {}
+    },
+    {
+      "comment": "肖组最近出这么多好文章陆老师有很多功劳",
+      "dimensions": {}
+    }
+  ]
+}

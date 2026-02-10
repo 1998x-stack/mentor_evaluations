@@ -1,0 +1,15 @@
+{
+  "id": "1a5995d9-462b-419f-b87c-22b54ba5e83f",
+  "name": "李荣",
+  "school": "吉林大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "就是一混子，啥也不管，天天也不知道在干啥，学校就因为养太多这种闲人，想进步才有心无力",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b7119fad-186a-40d2-955e-4221fa830786",
+  "name": "刘同亭",
+  "school": "山东中医药大学",
+  "department": "临床医学",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，也很有能力，很负责",
+      "dimensions": {}
+    }
+  ]
+}

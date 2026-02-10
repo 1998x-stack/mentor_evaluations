@@ -1,0 +1,19 @@
+{
+  "id": "d7cc5968-72cf-483f-abb7-d6e099cfa57f",
+  "name": "周立刚",
+  "school": "中国农业大学",
+  "department": "农学与生物技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：实验室女生很多，很喜欢晚上找女生谈话 工作时间：休息时间很少",
+      "dimensions": {
+        "工作时间": "休息"
+      }
+    }
+  ]
+}

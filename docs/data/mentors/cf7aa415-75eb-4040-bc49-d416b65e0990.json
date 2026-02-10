@@ -1,0 +1,19 @@
+{
+  "id": "cf7aa415-75eb-4040-bc49-d416b65e0990",
+  "name": "刘磊",
+  "school": "清华大学",
+  "department": "化学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力非常高，发表了很多有很影响力的文章，既在化学领域有很大的建树，也很懂生物、医学的研究。问老师化学、生物领域的大多数问题时，都能得到非常容易理解的解答。",
+      "dimensions": {
+        "导师能力": ""
+      }
+    }
+  ]
+}

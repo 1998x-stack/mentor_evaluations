@@ -1,0 +1,15 @@
+{
+  "id": "ed65d040-9569-4ee3-8477-31184b909d1e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：导师由游客添加，恳请了解此导师的同学进行评价~",
+      "dimensions": {}
+    }
+  ]
+}

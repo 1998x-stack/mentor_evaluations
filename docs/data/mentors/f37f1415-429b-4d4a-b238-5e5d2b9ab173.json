@@ -1,0 +1,19 @@
+{
+  "id": "f37f1415-429b-4d4a-b238-5e5d2b9ab173",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "别的不是很了解，但是仇老师人品确实好",
+      "dimensions": {}
+    },
+    {
+      "comment": "整个机电院对学生好的老师没几个，仇老师是其中之一，与学生关系没的说，从来没见他跟学生发过脾气。不卡人，不过话说回来这几年学生没压力，结果最终导致有些不自觉的就业不是很理想。",
+      "dimensions": {}
+    }
+  ]
+}

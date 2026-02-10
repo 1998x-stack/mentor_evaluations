@@ -1,0 +1,19 @@
+{
+  "id": "56aa64dc-aa26-43a3-b166-1af8f1692787",
+  "name": "张冬冬",
+  "school": "同济大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：实验室内与学生关系融洽，和学生比较好，平易近人",
+      "dimensions": {
+        "师生关系": "实验室内与学生"
+      }
+    }
+  ]
+}

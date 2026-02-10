@@ -1,0 +1,19 @@
+{
+  "id": "e65c3a89-55c5-4b7e-8353-d643f016e967",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：胖胖的，挺萌的，虽然已经是中老年的年龄了 导师能力：上课思路清晰，教电机方面，下课和学生互动，爱笑，为人nice",
+      "dimensions": {
+        "导师能力": "上课思路清晰，教电机方面，下课和学生互动，爱笑，为人nice"
+      }
+    }
+  ]
+}

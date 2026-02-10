@@ -1,0 +1,27 @@
+{
+  "id": "88b38860-3c47-4d84-93f9-bae0933411eb",
+  "name": "盛贤君",
+  "school": "大连理工大学",
+  "department": "电气工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师认真负责，为学生着想，很棒",
+      "dimensions": {}
+    },
+    {
+      "comment": "很厉害的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力高",
+      "dimensions": {}
+    },
+    {
+      "comment": "人品好，科研能力强，对学生认真负责，520个赞！！！！！",
+      "dimensions": {}
+    }
+  ]
+}

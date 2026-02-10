@@ -1,0 +1,23 @@
+{
+  "id": "a1652efc-9696-469f-a512-41b1fd7dd51c",
+  "name": "田海平",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不专心学术，争着当院长",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术还行，人一般",
+      "dimensions": {}
+    },
+    {
+      "comment": "有能者居之，学而优则仕，竞选当院长怎么了？！有的人连院长候选人提名都没有，眼红吧！",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "f910d2c4-aef0-4ccc-8733-6918c8c7e221",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "特别吝啬，目私，刻薄，经常暗中报复别人",
+      "dimensions": {}
+    },
+    {
+      "comment": "人品极其败坏的老师，吝啬，脾气不好，阴险",
+      "dimensions": {}
+    },
+    {
+      "comment": "每年一月二十号，都以\n“泰达物理学院年会”为幌子，组织公款吃喝",
+      "dimensions": {}
+    }
+  ]
+}

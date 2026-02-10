@@ -1,0 +1,19 @@
+{
+  "id": "82cc2f54-2497-4182-9d7c-a2ed419bafba",
+  "name": "张重阳",
+  "school": "厦门大学",
+  "department": "材料学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "毫无导师能力可言，天天让学生洗车带饭，除了吹逼啥都不会，一天到晚说自己这个工作那个工作能发N，S",
+      "dimensions": {}
+    },
+    {
+      "comment": "楼上傻屌～～～～～～～",
+      "dimensions": {}
+    }
+  ]
+}

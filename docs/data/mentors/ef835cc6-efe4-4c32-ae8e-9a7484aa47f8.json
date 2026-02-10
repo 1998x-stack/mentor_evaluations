@@ -1,0 +1,15 @@
+{
+  "id": "ef835cc6-efe4-4c32-ae8e-9a7484aa47f8",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品差，不给学生一作，学生的文章必然要带上老婆的名字。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e5ad3fb4-fa1e-4bb8-b25b-617005f01bc9",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王安国",
+      "dimensions": {}
+    }
+  ]
+}

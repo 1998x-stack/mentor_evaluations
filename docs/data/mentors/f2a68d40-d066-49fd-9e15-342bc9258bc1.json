@@ -1,0 +1,15 @@
+{
+  "id": "f2a68d40-d066-49fd-9e15-342bc9258bc1",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "年轻有为，项目多，工程能力很强。",
+      "dimensions": {}
+    }
+  ]
+}

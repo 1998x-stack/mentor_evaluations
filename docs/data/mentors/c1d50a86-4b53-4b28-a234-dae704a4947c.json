@@ -1,0 +1,15 @@
+{
+  "id": "c1d50a86-4b53-4b28-a234-dae704a4947c",
+  "name": "刘亭立",
+  "school": "北京工业大学",
+  "department": "经济与管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：经济与管理学院三层办公，喜欢吃辣",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "742028bd-fc59-482b-ba3d-3717fa8bcce7",
+  "name": "李鑫",
+  "school": "合肥工业大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：我是合肥工业大学自动化的本科生，从他对学生的态度来看，千万别选。",
+      "dimensions": {
+        "导师能力": "我是合肥工业大学自动化的本科生，从他对学生的态度来看，千万别选。"
+      }
+    }
+  ]
+}

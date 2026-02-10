@@ -1,0 +1,19 @@
+{
+  "id": "1cbcc0d8-c185-47c7-8475-2bc432871877",
+  "name": "马向真",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "好好的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "研究心理",
+      "dimensions": {}
+    }
+  ]
+}

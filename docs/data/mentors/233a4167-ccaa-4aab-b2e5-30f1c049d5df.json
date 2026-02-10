@@ -1,0 +1,15 @@
+{
+  "id": "233a4167-ccaa-4aab-b2e5-30f1c049d5df",
+  "name": "肖文",
+  "school": "北京航空航天大学",
+  "department": "仪器科学与光电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很好，经费充足，很重视学生能力的培养。",
+      "dimensions": {}
+    }
+  ]
+}

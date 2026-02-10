@@ -1,0 +1,23 @@
+{
+  "id": "9242516b-9b5c-4b61-a194-fd3a2bdf5273",
+  "name": "陆生礼",
+  "school": "东南大学",
+  "department": "电子科学与工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陆老师脾气非常好！对学生很关心，毕竟主要去负责行政了，不怎么搞科研了",
+      "dimensions": {}
+    },
+    {
+      "comment": "陆老师，2016年开始又重新带学生了，脾气挺好，对学生很负责，就是经费发放一般，研究方向一般",
+      "dimensions": {}
+    },
+    {
+      "comment": "陆生礼不带学生了，分到陆生礼手下，就祈祷自己不要被分到ASIC三楼吧，ASIC三楼的老师徐申，钱钦松等都很烂，整个三楼就是一坨渣子",
+      "dimensions": {}
+    }
+  ]
+}

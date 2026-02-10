@@ -1,0 +1,15 @@
+{
+  "id": "684da830-e706-4560-ad11-26f413182abf",
+  "name": "许晓东",
+  "school": "华中科技大学",
+  "department": "公共管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "校长哦",
+      "dimensions": {}
+    }
+  ]
+}

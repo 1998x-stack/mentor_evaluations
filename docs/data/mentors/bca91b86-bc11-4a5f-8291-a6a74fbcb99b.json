@@ -1,0 +1,23 @@
+{
+  "id": "bca91b86-bc11-4a5f-8291-a6a74fbcb99b",
+  "name": "杨光富",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨老师情商高，在农药届做的很不错。但是如果是去跟小老板的话，希望大家谨慎。",
+      "dimensions": {}
+    },
+    {
+      "comment": "全国农药届除了贵州大学宋宝安院士，然后就是杨老板了，虽然文章发表少，不过专利听说卖了好几千万，而且有机合成的硕士和博士去药企都过得不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "农药行业学术大牛，成果多，生活费1000一个月，对学生好，平时不加班。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "30de3a7a-482f-43bf-b48b-98533330b3dd",
+  "name": "张锋",
+  "school": "中国地质大学（武汉）",
+  "department": "计算机学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "别的不清楚，编程水平在老师里算是比较强的",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：“不要写错我的名字，期末考试写错名字扣分” 张老师有自己的思想，比较open积极，小小本科生一枚打个call",
+      "dimensions": {}
+    }
+  ]
+}

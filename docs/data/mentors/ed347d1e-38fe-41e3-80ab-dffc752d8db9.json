@@ -1,0 +1,19 @@
+{
+  "id": "ed347d1e-38fe-41e3-80ab-dffc752d8db9",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：选过其《比较政治学概论》 导师能力：尽管是裴宜理的学生，但是没有表现出该有的水平。自己写的“教科书”竟然一个注释都没有。",
+      "dimensions": {
+        "导师能力": "尽管是裴宜理的学生，但是没有表现出该有的水平。自己写的“教科书”竟然一个注释都没有。"
+      }
+    }
+  ]
+}

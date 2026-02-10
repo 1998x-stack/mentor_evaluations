@@ -1,0 +1,15 @@
+{
+  "id": "ee924721-f46e-432f-8b5d-df074373de16",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "有谁可以评价一下曾君老师吗？",
+      "dimensions": {}
+    }
+  ]
+}

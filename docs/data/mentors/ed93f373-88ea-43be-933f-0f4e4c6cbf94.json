@@ -1,0 +1,15 @@
+{
+  "id": "ed93f373-88ea-43be-933f-0f4e4c6cbf94",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陈老师是一个真正值得钦佩的优秀学者和老师。他教授计算机图形学和科学计算质量都非常高，对待学生和其他人都非常的nice.",
+      "dimensions": {}
+    }
+  ]
+}

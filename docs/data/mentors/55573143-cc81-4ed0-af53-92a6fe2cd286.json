@@ -1,0 +1,21 @@
+{
+  "id": "55573143-cc81-4ed0-af53-92a6fe2cd286",
+  "name": "刘雷波",
+  "school": "清华大学",
+  "department": "微电子与纳电子学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：老师在FIT楼办公 导师能力：发表多篇顶级会议和期刊，例如JSSC ISCA DAC…… 经费发放：接连承接多个国家项目，并与Intel有数十亿的合作",
+      "dimensions": {
+        "导师能力": "发表多篇顶级会议和期刊，例如JSSC ISCA DAC……",
+        "经费情况": "接连承接多个国家项目，并与Intel有数十亿的合作"
+      }
+    }
+  ]
+}

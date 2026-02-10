@@ -1,0 +1,19 @@
+{
+  "id": "b02cb05c-66de-446e-a063-de5ab3042ccf",
+  "name": "曹希仁",
+  "school": "上海交通大学",
+  "department": "电子信息与电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：曹老师当年被交大买过来就是想争一个院士，所以水平当然杠杠的",
+      "dimensions": {
+        "导师能力": "曹老师当年被交大买过来就是想争一个院士，所以水平当然杠杠的"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "8fe80004-da9a-4791-b8f3-094e00b315f2",
+  "name": "谭文",
+  "school": "华北电力大学",
+  "department": "控制与计算机工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人非常好，学术能力更是一流！",
+      "dimensions": {}
+    },
+    {
+      "comment": "好，学术长青，科研大佬",
+      "dimensions": {}
+    },
+    {
+      "comment": "对科研认真严谨，对学生平易近人，完美导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术，人格魅力，全都顶呱呱",
+      "dimensions": {}
+    }
+  ]
+}

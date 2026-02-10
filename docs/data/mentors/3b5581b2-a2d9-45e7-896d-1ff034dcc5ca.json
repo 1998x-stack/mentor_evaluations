@@ -1,0 +1,15 @@
+{
+  "id": "3b5581b2-a2d9-45e7-896d-1ff034dcc5ca",
+  "name": "盛立杰",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "盛立杰 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

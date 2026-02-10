@@ -1,0 +1,15 @@
+{
+  "id": "ae70ad54-f36f-47c9-869a-ac8e09b5ab17",
+  "name": "王勇",
+  "school": "天津大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "从我的角度来看，很不错啦",
+      "dimensions": {}
+    }
+  ]
+}

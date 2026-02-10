@@ -1,0 +1,19 @@
+{
+  "id": "cfb3c78d-cfbb-4464-8a1c-d6bab75b91f9",
+  "name": "张颖",
+  "school": "中国科学技术大学",
+  "department": "化学与材料科学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师超级好，对学生好，科研指导好！",
+      "dimensions": {}
+    },
+    {
+      "comment": "张老师在生物质催化领域有很高的造诣，对学生好，每天都会到实验室几次指导学生，会替学生着想。",
+      "dimensions": {}
+    }
+  ]
+}

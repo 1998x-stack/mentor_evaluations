@@ -1,0 +1,15 @@
+{
+  "id": "42d218cc-1ba8-4be4-8627-85fb002660dc",
+  "name": "刘松玉",
+  "school": "东南大学",
+  "department": "交通学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大牛不多说。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "37cbff43-73f1-48f3-b372-dd71a287d641",
+  "name": "彭一江",
+  "school": "北京工业大学",
+  "department": "建筑工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不给科研经费，不定项目，不来学校，不管学生",
+      "dimensions": {}
+    }
+  ]
+}

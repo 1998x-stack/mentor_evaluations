@@ -1,0 +1,15 @@
+{
+  "id": "d1785f50-676c-4826-9960-07c17d76a4ae",
+  "name": "陈性元",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陈性元 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

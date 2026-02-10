@@ -1,0 +1,19 @@
+{
+  "id": "5d8201ac-8ec5-4266-80ba-a35d4ee3a694",
+  "name": "段益峰",
+  "school": "中国矿业大学(江苏)",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "锻炼学生科研能力，历史讲的好",
+      "dimensions": {}
+    },
+    {
+      "comment": "幽默阳光人品好 能跟学生打成一片 ",
+      "dimensions": {}
+    }
+  ]
+}

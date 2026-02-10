@@ -1,0 +1,21 @@
+{
+  "id": "f6c6b152-f19a-46a5-9124-32abf852e865",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：ideal 学生补助：800 工作时间：不加班",
+      "dimensions": {
+        "学生补助": "800 工作",
+        "工作时间": "不加班"
+      }
+    }
+  ]
+}

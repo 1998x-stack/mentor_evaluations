@@ -1,0 +1,27 @@
+{
+  "id": "4ebf47e2-fd23-47ce-895f-dad6fdcb431a",
+  "name": "王允",
+  "school": "北京理工大学",
+  "department": "光电学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "性格温和，易于沟通，欢迎报考",
+      "dimensions": {}
+    },
+    {
+      "comment": "王老师人很好，如果只评价王老师的话强烈建议报考，但是实际情况是王老师根本做不了主，哪怕是自己的学生自己也说了不算，所以千万不要来。",
+      "dimensions": {}
+    },
+    {
+      "comment": "年轻教师，对学生很好，目前还不能招博士",
+      "dimensions": {}
+    },
+    {
+      "comment": "脾气很好，非常适合硕士生",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5130811e-60dc-4d76-9eda-7bb05335f03b",
+  "name": "高志达",
+  "school": "东北大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "高老师提供较优的科研环境，值得说出的是，他本人的人品相当好",
+      "dimensions": {}
+    },
+    {
+      "comment": "等待评价",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f64310ff-89b5-493b-9392-0835c9980d90",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "实验用的毛细管要回收。",
+      "dimensions": {}
+    }
+  ]
+}

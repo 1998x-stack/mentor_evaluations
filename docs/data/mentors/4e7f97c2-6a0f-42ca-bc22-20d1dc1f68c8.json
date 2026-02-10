@@ -1,0 +1,15 @@
+{
+  "id": "4e7f97c2-6a0f-42ca-bc22-20d1dc1f68c8",
+  "name": "李国荣",
+  "school": "中国科学院大学",
+  "department": "计算机与控制学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：工作地点在计算所",
+      "dimensions": {}
+    }
+  ]
+}

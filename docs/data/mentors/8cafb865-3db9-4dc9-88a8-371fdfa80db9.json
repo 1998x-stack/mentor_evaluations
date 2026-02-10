@@ -1,0 +1,15 @@
+{
+  "id": "8cafb865-3db9-4dc9-88a8-371fdfa80db9",
+  "name": "姜勇",
+  "school": "北京大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "务实，理性，对事不对人\n有时很严厉，对学生要求高，但是总体来讲还不错",
+      "dimensions": {}
+    }
+  ]
+}

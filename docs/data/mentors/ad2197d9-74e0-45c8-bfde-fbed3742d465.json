@@ -1,0 +1,19 @@
+{
+  "id": "ad2197d9-74e0-45c8-bfde-fbed3742d465",
+  "name": "王宗明",
+  "school": "中国石油大学(华东)",
+  "department": "化学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "工作时间": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：E453~E455 工作时间：平时见不到人，一般在外出差。不怎么管学生，学习和毕业纯靠自觉",
+      "dimensions": {
+        "工作时间": "平时见不到人，一般在外出差。不怎么管学生，学习和毕业纯靠自觉"
+      }
+    }
+  ]
+}

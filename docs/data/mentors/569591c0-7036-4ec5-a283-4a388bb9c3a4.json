@@ -1,0 +1,23 @@
+{
+  "id": "569591c0-7036-4ec5-a283-4a388bb9c3a4",
+  "name": "黄寒",
+  "school": "中南大学",
+  "department": "物理与电子学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "笑起来特别慈祥，又有钱，福利超级好，津贴充足而且有假期，而且学术很严谨，是个超级好的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "科研能力强，想法很多，为学生考虑，津贴管够又有假，五星好评",
+      "dimensions": {}
+    },
+    {
+      "comment": "好评好评，very good",
+      "dimensions": {}
+    }
+  ]
+}

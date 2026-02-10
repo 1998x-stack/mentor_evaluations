@@ -1,0 +1,15 @@
+{
+  "id": "7d212e96-b192-49f6-a833-0a3ee046f26f",
+  "name": "李辉",
+  "school": "重庆大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师挺好的，注重学术研究，在文章方面能为学生着想，.....",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c2a27578-2d69-449d-8486-5760ab745041",
+  "name": "王春悦",
+  "school": "吉林大学",
+  "department": "通信工程学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：只选过老师的课，其他的不知道，老师人品是真的好，",
+      "dimensions": {
+        "师生关系": "只选过老师的课，其他的不知道，老师人品是真的好，"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ee517aa8-223d-4355-abaf-87903a3ca0d7",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "楼上正解，与学生关系完全崩塌。",
+      "dimensions": {}
+    }
+  ]
+}

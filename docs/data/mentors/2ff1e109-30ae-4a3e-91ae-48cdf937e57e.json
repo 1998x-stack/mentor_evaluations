@@ -1,0 +1,19 @@
+{
+  "id": "2ff1e109-30ae-4a3e-91ae-48cdf937e57e",
+  "name": "胡文彬",
+  "school": "天津大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "坐标新校区，材料学院院长，学术不咋滴，当官有一套，跟着他没什么前途，说不定哪天就被卖了。自求多福吧。",
+      "dimensions": {}
+    },
+    {
+      "comment": "肥头大耳，学术一般，关键是我们脾气差",
+      "dimensions": {}
+    }
+  ]
+}

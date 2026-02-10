@@ -1,0 +1,29 @@
+{
+  "id": "151abda3-700c-41cc-bac9-53a3a8de9e0f",
+  "name": "龙红岸",
+  "school": "中国海洋大学",
+  "department": "水产学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室地点：中国海洋大学海洋生物多样性与进化研究所达尔文馆209，进化基因组学实验室 口头禅：不着急，so far so good，有劳，谢谢，不着急 导师能力：导师能力高，以下内容摘自进化所官网： 主要学术成就: 基于全基因组和转录组测序的变异积累实验，揭示了多种模式生物基因组自发变异的规律和进化机制，阐明了细菌在环境胁迫下的变异率进化规律与变异形成机制，以及设计了新的实验系统，测算了自发变异造成的适应度效应。在PNAS, Nature Ecology and Evolution, Molecular Biology and Evolution, Genetics等主流进化生物学杂志上发表文章20余篇。 研究方向： 以微生物为主要研究对象，聚焦微生物的基因组演化以及生殖方式的功能基因组学研究，具体研究方向如下： A. 以海洋纤毛虫拟瞬膜虫为实验材料，通过高通量测序方法以及细胞生物学手段，研究纤毛虫原生动物生殖方式的功能基因组学 B. 深海微生物的基因组进化以及稳定性机制 C. 微生物环境胁迫下的变异形成 D. 医疗及环境水体中病源微生物的抗药性演化 E. 病害纤毛虫的生物学防治 F. 海洋纤毛虫的宏基因组学 Honors and Awards: 2017 Young Investigator Travel Award, Society for Molecular Biology and Evolution; 2016 Delill Nasser Award for Professional Development in Genetics, Genetics Society of America; 2012 Friends of NSM Fellowship, University of Houston. Research Interests: microbial evolutionary genomics, functional genomics of microbial reproduction, check more details in lab webpage: http://longhongan.weebly.com/ 经费发放：经费充足，支持学生去各地参加会议以及采样 学生补助：研究生每月1000及以上，本科生每月500及以上 与学生关系：与学生关系很平等，他为了锻炼学生的胆量以及强调师生之间的平等关系，让我们无论在何种场合下都直呼他的名字--红岸。他希望研究生把更多的时间花在学习、思考以及阅读文献上，所以基本不安排杂活，而且为了减轻研究生在实验过程中的重复性操作，还聘请了很多本科生助理来分担重复性的实验操作。 工作时间：红岸有两个孩子，周六是他固定带孩子的日子，其余时间都在实验室或者办公室，而且通常待到很晚才回去，偶尔周六也会来实验室。 研究生没有固定的作息和工作时间要求，只要知道自己做什么，能够完成就行。 学生毕业去向：红岸是2017年回国并开始组建实验室，目前的学生都是研二，还没有具体的出路。但他的包容性很强，因材施教，对于想出国，或想继续科研，或想工作的学生都有不同的培养方案。",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": "",
+        "学生补助": "研究生每月1000及以上，本科生每月500及以上 与学生",
+        "师生关系": "与学生",
+        "工作时间": "红岸有两个孩子，周六是他固定带孩子的日子，其余",
+        "毕业去向": "红岸是2017年回国并开始组建实验室，目前的学生都是研二，还没有具体的出路。但他的包容性很强，因材施教，对于想出国，或想继续科研，或想工作的学生都有不同的培养方案。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c80d1fe9-f8f3-4f2d-a204-6ae07c4ced72",
+  "name": "郑海红",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "郑海红 http://web.xidian.edu.cn/hhzheng/",
+      "dimensions": {}
+    }
+  ]
+}

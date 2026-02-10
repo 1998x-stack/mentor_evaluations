@@ -1,0 +1,15 @@
+{
+  "id": "3561cd0b-db6b-4769-93e0-f1263e91fefa",
+  "name": "孟博",
+  "school": "郑州大学",
+  "department": "化工与能源学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "情商很低，属于读博读傻的类型，不建议报考。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c78d33ea-7f59-41df-a159-25c3c5698d12",
+  "name": "蒋华良",
+  "school": NaN,
+  "department": "上海药物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "上海药物所，双黄连，疫情期间名震天下",
+      "dimensions": {}
+    }
+  ]
+}

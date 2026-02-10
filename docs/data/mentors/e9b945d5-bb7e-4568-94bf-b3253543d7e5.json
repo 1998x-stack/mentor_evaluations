@@ -1,0 +1,29 @@
+{
+  "id": "e9b945d5-bb7e-4568-94bf-b3253543d7e5",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：上过他的课，然后因为有人迟到。公开课上面直接骂娘，骂脏话那种。。。。你能想象吗。侮辱你自己，你父母，那种 导师能力：半路出家 与学生关系：安排黑厂 学生毕业去向：不允许实习，只能去他自己的公司打工",
+      "dimensions": {
+        "导师能力": "半路出家 与学生",
+        "师生关系": "安排黑厂 学生毕业",
+        "毕业去向": "不允许实习，只能去他自己的公司打工"
+      }
+    },
+    {
+      "comment": "利益相关：现任软件学院院长，原计算机副院长 导师能力：https://www.zhihu.com/question/293834870/answer/604625608",
+      "dimensions": {
+        "导师能力": "https://www.zhihu.com/question/293834870/answer/604625608"
+      }
+    }
+  ]
+}

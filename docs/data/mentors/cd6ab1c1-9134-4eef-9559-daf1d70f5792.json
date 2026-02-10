@@ -1,0 +1,15 @@
+{
+  "id": "cd6ab1c1-9134-4eef-9559-daf1d70f5792",
+  "name": "张运良",
+  "school": "中南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "贼好的老师，工程经验丰富！",
+      "dimensions": {}
+    }
+  ]
+}

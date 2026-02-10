@@ -1,0 +1,15 @@
+{
+  "id": "45384a7f-2e2a-4395-8f6b-0c3a41c17d10",
+  "name": "白明",
+  "school": "北京航空航天大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "。不知道学生的需求。沟通有问题",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "76d038b2-0c88-41b3-96fb-e6bf2f7e8817",
+  "name": "王琨(男)",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王琨（男）是硕士生导师，学科是计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

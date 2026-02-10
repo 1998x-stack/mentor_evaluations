@@ -1,0 +1,19 @@
+{
+  "id": "8d47093c-6d5c-44c0-8bf5-f20e5ce876bc",
+  "name": "张瑞云",
+  "school": "石家庄铁道大学",
+  "department": "土木工程",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人帅心善慈祥可亲负责任",
+      "dimensions": {}
+    },
+    {
+      "comment": "慈祥可亲，一名优秀的好老师",
+      "dimensions": {}
+    }
+  ]
+}

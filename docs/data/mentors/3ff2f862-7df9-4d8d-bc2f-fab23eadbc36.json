@@ -1,0 +1,15 @@
+{
+  "id": "3ff2f862-7df9-4d8d-bc2f-fab23eadbc36",
+  "name": "花军",
+  "school": "东北林业大学",
+  "department": "机电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "只会吃流批，譬如：我的某某学生回来给我带点啥特产，我去哪学生招待，到哪报我大名……",
+      "dimensions": {}
+    }
+  ]
+}

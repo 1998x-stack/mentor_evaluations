@@ -1,0 +1,31 @@
+{
+  "id": "a54bfc44-0d0e-4fd7-8cab-b3ee9f810cc0",
+  "name": "王海明",
+  "school": "东南大学",
+  "department": "信息科学与工程学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "经费发放充足，关心学生。周末很少休息",
+      "dimensions": {}
+    },
+    {
+      "comment": "很好！经费发放十足，人很nice，实验室隔壁同学表示很羡慕！",
+      "dimensions": {}
+    },
+    {
+      "comment": "王老师人很NICE，会发钱，会PUSH你，生活方式健康，文章只要是你自己弄得，都会让你一作，非常棒。",
+      "dimensions": {}
+    },
+    {
+      "comment": "发现好老师基本都是一致好评，差老师基本是一致差评...",
+      "dimensions": {}
+    },
+    {
+      "comment": "王老师在通信及微波的领域造诣很高，牵头的科研项目很多，成果也很丰硕，年轻有为且工作充满热情，对人对事认真负责有自己的原则，关心、照顾学生，经常发工资",
+      "dimensions": {}
+    }
+  ]
+}

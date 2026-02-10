@@ -1,0 +1,30 @@
+{
+  "id": "8749dad4-3082-4b08-8b79-4f09ddbc03d8",
+  "name": "Ming Liu",
+  "school": "香港科技大学",
+  "department": "Department of Electronic and Computer Engineering",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "经费发放：很多 学生补助：香港phd都一個數字",
+      "dimensions": {
+        "经费情况": "很多 学生",
+        "学生补助": "香港phd都一個數字"
+      }
+    },
+    {
+      "comment": "利益相关：在创业 经费发放：多 学生补助：多 与学生关系：有些学生会到公司干杂活 毕业难度大，时间不短",
+      "dimensions": {
+        "经费情况": "多 学生",
+        "学生补助": "多 与学生",
+        "师生关系": "有些学生会到公司干杂活 毕业难度大，"
+      }
+    }
+  ]
+}

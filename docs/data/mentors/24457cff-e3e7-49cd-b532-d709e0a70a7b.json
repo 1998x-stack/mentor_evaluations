@@ -1,0 +1,19 @@
+{
+  "id": "24457cff-e3e7-49cd-b532-d709e0a70a7b",
+  "name": "虞志益",
+  "school": "中山大学",
+  "department": "信息科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：超级棒的老师，跟他肯定没错，祝大家一切顺利啊",
+      "dimensions": {
+        "毕业去向": "超级棒的老师，跟他肯定没错，祝大家一切顺利啊"
+      }
+    }
+  ]
+}

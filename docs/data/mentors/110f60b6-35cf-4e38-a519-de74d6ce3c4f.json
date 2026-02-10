@@ -1,0 +1,19 @@
+{
+  "id": "110f60b6-35cf-4e38-a519-de74d6ce3c4f",
+  "name": "罗荣辉",
+  "school": "郑州大学",
+  "department": "物理工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：电子系光电方向授课老师 与学生关系：吹逼能力十足",
+      "dimensions": {
+        "师生关系": "吹逼能力十足"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f131d0ac-f324-45f7-97a8-b10e4dc2a08f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：人品学术双渣 导师能力：https://www.zhihu.com/question/265746160/answer/322522508",
+      "dimensions": {
+        "导师能力": "https://www.zhihu.com/question/265746160/answer/322522508"
+      }
+    }
+  ]
+}

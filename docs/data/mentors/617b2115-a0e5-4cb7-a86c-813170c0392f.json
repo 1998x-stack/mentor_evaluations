@@ -1,0 +1,19 @@
+{
+  "id": "617b2115-a0e5-4cb7-a86c-813170c0392f",
+  "name": "王兮",
+  "school": "湖南大学",
+  "department": "化学化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "工作时间早8晚10，一个星期工作六天，中午要待在实验室，所有法定假日放节日当天，暑假放一个星期左右",
+      "dimensions": {}
+    },
+    {
+      "comment": "博士没有补助，硕士平均每月100。实验所用耗材有限制，购买速度慢",
+      "dimensions": {}
+    }
+  ]
+}

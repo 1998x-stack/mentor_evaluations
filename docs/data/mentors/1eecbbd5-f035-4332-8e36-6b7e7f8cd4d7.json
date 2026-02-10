@@ -1,0 +1,19 @@
+{
+  "id": "1eecbbd5-f035-4332-8e36-6b7e7f8cd4d7",
+  "name": "金正稳",
+  "school": "华南师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "苟利国家生死以，岂因祸福避趋之",
+      "dimensions": {}
+    },
+    {
+      "comment": "不要见得风就是雨 你们再怎么诋毁他 人家还是 大 明 星",
+      "dimensions": {}
+    }
+  ]
+}

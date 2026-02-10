@@ -1,0 +1,27 @@
+{
+  "id": "402cadf2-a184-49f9-9ed7-ba1ea5a50d7b",
+  "name": "崔之进",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 3,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "导师能力": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "想选这个导师，但是不知道怎么样，问问各位学长学姐",
+      "dimensions": {}
+    },
+    {
+      "comment": "看介绍，还不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：该老师在学校个人简历如上链接。http://arts.seu.edu.cn/2009/1116/c17157a179248/page.htm 1. 没有显示本科学校，按常理推测，很可能比较差，意味着学术基础训练水平。 2. 学历栏，美国哥伦比亚大学的经历，很可能只是公派交换生，而非“学历”。 3. 获奖情况栏，所谓“全国学术论文比赛”语焉不详，谷歌和百度都查不出有这个比赛。 4. 社会服务栏，所谓学术著作被某些图书馆收藏，很可能是免费送了本书给对方。 5. 英文水平存疑。 6. 论文栏，第6项论文 The Cross-cultural Ties-Influences of Chinese Traditional Plants Dye on Botanical Theme Park，实际上是该老师与李轶南教授合作论文，但完全没有提到另一位作者。 7. 所谓发表论文50篇，多为新闻报道和随笔式写作。 结论：导师能力存疑。",
+      "dimensions": {
+        "导师能力": "该老师在学校个人简历如上链接。http://arts.seu.edu.cn/2009/1116/c17157a179248/page.htm 1. 没有显示本科学校，按常理推测，很可能比较差，意味着学术基础训练水平。 2. 学历栏，美国哥伦比亚大学的经历，很可能只是公派交换生，而非“学历”。 3. 获奖情况栏，所谓“全国学术论文比赛”语焉不详，谷歌和百度都查不出有这个比赛。 4. 社会服务栏，所谓学术著作被某些图书馆收藏，很可能是免费送了本书给对方。 5. 英文水平存疑。 6. 论文栏，第6项论文 The Cross-cultural Ties-Influences of Chinese Traditional Plants Dye on Botanical Theme Park，实际上是该老师与李轶南教授合作论文，但完全没有提到另一位作者。 7. 所谓发表论文50篇，多为新闻报道和随笔式写作。 结论："
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "68a6fe1d-bceb-4587-b9ca-393cb170b25b",
+  "name": "季加孚",
+  "school": "北京大学",
+  "department": "北京肿瘤医院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：北京肿瘤医院院长办公室",
+      "dimensions": {}
+    }
+  ]
+}

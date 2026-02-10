@@ -1,0 +1,19 @@
+{
+  "id": "ab400079-4cab-45cd-84eb-da4829376524",
+  "name": "许越",
+  "school": "北京航空航天大学",
+  "department": "化学与环境学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "毕业去向": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：属于不算热门的无机材料，经费少。 对学生挺好，补贴少但不给脏活。",
+      "dimensions": {
+        "毕业去向": "属于不算热门的无机材料，"
+      }
+    }
+  ]
+}

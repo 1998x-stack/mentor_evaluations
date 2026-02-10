@@ -1,0 +1,19 @@
+{
+  "id": "dd742fcf-dc22-4f47-8aad-48ae41b2f649",
+  "name": "罗燕",
+  "school": "四川农业大学",
+  "department": "动物医学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "挺为学生着想的一个老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "能够做罗老师的学生，很幸运。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "24400990-55a2-4d10-952c-c3a4b206c20d",
+  "name": "武向农",
+  "school": "上海师范大学",
+  "department": "电子信息工程（电子信息类）",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师啊，很认真很有礼貌",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术能力低，事多，没实验器材",
+      "dimensions": {}
+    },
+    {
+      "comment": "很好的老师，三年时间学到了很多",
+      "dimensions": {}
+    }
+  ]
+}

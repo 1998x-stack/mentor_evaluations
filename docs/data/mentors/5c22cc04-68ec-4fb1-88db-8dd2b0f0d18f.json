@@ -1,0 +1,15 @@
+{
+  "id": "5c22cc04-68ec-4fb1-88db-8dd2b0f0d18f",
+  "name": "高铁杠",
+  "school": "南开大学",
+  "department": "计算机与控制工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好的老师，导师能力高",
+      "dimensions": {}
+    }
+  ]
+}

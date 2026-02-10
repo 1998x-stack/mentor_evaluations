@@ -1,0 +1,23 @@
+{
+  "id": "7379ed80-a9ef-4539-b055-3a4a3260f496",
+  "name": "蒋运承",
+  "school": "华南师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "说到做到的好老师，科研态度严谨",
+      "dimensions": {}
+    },
+    {
+      "comment": "蒋运承，教授、博士、博士生导师、珠江学者特聘教授，现任华南师范大学计算机学院副院长、广东省智能科学工程技术研究中心主任、广东省数据科学工程技术研究中心副主任。2004年毕业于中国科学院计算技术研究所，获计算机软件与理论专业博士学位。2007年中山大学数学与计算科学学院、信息科学与技术学院博士后出站。2007年晋升计算机专业教授。2009年到华南师范大学计算机学院工作。2010年入选广东省“千百十工程”省级培养对象，2012年入选教育部“新世纪优秀人才支持计划”，2013年评聘为华南师范大学博士生导师，2018年获批珠江学者特聘教授（软件工程学科）。主持或完成国家自然科学基金项目、省部级自然科学基金项目或科技计划项目等10多项，以第一作者或通讯作者在Information Sciences、Knowledge-Based Systems、Fuzzy Sets and Systems、Information Processing & Management、Engineering Applications of Artificial Intelligence、International Journal of Intelligent Systems、Expert Systems with Applications、International Journal on Semantic Web and Information Systems、AAAI、KSEM等国际SCI刊物、国内一级刊物或重要国际会议发表论文40余篇（其中两篇第一作者论文入选ESI高引用论文）。获广东省科技进步二等奖（排名第二）和南粤科技创新优秀学术论文一等奖（排名第一）。",
+      "dimensions": {}
+    },
+    {
+      "comment": "近年来主持了国家自然科学基金项目、教育部“新世纪优秀人才支持计划”项目、广东省自然科学基金项目、广东省高校高层次人才项目、广东省高校省级重大项目和广州市科技计划项目等，联合主持了广东省自然基金团队项目。\n\n主要研究兴趣包括智能软件理论与技术、语义计算、智能科学及数据科学等。",
+      "dimensions": {}
+    }
+  ]
+}

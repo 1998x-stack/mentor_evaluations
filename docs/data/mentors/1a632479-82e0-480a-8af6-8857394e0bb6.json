@@ -1,0 +1,19 @@
+{
+  "id": "1a632479-82e0-480a-8af6-8857394e0bb6",
+  "name": "曹罡",
+  "school": "华中农业大学",
+  "department": "动物科学技术学院、动物医学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "高颜值教授。思路开阔，治学严谨。公关能力强，和国内外很多优秀教授都有很好的关系。",
+      "dimensions": {}
+    },
+    {
+      "comment": "很帅气很Nice，和学生相处融洽。",
+      "dimensions": {}
+    }
+  ]
+}

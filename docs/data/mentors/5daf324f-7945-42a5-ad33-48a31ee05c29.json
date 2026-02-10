@@ -1,0 +1,15 @@
+{
+  "id": "5daf324f-7945-42a5-ad33-48a31ee05c29",
+  "name": "邱宏",
+  "school": "北京科技大学",
+  "department": "数理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人很好，认真负责，水平高",
+      "dimensions": {}
+    }
+  ]
+}

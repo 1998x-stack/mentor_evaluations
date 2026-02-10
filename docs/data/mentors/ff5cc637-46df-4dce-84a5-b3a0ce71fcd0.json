@@ -1,0 +1,21 @@
+{
+  "id": "ff5cc637-46df-4dce-84a5-b3a0ce71fcd0",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 7.12,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "师生关系": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：讲唐班硬件课 导师能力：非常厉害，唐班硬件课教材编者之一，对本科生上课极其认真。 与学生关系：非常好，备课极其认真。",
+      "dimensions": {
+        "导师能力": "非常厉害，唐班硬件课教材编者之一，对本科生上课极其认真。 与学生",
+        "师生关系": "非常好，备课极其认真。"
+      }
+    }
+  ]
+}

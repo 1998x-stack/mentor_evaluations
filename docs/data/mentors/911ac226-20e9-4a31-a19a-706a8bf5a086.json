@@ -1,0 +1,15 @@
+{
+  "id": "911ac226-20e9-4a31-a19a-706a8bf5a086",
+  "name": "王卫东",
+  "school": NaN,
+  "department": "机电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：西电老校区，主楼三区",
+      "dimensions": {}
+    }
+  ]
+}

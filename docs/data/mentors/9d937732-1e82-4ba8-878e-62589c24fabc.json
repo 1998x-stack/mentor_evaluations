@@ -1,0 +1,19 @@
+{
+  "id": "9d937732-1e82-4ba8-878e-62589c24fabc",
+  "name": "曹 伟",
+  "school": "哈尔滨工业大学",
+  "department": "航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：学生自己的事儿基本放养，项目的事儿一个简单的方案可以讨论两三个月",
+      "dimensions": {
+        "师生关系": "学生自己的事儿基本放养，项目的事儿一个简单的方案可以讨论两三个月"
+      }
+    }
+  ]
+}

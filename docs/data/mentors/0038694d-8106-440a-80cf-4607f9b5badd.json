@@ -1,0 +1,15 @@
+{
+  "id": "0038694d-8106-440a-80cf-4607f9b5badd",
+  "name": "王维",
+  "school": "南开大学",
+  "department": "化学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不建议选择此导师。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fe1fe99a-7099-45fb-8f41-70dfcf9954d1",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听说特别穷，听说从国外出差回来没有经费买车票",
+      "dimensions": {}
+    }
+  ]
+}

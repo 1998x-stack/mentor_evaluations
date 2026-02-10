@@ -1,0 +1,19 @@
+{
+  "id": "9f2f9598-a12e-4357-a10b-0903d22a41b4",
+  "name": "李宇峰",
+  "school": "南京大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "年轻有为",
+      "dimensions": {}
+    },
+    {
+      "comment": "据说水平一般...学生毕业去向也很一般",
+      "dimensions": {}
+    }
+  ]
+}

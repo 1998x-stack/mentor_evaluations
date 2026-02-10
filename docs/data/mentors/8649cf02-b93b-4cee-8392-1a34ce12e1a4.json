@@ -1,0 +1,15 @@
+{
+  "id": "8649cf02-b93b-4cee-8392-1a34ce12e1a4",
+  "name": "王学文",
+  "school": "太原理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很好，nice，口碑很好。",
+      "dimensions": {}
+    }
+  ]
+}

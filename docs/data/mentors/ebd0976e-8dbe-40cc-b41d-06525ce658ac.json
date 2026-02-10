@@ -1,0 +1,15 @@
+{
+  "id": "ebd0976e-8dbe-40cc-b41d-06525ce658ac",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师导师能力很高，在JCR上发过文章。老师人很好，愿意带学生做研究，跟着黄老师会成长得很快。",
+      "dimensions": {}
+    }
+  ]
+}

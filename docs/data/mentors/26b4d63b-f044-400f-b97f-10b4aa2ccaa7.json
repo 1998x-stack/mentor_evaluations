@@ -1,0 +1,21 @@
+{
+  "id": "26b4d63b-f044-400f-b97f-10b4aa2ccaa7",
+  "name": "郑涌",
+  "school": "西南大学",
+  "department": "心理学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室为心理学部429 学生补助：博士生一万元 发文章有奖励 工作时间：白天睡觉晚上办公",
+      "dimensions": {
+        "学生补助": "博士生一万元 发文章有奖励 工作",
+        "工作时间": "白天睡觉晚上办公"
+      }
+    }
+  ]
+}

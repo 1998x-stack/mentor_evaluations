@@ -1,0 +1,15 @@
+{
+  "id": "10f58ea8-4ae4-4a0e-9667-f2a730fa0650",
+  "name": "于艳新",
+  "school": "北京师范大学",
+  "department": "环境学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不建议选择",
+      "dimensions": {}
+    }
+  ]
+}

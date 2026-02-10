@@ -1,0 +1,19 @@
+{
+  "id": "e8b45bcf-ac2b-4eab-8ea5-6bf1849663d8",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "师生关系": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：事业型女性，做事简洁有效率，工作勤勉认真，不是那种爱找事的人，在女导师里算挺不错的了。",
+      "dimensions": {
+        "师生关系": "事业型女性，做事简洁有效率，工作勤勉认真，不是那种爱找事的人，在女导师里算挺不错的了。"
+      }
+    }
+  ]
+}

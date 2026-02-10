@@ -1,0 +1,15 @@
+{
+  "id": "df2e0b01-636f-4988-a774-b0e0e11bee58",
+  "name": "高昆",
+  "school": "北京理工大学",
+  "department": "光电学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生好，不可避免的做工程项目",
+      "dimensions": {}
+    }
+  ]
+}

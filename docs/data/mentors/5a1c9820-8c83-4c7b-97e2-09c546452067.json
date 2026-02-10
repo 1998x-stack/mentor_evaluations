@@ -1,0 +1,15 @@
+{
+  "id": "5a1c9820-8c83-4c7b-97e2-09c546452067",
+  "name": "王青元",
+  "school": "西南交通大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "还不错，科研比较少，项目比较多",
+      "dimensions": {}
+    }
+  ]
+}

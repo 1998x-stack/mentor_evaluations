@@ -1,0 +1,27 @@
+{
+  "id": "9f8ce6f6-8ac6-4445-819f-d8491964d119",
+  "name": "褚金奎",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "机械学院数得上的好老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "褚老师学术水平一流，醉心科研，为人正直，非常注重学生的培养，是位不可多得的好老师！",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：水平相当可以，谦虚，做事严谨，学术派，懂得因材施教",
+      "dimensions": {
+        "导师能力": "水平相当可以，谦虚，做事严谨，学术派，懂得因材施教"
+      }
+    }
+  ]
+}

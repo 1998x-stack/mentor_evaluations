@@ -1,0 +1,15 @@
+{
+  "id": "46bbfc92-c360-4672-9b79-2cf54b3ce523",
+  "name": "张鸿",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师水平不错，做模拟的里很厉害的老师",
+      "dimensions": {}
+    }
+  ]
+}

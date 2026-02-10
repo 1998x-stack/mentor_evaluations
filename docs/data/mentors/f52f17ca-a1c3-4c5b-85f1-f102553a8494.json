@@ -1,0 +1,15 @@
+{
+  "id": "f52f17ca-a1c3-4c5b-85f1-f102553a8494",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "教授《计算机导论》的老师，喜欢心理学",
+      "dimensions": {}
+    }
+  ]
+}

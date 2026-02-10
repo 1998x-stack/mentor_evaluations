@@ -1,0 +1,15 @@
+{
+  "id": "54a65a0a-414c-4f08-b783-862a72c67133",
+  "name": "杨峰",
+  "school": "中南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "good teacher",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2f3d0e09-a2cb-4386-a481-5488c12c2f05",
+  "name": "戴先中",
+  "school": "东南大学",
+  "department": "自动化学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "戴老师教学严谨，要求严格，在学生中有很高的威望，是一位难得的好老师，好教授。",
+      "dimensions": {}
+    },
+    {
+      "comment": "中流砥柱",
+      "dimensions": {}
+    }
+  ]
+}

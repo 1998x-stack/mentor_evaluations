@@ -1,0 +1,15 @@
+{
+  "id": "98b71e2f-0bfe-4fcd-ba10-5ea8cad56121",
+  "name": "吴芳",
+  "school": "重庆大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "没有科研能力，什么都不懂的一个老师",
+      "dimensions": {}
+    }
+  ]
+}

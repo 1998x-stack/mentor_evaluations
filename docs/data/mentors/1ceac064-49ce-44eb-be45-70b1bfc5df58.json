@@ -1,0 +1,15 @@
+{
+  "id": "1ceac064-49ce-44eb-be45-70b1bfc5df58",
+  "name": "刘四新",
+  "school": "吉林大学",
+  "department": "地探学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人很好，敬业勤奋，可以顺利毕业",
+      "dimensions": {}
+    }
+  ]
+}

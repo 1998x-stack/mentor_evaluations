@@ -1,0 +1,15 @@
+{
+  "id": "1a9474bc-2793-4138-9b2c-f6af80fa1ba3",
+  "name": "倪龙",
+  "school": "哈尔滨工业大学",
+  "department": "市政环境工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人好人好人好，重要的事情说三遍。",
+      "dimensions": {}
+    }
+  ]
+}

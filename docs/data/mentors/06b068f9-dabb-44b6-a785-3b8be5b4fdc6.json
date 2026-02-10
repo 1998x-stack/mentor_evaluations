@@ -1,0 +1,31 @@
+{
+  "id": "06b068f9-dabb-44b6-a785-3b8be5b4fdc6",
+  "name": "丁明武",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "态度温和，对学生超好。",
+      "dimensions": {}
+    },
+    {
+      "comment": "学识渊博，科研严谨，对学生超好\n",
+      "dimensions": {}
+    },
+    {
+      "comment": "遇见的脾气最好的导师，感恩",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常优秀的导师，和蔼可亲，学识渊博",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生很有耐心，为人谦和，尊重学生",
+      "dimensions": {}
+    }
+  ]
+}

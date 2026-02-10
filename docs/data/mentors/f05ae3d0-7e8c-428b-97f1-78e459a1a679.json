@@ -1,0 +1,35 @@
+{
+  "id": "f05ae3d0-7e8c-428b-97f1-78e459a1a679",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 5,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "老师很优秀，待学生特别和蔼，学生中威信特别高，大家都很喜欢贾老师。贾老师是学生心目中最理想的好导师！",
+      "dimensions": {}
+    },
+    {
+      "comment": "贾老师是化工学院最让人敬佩和喜爱的老师之一，不过马上退休了吧",
+      "dimensions": {}
+    },
+    {
+      "comment": "贾老师对课题组的学生特别好，经常有聚餐，每年会有一次集体旅游，实验室福利很客观，文章发表无压力，帮推荐工作，你还在等什么.......",
+      "dimensions": {}
+    },
+    {
+      "comment": "真正为学生考虑的好老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "与学生关系：贾老师很好，对课题组的学生特别好",
+      "dimensions": {
+        "师生关系": "贾老师很好，对课题组的学生特别好"
+      }
+    }
+  ]
+}

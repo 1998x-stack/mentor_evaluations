@@ -1,0 +1,19 @@
+{
+  "id": "9b2e90ac-cea4-4cd0-8921-e1e5a94916e2",
+  "name": "孙林岩",
+  "school": "西安交通大学",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：孙老师已经过世了，以前的事情就让他过去吧。",
+      "dimensions": {
+        "导师能力": "孙老师已经过世了，以前的事情就让他过去吧。"
+      }
+    }
+  ]
+}

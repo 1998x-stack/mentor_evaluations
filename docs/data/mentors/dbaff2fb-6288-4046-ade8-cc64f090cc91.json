@@ -1,0 +1,15 @@
+{
+  "id": "dbaff2fb-6288-4046-ade8-cc64f090cc91",
+  "name": "王涌天",
+  "school": "北京理工大学",
+  "department": "光电学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "适合博士",
+      "dimensions": {}
+    }
+  ]
+}

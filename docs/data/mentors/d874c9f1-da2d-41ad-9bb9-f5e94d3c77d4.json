@@ -1,0 +1,23 @@
+{
+  "id": "d874c9f1-da2d-41ad-9bb9-f5e94d3c77d4",
+  "name": "何松柏",
+  "school": "电子科技大学",
+  "department": "电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "思维发散，人很nice，培养出来了很多优秀的学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：何老师人很好，对学生也很好，教研室牛人云集",
+      "dimensions": {
+        "导师能力": "何老师人很好，对学生也很好，教研室牛人云集"
+      }
+    }
+  ]
+}

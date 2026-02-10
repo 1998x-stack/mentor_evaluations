@@ -1,0 +1,23 @@
+{
+  "id": "f3b658a9-8bd2-43a5-8793-299aa4943862",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "朋友课题组的大老板，好老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "跟着程老师，不仅在学术上大有裨益，为人处世上也获益良多。老师以自己为平台，鼓励学生综合发展，不存在强制学生干活的行为，纯靠自觉，然后发现不努力都对不起自己。",
+      "dimensions": {}
+    },
+    {
+      "comment": "教学相长，友情守望，这是教研室两个微信群的名字，大家感受下。不强制学生干活，更注重学生能力培养和个人发展。绝对是打着灯笼都找不到的好导师。",
+      "dimensions": {}
+    }
+  ]
+}

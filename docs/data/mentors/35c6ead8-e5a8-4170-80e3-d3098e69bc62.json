@@ -1,0 +1,15 @@
+{
+  "id": "35c6ead8-e5a8-4170-80e3-d3098e69bc62",
+  "name": "柳淑学",
+  "school": "大连理工大学",
+  "department": "水利工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研和论文写作非常认真，对学生也非常好",
+      "dimensions": {}
+    }
+  ]
+}

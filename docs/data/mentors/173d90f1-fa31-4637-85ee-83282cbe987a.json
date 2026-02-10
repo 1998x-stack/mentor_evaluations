@@ -1,0 +1,15 @@
+{
+  "id": "173d90f1-fa31-4637-85ee-83282cbe987a",
+  "name": "姬东鸿",
+  "school": "武汉大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "一般，有时候觉得还行，有时候觉得很坑\n主要是重心不在学术上了",
+      "dimensions": {}
+    }
+  ]
+}

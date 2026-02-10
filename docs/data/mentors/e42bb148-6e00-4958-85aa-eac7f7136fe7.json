@@ -1,0 +1,27 @@
+{
+  "id": "e42bb148-6e00-4958-85aa-eac7f7136fe7",
+  "name": "汪圣尧",
+  "school": "华中农业大学",
+  "department": "理学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人处事一级棒，科研做的也好",
+      "dimensions": {}
+    },
+    {
+      "comment": "汪老师颜值很高的，年轻有为，也很会来事，我们都很敬佩他。",
+      "dimensions": {}
+    },
+    {
+      "comment": "人好 钱多 能力强 好导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "最近发文章很猛，选他没错",
+      "dimensions": {}
+    }
+  ]
+}

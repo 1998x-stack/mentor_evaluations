@@ -1,0 +1,21 @@
+{
+  "id": "ffb1bbea-385a-41f5-94bb-760583ad4c42",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：海洋学院四楼 导师能力：FWI做的不错 学生补助：补助比较多",
+      "dimensions": {
+        "导师能力": "FWI做的不错 学生",
+        "学生补助": ""
+      }
+    }
+  ]
+}

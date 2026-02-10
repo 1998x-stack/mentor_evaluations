@@ -1,0 +1,15 @@
+{
+  "id": "3b35c0e1-4aa7-46cf-bfdd-596192cc3a88",
+  "name": "肖进",
+  "school": "南京农业大学",
+  "department": "农学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生很好，人品很好，哈哈哈，本科班主任",
+      "dimensions": {}
+    }
+  ]
+}

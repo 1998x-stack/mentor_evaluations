@@ -1,0 +1,21 @@
+{
+  "id": "a80ced85-dfb9-4532-9f48-6c26f1da94c0",
+  "name": "朱颖",
+  "school": "北京航空航天大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 3.25,
+    "工作时间": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：学校最低标准 工作时间：经常让学生加班，自己不负责任",
+      "dimensions": {
+        "学生补助": "学校最低标准 工作",
+        "工作时间": "经常让学生加班，自己不负责任"
+      }
+    }
+  ]
+}

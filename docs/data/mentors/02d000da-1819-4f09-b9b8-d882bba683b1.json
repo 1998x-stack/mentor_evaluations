@@ -1,0 +1,15 @@
+{
+  "id": "02d000da-1819-4f09-b9b8-d882bba683b1",
+  "name": "姚俊",
+  "school": "重庆大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这位老师学术不错，每位学生都有文章，不过学生每天工作到十二点",
+      "dimensions": {}
+    }
+  ]
+}

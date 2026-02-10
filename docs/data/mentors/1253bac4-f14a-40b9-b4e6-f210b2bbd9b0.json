@@ -1,0 +1,23 @@
+{
+  "id": "1253bac4-f14a-40b9-b4e6-f210b2bbd9b0",
+  "name": "詹睿",
+  "school": "云南师范大学",
+  "department": "化学（师范，招收理工类考生）",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "科研硬实力 可严可逗。非常喜欢的导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "美女一枚，帅哥快报名。",
+      "dimensions": {}
+    },
+    {
+      "comment": "博士毕业于中科院，是一位认真负责的好老师",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "35acd59a-979f-41c7-9bf6-72ab7c5934c7",
+  "name": "马建国",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "马建国 性别：男 职称：教授 http://www.tju.edu.cn/seie/szdw/qrjh/201109/t20110919_113947.html",
+      "dimensions": {}
+    }
+  ]
+}

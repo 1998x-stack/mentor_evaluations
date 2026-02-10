@@ -1,0 +1,15 @@
+{
+  "id": "2ad6fbb1-777b-4e3e-ab82-e9da9ddbbe20",
+  "name": "崔大祥",
+  "school": "上海交通大学",
+  "department": "生物医学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "上过他的课，很水，据说科研作风也很水，但是对学生不push",
+      "dimensions": {}
+    }
+  ]
+}

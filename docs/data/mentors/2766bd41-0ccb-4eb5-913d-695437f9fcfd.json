@@ -1,0 +1,15 @@
+{
+  "id": "2766bd41-0ccb-4eb5-913d-695437f9fcfd",
+  "name": "朱世华",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "差死了",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8a08047b-fcf7-4baa-9cb3-56dae4c5a6c6",
+  "name": "杨春雨",
+  "school": "中国矿业大学(江苏)",
+  "department": "信息与电气工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨老师与学生之间非常融洽，学术严谨，但是平时实验室与学生都非常亲和。非常推荐。",
+      "dimensions": {}
+    },
+    {
+      "comment": "本科生，做毕设的时候给我开过小灶，是那种能很好地平衡学生与老师之间关系的好老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "非常好的导师，写论文逐字逐句给改，做科研给发劳务费",
+      "dimensions": {}
+    }
+  ]
+}

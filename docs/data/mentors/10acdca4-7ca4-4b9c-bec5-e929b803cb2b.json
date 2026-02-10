@@ -1,0 +1,19 @@
+{
+  "id": "10acdca4-7ca4-4b9c-bec5-e929b803cb2b",
+  "name": "朱纪洪",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "在工程技术方面的造诣很深。经费发放相当充足。实验室关系很融洽。",
+      "dimensions": {}
+    },
+    {
+      "comment": "长江学者，973首席，对学生很宽厚，实验室氛围也比较好，项目都是国家的大项目，经费发放非常充分。",
+      "dimensions": {}
+    }
+  ]
+}

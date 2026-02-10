@@ -1,0 +1,19 @@
+{
+  "id": "2520809b-cde3-4e6b-a29b-082a43b5c643",
+  "name": "曲强",
+  "school": NaN,
+  "department": "深圳先进技术研究院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：F座14楼 杨敏左边的办公室，贼喜欢晚上来实验室 与学生关系：就做工程，没时间发论文，还喜欢暗中打听学生",
+      "dimensions": {
+        "师生关系": "就做工程，没"
+      }
+    }
+  ]
+}

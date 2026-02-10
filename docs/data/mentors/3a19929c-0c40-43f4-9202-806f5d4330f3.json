@@ -1,0 +1,27 @@
+{
+  "id": "3a19929c-0c40-43f4-9202-806f5d4330f3",
+  "name": "查晓明",
+  "school": "中国药科大学",
+  "department": "工学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为了身心健康，请远离此人。",
+      "dimensions": {}
+    },
+    {
+      "comment": "能力不行人品也不太行，一切都要靠自己",
+      "dimensions": {}
+    },
+    {
+      "comment": "傻逼老师，没钱还套现，从来不会关心学生，只会压榨学生，请大家远离！",
+      "dimensions": {}
+    },
+    {
+      "comment": "选了这个老师，可能是上辈子造了孽",
+      "dimensions": {}
+    }
+  ]
+}

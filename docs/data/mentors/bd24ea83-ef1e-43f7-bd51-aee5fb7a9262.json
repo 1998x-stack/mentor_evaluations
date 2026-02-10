@@ -1,0 +1,15 @@
+{
+  "id": "bd24ea83-ef1e-43f7-bd51-aee5fb7a9262",
+  "name": "张倩",
+  "school": "上海师范大学",
+  "department": "电子信息工程（电子信息类）",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "good mentor good teacher",
+      "dimensions": {}
+    }
+  ]
+}

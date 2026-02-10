@@ -1,0 +1,15 @@
+{
+  "id": "a957d129-63ef-4f04-b4f3-b55ba78cc237",
+  "name": "刘骞",
+  "school": "中国矿业大学(北京)",
+  "department": "化学与环境工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师平易近人，关心学生，常发劳务\n领域主要是石油化工方面以及分子动力学模拟",
+      "dimensions": {}
+    }
+  ]
+}

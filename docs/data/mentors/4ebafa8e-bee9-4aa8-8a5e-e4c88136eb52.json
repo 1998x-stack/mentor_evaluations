@@ -1,0 +1,15 @@
+{
+  "id": "4ebafa8e-bee9-4aa8-8a5e-e4c88136eb52",
+  "name": "高峰",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "这**差死了，5年才让我毕业，抢我第一作者，工作都找不下",
+      "dimensions": {}
+    }
+  ]
+}

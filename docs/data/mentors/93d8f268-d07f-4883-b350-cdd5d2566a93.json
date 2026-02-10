@@ -1,0 +1,19 @@
+{
+  "id": "93d8f268-d07f-4883-b350-cdd5d2566a93",
+  "name": "刘祖国",
+  "school": "厦门大学",
+  "department": "医学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "难得一见的好导师，不管是人品还是专业，都没话说",
+      "dimensions": {}
+    },
+    {
+      "comment": "刘老师是非常好的老师，无论从人品还是业务能力，对学生也很好",
+      "dimensions": {}
+    }
+  ]
+}

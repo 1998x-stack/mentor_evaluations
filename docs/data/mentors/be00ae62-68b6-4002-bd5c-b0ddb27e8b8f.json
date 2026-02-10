@@ -1,0 +1,15 @@
+{
+  "id": "be00ae62-68b6-4002-bd5c-b0ddb27e8b8f",
+  "name": "侯永宏",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "侯永宏",
+      "dimensions": {}
+    }
+  ]
+}

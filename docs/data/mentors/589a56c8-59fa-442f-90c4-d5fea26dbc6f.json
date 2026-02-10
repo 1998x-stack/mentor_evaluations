@@ -1,0 +1,27 @@
+{
+  "id": "589a56c8-59fa-442f-90c4-d5fea26dbc6f",
+  "name": "包明",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不太了解，据说是没有不延期的博士",
+      "dimensions": {}
+    },
+    {
+      "comment": "勉强凑合",
+      "dimensions": {}
+    },
+    {
+      "comment": "顶个肺",
+      "dimensions": {}
+    },
+    {
+      "comment": "把硕士当博士用，把博士当牲口用。科研路上的绊脚石，学生心目中的真叫兽。",
+      "dimensions": {}
+    }
+  ]
+}

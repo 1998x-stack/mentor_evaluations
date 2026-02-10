@@ -1,0 +1,23 @@
+{
+  "id": "41b91982-c9a7-42f0-bac0-0485f7c3ab71",
+  "name": "王靖涛",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：他不是一个高产的导师，但是他真的是在做科研",
+      "dimensions": {
+        "导师能力": "他不是一个高产的导师，但是他真的是在做科研"
+      }
+    },
+    {
+      "comment": "认真做科研。",
+      "dimensions": {}
+    }
+  ]
+}

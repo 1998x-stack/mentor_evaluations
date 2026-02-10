@@ -1,0 +1,27 @@
+{
+  "id": "1029ebde-0672-46e9-85c7-cade13893b54",
+  "name": "李龙",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "据说好几年没有文章，比较惨！",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人很好，要求严格，所以学生成果也不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师不错，值得推荐，电磁场的牛人",
+      "dimensions": {}
+    },
+    {
+      "comment": "毕业要求高，据说学生文章很少，不好找工作。",
+      "dimensions": {}
+    }
+  ]
+}

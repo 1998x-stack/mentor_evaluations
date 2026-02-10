@@ -1,0 +1,19 @@
+{
+  "id": "34957d8b-d319-4c30-9f90-d6b7359f6484",
+  "name": "文颖",
+  "school": "华东师范大学",
+  "department": "计算机科学与软件工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：不允许实习，绝对不允许实习，否则后果自负",
+      "dimensions": {
+        "毕业去向": "不允许实习，绝对不允许实习，否则后果自负"
+      }
+    }
+  ]
+}

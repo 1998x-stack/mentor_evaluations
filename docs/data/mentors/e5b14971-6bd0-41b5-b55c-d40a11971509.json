@@ -1,0 +1,31 @@
+{
+  "id": "e5b14971-6bd0-41b5-b55c-d40a11971509",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，导师能力高，但是实验室有时候会停电请注意保存你的工作站",
+      "dimensions": {}
+    },
+    {
+      "comment": "李智群老师确实懂RF，讲课很好，不紧不慢，有耐心！也很大方",
+      "dimensions": {}
+    },
+    {
+      "comment": "人品好，学术佳的典范",
+      "dimensions": {}
+    },
+    {
+      "comment": "上过rfic课，上课很认真，高水平老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "据我4系的几位同学反映，李老师很好，他的rf电路设计课我也上过，讲得很棒",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "948dab94-8d9d-4bdd-979a-bc3118bcaad8",
+  "name": "王宏智",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人特别好，对学生很亲和",
+      "dimensions": {}
+    },
+    {
+      "comment": "人很好老师人品贵重，对我们也好",
+      "dimensions": {}
+    }
+  ]
+}

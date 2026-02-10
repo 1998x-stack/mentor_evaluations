@@ -1,0 +1,19 @@
+{
+  "id": "939c6971-fd8c-49e9-a9be-a47caa233b8e",
+  "name": "刘迎文",
+  "school": "西安交通大学",
+  "department": "能源与动力工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：会为学生以后的工作着想，根据学生的需要培养。",
+      "dimensions": {
+        "毕业去向": "会为学生以后的工作着想，根据学生的需要培养。"
+      }
+    }
+  ]
+}

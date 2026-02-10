@@ -1,0 +1,15 @@
+{
+  "id": "60592459-27ac-4bbf-8da9-b29591b26491",
+  "name": "姜学军",
+  "school": NaN,
+  "department": "微生物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "以自我为中心，不考虑学生的前途。",
+      "dimensions": {}
+    }
+  ]
+}

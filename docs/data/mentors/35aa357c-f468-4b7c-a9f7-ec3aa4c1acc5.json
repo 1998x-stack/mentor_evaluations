@@ -1,0 +1,15 @@
+{
+  "id": "35aa357c-f468-4b7c-a9f7-ec3aa4c1acc5",
+  "name": "卜祥元",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "信息与通信工程",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "25c682e5-c9e1-4d56-8748-8733a4813a11",
+  "name": "张蓉竹",
+  "school": "四川大学",
+  "department": "电子信息学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "上课很严 科研不知道",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关:跟张老师做过本科毕设。带本科毕设很上心，但也很严格。是我心中认真负责的老师。",
+      "dimensions": {}
+    }
+  ]
+}

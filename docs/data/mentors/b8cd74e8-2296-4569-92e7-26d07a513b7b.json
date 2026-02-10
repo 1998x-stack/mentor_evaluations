@@ -1,0 +1,15 @@
+{
+  "id": "b8cd74e8-2296-4569-92e7-26d07a513b7b",
+  "name": "杨爱萍",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨爱萍",
+      "dimensions": {}
+    }
+  ]
+}

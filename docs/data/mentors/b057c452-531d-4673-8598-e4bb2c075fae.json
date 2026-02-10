@@ -1,0 +1,25 @@
+{
+  "id": "b057c452-531d-4673-8598-e4bb2c075fae",
+  "name": "龚俊波",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "敬业，负责。",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：老师很敬业 对学生负责 与学生关系：老师很敬业 对学生负责",
+      "dimensions": {
+        "导师能力": "老师很敬业 对学生负责 与学生",
+        "师生关系": "老师很敬业 对学生负责"
+      }
+    }
+  ]
+}

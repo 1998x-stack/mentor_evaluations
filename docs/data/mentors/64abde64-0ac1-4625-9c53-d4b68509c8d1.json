@@ -1,0 +1,19 @@
+{
+  "id": "64abde64-0ac1-4625-9c53-d4b68509c8d1",
+  "name": "夏青",
+  "school": "北京大学",
+  "department": "药学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "经费有 人品差 喜怒无常 歧视女性",
+      "dimensions": {}
+    },
+    {
+      "comment": "经费有 人品差 喜怒无常 歧视女性",
+      "dimensions": {}
+    }
+  ]
+}

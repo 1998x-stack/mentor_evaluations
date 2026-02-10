@@ -1,0 +1,19 @@
+{
+  "id": "18551791-9fea-4f19-abc7-0b61aa5e8f0a",
+  "name": "李苗苗",
+  "school": "南京航空航天大学",
+  "department": "机电学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "新的老师，能力尚可，对学生也算是可以的，",
+      "dimensions": {}
+    },
+    {
+      "comment": "李老师人特别好，之前帮她出过书，非常好相处",
+      "dimensions": {}
+    }
+  ]
+}

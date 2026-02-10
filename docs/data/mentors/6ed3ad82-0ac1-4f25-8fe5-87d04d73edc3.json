@@ -1,0 +1,15 @@
+{
+  "id": "6ed3ad82-0ac1-4f25-8fe5-87d04d73edc3",
+  "name": "顾大强",
+  "school": "浙江大学",
+  "department": "机械工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "顾老师对学生很好。",
+      "dimensions": {}
+    }
+  ]
+}

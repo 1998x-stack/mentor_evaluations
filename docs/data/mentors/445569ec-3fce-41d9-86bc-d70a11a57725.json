@@ -1,0 +1,21 @@
+{
+  "id": "445569ec-3fce-41d9-86bc-d70a11a57725",
+  "name": "耿建华",
+  "school": "同济大学",
+  "department": "海洋与地球科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：学生补助比较多 与学生关系：尊重学生",
+      "dimensions": {
+        "学生补助": "学生",
+        "师生关系": "尊重学生"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "face7021-2ddf-406d-ab17-ffed5d33ec0f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "讲课很好，课堂坐满了人，讲的是微积分",
+      "dimensions": {}
+    }
+  ]
+}

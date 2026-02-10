@@ -1,0 +1,19 @@
+{
+  "id": "bd8dbf8c-1ebb-473b-a61c-155c670b7156",
+  "name": "胡明",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "胡明 女 教授 http://www.tju.edu.cn/seie/szdw/js/201109/t20110916_113930.html",
+      "dimensions": {}
+    },
+    {
+      "comment": "胡老师人很好，特别温柔",
+      "dimensions": {}
+    }
+  ]
+}

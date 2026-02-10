@@ -1,0 +1,15 @@
+{
+  "id": "fe0cd5fb-07c0-4ffa-8e72-77ac77deb73f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师比较年轻，科研水平棒棒的，被引用1600多次（截至2016年1月30日），为人比较低调~",
+      "dimensions": {}
+    }
+  ]
+}

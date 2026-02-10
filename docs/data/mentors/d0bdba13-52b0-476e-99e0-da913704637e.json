@@ -1,0 +1,15 @@
+{
+  "id": "d0bdba13-52b0-476e-99e0-da913704637e",
+  "name": "杨志豪",
+  "school": "大连理工大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "操作系统课给讲成一坨屎 一个搞NLP的连这个都玩不明白 计算机基础咋打的 扫了一眼他博士论文 全篇抄袭啊……",
+      "dimensions": {}
+    }
+  ]
+}

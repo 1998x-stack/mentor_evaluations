@@ -1,0 +1,15 @@
+{
+  "id": "f835d7c1-5580-47b2-b895-9f16c8f7d65d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不在了。已经不在了。不在我们学校了。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b1128409-0967-44a5-85e2-32c5d602ebe1",
+  "name": "李磊",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很逗，思想开放年轻，与学生关系融洽",
+      "dimensions": {}
+    }
+  ]
+}

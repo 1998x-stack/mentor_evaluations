@@ -1,0 +1,19 @@
+{
+  "id": "a26d5a91-6f61-453d-919f-a4b96e85e6ab",
+  "name": "王浩",
+  "school": "东南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "官宦气息比较严重。。。。。。",
+      "dimensions": {}
+    },
+    {
+      "comment": "疯狂压榨学生，报他就别想有假期。不懂还瞎指挥，打断你的科研节奏，疯狂延毕",
+      "dimensions": {}
+    }
+  ]
+}

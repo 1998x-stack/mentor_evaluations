@@ -1,0 +1,15 @@
+{
+  "id": "a9d888ab-56d9-4f53-9af9-f522d464249b",
+  "name": "张振江",
+  "school": "北京交通大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学生论文都发在自己办的期刊上，讲课水平差",
+      "dimensions": {}
+    }
+  ]
+}

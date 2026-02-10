@@ -1,0 +1,15 @@
+{
+  "id": "561b2eb2-25e4-4676-929c-073ba9ab0096",
+  "name": "贾小玫",
+  "school": "西安交通大学",
+  "department": "经济与金融学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "修了宏观经济，讲的蛮好的，只是有时候上课的话题会跑偏，然后好久才转回来。",
+      "dimensions": {}
+    }
+  ]
+}

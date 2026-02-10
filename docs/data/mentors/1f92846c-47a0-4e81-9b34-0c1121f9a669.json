@@ -1,0 +1,15 @@
+{
+  "id": "1f92846c-47a0-4e81-9b34-0c1121f9a669",
+  "name": "刘彦",
+  "school": "北京理工大学",
+  "department": "机电学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人很好，对学生很真心。推荐\n",
+      "dimensions": {}
+    }
+  ]
+}

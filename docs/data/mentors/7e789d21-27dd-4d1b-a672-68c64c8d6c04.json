@@ -1,0 +1,23 @@
+{
+  "id": "7e789d21-27dd-4d1b-a672-68c64c8d6c04",
+  "name": "王博",
+  "school": "北京理工大学",
+  "department": "化学学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "少见的好老师！灵魂导师！无论是科研，还是未来发展都会有非常好的指导。很庆幸能拥有这样一位导师！",
+      "dimensions": {}
+    },
+    {
+      "comment": "听说是化院男神  终于得一见",
+      "dimensions": {}
+    },
+    {
+      "comment": "我想用一句话来总结：满满的幸福感！",
+      "dimensions": {}
+    }
+  ]
+}

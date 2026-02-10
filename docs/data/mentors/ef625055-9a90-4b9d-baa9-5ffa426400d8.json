@@ -1,0 +1,15 @@
+{
+  "id": "ef625055-9a90-4b9d-baa9-5ffa426400d8",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不错的导师，手下的学生柴真发了很多不错的文章，得了王大珩光学奖。",
+      "dimensions": {}
+    }
+  ]
+}

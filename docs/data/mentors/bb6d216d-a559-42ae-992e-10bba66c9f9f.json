@@ -1,0 +1,15 @@
+{
+  "id": "bb6d216d-a559-42ae-992e-10bba66c9f9f",
+  "name": "于仲波",
+  "school": "南开大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "生物物理方向，能力一般，博士毕业大多破格",
+      "dimensions": {}
+    }
+  ]
+}

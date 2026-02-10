@@ -1,0 +1,15 @@
+{
+  "id": "eae8478e-5e87-4206-9a95-50be2e213149",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，只要自觉学，出路也好",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fc75dc73-58ce-4fbd-af16-3f7daee5ffe5",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "高冷帅哥一枚，技术和人品并重，能力与态度齐飞！",
+      "dimensions": {}
+    },
+    {
+      "comment": "卢老师工作负责，科研模范，做工程项目也很牛，带学生真诚，为人宽厚",
+      "dimensions": {}
+    }
+  ]
+}

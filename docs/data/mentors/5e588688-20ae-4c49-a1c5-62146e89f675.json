@@ -1,0 +1,19 @@
+{
+  "id": "5e588688-20ae-4c49-a1c5-62146e89f675",
+  "name": "李祥立",
+  "school": "大连理工大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 9.0,
+  "dimensionScores": {
+    "师生关系": 9.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：对学生很好很耐心，认真负责默默无闻。",
+      "dimensions": {
+        "师生关系": "对学生很好很耐心，认真负责默默无闻。"
+      }
+    }
+  ]
+}

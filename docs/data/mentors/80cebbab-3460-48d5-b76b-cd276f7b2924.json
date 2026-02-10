@@ -1,0 +1,19 @@
+{
+  "id": "80cebbab-3460-48d5-b76b-cd276f7b2924",
+  "name": "邵兵",
+  "school": "北京航空航天大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "毕业去向": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：允许实习，老师比较负责，对学生论文很严格，格式规范，对学生很好",
+      "dimensions": {
+        "毕业去向": "允许实习，老师比较负责，对学生论文很严格，格式规范，对学生很好"
+      }
+    }
+  ]
+}

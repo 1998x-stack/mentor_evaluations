@@ -1,0 +1,15 @@
+{
+  "id": "a89c98ad-edb5-440f-9ed2-6544e76dd01f",
+  "name": "孙剑",
+  "school": "西安交通大学",
+  "department": "数学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：求介绍一下这位老师补助，导师能力，学生去向，日常学习啥的",
+      "dimensions": {}
+    }
+  ]
+}

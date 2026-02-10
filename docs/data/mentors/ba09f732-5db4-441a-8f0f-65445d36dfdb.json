@@ -1,0 +1,15 @@
+{
+  "id": "ba09f732-5db4-441a-8f0f-65445d36dfdb",
+  "name": "万波",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "万波 硕士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

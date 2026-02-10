@@ -1,0 +1,19 @@
+{
+  "id": "5aef44e5-13bc-4758-9dfa-89cfe6aa767d",
+  "name": "张礼知",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术搞得好有目共睹，但是总觉得自己多牛逼一人，很多人去找他都得先被怼一顿。作为导师可能会很好，但是不是他学生的人，真的难受",
+      "dimensions": {}
+    },
+    {
+      "comment": "学术很钻研，眼界格局比某些老师高哪里去了，是个大牛。",
+      "dimensions": {}
+    }
+  ]
+}

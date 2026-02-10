@@ -1,0 +1,31 @@
+{
+  "id": "dc05d874-1098-4c0a-a633-884472f5c95c",
+  "name": "李寒莹",
+  "school": "浙江大学",
+  "department": "高分子科学与工程学系",
+  "evaluationCount": 2,
+  "totalScore": 5.29,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "师生关系": 5.88
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力高，浙大最年轻杰青获得者 经费发放：经费充足，设备齐全 与学生关系：师生相处融洽，平时交流很多",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": "",
+        "师生关系": "师生相处融洽，平时交流很多"
+      }
+    },
+    {
+      "comment": "导师能力：在advanced materials；angewandte Chemie;Science等顶级期刊发表多篇论文 经费发放：杰出青年基金获得者 与学生关系：待人友善，学术人品俱佳",
+      "dimensions": {
+        "导师能力": "在advanced materials；angewandte Chemie;Science等顶级期刊发表多篇论文",
+        "经费情况": "杰出青年基金获得者 与学生",
+        "师生关系": "待人友善，学术人品俱佳"
+      }
+    }
+  ]
+}

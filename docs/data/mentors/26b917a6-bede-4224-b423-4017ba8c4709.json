@@ -1,0 +1,15 @@
+{
+  "id": "26b917a6-bede-4224-b423-4017ba8c4709",
+  "name": "李涓子",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "据说这个老师极好",
+      "dimensions": {}
+    }
+  ]
+}

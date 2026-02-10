@@ -1,0 +1,19 @@
+{
+  "id": "a1d80e9e-1e07-4ab8-8eeb-8fb4a2bc71ba",
+  "name": "李琳",
+  "school": "西南交通大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "学生补助": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：我爸是土木学院书记 学生补助：无补助",
+      "dimensions": {
+        "学生补助": "无"
+      }
+    }
+  ]
+}

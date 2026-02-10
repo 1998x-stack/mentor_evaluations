@@ -1,0 +1,19 @@
+{
+  "id": "fca238d4-4ddd-4b50-b785-aff20627d28a",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "博士生培养偏向理论研究，硕士生和工程实际联系紧密，几年时间收获颇多，但就是一个字“累”。",
+      "dimensions": {}
+    },
+    {
+      "comment": "项目很多，经费充足，但学生做项目较辛苦，完成论文的时间较仓促，就业前景很好，收入高。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e707a76d-9847-42dd-a287-1ffeba686b1e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "和学生相处比较融洽，没有架子。实验室经费良好，只要是想做实验，总体上不会受到太大的限制。不强制延毕，只要达到毕业要求就能毕业。",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生还挺好的，稍有些辛苦一周工作六天，可以接受。也不强制延期达到毕业条件就可以毕业。",
+      "dimensions": {}
+    }
+  ]
+}

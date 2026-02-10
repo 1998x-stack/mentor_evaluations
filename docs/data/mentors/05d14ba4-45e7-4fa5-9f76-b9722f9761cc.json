@@ -1,0 +1,15 @@
+{
+  "id": "05d14ba4-45e7-4fa5-9f76-b9722f9761cc",
+  "name": "管乐",
+  "school": "华中科技大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "是近几年来的老师，phd是机器学习方面，偏向于bayes和deep learning（消息来源可能不准确）。",
+      "dimensions": {}
+    }
+  ]
+}

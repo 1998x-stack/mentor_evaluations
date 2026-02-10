@@ -1,0 +1,19 @@
+{
+  "id": "32278611-8f77-4201-b705-94308a10a5df",
+  "name": "高璞珍",
+  "school": "哈尔滨工程大学",
+  "department": "核科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "工作时间": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：三甲实验室221 工作时间：无",
+      "dimensions": {
+        "工作时间": "无"
+      }
+    }
+  ]
+}

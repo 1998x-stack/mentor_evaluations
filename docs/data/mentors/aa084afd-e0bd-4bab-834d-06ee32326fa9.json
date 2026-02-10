@@ -1,0 +1,15 @@
+{
+  "id": "aa084afd-e0bd-4bab-834d-06ee32326fa9",
+  "name": "周刚",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "论历史懂得不少，论学术真不咋地",
+      "dimensions": {}
+    }
+  ]
+}

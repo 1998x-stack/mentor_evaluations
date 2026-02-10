@@ -1,0 +1,15 @@
+{
+  "id": "8272cafa-ae26-494b-93c1-be2856d76f0a",
+  "name": "杨晋生",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨晋生",
+      "dimensions": {}
+    }
+  ]
+}

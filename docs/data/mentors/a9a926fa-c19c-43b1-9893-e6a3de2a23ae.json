@@ -1,0 +1,19 @@
+{
+  "id": "a9a926fa-c19c-43b1-9893-e6a3de2a23ae",
+  "name": "李亮",
+  "school": "清华大学",
+  "department": "汽车工程系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "自己开公司，课题组没有科研，学生都在干工程，不建议",
+      "dimensions": {}
+    },
+    {
+      "comment": "           ",
+      "dimensions": {}
+    }
+  ]
+}

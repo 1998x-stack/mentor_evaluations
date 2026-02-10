@@ -1,0 +1,15 @@
+{
+  "id": "0044ce8a-637e-4b5c-bb11-114c7637da20",
+  "name": "张刚",
+  "school": "哈尔滨工业大学",
+  "department": "航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师能力很高，对待学生很耐心，悉心指导",
+      "dimensions": {}
+    }
+  ]
+}

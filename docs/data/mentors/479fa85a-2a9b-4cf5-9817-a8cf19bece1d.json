@@ -1,0 +1,21 @@
+{
+  "id": "479fa85a-2a9b-4cf5-9817-a8cf19bece1d",
+  "name": "张兆翔",
+  "school": NaN,
+  "department": "自动化研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：年轻有为，自动化所最年轻正研 学生毕业去向：开发学生出去实习，而且还鼓励",
+      "dimensions": {
+        "导师能力": "年轻有为，自动化所最年轻正研 学生毕业",
+        "毕业去向": "开发学生出去实习，而且还鼓励"
+      }
+    }
+  ]
+}

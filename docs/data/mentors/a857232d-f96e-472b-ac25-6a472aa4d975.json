@@ -1,0 +1,15 @@
+{
+  "id": "a857232d-f96e-472b-ac25-6a472aa4d975",
+  "name": "杨志永",
+  "school": "天津大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "机械工程",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "9de90b2e-cfc1-48f3-9937-134f17f9cb3f",
+  "name": "胡春明",
+  "school": "北京航空航天大学",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：DF 导师能力：经费发放充足 经费发放：经费发放充足经费发放充足经费发放充足经费发放充足",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": ""
+      }
+    }
+  ]
+}

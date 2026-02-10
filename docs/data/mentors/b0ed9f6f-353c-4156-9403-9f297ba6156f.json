@@ -1,0 +1,23 @@
+{
+  "id": "b0ed9f6f-353c-4156-9403-9f297ba6156f",
+  "name": "张林",
+  "school": "天津大学",
+  "department": "精密仪器与光电子工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "林哥很赞，能选上他的研究生就稳了",
+      "dimensions": {}
+    },
+    {
+      "comment": "Prof. Zhang specializes in on-chip integrated photonics, which is a very promising field now and in the future. He is so kind and helpful to his students and provides great opportunities for us. Best wishes!",
+      "dimensions": {}
+    },
+    {
+      "comment": "张老师是一位特别认真负责有创造性的老师，能考上他的研究生就很幸福了",
+      "dimensions": {}
+    }
+  ]
+}

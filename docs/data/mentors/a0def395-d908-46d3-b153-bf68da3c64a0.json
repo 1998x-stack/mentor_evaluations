@@ -1,0 +1,19 @@
+{
+  "id": "a0def395-d908-46d3-b153-bf68da3c64a0",
+  "name": "宋波",
+  "school": "大连理工大学",
+  "department": "化学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人和蔼可亲，非常为学生着想，亦师亦友",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师很好，懂得挺多，也比较为学生着想，关键是脾气好",
+      "dimensions": {}
+    }
+  ]
+}

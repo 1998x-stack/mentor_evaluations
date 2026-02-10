@@ -1,0 +1,15 @@
+{
+  "id": "e044e2c2-a8cb-4647-93cc-d7fbd622d431",
+  "name": "王西彬",
+  "school": "北京理工大学",
+  "department": "机械与车辆学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "先进加工实验室领头导师",
+      "dimensions": {}
+    }
+  ]
+}

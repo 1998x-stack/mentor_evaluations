@@ -1,0 +1,15 @@
+{
+  "id": "d73e5590-f458-49a7-aac7-3ca5691ca238",
+  "name": "李兴华",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "李兴华 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

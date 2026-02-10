@@ -1,0 +1,15 @@
+{
+  "id": "510469d4-e48b-4e9d-9c38-a3a57c6f3295",
+  "name": "何芒",
+  "school": "北京理工大学",
+  "department": "信息与电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "电子科学与技术",
+      "dimensions": {}
+    }
+  ]
+}

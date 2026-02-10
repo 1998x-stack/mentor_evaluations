@@ -1,0 +1,19 @@
+{
+  "id": "29a96668-6258-440a-991b-e70f7ee8d895",
+  "name": "刘林",
+  "school": "南开大学",
+  "department": "生命科学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "延期延满，硕博博后都延，学阀",
+      "dimensions": {}
+    },
+    {
+      "comment": "硕士延期，博士更不用说了，自求多福",
+      "dimensions": {}
+    }
+  ]
+}

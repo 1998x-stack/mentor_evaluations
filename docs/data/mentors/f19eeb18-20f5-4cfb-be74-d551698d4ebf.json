@@ -1,0 +1,15 @@
+{
+  "id": "f19eeb18-20f5-4cfb-be74-d551698d4ebf",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "徐老师对学生很好，与学生关系像慈父对子女。资源多，经费也多。毕业前途都很不错。",
+      "dimensions": {}
+    }
+  ]
+}

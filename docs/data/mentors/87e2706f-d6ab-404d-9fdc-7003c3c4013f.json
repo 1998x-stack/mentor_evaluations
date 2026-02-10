@@ -1,0 +1,15 @@
+{
+  "id": "87e2706f-d6ab-404d-9fdc-7003c3c4013f",
+  "name": "陆帅",
+  "school": "重庆大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学术一般，实验室硬件极好，学生毕业去向靠自己",
+      "dimensions": {}
+    }
+  ]
+}

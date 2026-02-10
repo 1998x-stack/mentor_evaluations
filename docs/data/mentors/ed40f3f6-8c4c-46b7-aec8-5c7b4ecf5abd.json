@@ -1,0 +1,15 @@
+{
+  "id": "ed40f3f6-8c4c-46b7-aec8-5c7b4ecf5abd",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "叶老师为人大方，但是这几年科研貌似不行，实验室有不少延毕的，而且他要去其他学校了，不建议选他当导师。",
+      "dimensions": {}
+    }
+  ]
+}

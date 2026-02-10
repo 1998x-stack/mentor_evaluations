@@ -1,0 +1,15 @@
+{
+  "id": "09374b70-c39d-4029-8e93-73ab384da72c",
+  "name": "刘杨",
+  "school": NaN,
+  "department": "微电子研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：微电子所存储器中心的老师",
+      "dimensions": {}
+    }
+  ]
+}

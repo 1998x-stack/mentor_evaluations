@@ -1,0 +1,15 @@
+{
+  "id": "a9c00365-c639-4622-9dc4-93108bee3260",
+  "name": "冯露",
+  "school": "天津大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "固体力学硕士导师",
+      "dimensions": {}
+    }
+  ]
+}

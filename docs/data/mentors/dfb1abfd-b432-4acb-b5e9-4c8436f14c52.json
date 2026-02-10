@@ -1,0 +1,15 @@
+{
+  "id": "dfb1abfd-b432-4acb-b5e9-4c8436f14c52",
+  "name": "叶建涛",
+  "school": "中山大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很年轻，听他讲课思路很活跃，反应很快",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1cebe90f-30c8-48a4-af56-cfff3950c16f",
+  "name": "鲁统部",
+  "school": "中山大学",
+  "department": "化学与化学工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "鲁老师据说已经离开中大，去了天津。。。。。。。。。",
+      "dimensions": {}
+    }
+  ]
+}

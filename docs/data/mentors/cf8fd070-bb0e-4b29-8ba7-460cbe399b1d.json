@@ -1,0 +1,15 @@
+{
+  "id": "cf8fd070-bb0e-4b29-8ba7-460cbe399b1d",
+  "name": "陈文华",
+  "school": "清华大学",
+  "department": "电子工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师中的楷模",
+      "dimensions": {}
+    }
+  ]
+}

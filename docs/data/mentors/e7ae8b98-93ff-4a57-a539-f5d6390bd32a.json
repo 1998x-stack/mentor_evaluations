@@ -1,0 +1,15 @@
+{
+  "id": "e7ae8b98-93ff-4a57-a539-f5d6390bd32a",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "有钱就是任性",
+      "dimensions": {}
+    }
+  ]
+}

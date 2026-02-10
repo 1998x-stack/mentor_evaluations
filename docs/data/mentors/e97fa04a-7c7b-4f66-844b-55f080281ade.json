@@ -1,0 +1,19 @@
+{
+  "id": "e97fa04a-7c7b-4f66-844b-55f080281ade",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：鼓励学生实习，还给的发实习补贴，怕在外面吃不饱饭",
+      "dimensions": {
+        "毕业去向": "鼓励学生实习，还给的发实习补贴，怕在外面吃不饱饭"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "865e3bee-55af-4899-9145-b7170d0be36d",
+  "name": "李勇",
+  "school": "北京协和医学院",
+  "department": "药物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "nice teacher",
+      "dimensions": {}
+    }
+  ]
+}

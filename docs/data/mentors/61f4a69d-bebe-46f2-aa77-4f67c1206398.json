@@ -1,0 +1,15 @@
+{
+  "id": "61f4a69d-bebe-46f2-aa77-4f67c1206398",
+  "name": "蔺小渊",
+  "school": "浙江大学",
+  "department": "电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生态度很好，科研能力很强！",
+      "dimensions": {}
+    }
+  ]
+}

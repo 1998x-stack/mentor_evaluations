@@ -1,0 +1,19 @@
+{
+  "id": "67ce8116-f25d-40c8-b4c8-c9052b36f689",
+  "name": "王晓远",
+  "school": "天津大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "确实是垃圾",
+      "dimensions": {}
+    },
+    {
+      "comment": "人品，学术皆垃圾",
+      "dimensions": {}
+    }
+  ]
+}

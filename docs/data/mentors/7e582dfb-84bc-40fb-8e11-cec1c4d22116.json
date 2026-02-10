@@ -1,0 +1,23 @@
+{
+  "id": "7e582dfb-84bc-40fb-8e11-cec1c4d22116",
+  "name": "乔园园",
+  "school": "南开大学",
+  "department": "化学学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "谁也别和我抢乔老师，这么好的导师快藏不住了",
+      "dimensions": {}
+    },
+    {
+      "comment": "化学学院最负责任的导师学生放羊，时间自由\n学生评价最高，极为鄙视科研，我爱乔老师！",
+      "dimensions": {}
+    },
+    {
+      "comment": "乔老师除了不是教授不能带博士以外没有什么缺点【当然没有太多经费，话说搞计算也不需要太多经费】，人超级nice，而且也有自己的想法，虽然他忙于赚钱没时间管学生，但是他也不push进度，而且认识的人超级多。",
+      "dimensions": {}
+    }
+  ]
+}

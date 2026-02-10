@@ -1,0 +1,19 @@
+{
+  "id": "52e8a04b-369e-443a-8b1d-c8582d0f832c",
+  "name": "柳红",
+  "school": NaN,
+  "department": "上海药物研究所",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：女老板的通病，太把自己当回事，学生都怕，什么事情都要经过她同意了才能做",
+      "dimensions": {
+        "师生关系": "女老板的通病，太把自己当回事，学生都怕，什么事情都要经过她同意了才能做"
+      }
+    }
+  ]
+}

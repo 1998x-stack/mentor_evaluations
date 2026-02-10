@@ -1,0 +1,15 @@
+{
+  "id": "ae4d8242-05b0-41f9-8681-d294f65d2efe",
+  "name": "鱼亮",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "带过我离散数学，人比较好说话，对学生也很负责",
+      "dimensions": {}
+    }
+  ]
+}

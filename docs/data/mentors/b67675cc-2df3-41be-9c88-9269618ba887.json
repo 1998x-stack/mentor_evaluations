@@ -1,0 +1,15 @@
+{
+  "id": "b67675cc-2df3-41be-9c88-9269618ba887",
+  "name": "杨世勇",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨世勇 http://web.xidian.edu.cn/shyyang/",
+      "dimensions": {}
+    }
+  ]
+}

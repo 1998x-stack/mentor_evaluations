@@ -1,0 +1,15 @@
+{
+  "id": "f55abea9-3404-46ca-b7ba-7bf1285bc1a7",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "徐启建 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

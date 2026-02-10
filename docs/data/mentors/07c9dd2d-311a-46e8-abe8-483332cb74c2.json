@@ -1,0 +1,15 @@
+{
+  "id": "07c9dd2d-311a-46e8-abe8-483332cb74c2",
+  "name": "刘忠信",
+  "school": "南开大学",
+  "department": "计算机与控制工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "刘老师讲课还是非常给力的",
+      "dimensions": {}
+    }
+  ]
+}

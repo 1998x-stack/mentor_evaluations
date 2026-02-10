@@ -1,0 +1,19 @@
+{
+  "id": "e59fb77e-abc0-4740-be9b-b948c68da279",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "刘老师，非常好的导师，关心学生科研和生活，值得报考！",
+      "dimensions": {}
+    },
+    {
+      "comment": "真心从学生角度考虑的好老师，亦师亦友，感谢多年的指导和培养。",
+      "dimensions": {}
+    }
+  ]
+}

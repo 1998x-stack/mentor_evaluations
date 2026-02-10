@@ -1,0 +1,19 @@
+{
+  "id": "a102a0e1-05f1-4e42-b95e-a4886e311240",
+  "name": "李文权",
+  "school": "东南大学",
+  "department": "交通学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "小气，独裁，自以为是，当学生当做赚钱工具。",
+      "dimensions": {}
+    },
+    {
+      "comment": "不把学生当回事，自认为很高明，喜欢把学生当猴耍。",
+      "dimensions": {}
+    }
+  ]
+}

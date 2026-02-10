@@ -1,0 +1,19 @@
+{
+  "id": "e75d5808-46bd-44d5-bd33-43b2d5dc0d13",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：学生只是他手下没有任何尊严的打工仔，张口闭口TMD，满嘴脏话，不能入耳，大家毕业后基本和他断绝联系",
+      "dimensions": {
+        "师生关系": "学生只是他手下没有任何尊严的打工仔，张口闭口TMD，满嘴脏话，不能入耳，大家毕业后基本和他断绝联系"
+      }
+    }
+  ]
+}

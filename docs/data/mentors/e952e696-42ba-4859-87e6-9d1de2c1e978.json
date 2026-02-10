@@ -1,0 +1,15 @@
+{
+  "id": "e952e696-42ba-4859-87e6-9d1de2c1e978",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "吸烟大王  教过我们有机化学",
+      "dimensions": {}
+    }
+  ]
+}

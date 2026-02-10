@@ -1,0 +1,19 @@
+{
+  "id": "6e3b2e81-2606-40f7-8814-6eff271f6d28",
+  "name": "王耀武",
+  "school": "东北大学",
+  "department": "冶金学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王老师平易近人，性格温和，对学生认真负责，是难得的好老师，思维活跃，对科研认真细致，时常有新想法产生，和学生相处融洽，组内氛围和谐，欢迎有报考意向的学弟学妹了解一下^ω^",
+      "dimensions": {}
+    },
+    {
+      "comment": "王老师科研能力很不错，为学生着想，经常亲自指导学生。很nice的一个老师！",
+      "dimensions": {}
+    }
+  ]
+}

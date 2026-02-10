@@ -1,0 +1,27 @@
+{
+  "id": "204a0b86-1814-4b3c-9df2-55b5f0d7f3c7",
+  "name": "董晓燕",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 3,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "有时会批评学生，但要求严格是为了学生好，对外的时候会袒护照顾自己的学生。 跟她读硕士最好了，要是想读博士的话最好还是找同组的孙彦老师。",
+      "dimensions": {}
+    },
+    {
+      "comment": "与学生关系：批评学生，但要求严格是为了学生好",
+      "dimensions": {
+        "师生关系": "批评学生，但要求严格是为了学生好"
+      }
+    },
+    {
+      "comment": "好老师",
+      "dimensions": {}
+    }
+  ]
+}

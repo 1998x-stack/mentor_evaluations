@@ -1,0 +1,15 @@
+{
+  "id": "58e27cc8-38ed-4198-8fd2-49ec9637d690",
+  "name": "聂建国",
+  "school": "清华大学",
+  "department": "土木工程系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "院士级别的人物",
+      "dimensions": {}
+    }
+  ]
+}

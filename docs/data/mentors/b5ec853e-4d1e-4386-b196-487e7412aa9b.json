@@ -1,0 +1,15 @@
+{
+  "id": "b5ec853e-4d1e-4386-b196-487e7412aa9b",
+  "name": "肖峻",
+  "school": "天津大学",
+  "department": "电气与自动化工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "肖老师是个好老师！",
+      "dimensions": {}
+    }
+  ]
+}

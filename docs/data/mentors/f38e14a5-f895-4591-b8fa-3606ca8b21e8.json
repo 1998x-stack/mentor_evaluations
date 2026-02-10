@@ -1,0 +1,23 @@
+{
+  "id": "f38e14a5-f895-4591-b8fa-3606ca8b21e8",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很好很负责任的老师，致学严谨，不过就是快退休了，项目少些",
+      "dimensions": {}
+    },
+    {
+      "comment": "真正有师德的好老师，某副院长可以学学",
+      "dimensions": {}
+    },
+    {
+      "comment": "我好喜欢张继军老师呀  我感觉我上辈子就是张继军老师",
+      "dimensions": {}
+    }
+  ]
+}

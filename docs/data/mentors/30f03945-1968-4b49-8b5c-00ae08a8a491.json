@@ -1,0 +1,21 @@
+{
+  "id": "30f03945-1968-4b49-8b5c-00ae08a8a491",
+  "name": "叶文才",
+  "school": "暨南大学",
+  "department": "药学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力差，垃圾中的战斗机… 与学生关系：不尊重学生",
+      "dimensions": {
+        "导师能力": "",
+        "师生关系": "不尊重学生"
+      }
+    }
+  ]
+}

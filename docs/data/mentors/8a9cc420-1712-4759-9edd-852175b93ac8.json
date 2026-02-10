@@ -1,0 +1,19 @@
+{
+  "id": "8a9cc420-1712-4759-9edd-852175b93ac8",
+  "name": "苏冬蔚",
+  "school": "暨南大学",
+  "department": "经济学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力很不错，发表了很多高质量论文。",
+      "dimensions": {
+        "导师能力": ""
+      }
+    }
+  ]
+}

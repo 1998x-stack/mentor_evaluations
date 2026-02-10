@@ -1,0 +1,21 @@
+{
+  "id": "ee41ec8f-16f1-4aea-90b5-b5f11fd3425f",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：CYT 2F 学生补助：16600hkd 工作时间：不强制周末加班",
+      "dimensions": {
+        "学生补助": "16600hkd 工作",
+        "工作时间": "不强制周末加班"
+      }
+    }
+  ]
+}

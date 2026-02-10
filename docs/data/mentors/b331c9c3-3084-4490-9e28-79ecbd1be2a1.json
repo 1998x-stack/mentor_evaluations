@@ -1,0 +1,15 @@
+{
+  "id": "b331c9c3-3084-4490-9e28-79ecbd1be2a1",
+  "name": "湖涛",
+  "school": "北京大学",
+  "department": "经济学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "讲课听不懂啊",
+      "dimensions": {}
+    }
+  ]
+}

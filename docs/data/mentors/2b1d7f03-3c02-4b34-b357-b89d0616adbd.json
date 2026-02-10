@@ -1,0 +1,19 @@
+{
+  "id": "2b1d7f03-3c02-4b34-b357-b89d0616adbd",
+  "name": "谢树果",
+  "school": "北京航空航天大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "谢老师是个好老师，长的贼帅",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人特好，实验室氛围也特别好！",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c4a24a67-9d85-457f-9a7a-1e970376c5ec",
+  "name": "胡小方",
+  "school": "西南大学",
+  "department": "计算机与信息科学学院,软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：800 per month 工作时间：no work overtime",
+      "dimensions": {
+        "学生补助": "800 per month 工作",
+        "工作时间": "no work overtime"
+      }
+    }
+  ]
+}

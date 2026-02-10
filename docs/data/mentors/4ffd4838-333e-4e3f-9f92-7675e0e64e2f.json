@@ -1,0 +1,15 @@
+{
+  "id": "4ffd4838-333e-4e3f-9f92-7675e0e64e2f",
+  "name": "马跃",
+  "school": "大连理工大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "机械形象代言人，帅气，副院长，科研团体庞大。",
+      "dimensions": {}
+    }
+  ]
+}

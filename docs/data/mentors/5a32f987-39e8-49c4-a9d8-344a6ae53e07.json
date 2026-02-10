@@ -1,0 +1,15 @@
+{
+  "id": "5a32f987-39e8-49c4-a9d8-344a6ae53e07",
+  "name": "李彩娜",
+  "school": "陕西师范大学",
+  "department": "心理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "唯利是图，压榨学生，千万不要报",
+      "dimensions": {}
+    }
+  ]
+}

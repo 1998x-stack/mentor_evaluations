@@ -1,0 +1,19 @@
+{
+  "id": "efaf11d1-b9f8-4b9c-a240-2f6035c49ccc",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：热能系的大牛，每年上他那学习的都是保研的。",
+      "dimensions": {
+        "导师能力": "热能系的大牛，每年上他那学习的都是保研的。"
+      }
+    }
+  ]
+}

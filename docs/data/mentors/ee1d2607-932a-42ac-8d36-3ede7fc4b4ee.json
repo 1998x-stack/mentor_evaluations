@@ -1,0 +1,15 @@
+{
+  "id": "ee1d2607-932a-42ac-8d36-3ede7fc4b4ee",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师能力一般，虽然不刁难学生毕业，但是也正因此导致部分论文质量不高。",
+      "dimensions": {}
+    }
+  ]
+}

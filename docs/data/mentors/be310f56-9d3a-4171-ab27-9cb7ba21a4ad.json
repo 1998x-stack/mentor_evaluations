@@ -1,0 +1,19 @@
+{
+  "id": "be310f56-9d3a-4171-ab27-9cb7ba21a4ad",
+  "name": "罗正钱",
+  "school": "厦门大学",
+  "department": "信息科学与技术学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师能力高，治学严谨，和蔼可亲，愿意帮助学生",
+      "dimensions": {}
+    },
+    {
+      "comment": "罗老师科研水平很好，治学很认真。年龄年轻，容易与学生打成一片，对学生科研和生活上都很上心。至于找工作这一快，罗老师如果有机会，他会努力推荐。",
+      "dimensions": {}
+    }
+  ]
+}

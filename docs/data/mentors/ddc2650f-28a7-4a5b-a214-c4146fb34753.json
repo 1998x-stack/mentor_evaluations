@@ -1,0 +1,19 @@
+{
+  "id": "ddc2650f-28a7-4a5b-a214-c4146fb34753",
+  "name": "张雪峰",
+  "school": "东北大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "新引进的青年千人。学术方面突出。发表文章中有Phys. Rev. Lett. 1篇、Nature Commun. 1篇、Appl. Phys. Lett. 7篇、J. Phys. Chem. C. 4篇、J. Mater. Chem. 2篇、Acta Materialia 1篇和ACS Appl. Mater. Interfac. 1篇等。 虽然人很年轻，但是感觉导师能力甩同学院一些教授几条街。",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师挺好，就是年轻",
+      "dimensions": {}
+    }
+  ]
+}

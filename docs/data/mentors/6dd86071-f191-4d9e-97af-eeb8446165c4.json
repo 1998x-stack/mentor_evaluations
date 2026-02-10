@@ -1,0 +1,19 @@
+{
+  "id": "6dd86071-f191-4d9e-97af-eeb8446165c4",
+  "name": "汪怡平",
+  "school": "武汉理工大学",
+  "department": "汽车工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "实验室学术顶梁柱，事业上升期",
+      "dimensions": {}
+    },
+    {
+      "comment": "关心学生生活及找工作的困难，尽心辅导学生论文，日常科研项目要求略严格，但其学生学习三年普遍能发表sci等高水平论文，就业单位也不错。",
+      "dimensions": {}
+    }
+  ]
+}

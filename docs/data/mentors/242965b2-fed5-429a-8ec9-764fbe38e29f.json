@@ -1,0 +1,19 @@
+{
+  "id": "242965b2-fed5-429a-8ec9-764fbe38e29f",
+  "name": "赵海涛",
+  "school": "天津大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "赵老师，对学生很好。为人不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "治学严谨",
+      "dimensions": {}
+    }
+  ]
+}

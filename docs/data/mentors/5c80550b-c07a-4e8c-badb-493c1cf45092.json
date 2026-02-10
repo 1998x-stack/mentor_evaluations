@@ -1,0 +1,23 @@
+{
+  "id": "5c80550b-c07a-4e8c-badb-493c1cf45092",
+  "name": "肖 谧",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "肖谧，男，1972年生人，博士，副教授 http://www.tju.edu.cn/seie/szdw/fjs/201106/t20110601_105413.html",
+      "dimensions": {}
+    },
+    {
+      "comment": "工作认真负责，十分称职",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师和蔼可亲，做事认真负责",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b0e4f8f7-1f77-4d58-9438-89afd0318bc5",
+  "name": "张正旺",
+  "school": "北京师范大学",
+  "department": "生命科学学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：生态学研究所办公，现在在南极考察",
+      "dimensions": {}
+    }
+  ]
+}

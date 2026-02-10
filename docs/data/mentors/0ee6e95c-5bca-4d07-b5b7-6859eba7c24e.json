@@ -1,0 +1,15 @@
+{
+  "id": "0ee6e95c-5bca-4d07-b5b7-6859eba7c24e",
+  "name": "徐赵东",
+  "school": "东南大学",
+  "department": "土木工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "山火袭来谁不怕？教授！",
+      "dimensions": {}
+    }
+  ]
+}

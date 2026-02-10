@@ -1,0 +1,23 @@
+{
+  "id": "9a7a143d-3cd3-4b0a-ac2b-f1091025324f",
+  "name": "唐达",
+  "school": "大连理工大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "极其不负责 数据库课程就是要求学生自学 课件都懒得自己做 ",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：数据库系统原理老师 与学生关系：Oracle experienced expert. No talking. No Access. No interruption. No truant. No pleasure in his fucking bullshit class at all.",
+      "dimensions": {
+        "师生关系": "Oracle experienced expert. No talking. No Access. No interruption. No truant. No pleasure in his fucking bullshit class at all."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f444f140-38ec-4307-ac34-a4fd828a7387",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不多说",
+      "dimensions": {}
+    }
+  ]
+}

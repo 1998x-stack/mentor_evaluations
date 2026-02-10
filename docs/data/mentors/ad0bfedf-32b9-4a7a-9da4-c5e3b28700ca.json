@@ -1,0 +1,23 @@
+{
+  "id": "ad0bfedf-32b9-4a7a-9da4-c5e3b28700ca",
+  "name": "李广鑫",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "说实话，李老师真的是计算机学院中的一股清流了，人超和蔼",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生负责，脾气好，不发火，因材施教。",
+      "dimensions": {}
+    },
+    {
+      "comment": "我们老师毋庸置疑的好，人品没得说。对学生很好。在这研究生的世界里，我只能说这种老师太少了，服从学生意愿。就是比较火，能来的都是运气。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ca7f4216-f687-4d95-960b-b4a9079367cd",
+  "name": "汪海洋",
+  "school": "电子科技大学",
+  "department": "物理电子学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：给学生发补助，好像在物电学院算是比较多的，研一学习，不干活200一月。研二做课题，至少600",
+      "dimensions": {
+        "师生关系": "给学生发"
+      }
+    }
+  ]
+}

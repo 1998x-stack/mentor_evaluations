@@ -1,0 +1,15 @@
+{
+  "id": "6c6332d0-23e1-479a-a394-0133e68326d2",
+  "name": "马超",
+  "school": "武汉大学",
+  "department": "国际软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "马超老师英文水平非常高，学术研究非常严谨，对待学生也很棒",
+      "dimensions": {}
+    }
+  ]
+}

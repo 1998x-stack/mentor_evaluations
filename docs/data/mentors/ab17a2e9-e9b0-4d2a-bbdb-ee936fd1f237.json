@@ -1,0 +1,15 @@
+{
+  "id": "ab17a2e9-e9b0-4d2a-bbdb-ee936fd1f237",
+  "name": "高晓红",
+  "school": "东南大学",
+  "department": "人文学院、艺术学院、海外教育学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "马克思主义",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e10d2559-0f0b-43ca-9532-fd3971c4c02a",
+  "name": "马卓",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "马卓 http://web.xidian.edu.cn/mazhuo/",
+      "dimensions": {}
+    }
+  ]
+}

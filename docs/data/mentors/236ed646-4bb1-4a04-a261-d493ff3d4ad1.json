@@ -1,0 +1,15 @@
+{
+  "id": "236ed646-4bb1-4a04-a261-d493ff3d4ad1",
+  "name": "陈恩庆",
+  "school": "郑州大学",
+  "department": "信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陈老师是一个看问题的角度很独特的老师，主要做信号处理，机器学习类。非常棒的老师",
+      "dimensions": {}
+    }
+  ]
+}

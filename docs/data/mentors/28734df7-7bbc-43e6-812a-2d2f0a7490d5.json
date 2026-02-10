@@ -1,0 +1,21 @@
+{
+  "id": "28734df7-7bbc-43e6-812a-2d2f0a7490d5",
+  "name": "李鑫",
+  "school": "厦门大学",
+  "department": "萨本栋微米纳米科学技术研究院",
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "经费情况": 5.0,
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "经费发放：经费项目多 与学生关系：对学生很好",
+      "dimensions": {
+        "经费情况": "",
+        "师生关系": "对学生很好"
+      }
+    }
+  ]
+}

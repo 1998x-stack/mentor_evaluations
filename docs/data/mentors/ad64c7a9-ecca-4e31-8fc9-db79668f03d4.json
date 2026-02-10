@@ -1,0 +1,19 @@
+{
+  "id": "ad64c7a9-ecca-4e31-8fc9-db79668f03d4",
+  "name": "刘岳峰",
+  "school": "北京大学",
+  "department": "地球与空间科学学院",
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "毕业去向": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：刘老师的学生都特别优秀，即使在宿舍也会认真学习",
+      "dimensions": {
+        "毕业去向": "刘老师的学生都特别优秀，即使在宿舍也会认真学习"
+      }
+    }
+  ]
+}

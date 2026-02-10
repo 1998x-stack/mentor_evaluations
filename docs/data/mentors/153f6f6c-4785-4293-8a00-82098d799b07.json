@@ -1,0 +1,15 @@
+{
+  "id": "153f6f6c-4785-4293-8a00-82098d799b07",
+  "name": "黄胜友",
+  "school": "华中科技大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "青年千人",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cc585449-ddc5-4256-bdce-9115f04e6037",
+  "name": "夏文",
+  "school": "哈尔滨工业大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生比较好吧，自身论文出的也多。",
+      "dimensions": {}
+    }
+  ]
+}

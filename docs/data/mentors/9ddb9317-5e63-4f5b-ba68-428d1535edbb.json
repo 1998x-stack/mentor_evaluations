@@ -1,0 +1,23 @@
+{
+  "id": "9ddb9317-5e63-4f5b-ba68-428d1535edbb",
+  "name": "顾月清",
+  "school": "中国药科大学",
+  "department": "工学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "是一个值得尊敬的优秀的老师，平台资源丰富，老师敬业，适合科研。但同样的，要求高，有一定的压力。",
+      "dimensions": {}
+    },
+    {
+      "comment": "为人师表，是值得我们学习尊敬的一个好老师，实验室科研经费充足，实验室氛围融洽，适合科研",
+      "dimensions": {}
+    },
+    {
+      "comment": "实验室氛围不太好，金字塔，官僚主义，大组，人际关系特别复杂！",
+      "dimensions": {}
+    }
+  ]
+}

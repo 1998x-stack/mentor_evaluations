@@ -1,0 +1,19 @@
+{
+  "id": "24f1ef0c-d2d9-4639-b716-5f0a4b65a2e7",
+  "name": "张小平",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人特别好，对学生nice，经费充足，也很耐心",
+      "dimensions": {}
+    },
+    {
+      "comment": "张老师能够给学生很多的经验方面的指导，各个方面，而且跟随张老师能够深入理解社会，理解国家。张老师在科研上指导的时间和机会不多，所以需要学生有比较高的主动性。",
+      "dimensions": {}
+    }
+  ]
+}

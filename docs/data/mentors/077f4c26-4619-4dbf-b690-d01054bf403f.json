@@ -1,0 +1,15 @@
+{
+  "id": "077f4c26-4619-4dbf-b690-d01054bf403f",
+  "name": "李擎",
+  "school": "北京科技大学",
+  "department": "自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师不错。教学水平很高",
+      "dimensions": {}
+    }
+  ]
+}

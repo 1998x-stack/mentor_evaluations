@@ -1,0 +1,15 @@
+{
+  "id": "5a161935-8149-486d-a3bc-0c16f3be7983",
+  "name": "桂浩",
+  "school": "武汉大学",
+  "department": "国际软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师很厉害，英文上课贼溜",
+      "dimensions": {}
+    }
+  ]
+}

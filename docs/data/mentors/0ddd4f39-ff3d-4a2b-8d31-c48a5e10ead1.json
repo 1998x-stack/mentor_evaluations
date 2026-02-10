@@ -1,0 +1,15 @@
+{
+  "id": "0ddd4f39-ff3d-4a2b-8d31-c48a5e10ead1",
+  "name": "朱卡克",
+  "school": "华东理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品差，学术也就那样，不值得选",
+      "dimensions": {}
+    }
+  ]
+}

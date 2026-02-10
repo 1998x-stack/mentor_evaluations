@@ -1,0 +1,19 @@
+{
+  "id": "3998ff7e-f72d-4aa1-a159-e341cc72707b",
+  "name": "朱维耀",
+  "school": "北京科技大学",
+  "department": "土木与环境工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：毕业的硕士较难找到工作",
+      "dimensions": {
+        "毕业去向": "毕业的硕士较难找到工作"
+      }
+    }
+  ]
+}

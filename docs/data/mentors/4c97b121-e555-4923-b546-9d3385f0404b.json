@@ -1,0 +1,15 @@
+{
+  "id": "4c97b121-e555-4923-b546-9d3385f0404b",
+  "name": "向友君",
+  "school": "华南理工大学",
+  "department": "电子与信息学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "导师人超级好，对学生很好，研二下就允许实习\n导师能力一般，在实验室时间较为自由，尊重学生\n",
+      "dimensions": {}
+    }
+  ]
+}

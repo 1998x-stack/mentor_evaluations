@@ -1,0 +1,15 @@
+{
+  "id": "2d9f9f67-9daa-4e9f-99e9-54a1c7996e32",
+  "name": "高清志",
+  "school": "天津大学",
+  "department": "药物科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人品不行",
+      "dimensions": {}
+    }
+  ]
+}

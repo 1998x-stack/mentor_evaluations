@@ -1,0 +1,15 @@
+{
+  "id": "2b99e5fd-99e2-45ce-9aff-34a7c2839caa",
+  "name": "邓志鸿",
+  "school": "北京大学",
+  "department": "信息科学技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "邓老板人超好，虽然会push你，但是这个度其实并没有那么夸张，而且做学术有个老板push你其实是好事。邓老板现最近在转方向，之前一直是NLP相关，相对来说方向还是比较有前景的。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dc79ca1d-4ead-4a8c-a079-89d9dc62d88a",
+  "name": "朱成周",
+  "school": "华中师范大学",
+  "department": "化学学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "分析里面口碑最好的一个老师了，建议选择？",
+      "dimensions": {}
+    },
+    {
+      "comment": "虽然刚来没多久，但朱老师人品口碑超级好，组内组外赞不绝口。他们组研一便人手一篇档次不低的文章，相比其他组的研一还在懵逼阶段呢",
+      "dimensions": {}
+    },
+    {
+      "comment": "分析导师里口碑最好的，强推，能力强，人好",
+      "dimensions": {}
+    }
+  ]
+}

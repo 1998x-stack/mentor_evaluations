@@ -1,0 +1,15 @@
+{
+  "id": "e170ec75-003e-42bd-a218-dba58be78abe",
+  "name": "张丝雨",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "负能量",
+      "dimensions": {}
+    }
+  ]
+}

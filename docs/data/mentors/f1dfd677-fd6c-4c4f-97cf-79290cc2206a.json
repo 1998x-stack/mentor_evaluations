@@ -1,0 +1,19 @@
+{
+  "id": "f1dfd677-fd6c-4c4f-97cf-79290cc2206a",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "毕业去向": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：听说有学生被延期毕业的",
+      "dimensions": {
+        "毕业去向": "听说有学生被延期毕业的"
+      }
+    }
+  ]
+}

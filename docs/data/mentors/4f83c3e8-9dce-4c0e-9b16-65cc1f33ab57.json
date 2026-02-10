@@ -1,0 +1,19 @@
+{
+  "id": "4f83c3e8-9dce-4c0e-9b16-65cc1f33ab57",
+  "name": "张智海",
+  "school": "重庆大学",
+  "department": "光电工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "张老师比较和蔼可亲，为人不错。",
+      "dimensions": {}
+    },
+    {
+      "comment": "这的确是个好老师，光电几乎是最好的导师",
+      "dimensions": {}
+    }
+  ]
+}

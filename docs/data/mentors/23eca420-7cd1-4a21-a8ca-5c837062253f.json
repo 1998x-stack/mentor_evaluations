@@ -1,0 +1,27 @@
+{
+  "id": "23eca420-7cd1-4a21-a8ca-5c837062253f",
+  "name": "傻逼小程序",
+  "school": "华南师范大学",
+  "department": "计算机学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "傻逼小程序，傻逼小程序",
+      "dimensions": {}
+    },
+    {
+      "comment": "闻风而来，围观吃瓜群众",
+      "dimensions": {}
+    },
+    {
+      "comment": "这么随意可以添加的，毫无公信力垃圾小程序",
+      "dimensions": {}
+    },
+    {
+      "comment": "这就是个留言板吧？搞得好像很专业的样子",
+      "dimensions": {}
+    }
+  ]
+}

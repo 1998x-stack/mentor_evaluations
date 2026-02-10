@@ -1,0 +1,23 @@
+{
+  "id": "e5d2e744-4a62-4def-b2a0-eaded8b50cf3",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：张老师，学识高，人好！对学生也好 导师能力：angew，jacs很多 学生补助：500-800 工作时间：周末休息，请假调休制",
+      "dimensions": {
+        "导师能力": "angew，jacs很多 学生",
+        "学生补助": "500-800 工作",
+        "工作时间": "周末休息，请假调休制"
+      }
+    }
+  ]
+}

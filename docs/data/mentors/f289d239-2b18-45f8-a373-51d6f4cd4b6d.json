@@ -1,0 +1,19 @@
+{
+  "id": "f289d239-2b18-45f8-a373-51d6f4cd4b6d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "亦师亦友，非常好的导师",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师超级nice....对学生很好",
+      "dimensions": {}
+    }
+  ]
+}

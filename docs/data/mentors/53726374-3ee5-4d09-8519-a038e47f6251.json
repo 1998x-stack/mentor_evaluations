@@ -1,0 +1,15 @@
+{
+  "id": "53726374-3ee5-4d09-8519-a038e47f6251",
+  "name": "冯丹",
+  "school": "华中科技大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大项目很多，经费充足；但是太忙了，在学术上指导学生的时间有限；大部分学生毕业都能找到不错的工作",
+      "dimensions": {}
+    }
+  ]
+}

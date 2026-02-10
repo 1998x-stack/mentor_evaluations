@@ -1,0 +1,15 @@
+{
+  "id": "db63aabf-ba9e-4f6f-bef1-8e7592b30e7d",
+  "name": "张娜",
+  "school": "上海应用技术大学",
+  "department": "材料科学与工程",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "是个好人，是个好人，真的是个好人……",
+      "dimensions": {}
+    }
+  ]
+}

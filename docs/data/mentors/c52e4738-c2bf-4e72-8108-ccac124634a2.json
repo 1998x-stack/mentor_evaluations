@@ -1,0 +1,19 @@
+{
+  "id": "c52e4738-c2bf-4e72-8108-ccac124634a2",
+  "name": "赵才荣",
+  "school": "同济大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "赵老师课题组以研究计算机视觉为主，老师亦师亦友，课题组学术氛围浓厚，资源较多，适合立志潜心科研的学生加入。",
+      "dimensions": {}
+    },
+    {
+      "comment": "要求严格，如只想安逸拿学位，就不太合适。同学补助中等偏上水平，与学生关系融洽。项目经费充足，比较忙碌，学生毕业前途良好。",
+      "dimensions": {}
+    }
+  ]
+}

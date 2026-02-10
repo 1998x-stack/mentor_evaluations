@@ -1,0 +1,27 @@
+{
+  "id": "4059c052-c746-424d-81ea-d8154d4bb978",
+  "name": "胡大平",
+  "school": "南京大学",
+  "department": "文学院 ，哲学系（宗教学系），历史学系，新闻传播学院，外国语学院，社会学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "胡老师很好",
+      "dimensions": {}
+    },
+    {
+      "comment": "不错的老师",
+      "dimensions": {}
+    },
+    {
+      "comment": "讲课有趣",
+      "dimensions": {}
+    },
+    {
+      "comment": "多年来授课打分表都在90分以上，并能切实的帮助到个人成长，绩效提高。",
+      "dimensions": {}
+    }
+  ]
+}

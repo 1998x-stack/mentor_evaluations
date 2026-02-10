@@ -1,0 +1,15 @@
+{
+  "id": "be023418-7b2e-4a9d-b9c4-22584e2e36fb",
+  "name": "裴俊琛",
+  "school": "北京大学",
+  "department": "物理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：http://www.phy.pku.edu.cn/~jcpei/",
+      "dimensions": {}
+    }
+  ]
+}

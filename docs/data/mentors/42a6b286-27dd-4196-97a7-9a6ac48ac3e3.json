@@ -1,0 +1,19 @@
+{
+  "id": "42a6b286-27dd-4196-97a7-9a6ac48ac3e3",
+  "name": "张玲玲",
+  "school": "天津大学",
+  "department": "理学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "永远记得老师 欢乐的笑容 祝老师一切顺利",
+      "dimensions": {}
+    },
+    {
+      "comment": "玲玲是个好学院。",
+      "dimensions": {}
+    }
+  ]
+}

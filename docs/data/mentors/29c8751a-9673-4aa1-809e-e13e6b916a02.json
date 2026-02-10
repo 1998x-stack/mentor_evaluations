@@ -1,0 +1,21 @@
+{
+  "id": "29c8751a-9673-4aa1-809e-e13e6b916a02",
+  "name": "李峰",
+  "school": "北京化工大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：无机楼二楼 学生补助：400 工作时间：从不强制加班，全凭自愿",
+      "dimensions": {
+        "学生补助": "400 工作",
+        "工作时间": "从不强制加班，全凭自愿"
+      }
+    }
+  ]
+}

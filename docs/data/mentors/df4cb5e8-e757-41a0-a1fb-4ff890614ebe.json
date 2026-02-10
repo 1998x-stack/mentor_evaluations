@@ -1,0 +1,15 @@
+{
+  "id": "df4cb5e8-e757-41a0-a1fb-4ff890614ebe",
+  "name": "李淑艳",
+  "school": "北京大学",
+  "department": "基础医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关。科研水平一般，经费并不充裕。但跟自己学生关系还可以，对学生也算尽职。学生工资走最低线，时间安排自由，完成任务就有周末和节假日。实验室人杂，学生一到两个，很多外来人员。",
+      "dimensions": {}
+    }
+  ]
+}

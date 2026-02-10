@@ -1,0 +1,15 @@
+{
+  "id": "6c370c6c-3b6c-4dd5-b23f-0f80c232895b",
+  "name": "马建辉",
+  "school": "中国科学技术大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：硕士研究生学位，讲师职称，C语言老师",
+      "dimensions": {}
+    }
+  ]
+}

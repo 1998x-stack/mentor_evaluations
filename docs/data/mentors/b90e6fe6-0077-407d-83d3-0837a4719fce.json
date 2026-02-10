@@ -1,0 +1,27 @@
+{
+  "id": "b90e6fe6-0077-407d-83d3-0837a4719fce",
+  "name": "贺号",
+  "school": "天津大学",
+  "department": "精密仪器与光电子工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "2011.2-今 天津大学 超快激光研究室 副教授",
+      "dimensions": {}
+    },
+    {
+      "comment": "大神的工作关系已经转走了。",
+      "dimensions": {}
+    },
+    {
+      "comment": "确实挺有本事，受过正规的研究生教育（不像精仪大部分土鳖），对学生的培养很上心。可惜天大留不住人，现在在上海交大。",
+      "dimensions": {}
+    },
+    {
+      "comment": "业界良心",
+      "dimensions": {}
+    }
+  ]
+}

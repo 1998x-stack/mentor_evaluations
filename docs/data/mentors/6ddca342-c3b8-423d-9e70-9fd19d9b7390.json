@@ -1,0 +1,15 @@
+{
+  "id": "6ddca342-c3b8-423d-9e70-9fd19d9b7390",
+  "name": "张华",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人好，酒量好，挺好的，可以来",
+      "dimensions": {}
+    }
+  ]
+}

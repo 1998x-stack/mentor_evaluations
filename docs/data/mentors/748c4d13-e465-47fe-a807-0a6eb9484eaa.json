@@ -1,0 +1,15 @@
+{
+  "id": "748c4d13-e465-47fe-a807-0a6eb9484eaa",
+  "name": "林强",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师认真上进心强，对学生很负责",
+      "dimensions": {}
+    }
+  ]
+}

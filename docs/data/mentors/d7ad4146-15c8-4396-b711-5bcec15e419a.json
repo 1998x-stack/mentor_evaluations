@@ -1,0 +1,15 @@
+{
+  "id": "d7ad4146-15c8-4396-b711-5bcec15e419a",
+  "name": "杨广文",
+  "school": "清华大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "杨老师对待学生十分诚恳，学识渊博。",
+      "dimensions": {}
+    }
+  ]
+}

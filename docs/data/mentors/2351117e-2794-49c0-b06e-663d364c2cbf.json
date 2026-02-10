@@ -1,0 +1,23 @@
+{
+  "id": "2351117e-2794-49c0-b06e-663d364c2cbf",
+  "name": "杨冬雷",
+  "school": "南京农业大学",
+  "department": "农学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "口碑賊差，和学生关系不好，自私",
+      "dimensions": {}
+    },
+    {
+      "comment": "风评一般。。。。。。。",
+      "dimensions": {}
+    },
+    {
+      "comment": "自私，对学生极尽剥削，骂学生家常便饭",
+      "dimensions": {}
+    }
+  ]
+}

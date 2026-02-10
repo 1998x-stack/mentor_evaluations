@@ -1,0 +1,19 @@
+{
+  "id": "5cd98a08-0388-48f3-ab58-26eb72b4678d",
+  "name": "叶堃晖",
+  "school": "重庆大学",
+  "department": "建设管理与房地产学院",
+  "evaluationCount": 1,
+  "totalScore": 7.5,
+  "dimensionScores": {
+    "导师能力": 7.5
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：学术很棒，指导学生很耐心，严谨认真",
+      "dimensions": {
+        "导师能力": "学术很棒，指导学生很耐心，严谨认真"
+      }
+    }
+  ]
+}

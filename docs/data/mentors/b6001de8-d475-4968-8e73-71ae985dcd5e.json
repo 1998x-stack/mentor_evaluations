@@ -1,0 +1,15 @@
+{
+  "id": "b6001de8-d475-4968-8e73-71ae985dcd5e",
+  "name": "张征",
+  "school": "华中科技大学",
+  "department": "自动化学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：很和蔼，关怀学生，但也很有性格，交本科自控原理",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1f75c358-9b2e-4406-9c6d-f81f7efef950",
+  "name": "李汀",
+  "school": "南开大学",
+  "department": "药学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "长的实验室最美，家庭实验室最和睦，孩子实验室最乖，是实验室大家最喜欢的老师！没的说！",
+      "dimensions": {}
+    },
+    {
+      "comment": "李老师对学生特别好~不管是科研还是生活都特关心学生~",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，各个方面没的说！",
+      "dimensions": {}
+    },
+    {
+      "comment": "药学院对学生最好的副教授",
+      "dimensions": {}
+    }
+  ]
+}

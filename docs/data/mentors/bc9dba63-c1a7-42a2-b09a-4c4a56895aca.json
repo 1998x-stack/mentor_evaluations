@@ -1,0 +1,15 @@
+{
+  "id": "bc9dba63-c1a7-42a2-b09a-4c4a56895aca",
+  "name": "孙利民",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "孙利民 博士生导师 计算机系统结构",
+      "dimensions": {}
+    }
+  ]
+}

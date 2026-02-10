@@ -1,0 +1,15 @@
+{
+  "id": "d3912f85-6ef4-4fd0-9040-eea67a70fef4",
+  "name": "张翼",
+  "school": "中南大学",
+  "department": "化学化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "经费不算十分充裕 但老师为人宽宏 回为学生考虑 也能够帮助学生发文",
+      "dimensions": {}
+    }
+  ]
+}

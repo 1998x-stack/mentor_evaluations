@@ -1,0 +1,19 @@
+{
+  "id": "07c71fd6-5ad3-4075-9e14-31f74d968bc3",
+  "name": "刘玉非",
+  "school": "重庆大学",
+  "department": "光电工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "刘老师很胖，哈哈",
+      "dimensions": {}
+    },
+    {
+      "comment": "刚过来两年，青千，挺年轻的",
+      "dimensions": {}
+    }
+  ]
+}

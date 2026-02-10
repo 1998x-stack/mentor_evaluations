@@ -1,0 +1,23 @@
+{
+  "id": "fd19a75c-9fd9-4ed3-8f2e-93d0f5fb3d2b",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 6.75,
+    "学生补助": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：给本科生上互换性与测量技术这门课。 导师能力：导师能力垃圾，混这么多年，啥成果没有 经费发放：在高校基本靠混，没啥经费 学生补助：低保户",
+      "dimensions": {
+        "导师能力": "",
+        "经费情况": "在高校基本靠混，没啥",
+        "学生补助": "低保户"
+      }
+    }
+  ]
+}

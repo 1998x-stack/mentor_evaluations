@@ -1,0 +1,19 @@
+{
+  "id": "e2557c1a-a66d-4491-9d19-5450d2c136e1",
+  "name": "赵秉志",
+  "school": "北京师范大学",
+  "department": "法学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：搞女学生有一套，被北师大党委予以留党察看、免去北师大刑法学院院长、停止招收研究生等处分http://www.edushi.com/zixun/info/2-9-n4461759.html，，http://www.haijiangzx.com/2018/0725/1985110.shtml 导师能力：双面人，台上一套台下一套，利用掌握资源和招生权力专搞女学生，色胆包天。",
+      "dimensions": {
+        "导师能力": "双面人，台上一套台下一套，利用掌握资源和招生权力专搞女学生，色胆包天。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "de37f393-32a5-47af-a8a1-9d649a68421d",
+  "name": "张智若",
+  "school": "上海交通大学",
+  "department": "医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "学生补助": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生补助：补助很多 工作时间：不加班",
+      "dimensions": {
+        "学生补助": "",
+        "工作时间": "不加班"
+      }
+    }
+  ]
+}

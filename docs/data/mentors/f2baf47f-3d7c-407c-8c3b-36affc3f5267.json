@@ -1,0 +1,15 @@
+{
+  "id": "f2baf47f-3d7c-407c-8c3b-36affc3f5267",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人品好，与学生相处愉快。",
+      "dimensions": {}
+    }
+  ]
+}

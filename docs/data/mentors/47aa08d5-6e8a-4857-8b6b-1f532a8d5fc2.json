@@ -1,0 +1,15 @@
+{
+  "id": "47aa08d5-6e8a-4857-8b6b-1f532a8d5fc2",
+  "name": "李钢",
+  "school": "天津大学",
+  "department": "管理与经济学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "极其关心学生的老师",
+      "dimensions": {}
+    }
+  ]
+}

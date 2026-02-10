@@ -1,0 +1,15 @@
+{
+  "id": "5fdf6ae9-fde1-4609-a663-106d8dafefbd",
+  "name": "王伟",
+  "school": "南京大学",
+  "department": "化学化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不错的老师，科研水平高，能发大文章",
+      "dimensions": {}
+    }
+  ]
+}

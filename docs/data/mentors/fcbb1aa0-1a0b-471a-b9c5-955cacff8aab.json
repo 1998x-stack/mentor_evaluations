@@ -1,0 +1,23 @@
+{
+  "id": "fcbb1aa0-1a0b-471a-b9c5-955cacff8aab",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "睿智，博学，特别是有趣的灵魂万里挑一",
+      "dimensions": {}
+    },
+    {
+      "comment": "难得的好老师，能够在各个方面给予学生指导，几乎没有红过脸，幽默且博学～",
+      "dimensions": {}
+    },
+    {
+      "comment": "很幽默，很佛系，平易近人，会教书育人，眼光独到，发量惊人，是个老顽童",
+      "dimensions": {}
+    }
+  ]
+}

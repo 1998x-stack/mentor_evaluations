@@ -1,0 +1,19 @@
+{
+  "id": "66dc08b9-943e-40a1-ae25-f0bca859da2b",
+  "name": "杨建民",
+  "school": "天津大学",
+  "department": "建筑工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：胖子一个 郑刚的学生 留校当老师 导师能力：靠郑刚留校 基本给郑老师跑腿",
+      "dimensions": {
+        "导师能力": "靠郑刚留校 基本给郑老师跑腿"
+      }
+    }
+  ]
+}

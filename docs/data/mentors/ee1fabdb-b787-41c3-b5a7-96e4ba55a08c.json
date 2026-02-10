@@ -1,0 +1,19 @@
+{
+  "id": "ee1fabdb-b787-41c3-b5a7-96e4ba55a08c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "交院新院长，听过几次刘老师的课程、讲座和汇报，感觉非常不错。",
+      "dimensions": {}
+    },
+    {
+      "comment": "交通学院这届拳王争霸赛冠军得主！",
+      "dimensions": {}
+    }
+  ]
+}

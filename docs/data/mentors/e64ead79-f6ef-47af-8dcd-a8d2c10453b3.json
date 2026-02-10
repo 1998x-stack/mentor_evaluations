@@ -1,0 +1,15 @@
+{
+  "id": "e64ead79-f6ef-47af-8dcd-a8d2c10453b3",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "师德崇高、学术优秀、慈祥和蔼的教授！",
+      "dimensions": {}
+    }
+  ]
+}

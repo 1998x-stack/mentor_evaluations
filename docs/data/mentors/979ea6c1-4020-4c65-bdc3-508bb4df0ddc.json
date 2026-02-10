@@ -1,0 +1,19 @@
+{
+  "id": "979ea6c1-4020-4c65-bdc3-508bb4df0ddc",
+  "name": "马麟",
+  "school": "上海交通大学",
+  "department": "电子信息与电气工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：毕业学生 学生毕业去向：自谋出路",
+      "dimensions": {
+        "毕业去向": "自谋出路"
+      }
+    }
+  ]
+}

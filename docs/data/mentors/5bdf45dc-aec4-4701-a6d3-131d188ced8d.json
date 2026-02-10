@@ -1,0 +1,19 @@
+{
+  "id": "5bdf45dc-aec4-4701-a6d3-131d188ced8d",
+  "name": "张居中",
+  "school": "中国科学技术大学",
+  "department": "人文与社会科学学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：与学生关系比较和谐，上过张老师的课，张老师给我的感觉非常和蔼。但是对待自己的学生还要看他学生对他的评价。张老师年龄也比较大了。",
+      "dimensions": {
+        "师生关系": "与学生"
+      }
+    }
+  ]
+}

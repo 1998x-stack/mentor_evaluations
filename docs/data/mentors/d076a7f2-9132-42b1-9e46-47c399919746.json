@@ -1,0 +1,19 @@
+{
+  "id": "d076a7f2-9132-42b1-9e46-47c399919746",
+  "name": "李永生",
+  "school": "四川大学",
+  "department": "化学工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很差的导师，但吹牛很厉害，对学生很不好",
+      "dimensions": {}
+    },
+    {
+      "comment": "谁选了他就认命吧，毕业了工作都找不到",
+      "dimensions": {}
+    }
+  ]
+}

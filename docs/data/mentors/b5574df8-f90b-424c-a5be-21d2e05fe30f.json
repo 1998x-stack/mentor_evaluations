@@ -1,0 +1,23 @@
+{
+  "id": "b5574df8-f90b-424c-a5be-21d2e05fe30f",
+  "name": "闵昌万",
+  "school": "西安电子科大",
+  "department": "空间科学与技术学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：航天某院大牛，人称闵总",
+      "dimensions": {}
+    },
+    {
+      "comment": "利益相关：航天一院做总体 导师能力：偏工程和管理，毕竟是做总体的，偏向于统筹规划",
+      "dimensions": {
+        "导师能力": "偏工程和管理，毕竟是做总体的，偏向于统筹规划"
+      }
+    }
+  ]
+}

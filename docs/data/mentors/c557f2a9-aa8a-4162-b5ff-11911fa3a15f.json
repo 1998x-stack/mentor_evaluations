@@ -1,0 +1,15 @@
+{
+  "id": "c557f2a9-aa8a-4162-b5ff-11911fa3a15f",
+  "name": "翟荟",
+  "school": "清华大学",
+  "department": "物理系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公室在高研三楼",
+      "dimensions": {}
+    }
+  ]
+}

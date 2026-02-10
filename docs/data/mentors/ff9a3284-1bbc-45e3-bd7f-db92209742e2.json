@@ -1,0 +1,15 @@
+{
+  "id": "ff9a3284-1bbc-45e3-bd7f-db92209742e2",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "理论水平很高，数学功力深厚，对学生要求严格。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5e0afb81-0eb4-47a9-a60c-c2b4787a9d18",
+  "name": "陈腾",
+  "school": "北京航空航天大学",
+  "department": "机械工程及自动化学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "一米八，大长腿，很帅，哈哈哈",
+      "dimensions": {}
+    },
+    {
+      "comment": "听说还没毕业就留校了，实力真的强",
+      "dimensions": {}
+    },
+    {
+      "comment": "秀秀秀秀秀秀秀秀秀秀秀秀秀",
+      "dimensions": {}
+    }
+  ]
+}

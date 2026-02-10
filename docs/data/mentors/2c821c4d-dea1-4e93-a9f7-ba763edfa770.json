@@ -1,0 +1,15 @@
+{
+  "id": "2c821c4d-dea1-4e93-a9f7-ba763edfa770",
+  "name": "周峰",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我还想问你怎么样呢，还要限制我的字数！！",
+      "dimensions": {}
+    }
+  ]
+}

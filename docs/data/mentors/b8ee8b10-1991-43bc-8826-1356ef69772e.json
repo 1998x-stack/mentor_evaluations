@@ -1,0 +1,35 @@
+{
+  "id": "b8ee8b10-1991-43bc-8826-1356ef69772e",
+  "name": "李文玲",
+  "school": "北京航空航天大学",
+  "department": "数学与系统科学学院",
+  "evaluationCount": 5,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "真是会发文章啊……",
+      "dimensions": {}
+    },
+    {
+      "comment": "李老师现在已经转到3系自动化学院了。 做滤波估计的，人品 师德极佳，项目论文都很多。",
+      "dimensions": {}
+    },
+    {
+      "comment": "对学生好，导师能力过硬，项目多，指导认真",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师能力：李文玲老师现已转到3系，性格温和，导师能力过硬，指导学生认真，为人为师都很棒",
+      "dimensions": {
+        "导师能力": "李文玲老师现已转到3系，性格温和，"
+      }
+    },
+    {
+      "comment": "挺好的一个老师",
+      "dimensions": {}
+    }
+  ]
+}

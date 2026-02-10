@@ -1,0 +1,23 @@
+{
+  "id": "26e52c5f-2170-4c55-bddb-06fd5756c3a3",
+  "name": "周鲁",
+  "school": "四川大学",
+  "department": "化学工程学院",
+  "evaluationCount": 2,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：老师本人性格就比较严肃…但是对学生负责是真的",
+      "dimensions": {
+        "师生关系": "老师本人性格就比较严肃…但是对学生负责是真的"
+      }
+    },
+    {
+      "comment": "自私自利，充大头",
+      "dimensions": {}
+    }
+  ]
+}

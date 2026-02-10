@@ -1,0 +1,15 @@
+{
+  "id": "8e32bca2-732b-47ca-94e2-445ab4c018e5",
+  "name": "刘向阳",
+  "school": "南京大学",
+  "department": "计算机科学与技术系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "自证认识:外表春风和睦 评价:呵呵，别选就对了。",
+      "dimensions": {}
+    }
+  ]
+}

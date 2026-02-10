@@ -1,0 +1,21 @@
+{
+  "id": "4feb841f-6345-4a46-9747-c09e8ca87568",
+  "name": "穆瑞",
+  "school": "厦门大学",
+  "department": "航空航天学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75,
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：教学水平很高 与学生关系：人超好~",
+      "dimensions": {
+        "导师能力": "教学水平很高 与学生",
+        "师生关系": "人超好~"
+      }
+    }
+  ]
+}

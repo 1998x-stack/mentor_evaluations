@@ -1,0 +1,15 @@
+{
+  "id": "dc07e533-b1bd-463b-9866-3cf8f227ffa4",
+  "name": "孙建伶",
+  "school": "浙江大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常好的导师，且和阿里有深入合作",
+      "dimensions": {}
+    }
+  ]
+}

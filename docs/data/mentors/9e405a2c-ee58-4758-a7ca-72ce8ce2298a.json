@@ -1,0 +1,27 @@
+{
+  "id": "9e405a2c-ee58-4758-a7ca-72ce8ce2298a",
+  "name": "刘英",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 4,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "实验室博士多，科研氛围浓厚，真心对电磁场和天线感兴趣的值得报考",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，课题组氛围好，与学生关系融洽，跟着她很有前途，学生中零差评，学电磁场与微波技术的同学报她不会后悔。",
+      "dimensions": {}
+    },
+    {
+      "comment": "导师不错！",
+      "dimensions": {}
+    },
+    {
+      "comment": "没有想的那么好，中规中矩的老师，女老师的通病，比较苛责。",
+      "dimensions": {}
+    }
+  ]
+}

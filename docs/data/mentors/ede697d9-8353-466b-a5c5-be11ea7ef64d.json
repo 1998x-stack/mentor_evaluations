@@ -1,0 +1,15 @@
+{
+  "id": "ede697d9-8353-466b-a5c5-be11ea7ef64d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生要求高，每年都能出一些不错的论文",
+      "dimensions": {}
+    }
+  ]
+}

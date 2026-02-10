@@ -1,0 +1,19 @@
+{
+  "id": "ed9ecb93-f6a3-4e34-ac8e-13c7949db7cd",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "非常nice的导师，选到受用一生！\n具体，学术能力强，研究方向具有很强的国际前瞻性。\n愿意资助学生参加各类高水平国际会议。\n学生毕业去向以985/211为主。\n楼上的评论太暴躁，完全没有现在选导师的角度来进行评述。",
+      "dimensions": {}
+    },
+    {
+      "comment": "贼能吹逼，上课说什么哈工大管院比清北复交人两财一贸要强得多，下节课又说什么比麻省理工哈佛一点都不差",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b5f66e60-3dee-426a-b669-a5e492d6fab1",
+  "name": "徐杨",
+  "school": "浙江大学",
+  "department": "信息与电子工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：跟韩雁一样名声在外的人物，深坑勿入",
+      "dimensions": {
+        "毕业去向": "跟韩雁一样名声在外的人物，深坑勿入"
+      }
+    }
+  ]
+}

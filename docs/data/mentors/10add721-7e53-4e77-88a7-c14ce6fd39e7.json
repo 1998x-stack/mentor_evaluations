@@ -1,0 +1,15 @@
+{
+  "id": "10add721-7e53-4e77-88a7-c14ce6fd39e7",
+  "name": "周憬宇",
+  "school": "上海交通大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人非常好",
+      "dimensions": {}
+    }
+  ]
+}

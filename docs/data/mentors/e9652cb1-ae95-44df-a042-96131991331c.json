@@ -1,0 +1,15 @@
+{
+  "id": "e9652cb1-ae95-44df-a042-96131991331c",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：办公地点学院楼433",
+      "dimensions": {}
+    }
+  ]
+}

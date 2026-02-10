@@ -1,0 +1,15 @@
+{
+  "id": "c6d0dbdb-edf2-46ac-9155-c445671cf3c0",
+  "name": "李昌彪",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "年轻有为，就是胖了点",
+      "dimensions": {}
+    }
+  ]
+}

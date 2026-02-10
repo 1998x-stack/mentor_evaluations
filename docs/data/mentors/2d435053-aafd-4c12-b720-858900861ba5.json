@@ -1,0 +1,15 @@
+{
+  "id": "2d435053-aafd-4c12-b720-858900861ba5",
+  "name": "王凯东",
+  "school": "西安电子科大",
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "王凯东 http://web.xidian.edu.cn/kdwang/",
+      "dimensions": {}
+    }
+  ]
+}

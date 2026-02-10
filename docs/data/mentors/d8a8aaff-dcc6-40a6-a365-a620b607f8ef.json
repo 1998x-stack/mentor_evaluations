@@ -1,0 +1,23 @@
+{
+  "id": "d8a8aaff-dcc6-40a6-a365-a620b607f8ef",
+  "name": "王恭凯",
+  "school": "河北工业大学",
+  "department": "材料科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：导师能力很高 与学生关系：很融洽 工作时间：看自己咯",
+      "dimensions": {
+        "导师能力": "",
+        "师生关系": "很融洽 工作",
+        "工作时间": "看自己咯"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1ce26fe9-e998-4802-9592-0cc037da7996",
+  "name": "杨正益",
+  "school": "重庆大学",
+  "department": "软件学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：P L U M P 导师能力：儿控 与学生关系：学生连个房间都没有，美名“提倡在家办公”",
+      "dimensions": {
+        "导师能力": "儿控 与学生",
+        "师生关系": "学生连个房间都没有，美名“提倡在家办公”"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "17e31a15-03f9-433f-809d-68245b034ea0",
+  "name": "WONG Kam Sing",
+  "school": "香港科技大学",
+  "department": "Department of Physics",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生态度还可以，但是办公条件差，实验条件差，经费发放比较少。",
+      "dimensions": {}
+    }
+  ]
+}

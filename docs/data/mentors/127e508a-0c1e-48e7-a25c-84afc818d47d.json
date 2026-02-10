@@ -1,0 +1,15 @@
+{
+  "id": "127e508a-0c1e-48e7-a25c-84afc818d47d",
+  "name": "李广良",
+  "school": "西安交通大学",
+  "department": "理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "数学方法很高端的物理老师",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "98d52252-2b16-44ee-95fa-6e87c91888f5",
+  "name": "吕建国",
+  "school": "浙江大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力： 吕老师人很好~ 导师能力也很高。我在组里做过SRTP和省创~ 感觉吕老师还是很不错的！ 值得选择！",
+      "dimensions": {
+        "导师能力": "吕老师人很好~"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f295004f-0e10-403e-b361-104b5224d49e",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "学生几乎没有按时毕业的，博士生补助1200/月",
+      "dimensions": {}
+    }
+  ]
+}

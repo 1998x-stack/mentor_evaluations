@@ -1,0 +1,19 @@
+{
+  "id": "f2cc140d-9d8e-45f6-9c33-d24efc8b94ab",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "陈老师对学生很好，对技术有追求，就是干活多给钱少",
+      "dimensions": {}
+    },
+    {
+      "comment": "好老师，对学生很好，提倡因材施教。",
+      "dimensions": {}
+    }
+  ]
+}

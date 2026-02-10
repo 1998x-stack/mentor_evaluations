@@ -1,0 +1,15 @@
+{
+  "id": "b099752c-f6d6-4122-8cab-b0991d3ef6d0",
+  "name": "徐志文",
+  "school": "四川农业大学",
+  "department": "动物医学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "我们每个人都有一颗退学的心",
+      "dimensions": {}
+    }
+  ]
+}

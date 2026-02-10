@@ -1,0 +1,19 @@
+{
+  "id": "cdba111e-d168-4d2a-8d70-8263b52df717",
+  "name": "章专",
+  "school": "浙江大学",
+  "department": "信息与电子工程学系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：老师到底好不好要靠自己来看的，不要乱听别人说",
+      "dimensions": {
+        "毕业去向": "老师到底好不好要靠自己来看的，不要乱听别人说"
+      }
+    }
+  ]
+}

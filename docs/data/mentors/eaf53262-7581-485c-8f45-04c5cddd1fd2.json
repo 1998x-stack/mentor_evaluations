@@ -1,0 +1,19 @@
+{
+  "id": "eaf53262-7581-485c-8f45-04c5cddd1fd2",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "导师能力": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：毫无学术研究能力，没有发表过一篇像样的论文，且自以为是，无法沟通",
+      "dimensions": {
+        "导师能力": "毫无学术研究能力，没有发表过一篇像样的论文，且自以为是，无法沟通"
+      }
+    }
+  ]
+}

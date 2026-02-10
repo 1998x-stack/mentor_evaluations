@@ -1,0 +1,23 @@
+{
+  "id": "9782b80b-1fc8-42f7-b2e9-959cd325bde9",
+  "name": "徐海银",
+  "school": "华中科技大学",
+  "department": "计算机科学与技术学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "本来想吃瓜的，发现没有！",
+      "dimensions": {}
+    },
+    {
+      "comment": "多行不义必自毙！！！！",
+      "dimensions": {}
+    },
+    {
+      "comment": "人在做 天在看 不是不报，时候未到",
+      "dimensions": {}
+    }
+  ]
+}

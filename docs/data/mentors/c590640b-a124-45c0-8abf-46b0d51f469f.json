@@ -1,0 +1,15 @@
+{
+  "id": "c590640b-a124-45c0-8abf-46b0d51f469f",
+  "name": "齐辉",
+  "school": "哈尔滨工程大学",
+  "department": "航天与建筑工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：开设《塑性力学》和《张量分析》课程。",
+      "dimensions": {}
+    }
+  ]
+}

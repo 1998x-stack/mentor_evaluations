@@ -1,0 +1,21 @@
+{
+  "id": "8b83bdaf-507c-4ac3-8a1b-0a75b801dd03",
+  "name": "刘丽华",
+  "school": "西北工业大学",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：垃圾 经费发放：0",
+      "dimensions": {
+        "导师能力": "垃圾",
+        "经费情况": "0"
+      }
+    }
+  ]
+}

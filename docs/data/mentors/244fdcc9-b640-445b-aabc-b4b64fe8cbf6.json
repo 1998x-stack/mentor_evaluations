@@ -1,0 +1,19 @@
+{
+  "id": "244fdcc9-b640-445b-aabc-b4b64fe8cbf6",
+  "name": "于晓强",
+  "school": "大连理工大学",
+  "department": "化工学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "就是干",
+      "dimensions": {}
+    },
+    {
+      "comment": "只能说呵呵了",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "01c59487-5622-4b7c-afcb-538e85ba459c",
+  "name": "覃征",
+  "school": "清华大学",
+  "department": "软件学院",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：http://bbs.creaders.net/education/bbsviewer.php?trd_id=252267",
+      "dimensions": {
+        "导师能力": "http://bbs.creaders.net/education/bbsviewer.php?trd_id=252267"
+      }
+    },
+    {
+      "comment": "与学生关系：经常去各种成人教育培训班上课，洗脑一流，学生就算了 学生毕业去向：网上有一篇写他的，师兄的肺腑之言，绝对不要选他。",
+      "dimensions": {
+        "师生关系": "经常去各种成人教育培训班上课，洗脑一流，学生就算了 学生毕业",
+        "毕业去向": "网上有一篇写他的，师兄的肺腑之言，绝对不要选他。"
+      }
+    },
+    {
+      "comment": "口才非常好！",
+      "dimensions": {}
+    }
+  ]
+}

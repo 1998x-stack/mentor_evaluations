@@ -1,0 +1,21 @@
+{
+  "id": "f623c5b0-394b-4c9d-b3e9-ebc5fc7d58ef",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.88,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "师生关系": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：院士级别人物 与学生关系：非常护犊子，对学生还不错",
+      "dimensions": {
+        "导师能力": "院士级别人物 与学生",
+        "师生关系": "非常护犊子，对学生还不错"
+      }
+    }
+  ]
+}

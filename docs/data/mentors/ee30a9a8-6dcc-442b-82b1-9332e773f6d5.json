@@ -1,0 +1,15 @@
+{
+  "id": "ee30a9a8-6dcc-442b-82b1-9332e773f6d5",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "上过他的课，人很和气。",
+      "dimensions": {}
+    }
+  ]
+}

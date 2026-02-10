@@ -1,0 +1,19 @@
+{
+  "id": "2c4c18af-967c-4ac1-8f21-aa3e4c9e9eaf",
+  "name": "缪向水",
+  "school": "华中科技大学",
+  "department": "光学与电子信息学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师人很好，实验室经费充足，氛围也不错，毕业后去长存",
+      "dimensions": {}
+    },
+    {
+      "comment": "这种大牛为啥没人评价呢",
+      "dimensions": {}
+    }
+  ]
+}

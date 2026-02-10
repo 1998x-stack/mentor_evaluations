@@ -1,0 +1,15 @@
+{
+  "id": "a1a2aad5-3b38-4cd7-92df-69031b49cdb9",
+  "name": "师永红",
+  "school": "内蒙古医科大学",
+  "department": "病理学",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "对学生比较负责，总体科研比较认真。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "9155d200-c05a-423a-b7af-9aa649ba5c3a",
+  "name": "韩金玉",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 3.25,
+  "dimensionScores": {
+    "导师能力": 3.25,
+    "师生关系": 3.25
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：身心都在仕途上，不管学生 与学生关系：身心都在仕途上，不管学生",
+      "dimensions": {
+        "导师能力": "身心都在仕途上，不管学生 与学生",
+        "师生关系": "身心都在仕途上，不管学生"
+      }
+    }
+  ]
+}

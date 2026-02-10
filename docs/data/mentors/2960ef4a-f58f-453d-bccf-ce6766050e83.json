@@ -1,0 +1,19 @@
+{
+  "id": "2960ef4a-f58f-453d-bccf-ce6766050e83",
+  "name": "龚书喜",
+  "school": "西安电子科大",
+  "department": "电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "龚老师是非常好的一个老师，very perfect",
+      "dimensions": {}
+    },
+    {
+      "comment": "天线与微波技术国家重点实验室主任，天线所所长，理论水平高，人缘好，人脉广，课题组氛围轻松，毕业找工作能倾力推荐。",
+      "dimensions": {}
+    }
+  ]
+}

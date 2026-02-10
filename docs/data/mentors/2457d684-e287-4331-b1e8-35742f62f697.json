@@ -1,0 +1,19 @@
+{
+  "id": "2457d684-e287-4331-b1e8-35742f62f697",
+  "name": "张骥",
+  "school": "四川大学",
+  "department": "化学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "很有魅力的老师呢，而且人也很好",
+      "dimensions": {}
+    },
+    {
+      "comment": "老师人真的好，和学生之间的没有距离感",
+      "dimensions": {}
+    }
+  ]
+}

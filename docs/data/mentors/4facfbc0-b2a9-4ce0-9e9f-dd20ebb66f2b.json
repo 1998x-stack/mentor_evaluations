@@ -1,0 +1,15 @@
+{
+  "id": "4facfbc0-b2a9-4ce0-9e9f-dd20ebb66f2b",
+  "name": "唐德威",
+  "school": "哈尔滨工业大学",
+  "department": "机电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "据说脾气暴躁，慎重考虑",
+      "dimensions": {}
+    }
+  ]
+}

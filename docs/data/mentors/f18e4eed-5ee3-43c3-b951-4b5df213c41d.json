@@ -1,0 +1,15 @@
+{
+  "id": "f18e4eed-5ee3-43c3-b951-4b5df213c41d",
+  "name": NaN,
+  "school": NaN,
+  "department": NaN,
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "关爱学生，做的东西比较偏应用，毕业后可以去化工企业做研发",
+      "dimensions": {}
+    }
+  ]
+}

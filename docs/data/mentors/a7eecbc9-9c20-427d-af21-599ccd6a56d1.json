@@ -1,0 +1,15 @@
+{
+  "id": "a7eecbc9-9c20-427d-af21-599ccd6a56d1",
+  "name": "唐劲天",
+  "school": "清华大学",
+  "department": "工程物理系",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不做学术，光做生意。",
+      "dimensions": {}
+    }
+  ]
+}

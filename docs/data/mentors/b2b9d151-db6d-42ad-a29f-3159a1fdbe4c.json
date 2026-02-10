@@ -1,0 +1,15 @@
+{
+  "id": "b2b9d151-db6d-42ad-a29f-3159a1fdbe4c",
+  "name": "呼卫军",
+  "school": "西北工业大学",
+  "department": "航天学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "利益相关：航天学院副教授，水平一般，只想自己赚钱",
+      "dimensions": {}
+    }
+  ]
+}

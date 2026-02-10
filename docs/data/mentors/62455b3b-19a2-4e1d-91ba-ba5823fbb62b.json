@@ -1,0 +1,19 @@
+{
+  "id": "62455b3b-19a2-4e1d-91ba-ba5823fbb62b",
+  "name": "皮荣标",
+  "school": "中山大学",
+  "department": "药学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "听过一次他的讲座，本来讲专业知识，但是大半部分时间在教我们做人，偏题甚远。",
+      "dimensions": {}
+    },
+    {
+      "comment": "我只知道，我听他讲课，五分钟之内，我觉得是他水平很差；等听到了十分钟，就改为，这个人有精神病。 很少见的，虽然是教授，可只是硕导；要知道，很多副教授都可以带博士。 嗯，最后，他的不少同学中途退学了",
+      "dimensions": {}
+    }
+  ]
+}

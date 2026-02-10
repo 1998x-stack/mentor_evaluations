@@ -1,0 +1,15 @@
+{
+  "id": "9ea6034e-f7f9-4226-91c5-13a357777faa",
+  "name": "连峰",
+  "school": "西安交通大学",
+  "department": "电子与信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "人很好",
+      "dimensions": {}
+    }
+  ]
+}

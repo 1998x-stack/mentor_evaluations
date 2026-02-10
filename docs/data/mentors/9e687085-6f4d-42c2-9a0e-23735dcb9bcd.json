@@ -1,0 +1,15 @@
+{
+  "id": "9e687085-6f4d-42c2-9a0e-23735dcb9bcd",
+  "name": "鲍颖",
+  "school": "天津大学",
+  "department": "化工学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "为人朴素低调，经常骑着一辆旧自行车，交流过几次，感觉人很好。",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a20a9fa9-1b3f-4486-bd04-0f4acdb5dff2",
+  "name": "王科",
+  "school": "重庆大学",
+  "department": "机械工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "利益相关：N/A 导师能力：N/A 经费发放：N/A 学生补助：N/A",
+      "dimensions": {
+        "导师能力": "N/A",
+        "经费情况": "N/A 学生",
+        "学生补助": "N/A"
+      }
+    }
+  ]
+}

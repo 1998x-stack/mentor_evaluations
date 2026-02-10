@@ -1,0 +1,15 @@
+{
+  "id": "04fcf0b7-8492-4f79-ace9-3497d42f1913",
+  "name": "张浩澜",
+  "school": "浙江大学",
+  "department": "管理学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "老师感觉很平易近人。专业知识比较新。",
+      "dimensions": {}
+    }
+  ]
+}

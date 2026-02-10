@@ -1,0 +1,19 @@
+{
+  "id": "76031c5d-b13d-4e26-b7ee-90fb4ad7ae70",
+  "name": "李志",
+  "school": "重庆大学",
+  "department": "公共管理学院",
+  "evaluationCount": 1,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "导师能力": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "导师能力：我们导师有多严格就对学生有多好，不摆了，可爱得很。",
+      "dimensions": {
+        "导师能力": "我们导师有多严格就对学生有多好，不摆了，可爱得很。"
+      }
+    }
+  ]
+}

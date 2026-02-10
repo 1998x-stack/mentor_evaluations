@@ -1,0 +1,25 @@
+{
+  "id": "688a8d15-be98-4ffa-8834-8a13c8f46764",
+  "name": "刘芳",
+  "school": NaN,
+  "department": "电子工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "师生关系": 5.0,
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "与学生关系：神坑 学生毕业去向：知乎黑名单老师，神坑，讲话不负责任，脾气特别差",
+      "dimensions": {
+        "师生关系": "神坑 学生毕业",
+        "毕业去向": "知乎黑名单老师，神坑，讲话不负责任，脾气特别差"
+      }
+    },
+    {
+      "comment": "大家看知乎名单就懂了。 https://www.zhihu.com/question/39929319",
+      "dimensions": {}
+    }
+  ]
+}

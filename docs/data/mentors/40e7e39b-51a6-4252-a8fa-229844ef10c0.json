@@ -1,0 +1,15 @@
+{
+  "id": "40e7e39b-51a6-4252-a8fa-229844ef10c0",
+  "name": "祝学云",
+  "school": "东南大学",
+  "department": "仪器科学与工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "不带学生",
+      "dimensions": {}
+    }
+  ]
+}

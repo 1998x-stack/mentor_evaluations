@@ -1,0 +1,19 @@
+{
+  "id": "468ee39d-dd26-4e5b-82ac-e81af8dbc50a",
+  "name": "明凤",
+  "school": "复旦大学",
+  "department": "生命科学学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "大过年的把学生强行留在实验室也是醉了，平常做事也二了吧唧的",
+      "dimensions": {}
+    },
+    {
+      "comment": "强力围观楼上",
+      "dimensions": {}
+    }
+  ]
+}

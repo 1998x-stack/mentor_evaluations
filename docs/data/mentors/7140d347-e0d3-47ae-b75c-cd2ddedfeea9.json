@@ -1,0 +1,15 @@
+{
+  "id": "7140d347-e0d3-47ae-b75c-cd2ddedfeea9",
+  "name": "鱼亮",
+  "school": NaN,
+  "department": "计算机学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "带过我离散数学，人比较好说话，对学生也很负责",
+      "dimensions": {}
+    }
+  ]
+}

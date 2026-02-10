@@ -1,0 +1,15 @@
+{
+  "id": "0f3ba904-03c6-43fb-9f48-89df51104209",
+  "name": "范志民",
+  "school": "吉林大学",
+  "department": "行政学院， 艺术学院， 文学院， 外国语学院， 白求恩医学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "良师益友",
+      "dimensions": {}
+    }
+  ]
+}

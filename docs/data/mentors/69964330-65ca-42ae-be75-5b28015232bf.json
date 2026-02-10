@@ -1,0 +1,27 @@
+{
+  "id": "69964330-65ca-42ae-be75-5b28015232bf",
+  "name": "孙长海",
+  "school": "大连理工大学",
+  "department": "电气工程学院",
+  "evaluationCount": 3,
+  "totalScore": 6.75,
+  "dimensionScores": {
+    "毕业去向": 6.75
+  },
+  "evaluations": [
+    {
+      "comment": "对学生还不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "学生毕业去向：人很好，项目很多，能学到很多普通学生接触不到的东西。",
+      "dimensions": {
+        "毕业去向": "人很好，项目很多，能学到很多普通学生接触不到的东西。"
+      }
+    },
+    {
+      "comment": "天天去工地干活",
+      "dimensions": {}
+    }
+  ]
+}

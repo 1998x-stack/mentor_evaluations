@@ -1,0 +1,19 @@
+{
+  "id": "cdcf9b2d-e99b-45c8-981e-730253fa6baf",
+  "name": "田小永",
+  "school": "西安交通大学",
+  "department": "机械工程学院",
+  "evaluationCount": 2,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "挺好的，跟学生没有架子，经常跟学生一起打球啥的，很不错",
+      "dimensions": {}
+    },
+    {
+      "comment": "一点没有架子，超随和，总是鼓励学生，有好多好的科研想法",
+      "dimensions": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d353372e-68bb-4b24-9372-4df667b22a3a",
+  "name": "高丰",
+  "school": "吉林大学",
+  "department": "行政学院， 艺术学院， 文学院， 外国语学院， 白求恩医学部",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "在吉林大学没有找到动物医学学院，只能在这里写了，这个老师在本科生里面评价很高，但是读了研才知道，去了他的课题组，男的就成了出气筒，女的就成了充气娃娃",
+      "dimensions": {}
+    }
+  ]
+}

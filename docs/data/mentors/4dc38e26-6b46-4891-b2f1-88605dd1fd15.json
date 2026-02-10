@@ -1,0 +1,19 @@
+{
+  "id": "4dc38e26-6b46-4891-b2f1-88605dd1fd15",
+  "name": "孟晓风",
+  "school": "北京航空航天大学",
+  "department": "仪器科学与光电工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {
+    "毕业去向": 5.0
+  },
+  "evaluations": [
+    {
+      "comment": "学生毕业去向：手下的学生不卡毕业！博士4年正常毕业。",
+      "dimensions": {
+        "毕业去向": "手下的学生不卡毕业！博士4年正常毕业。"
+      }
+    }
+  ]
+}

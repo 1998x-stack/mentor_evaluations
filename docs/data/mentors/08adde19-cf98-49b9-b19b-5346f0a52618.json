@@ -1,0 +1,23 @@
+{
+  "id": "08adde19-cf98-49b9-b19b-5346f0a52618",
+  "name": "张玉文",
+  "school": "上海大学",
+  "department": "材料科学与工程学系",
+  "evaluationCount": 3,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "教导学生十分耐心，指导工作时思路清晰",
+      "dimensions": {}
+    },
+    {
+      "comment": "上海大学最好的导师，没有之一。但是导师人好，学生就更应该努力工作，这样才是对老师最大的回报",
+      "dimensions": {}
+    },
+    {
+      "comment": "沉稳，不浮躁，低调，导师能力高",
+      "dimensions": {}
+    }
+  ]
+}

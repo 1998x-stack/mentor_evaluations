@@ -1,0 +1,15 @@
+{
+  "id": "e12f54f5-6a87-4fc9-95fe-f312f18f0bea",
+  "name": "刘开华",
+  "school": "天津大学",
+  "department": "电子信息工程学院",
+  "evaluationCount": 1,
+  "totalScore": 5.0,
+  "dimensionScores": {},
+  "evaluations": [
+    {
+      "comment": "刘开华",
+      "dimensions": {}
+    }
+  ]
+}
