@@ -4,8 +4,24 @@
   "school": "清华大学",
   "department": "机械工程系",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.17,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "两则评价均为高度缅怀，明灯级声誉",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "‘明灯’暗示深远影响与尊重",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及职业支持信息"
+  },
+  "overallRecommendation": "声誉卓著的学术引路人，但公开信息有限需进一步核实",
   "evaluations": [
     {
       "comment": "缅怀翁老师，心中永远的mingdeng",

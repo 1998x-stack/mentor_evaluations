@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.67,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "现任院长、二级教授，权威身份背书",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "头衔权威但信息缺失，需进一步核实细节",
   "evaluations": [
     {
       "comment": "现任院长，二级教授，值得你选",

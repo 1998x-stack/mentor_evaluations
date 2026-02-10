@@ -4,8 +4,24 @@
   "school": "西南交通大学",
   "department": "信息科学与技术学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.33,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 9.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "杰青、长江、OSA Fellow，国际顶尖光子学者",
+    "经费情况": "海外产业界+学界履历，项目资源丰富",
+    "学生补助": "未提及补助细节",
+    "师生关系": "未提及师生互动质量",
+    "工作时间": "未提及工作强度或弹性",
+    "毕业去向": "未提及就业/升学支持"
+  },
+  "overallRecommendation": "学术声誉卓著，平台顶级，但需自行确认培养风格与支持力度",
   "evaluations": [
     {
       "comment": "闫连山，西南交通大学教授，博士生导师，国家杰出青年基金获得者，教育部长江学者特聘教授，国家中青年科技创新领军人才，IEEE光子学会杰出讲席奖（Distinguished Lecturer Award）获得者，2016年当选美国光学学会会士（OSA Fellow），[1] 分别于浙江大学和南加州大学(University of Southern California)获得学士和博士学位。曾在华北光电技术研究所从事激光技术研究 (1994-1999)。2005-2007期间在美国通用光电公司(General Photonics)担任高级研究员(Senior Scientist)，后任首席科学家 (Chief Scientist)。",

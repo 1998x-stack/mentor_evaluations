@@ -4,8 +4,24 @@
   "school": "南京理工大学",
   "department": "电子工程与光电技术学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.67,
+  "dimensionScores": {
+    "导师能力": 3.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅以‘跟陈如山比安慰自己’暗示能力弱",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "信息极度匮乏，仅负面隐喻，无法评估，谨慎选择",
   "evaluations": [
     {
       "comment": "他的学生只能跟陈如山比来安慰自己",

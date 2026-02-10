@@ -4,8 +4,24 @@
   "school": "中南大学",
   "department": "土木工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.67,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 7.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘good teacher’，正面但信息极少",
+    "经费情况": "未提及经费",
+    "学生补助": "未提及补助",
+    "师生关系": "‘good teacher’隐含良好关系",
+    "工作时间": "未提及工作时间",
+    "毕业去向": "未提及毕业去向"
+  },
+  "overallRecommendation": "信息严重不足，仅凭单条正向评价无法充分评估",
   "evaluations": [
     {
       "comment": "good teacher",

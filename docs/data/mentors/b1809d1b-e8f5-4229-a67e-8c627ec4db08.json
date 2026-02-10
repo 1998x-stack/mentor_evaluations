@@ -4,8 +4,24 @@
   "school": "同济大学",
   "department": "土木工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.83,
+  "dimensionScores": {
+    "导师能力": 3.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 2.0,
+    "工作时间": 5.0,
+    "毕业去向": 3.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘不管不问’，指导缺位",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "完全失联，零互动",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "无支持，毕业前景不明"
+  },
+  "overallRecommendation": "不推荐，缺乏基本指导与责任意识",
   "evaluations": [
     {
       "comment": "别问，问就是不管不问。",

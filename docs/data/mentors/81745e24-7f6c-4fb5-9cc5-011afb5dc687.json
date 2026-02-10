@@ -4,8 +4,24 @@
   "school": "华南理工大学",
   "department": "化学与化工学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 6.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 7.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "科研水平普通，课题组较大",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "人很NICE，但琐事多可能影响体验",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及毕业支持情况"
+  },
+  "overallRecommendation": "性格友善但科研中等，适合求稳学生",
   "evaluations": [
     {
       "comment": "楼老师人很NICE，科研水平普通，课题组较大，琐事很多。",

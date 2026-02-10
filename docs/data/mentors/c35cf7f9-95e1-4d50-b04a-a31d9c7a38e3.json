@@ -4,8 +4,24 @@
   "school": "郑州大学",
   "department": "口腔医学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.83,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "学生主观好评，但无具体支撑细节",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "‘我导~灰常好！’，情绪正向强烈",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "积极情绪反馈明显，但信息单薄，建议补充调研",
   "evaluations": [
     {
       "comment": "我导~灰常好！哈哈哈哈哈~",

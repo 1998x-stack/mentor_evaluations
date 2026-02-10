@@ -4,8 +4,24 @@
   "school": "天津大学",
   "department": "精密仪器与光电子工程学院",
   "evaluationCount": 3,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 8.17,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 9.0,
+    "学生补助": 7.0,
+    "师生关系": 9.0,
+    "工作时间": 7.0,
+    "毕业去向": 8.0
+  },
+  "dimensionReasons": {
+    "导师能力": "国际前沿方向，指导积极且具创造力",
+    "经费情况": "‘经费充足’‘great opportunities’",
+    "学生补助": "明确提及硕士有补助、博士更高",
+    "师生关系": "‘so kind and helpful’‘特别认真负责’",
+    "工作时间": "未提强制加班，实验室文化积极",
+    "毕业去向": "提供国际机会，支持学生成长"
+  },
+  "overallRecommendation": "顶尖培养型导师，科研与人文兼顾，强烈推荐",
   "evaluations": [
     {
       "comment": "林哥很赞，能选上他的研究生就稳了",

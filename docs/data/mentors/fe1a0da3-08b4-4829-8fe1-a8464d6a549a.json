@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.67,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 9.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "文章近年发得很好",
+    "经费情况": "未提及经费情况",
+    "学生补助": "补助超多",
+    "师生关系": "老师很nice",
+    "工作时间": "未提及工作时间",
+    "毕业去向": "未提及职业支持"
+  },
+  "overallRecommendation": "谨慎推荐：学术与待遇优厚，但信息缺失多，需进一步核实真实性",
   "evaluations": [
     {
       "comment": "老师很nice，文章近几年发的很好，对学生补助也超多",

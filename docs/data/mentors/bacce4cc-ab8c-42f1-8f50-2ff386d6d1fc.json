@@ -4,8 +4,24 @@
   "school": "厦门大学",
   "department": "化学化工学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.67,
+  "dimensionScores": {
+    "导师能力": 4.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 4.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘hhhhh’‘听说很……’，表达模糊负面倾向",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及学生补助",
+    "师生关系": "‘听说很……’暗示潜在问题，信任度低",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业去向支持"
+  },
+  "overallRecommendation": "信号消极、信息匮乏，存在隐性风险，谨慎选择",
   "evaluations": [
     {
       "comment": "hhhhhhh\nhhhhhhhhhhh",

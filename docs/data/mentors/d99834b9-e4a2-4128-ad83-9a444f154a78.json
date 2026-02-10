@@ -4,8 +4,24 @@
   "school": "香港大学",
   "department": "School of Biological Sciences",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.33,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 3.0,
+    "学生补助": 5.0,
+    "师生关系": 2.0,
+    "工作时间": 5.0,
+    "毕业去向": 3.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘骗钱’指控严重，学术动机受质疑",
+    "经费情况": "‘骗钱’暗示经费来源可疑，非正向科研",
+    "学生补助": "未提及补助情况",
+    "师生关系": "‘拖家带口’‘骗钱’反映责任缺失",
+    "工作时间": "未提及工作安排",
+    "毕业去向": "无支持描述，声誉风险影响就业"
+  },
+  "overallRecommendation": "学术诚信存疑，动机不纯，存在重大合作风险",
   "evaluations": [
     {
       "comment": "这家伙做研究还拖家带口的，来大陆就是骗钱的。",

@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.83,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 7.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "沈刚老师科研level高，学习曲线陡峭但高效",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助",
+    "师生关系": "需自主前置学习，属高要求但非压制型",
+    "工作时间": "未提及具体作息",
+    "毕业去向": "未提及就业或深造去向"
+  },
+  "overallRecommendation": "科研能力强，适合有基础、愿攻坚的学术志向者",
   "evaluations": [
     {
       "comment": "如果你来到了软院，偏向于科研，那就来吧。可能华科不是一个globally optimal solution, 显然沈刚老师是一个目前的locally optimal solution ：） 自己的感受是沈老师的科研level是很高的，相对应需要自己充分了解一些基本的知识后，学习速率会非常高，不然会浪费大量时间精力在基本知识上，会让学习曲线很陡峭 ：）",

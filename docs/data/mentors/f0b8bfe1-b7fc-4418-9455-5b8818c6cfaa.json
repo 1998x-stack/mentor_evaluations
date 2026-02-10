@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.67,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 3.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅‘与学生关系处理不行’，无其他维度信息",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "明确关系处理差，属负面评价",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "师生关系缺陷明确，其他维度全无信息，高风险，不建议选择",
   "evaluations": [
     {
       "comment": "与学生关系处理不行",

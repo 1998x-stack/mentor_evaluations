@@ -4,22 +4,28 @@
   "school": "香港科技大学",
   "department": "Department of Mechanical and Aerospace Engineering",
   "evaluationCount": 1,
-  "totalScore": 5.0,
+  "totalScore": 4.67,
   "dimensionScores": {
-    "导师能力": 5.0,
-    "经费情况": 5.0,
-    "师生关系": 5.0,
-    "毕业去向": 5.0
+    "导师能力": 6.0,
+    "经费情况": 7.0,
+    "学生补助": 5.0,
+    "师生关系": 3.0,
+    "工作时间": 5.0,
+    "毕业去向": 2.0
   },
+  "dimensionReasons": {
+    "导师能力": "能发较好论文，但跨领域指导存疑",
+    "经费情况": "有 funding 且持续增加",
+    "学生补助": "未明确提及补助标准",
+    "师生关系": "表面关心实则冷漠，威胁延迟毕业",
+    "工作时间": "未提及具体工作时间",
+    "毕业去向": "不推荐、不支持，学生需独自挣扎"
+  },
+  "overallRecommendation": "经费尚可但人品存疑，学术支持弱且具控制性，慎选",
   "evaluations": [
     {
       "comment": "导师能力：He did modeling during his PhD but he is supervising students on experimental materials science. He can publish some relatively good work. 经费发放：He has some funding and it seems he is getting more. 与学生关系：He appears caring about student but he turns quickly for no reason. Quoting from his student what he said: \"why should I care?\" 学生毕业去向：I heard some of the students may be able to find a position on their own after some struggle but do not expect to get any help from him. He can/will NOT recommend a student to a top-notch group/good academic position. I also heard that when his student refuses to do a post-doc in his lab, he delayed his graduate for several month.",
-      "dimensions": {
-        "导师能力": "He did modeling during his PhD but he is supervising students on experimental materials science. He can publish some relatively good work.",
-        "经费情况": "He has some funding and it seems he is getting more. 与学生",
-        "师生关系": "He appears caring about student but he turns quickly for no reason. Quoting from his student what he said: \"why should I care?\" 学生毕业",
-        "毕业去向": "I heard some of the students may be able to find a position on their own after some struggle but do not expect to get any help from him. He can/will NOT recommend a student to a top-notch group/good academic position. I also heard that when his student refuses to do a post-doc in his lab, he delayed his graduate for several month."
-      }
+      "dimensions": {}
     }
   ]
 }

@@ -4,8 +4,24 @@
   "school": "华中科技大学",
   "department": "软件学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.17,
+  "dimensionScores": {
+    "导师能力": 6.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "PhD方向前沿（Bayes/Deep Learning）",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "中性待观察：背景尚可，但信息极少，需进一步核实指导风格与资源",
   "evaluations": [
     {
       "comment": "是近几年来的老师，phd是机器学习方面，偏向于bayes和deep learning（消息来源可能不准确）。",

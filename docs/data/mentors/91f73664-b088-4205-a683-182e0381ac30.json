@@ -4,8 +4,24 @@
   "school": "北京师范大学",
   "department": "环境学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.5,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 2.0,
+    "工作时间": 5.0,
+    "毕业去向": 2.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅一条差评，明确劝退",
+    "经费情况": "未提及，中立",
+    "学生补助": "未提及，中立",
+    "师生关系": "学生强烈建议换导师",
+    "工作时间": "未提及，中立",
+    "毕业去向": "隐含严重风险，不推荐"
+  },
+  "overallRecommendation": "评价极负面，存在高风险，强烈不建议选择",
   "evaluations": [
     {
       "comment": "亲，这边建议换个导师呢",

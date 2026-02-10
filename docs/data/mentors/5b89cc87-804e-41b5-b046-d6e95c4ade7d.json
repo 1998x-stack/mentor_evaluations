@@ -4,8 +4,24 @@
   "school": "电子科技大学",
   "department": "电子工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.33,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 10.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "未详述但‘大爱’暗示能力强",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "巨好，最好的老师",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "师生关系顶级，其他维度中性，值得信赖的良师",
   "evaluations": [
     {
       "comment": "大爱廖老师，巨好。在大学遇到的最好的老师。",

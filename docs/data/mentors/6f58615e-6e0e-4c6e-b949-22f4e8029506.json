@@ -4,8 +4,24 @@
   "school": "南京师范大学",
   "department": "商学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 6.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "学术蛮好，为人严厉但专业",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "严厉但非恶意，属严格型导师",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及毕业支持情况"
+  },
+  "overallRecommendation": "学术扎实、风格严谨，适合自律学生",
   "evaluations": [
     {
       "comment": "为人严厉，学术蛮好",

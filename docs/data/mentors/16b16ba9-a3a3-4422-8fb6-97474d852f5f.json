@@ -4,8 +4,24 @@
   "school": "北京邮电大学",
   "department": "计算机学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.83,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "偏研究型，Nice，但信息较少",
+    "经费情况": "未提及，中立",
+    "学生补助": "未提及，中立",
+    "师生关系": "人Nice，态度友善",
+    "工作时间": "未提及，中立",
+    "毕业去向": "未提及，中立"
+  },
+  "overallRecommendation": "初步印象良好，但信息不足需进一步核实",
   "evaluations": [
     {
       "comment": "推荐李睿凡老师，也是偏研究的老师，人也很Nice",

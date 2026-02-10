@@ -4,8 +4,24 @@
   "school": "东南大学",
   "department": "交通学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.83,
+  "dimensionScores": {
+    "导师能力": 10.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘大牛不多说’，业内公认权威",
+    "经费情况": "未提及经费信息",
+    "学生补助": "未提及补助信息",
+    "师生关系": "未提及关系表现",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及毕业支持"
+  },
+  "overallRecommendation": "学术地位极高，但缺乏培养细节，适合追求平台资源的学生。",
   "evaluations": [
     {
       "comment": "大牛不多说。",

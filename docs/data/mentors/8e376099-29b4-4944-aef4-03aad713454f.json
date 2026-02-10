@@ -4,8 +4,24 @@
   "school": "北京大学",
   "department": "信息科学技术学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.0,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "评价虽简但‘很Nice’暗示能力与态度俱佳",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "‘很Nice’体现高度尊重与亲和力",
+    "工作时间": "未明确提及工作强度",
+    "毕业去向": "未提职业发展支持"
+  },
+  "overallRecommendation": "口碑简洁正面，北大信息学院资深教师，稳妥之选",
   "evaluations": [
     {
       "comment": "封老师很Nice",

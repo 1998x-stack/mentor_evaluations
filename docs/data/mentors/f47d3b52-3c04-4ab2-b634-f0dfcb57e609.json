@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.83,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "为人nice、科研做得不错",
+    "经费情况": "未提及经费相关信息",
+    "学生补助": "未提及补助情况",
+    "师生关系": "明确‘为人比较nice’，无负面反馈",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及就业支持或去向信息"
+  },
+  "overallRecommendation": "初步印象良好，但信息有限，需进一步核实细节",
   "evaluations": [
     {
       "comment": "曾上过甘老师的课，为人比较nice，科研做的也不错",

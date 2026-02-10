@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 0.0,
+  "dimensionScores": {
+    "导师能力": 0.0,
+    "经费情况": 0.0,
+    "学生补助": 0.0,
+    "师生关系": 0.0,
+    "工作时间": 0.0,
+    "毕业去向": 0.0
+  },
+  "dimensionReasons": {
+    "导师能力": "信息全为nan，无效条目",
+    "经费情况": "信息缺失，无法评估",
+    "学生补助": "信息缺失，无法评估",
+    "师生关系": "信息缺失，无法评估",
+    "工作时间": "信息缺失，无法评估",
+    "毕业去向": "信息缺失，无法评估"
+  },
+  "overallRecommendation": "无效条目：信息全部缺失，不可作为选导参考",
   "evaluations": [
     {
       "comment": "放羊，甩手，延期，混子，",

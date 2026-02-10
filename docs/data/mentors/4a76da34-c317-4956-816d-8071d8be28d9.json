@@ -4,8 +4,24 @@
   "school": "华中科技大学",
   "department": "自动化学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.0,
+  "dimensionScores": {
+    "导师能力": 1.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 1.0,
+    "工作时间": 5.0,
+    "毕业去向": 1.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘误人子弟’极端负面定性",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "‘浪费青春’暗示关系崩坏",
+    "工作时间": "未提及",
+    "毕业去向": "评价隐含零支持"
+  },
+  "overallRecommendation": "高度危险导师，应绝对回避",
   "evaluations": [
     {
       "comment": "千万别来此处！误人子弟，浪费青春！",

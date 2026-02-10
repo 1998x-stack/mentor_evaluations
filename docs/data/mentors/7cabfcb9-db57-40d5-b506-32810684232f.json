@@ -4,8 +4,24 @@
   "school": "浙江大学",
   "department": "光电信息工程学系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.0,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "未详述，但实验室氛围好暗示指导有效",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "超级nice，氛围极佳",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业去向支持"
+  },
+  "overallRecommendation": "氛围友好，但关键培养维度信息缺失，需实地了解。",
   "evaluations": [
     {
       "comment": "超级nice，实验室气氛很好",

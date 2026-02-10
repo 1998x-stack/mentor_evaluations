@@ -4,8 +4,24 @@
   "school": "东南大学",
   "department": "土木工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.67,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "未提科研或指导能力",
+    "经费情况": "未提经费情况",
+    "学生补助": "未提补助情况",
+    "师生关系": "脾气特别好，关系和谐",
+    "工作时间": "未提工作强度",
+    "毕业去向": "未提就业支持"
+  },
+  "overallRecommendation": "性格友好，但学术与职业支持信息缺失",
   "evaluations": [
     {
       "comment": "棒棒哒我的导师，脾气特别好",

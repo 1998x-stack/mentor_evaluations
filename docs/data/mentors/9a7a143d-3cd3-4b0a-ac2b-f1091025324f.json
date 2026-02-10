@@ -4,10 +4,24 @@
   "school": "大连理工大学",
   "department": "计算机科学与技术学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
+  "totalScore": 4.0,
   "dimensionScores": {
-    "师生关系": 5.0
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 2.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
   },
+  "dimensionReasons": {
+    "导师能力": "课件不做，课程全靠自学",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "‘No talking. No Access.’极度冷漠",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及毕业支持"
+  },
+  "overallRecommendation": "教学失职，缺乏基本师生互动，不推荐",
   "evaluations": [
     {
       "comment": "极其不负责 数据库课程就是要求学生自学 课件都懒得自己做 ",
@@ -15,9 +29,7 @@
     },
     {
       "comment": "利益相关：数据库系统原理老师 与学生关系：Oracle experienced expert. No talking. No Access. No interruption. No truant. No pleasure in his fucking bullshit class at all.",
-      "dimensions": {
-        "师生关系": "Oracle experienced expert. No talking. No Access. No interruption. No truant. No pleasure in his fucking bullshit class at all."
-      }
+      "dimensions": {}
     }
   ]
 }

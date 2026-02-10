@@ -4,29 +4,32 @@
   "school": "厦门大学",
   "department": "数学科学学院",
   "evaluationCount": 2,
-  "totalScore": 5.44,
+  "totalScore": 4.83,
   "dimensionScores": {
-    "导师能力": 5.0,
+    "导师能力": 4.0,
     "经费情况": 5.0,
-    "师生关系": 5.0,
-    "毕业去向": 6.75
+    "学生补助": 5.0,
+    "师生关系": 4.0,
+    "工作时间": 5.0,
+    "毕业去向": 6.0
   },
+  "dimensionReasons": {
+    "导师能力": "评价两极：‘一般’vs‘too bad’，可信度存疑",
+    "经费情况": "‘just soso’，中性表述",
+    "学生补助": "未提及补助",
+    "师生关系": "‘not bad’与‘no respect’矛盾，倾向偏低",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "‘不错’，但无细节支撑"
+  },
+  "overallRecommendation": "信息矛盾，建议实地了解，暂不优先推荐",
   "evaluations": [
     {
       "comment": "导师能力：一般 经费发放：just soso 与学生关系：not bad 学生毕业去向：不错",
-      "dimensions": {
-        "导师能力": "一般",
-        "经费情况": "just soso 与学生",
-        "师生关系": "not bad 学生毕业",
-        "毕业去向": "不错"
-      }
+      "dimensions": {}
     },
     {
       "comment": "导师能力：too bad 与学生关系：no respect",
-      "dimensions": {
-        "导师能力": "too bad 与学生",
-        "师生关系": "no respect"
-      }
+      "dimensions": {}
     }
   ]
 }

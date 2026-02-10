@@ -4,8 +4,24 @@
   "school": "大连理工大学",
   "department": "控制科学与工程学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.0,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "接触有限但评价均为正面，潜力可期",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "亲近、和善、细心，师生关系极佳",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "人文素养突出，适合重视沟通体验的学生",
   "evaluations": [
     {
       "comment": "接触过几次，感觉人很好。",

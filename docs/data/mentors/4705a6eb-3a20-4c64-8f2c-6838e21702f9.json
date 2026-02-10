@@ -4,8 +4,24 @@
   "school": "华中科技大学",
   "department": "第一临床学院（附属协和医院）",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "未提及科研能力",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及学生补助",
+    "师生关系": "挺好，不push，为学生考虑",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及职业发展支持"
+  },
+  "overallRecommendation": "师生关系温和，但缺乏其他维度信息，需进一步了解",
   "evaluations": [
     {
       "comment": "人挺好的，不会push，挺为学生考虑",

@@ -4,8 +4,24 @@
   "school": "中国石油大学(北京)",
   "department": "石油工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.67,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 7.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘挺负责’暗示指导投入度高",
+    "经费情况": "无相关信息",
+    "学生补助": "无相关信息",
+    "师生关系": "‘挺负责学生’体现责任心",
+    "工作时间": "无相关信息",
+    "毕业去向": "无相关信息"
+  },
+  "overallRecommendation": "责任意识强，基础可靠，属稳妥型导师。",
   "evaluations": [
     {
       "comment": "挺负责学生的一个老师。",

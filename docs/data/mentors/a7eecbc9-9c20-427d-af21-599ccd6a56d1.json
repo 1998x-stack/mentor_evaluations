@@ -4,8 +4,24 @@
   "school": "清华大学",
   "department": "工程物理系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.5,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 6.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 4.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘不做学术，光做生意’，学术投入严重不足",
+    "经费情况": "经商可能带来横向经费，但未明示",
+    "学生补助": "未提及",
+    "师生关系": "未提及师生互动细节",
+    "工作时间": "未提及",
+    "毕业去向": "学术缺席 likely 影响研究能力与深造支持"
+  },
+  "overallRecommendation": "学术导向弱，商业化倾向强，学术成长受限",
   "evaluations": [
     {
       "comment": "不做学术，光做生意。",

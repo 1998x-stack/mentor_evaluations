@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.0,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘超级牛’但无实证，主观褒义评价",
+    "经费情况": "未提及经费",
+    "学生补助": "未提及补助",
+    "师生关系": "‘超级温柔’，正向情感描述强烈",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及职业支持"
+  },
+  "overallRecommendation": "积极信号明显但信息过简，需进一步核实",
   "evaluations": [
     {
       "comment": "超级帅 超级温柔，超级牛",

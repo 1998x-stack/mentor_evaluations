@@ -4,8 +4,24 @@
   "school": "中国农业科学院",
   "department": "上海兽医研究所",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.67,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 7.0,
+    "学生补助": 6.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 6.0
+  },
+  "dimensionReasons": {
+    "导师能力": "领域了解深，和企业合作多",
+    "经费情况": "未明述但合作多暗示经费尚可",
+    "学生补助": "未明述但评价积极，应基本保障",
+    "师生关系": "人和蔼，nice，超级好",
+    "工作时间": "未提及工作时间",
+    "毕业去向": "未提及但合作多或有助就业"
+  },
+  "overallRecommendation": "亲和力强、产业联系好，中高潜力导师",
   "evaluations": [
     {
       "comment": "老师人和蔼，nice, 超级好！",

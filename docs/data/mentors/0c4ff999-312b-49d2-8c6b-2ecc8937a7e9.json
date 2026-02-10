@@ -4,8 +4,24 @@
   "school": "东南大学",
   "department": "机械工程学院",
   "evaluationCount": 3,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.5,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 10.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "能力出众，导师界良心口碑公认",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助",
+    "师生关系": "待人平和，人见人爱，全满分",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及职业支持"
+  },
+  "overallRecommendation": "师德典范，师生关系极佳，适合重视人文关怀者",
   "evaluations": [
     {
       "comment": "相当赞的老师",

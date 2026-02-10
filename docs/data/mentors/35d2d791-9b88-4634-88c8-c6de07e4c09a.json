@@ -4,8 +4,24 @@
   "school": "天津大学",
   "department": "机械工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "评价‘很强’，机械领域资深",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "未提及师生互动细节",
+    "工作时间": "未提及工作强度或弹性",
+    "毕业去向": "未提及毕业支持或去向信息"
+  },
+  "overallRecommendation": "基础信息严重缺失，建议进一步核实再决策",
   "evaluations": [
     {
       "comment": "很强的导师",

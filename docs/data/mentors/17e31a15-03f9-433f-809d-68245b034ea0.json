@@ -4,8 +4,24 @@
   "school": "香港科技大学",
   "department": "Department of Physics",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.5,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 3.0,
+    "学生补助": 3.0,
+    "师生关系": 6.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "态度尚可但未提学术水平",
+    "经费情况": "经费发放较少，实验条件差",
+    "学生补助": "经费少直接制约补助发放",
+    "师生关系": "态度还可以，无负面描述",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业支持"
+  },
+  "overallRecommendation": "硬件与经费薄弱，学术支持存疑，慎选",
   "evaluations": [
     {
       "comment": "对学生态度还可以，但是办公条件差，实验条件差，经费发放比较少。",

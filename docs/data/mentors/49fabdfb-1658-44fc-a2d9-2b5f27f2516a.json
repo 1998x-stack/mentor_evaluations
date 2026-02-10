@@ -4,8 +4,24 @@
   "school": "大连理工大学",
   "department": "化工学院",
   "evaluationCount": 4,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.33,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "科研强、改稿快、论文指导负责",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "和善、平易近人、学生公认好导师",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "师生关系与指导质量双优，基础扎实型理想导师。",
   "evaluations": [
     {
       "comment": "好老师 真的是很好的导师",

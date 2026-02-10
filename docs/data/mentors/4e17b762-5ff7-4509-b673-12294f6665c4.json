@@ -4,8 +4,24 @@
   "school": "武汉大学",
   "department": "数学与统计学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.17,
+  "dimensionScores": {
+    "导师能力": 6.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘非常6’属模糊褒义，倾向中上",
+    "经费情况": "未提及，中立",
+    "学生补助": "未提及，中立",
+    "师生关系": "未提及，中立",
+    "工作时间": "未提及，中立",
+    "毕业去向": "未提及，中立"
+  },
+  "overallRecommendation": "信息极少，‘非常6’或为幽默表达，需实地调研确认",
   "evaluations": [
     {
       "comment": "非常6的导师。。。。。",

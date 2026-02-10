@@ -4,8 +4,24 @@
   "school": "山东大学",
   "department": "电气工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.5,
+  "dimensionScores": {
+    "导师能力": 4.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 4.0,
+    "工作时间": 5.0,
+    "毕业去向": 4.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘谨慎选择’暗示潜在风险",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "‘谨慎’指向师生关系不确定性",
+    "工作时间": "未提及",
+    "毕业去向": "未提供支持信息，评价偏消极"
+  },
+  "overallRecommendation": "负面暗示明显，缺乏正面佐证，建议优先排除",
   "evaluations": [
     {
       "comment": "谨慎选择。",

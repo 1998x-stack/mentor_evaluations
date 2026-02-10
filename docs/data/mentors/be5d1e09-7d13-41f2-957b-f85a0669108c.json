@@ -5,7 +5,23 @@
   "department": "School of Biological Sciences",
   "evaluationCount": 1,
   "totalScore": 5.0,
-  "dimensionScores": {},
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "无评价信息，无法判断",
+    "经费情况": "无评价信息，无法判断",
+    "学生补助": "无评价信息，无法判断",
+    "师生关系": "无评价信息，无法判断",
+    "工作时间": "无评价信息，无法判断",
+    "毕业去向": "无评价信息，无法判断"
+  },
+  "overallRecommendation": "信息缺失，暂不推荐；建议进一步核实其学术成果与在读学生反馈。",
   "evaluations": [
     {
       "comment": "利益相关：导师由游客添加，恳请了解此导师的同学进行评价~",

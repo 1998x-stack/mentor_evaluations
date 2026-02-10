@@ -4,46 +4,40 @@
   "school": "上海交通大学",
   "department": "化工学院",
   "evaluationCount": 4,
-  "totalScore": 5.02,
+  "totalScore": 8.17,
   "dimensionScores": {
-    "导师能力": 6.0,
-    "经费情况": 5.0,
-    "学生补助": 5.0,
-    "师生关系": 4.12,
-    "工作时间": 5.0,
-    "毕业去向": 5.0
+    "导师能力": 8.0,
+    "经费情况": 9.0,
+    "学生补助": 9.0,
+    "师生关系": 7.0,
+    "工作时间": 7.0,
+    "毕业去向": 9.0
   },
+  "dimensionReasons": {
+    "导师能力": "实名学生证其严谨指导、高水平成果",
+    "经费情况": "基金+企业合作，经费充足",
+    "学生补助": "5000/学期+租房补贴，远超均值",
+    "师生关系": "专注学术指导，略缺生活关怀但尊重学生",
+    "工作时间": "不push、不占课外时间，自由度高",
+    "毕业去向": "允实习，就业/深造去向优质"
+  },
+  "overallRecommendation": "科研实力强、待遇优厚、支持充分，属优质导师，强烈推荐",
   "evaluations": [
     {
       "comment": "导师能力：从不指导学生，极品导师，人渣，败类，谁读这个极品王八的研究生谁后悔",
-      "dimensions": {
-        "导师能力": "从不指导学生，极品导师，人渣，败类，谁读这个极品王八的研究生谁后悔"
-      }
+      "dimensions": {}
     },
     {
       "comment": "导师能力：极品导师自己不写论文，多次抢学生一作。对学生实验不闻不问。",
-      "dimensions": {
-        "导师能力": "极品导师自己不写论文，多次抢学生一作。对学生实验不闻不问。"
-      }
+      "dimensions": {}
     },
     {
       "comment": "利益相关：我是2016级（2019年春毕业）王久林研究员的硕士生杨慧军，对于上述对王老师的不公正不客观的评价和人格侮辱，我有必要出来澄清一下事实。匿名评价网站并不意味着可以不在法律允许范围内对他人进行诋毁和侮辱。对于2018年1月份连续三条恶意评论，我愿意实名反对。 导师能力：王老师绝对称得上学者风范，科研即是安家立命的本事，也是他的精神支柱。上述评论说王老师对学生没有任何指导，纯属谎言。以我为例，我2016年春进组毕业设计，王老师立即给我硫材料合成，硫正极结构设计方面的文献和idea，让我实施。2016年秋（研一上学期），我开始锂硫电池用阻燃安全性电解液的研究，主要设计的溶剂磷酸三乙酯，氟代醚等等均是按照王老师的要求和指导下完成的。2019年春，我完成的硕士毕业答辩，我的科研成果还不错，一作文章有一篇Angewante，一篇Chem. Commun., 两篇Energy Storage Mater.，还有若干挂名文章（第二作者等）。正如我的致谢部分写道，“在与王老师的沟通过程中，我感受到的不仅是他渊博的学识、严谨的治学态度和高尚的学术道德，更是和蔼可亲的为人处世，这些是我三年以来最为宝贵的财富。王老师富有创造性的想法和勤奋的工作态度时时刻刻鞭笞我不断前进，王老师言传身教，他亲力亲为的装配电池和分析数据让我十分感动，我总能在实验室见到他忙碌的身影。与王老师几乎每天的谈话中，王老师将宝贵的知识财富无私地传授给我，我不仅获得了创新的想法和实验的动力，也开启了我的学术领域大门”。以上的描述纯属事实，我愿意实名对真实性负责。现在我将online文章贴出，各位可以去谷歌学术证明，王老师均为通讯作者“the last author”。 1. Huijun Yang, Cheng Guo, Jiahang Chen, Ahmad Naveed, Jun Yang, Yanna Nuli, Jiulin Wang* (2019). An Intrinsic Flame-retardant Organic Electrolyte for Safe Lithium-Sulfur Batteries. Angewandte Chemie International Edition, 58, 791-795. 2. Huijun Yang, Ahmad Naveed, Qinyu Li, Cheng Guo, Jiahang Chen, Jingyu Lei, Jiulin Wang* (2018). Lithium sulfur batteries with compatible electrolyte both for stable cathode and dendrite-free anode. Energy Storage Materials, 15, 299-307. 3. Huijun Yang, Cheng Guo, Ahmad Naveed, Jingyu Lei, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Recent progress and perspective on lithium metal anode protection. Energy Storage Materials, 14,199-221. 4. Huijun Yang, Qinyu Li, Cheng Guo, Ahmad Naveed, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Safer lithium–sulfur battery based on nonflammable electrolyte with sulfur composite cathode. Chemical Communications, 54(33), 4132-4135. 经费发放：经费充足，来源包括自然科学基金和企业的合作，作为学生感受不到资金不足的窘迫。 学生补助：老师补助，5000元一学期（4~5个月），加上学校的1000~1500元/每月，硕士够用了。。。。对于联合培养，在外租房的学生，每个月的租房费用老师单独计算。 与学生关系：2. 针对老师和学生之间的第一作者争端，我个人有一些看法。王老师一直在科研一线，亲自做实验，发现现象。如果说一篇文章的idea，核心数据，论文修改和论文回稿等均是老师亲力亲为的，学生不从事科研领域而且已经论文答辩结束，老师作为第一作者无可厚非。而且老师从来都是鼓励学生出国交流，对于有学术追求的学生，老师向来是积极推荐，不会出现压学生数据，自己偷偷发的问题。现在我将近三年组内王老师亲自指导的学生论文贴出作为佐证。 1. Ahmad Naveed, Huijun Yang, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Highly reversible and safe Zn rechargeable batteries based on triethyl phosphate electrolyte. Angewandte Chemie International Edition. DOI: 10.1002/anie.201813223 2. Qinyu Li, Huijun Yang, Ahmad Naveed, Cheng Guo, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Duplex component additive of tris (trimethylsilyl) phosphite-vinylene carbonate for lithium sulfur batteries. Energy Storage Materials, 14, 75-81. 3. Cheng Guo, Huijun Yang, Ahmad Naveed, Yanna Nuli, Jun Yang, Yuliang Cao, Jiulin Wang* (2018). AlF3-Modified carbon nanofibers as a multifunctional 3D interlayer for stable lithium metal anodes. Chemical Communications, 54(60), 8347-8350. 4. Qinyu Li, Huijun Yang, Lisheng Xie, Jun Yang, Yanna Nuli, Jiulin Wang* (2016). Guar gum as a novel binder for sulfur composite cathodes in rechargeable lithium batteries. Chemical Communications, 52(92), 13479-13482. 5. Lina Wang, Qinyu Li, Huijun Yang, Jun Yang, Yanna Nuli, Jiulin Wang* (2016). Superior rate capability of a sulfur composite cathode in a tris (trimethylsilyl) borate-containing functional electrolyte. Chemical Communications, 52(100), 14430-14433. 6. Lisheng Xie, Shengxue Yu, Huijun Yang, Jun Yang, Jianlan Ni, Jiulin Wang* (2017). Hierarchical porous carbon derived from animal bone as matric to encapsulated selenium for high performance Li–Se battery. Rare Metals, 36(5), 434-441. 工作时间：关于王老师的人品，王久林研究员是位年轻而且有科研追求的老师，不愿意耽误学生的课外时间，例如让学生处理发票报销，取快递的事情就更没有，凡事亲力亲为。但是我客观的评价，王老师主动与学生聊生活，搞团建活动之类的机会很少，每次的谈话内容局限于学术领域，这可能导致学生心理的亚健康。但是我坚持认为，如果学生不主动找老师聊自己原生态家庭的事情，老师就不该过多的过问，老师并不是神。王老师并不是一个push的老师，课题是很自由的状态，既可以跟着王老师的idea实施，也可以根据自己的想法来具体展开的状态。在我的研究生生活中，我也很少和王老师聊我自己的生活，一方面是的确存在代沟，年龄的差距和与学生关系都是障碍，而且我个人生活的确不需要老师的帮助。我身边的师兄弟姐妹们，家庭出现重大问题的，他都一定程度上给予理解和帮助（比如实验任务减轻，补助增加等）。 学生毕业去向：允许实习（寒暑假实习），毕业后的学生有继续从事科研的，也有进入企业（上汽，中化，国轩），部分进入事业单位。",
-      "dimensions": {
-        "导师能力": "王老师绝对称得上学者风范，科研即是安家立命的本事，也是他的精神支柱。上述评论说王老师对学生没有任何指导，纯属谎言。以我为例，我2016年春进组毕业设计，王老师立即给我硫材料合成，硫正极结构设计方面的文献和idea，让我实施。2016年秋（研一上学期），我开始锂硫电池用阻燃安全性电解液的研究，主要设计的溶剂磷酸三乙酯，氟代醚等等均是按照王老师的要求和指导下完成的。2019年春，我完成的硕士毕业答辩，我的科研成果还不错，一作文章有一篇Angewante，一篇Chem. Commun., 两篇Energy Storage Mater.，还有若干挂名文章（第二作者等）。正如我的致谢部分写道，“在与王老师的沟通过程中，我感受到的不仅是他渊博的学识、严谨的治学态度和高尚的学术道德，更是和蔼可亲的为人处世，这些是我三年以来最为宝贵的财富。王老师富有创造性的想法和勤奋的工作态度时时刻刻鞭笞我不断前进，王老师言传身教，他亲力亲为的装配电池和分析数据让我十分感动，我总能在实验室见到他忙碌的身影。与王老师几乎每天的谈话中，王老师将宝贵的知识财富无私地传授给我，我不仅获得了创新的想法和实验的动力，也开启了我的学术领域大门”。以上的描述纯属事实，我愿意实名对真实性负责。现在我将online文章贴出，各位可以去谷歌学术证明，王老师均为通讯作者“the last author”。 1. Huijun Yang, Cheng Guo, Jiahang Chen, Ahmad Naveed, Jun Yang, Yanna Nuli, Jiulin Wang* (2019). An Intrinsic Flame-retardant Organic Electrolyte for Safe Lithium-Sulfur Batteries. Angewandte Chemie International Edition, 58, 791-795. 2. Huijun Yang, Ahmad Naveed, Qinyu Li, Cheng Guo, Jiahang Chen, Jingyu Lei, Jiulin Wang* (2018). Lithium sulfur batteries with compatible electrolyte both for stable cathode and dendrite-free anode. Energy Storage Materials, 15, 299-307. 3. Huijun Yang, Cheng Guo, Ahmad Naveed, Jingyu Lei, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Recent progress and perspective on lithium metal anode protection. Energy Storage Materials, 14,199-221. 4. Huijun Yang, Qinyu Li, Cheng Guo, Ahmad Naveed, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Safer lithium–sulfur battery based on nonflammable electrolyte with sulfur composite cathode. Chemical Communications, 54(33), 4132-4135.",
-        "经费情况": "",
-        "学生补助": "老师",
-        "师生关系": "2. 针对老师和学生之间的第一作者争端，我个人有一些看法。王老师一直在科研一线，亲自做实验，发现现象。如果说一篇文章的idea，核心数据，论文修改和论文回稿等均是老师亲力亲为的，学生不从事科研领域而且已经论文答辩结束，老师作为第一作者无可厚非。而且老师从来都是鼓励学生出国交流，对于有学术追求的学生，老师向来是积极推荐，不会出现压学生数据，自己偷偷发的问题。现在我将近三年组内王老师亲自指导的学生论文贴出作为佐证。 1. Ahmad Naveed, Huijun Yang, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Highly reversible and safe Zn rechargeable batteries based on triethyl phosphate electrolyte. Angewandte Chemie International Edition. DOI: 10.1002/anie.201813223 2. Qinyu Li, Huijun Yang, Ahmad Naveed, Cheng Guo, Jun Yang, Yanna Nuli, Jiulin Wang* (2018). Duplex component additive of tris (trimethylsilyl) phosphite-vinylene carbonate for lithium sulfur batteries. Energy Storage Materials, 14, 75-81. 3. Cheng Guo, Huijun Yang, Ahmad Naveed, Yanna Nuli, Jun Yang, Yuliang Cao, Jiulin Wang* (2018). AlF3-Modified carbon nanofibers as a multifunctional 3D interlayer for stable lithium metal anodes. Chemical Communications, 54(60), 8347-8350. 4. Qinyu Li, Huijun Yang, Lisheng Xie, Jun Yang, Yanna Nuli, Jiulin Wang* (2016). Guar gum as a novel binder for sulfur composite cathodes in rechargeable lithium batteries. Chemical Communications, 52(92), 13479-13482. 5. Lina Wang, Qinyu Li, Huijun Yang, Jun Yang, Yanna Nuli, Jiulin Wang* (2016). Superior rate capability of a sulfur composite cathode in a tris (trimethylsilyl) borate-containing functional electrolyte. Chemical Communications, 52(100), 14430-14433. 6. Lisheng Xie, Shengxue Yu, Huijun Yang, Jun Yang, Jianlan Ni, Jiulin Wang* (2017). Hierarchical porous carbon derived from animal bone as matric to encapsulated selenium for high performance Li–Se battery. Rare Metals, 36(5), 434-441. 工作",
-        "工作时间": "关于王老师的人品，王久林研究员是位年轻而且有科研追求的老师，不愿意耽误学生的课外",
-        "毕业去向": "允许实习（寒暑假实习），毕业后的学生有继续从事科研的，也有进入企业（上汽，中化，国轩），部分进入事业单位。"
-      }
+      "dimensions": {}
     },
     {
       "comment": "导师能力：一般，基本不能对学生进行指导， 经费发放：经费比较多 与学生关系：多次压学生做出的数据，然后等学生毕业了自己偷偷发表，比如德国应化，先进功能材料等杂志，其实都是学生的想法学生自己做的数据学生写的论文，结果，呵呵，强抢第一作者，给学生一片中文核心毕业",
-      "dimensions": {
-        "导师能力": "一般，基本不能对学生进行指导，",
-        "经费情况": "",
-        "师生关系": "多次压学生做出的数据，然后等学生毕业了自己偷偷发表，比如德国应化，先进功能材料等杂志，其实都是学生的想法学生自己做的数据学生写的论文，结果，呵呵，强抢第一作者，给学生一片中文核心毕业"
-      }
+      "dimensions": {}
     }
   ]
 }

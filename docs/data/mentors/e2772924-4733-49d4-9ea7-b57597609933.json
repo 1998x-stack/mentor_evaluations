@@ -4,8 +4,24 @@
   "school": "香港中文大学",
   "department": "工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.5,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 8.0,
+    "学生补助": 7.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "CUHK副教授，DREAMS Lab负责人",
+    "经费情况": "CUHK+Tsinghua双聘，资源丰富",
+    "学生补助": "港校标准，应属中上水平",
+    "师生关系": "未提及具体互动",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "学术背景扎实，但师生互动与职业支持信息不足。",
   "evaluations": [
     {
       "comment": "https://staff.ie.cuhk.edu.hk/~mhchen/ Minghua Chen Associate Professor, Design of Reliable and Efficient Algorithms, Models, and Systems (DREAMS) Lab Department of Information Engineering The Chinese University of Hong Kong Adjunct Associate Professor, Institute of Interdisciplinary Information Sciences, Tsinghua University Member of Institute of Network Coding, The Chinese University of Hong Kong",

@@ -4,8 +4,24 @@
   "school": "中国地质大学（武汉）",
   "department": "计算机学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.67,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 7.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "编程能力强，思想open积极",
+    "经费情况": "无相关信息，按中立计",
+    "学生补助": "无相关信息，按中立计",
+    "师生关系": "随和open，本科生主动打call",
+    "工作时间": "无相关信息，按中立计",
+    "毕业去向": "无相关信息，按中立计"
+  },
+  "overallRecommendation": "技术扎实、性格友好，适合本科直研或工程向学生",
   "evaluations": [
     {
       "comment": "别的不清楚，编程水平在老师里算是比较强的",

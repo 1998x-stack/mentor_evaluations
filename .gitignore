@@ -26,6 +26,7 @@ Thumbs.db
 *.xlsx
 merged_data.csv
 mentor_metrics.json
+mentor_metrics*.json
 
 # Logs
 *.log

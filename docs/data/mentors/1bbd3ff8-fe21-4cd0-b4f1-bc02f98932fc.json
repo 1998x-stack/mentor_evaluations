@@ -4,8 +4,24 @@
   "school": "东南大学",
   "department": "信息科学与工程学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 2.83,
+  "dimensionScores": {
+    "导师能力": 1.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 0.0,
+    "工作时间": 5.0,
+    "毕业去向": 1.0
+  },
+  "dimensionReasons": {
+    "导师能力": "差到爆，抢学生一作",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及学生补助",
+    "师生关系": "无优点，满坑爹，无师德",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "无职业支持，口碑极差"
+  },
+  "overallRecommendation": "高风险导师，强烈不推荐",
   "evaluations": [
     {
       "comment": "差到爆，宁可不读也不要来！！！",

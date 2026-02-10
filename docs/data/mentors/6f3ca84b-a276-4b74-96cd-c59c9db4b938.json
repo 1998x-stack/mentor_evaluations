@@ -4,8 +4,24 @@
   "school": "中南大学",
   "department": "机电工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.33,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "学生评‘超好’，隐含高度认可",
+    "经费情况": "未提及，中立",
+    "学生补助": "未提及，中立",
+    "师生关系": "‘超好’指向极佳师生互动",
+    "工作时间": "未提及，中立",
+    "毕业去向": "未提及，中立"
+  },
+  "overallRecommendation": "口碑极佳但信息有限，建议优先核实其研究方向匹配度",
   "evaluations": [
     {
       "comment": "超好                ",

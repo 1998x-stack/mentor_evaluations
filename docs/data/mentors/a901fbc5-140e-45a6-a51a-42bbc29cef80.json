@@ -4,8 +4,24 @@
   "school": "华中科技大学",
   "department": "中欧清洁与可再生能源学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.0,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘非常nice’，隐含亲和力与基本素养",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "明确‘非常nice’，高度正向评价",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业支持情况"
+  },
+  "overallRecommendation": "温和推荐，师生关系突出，其他维度待验证",
   "evaluations": [
     {
       "comment": "这个老师非常nice.",

@@ -5,7 +5,23 @@
   "department": "未知院系",
   "evaluationCount": 1,
   "totalScore": 5.0,
-  "dimensionScores": {},
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "信息全为nan，仅附吴自力链接无关",
+    "经费情况": "无有效信息",
+    "学生补助": "无有效信息",
+    "师生关系": "无有效信息",
+    "工作时间": "无有效信息",
+    "毕业去向": "无有效信息"
+  },
+  "overallRecommendation": "信息无效，完全不可评估，应排除选导考虑",
   "evaluations": [
     {
       "comment": "吴自力 http://web.xidian.edu.cn/zlwu/",

@@ -4,8 +4,24 @@
   "school": "西安电子科大",
   "department": "生命科学技术学院",
   "evaluationCount": 4,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.5,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 9.0,
+    "学生补助": 5.0,
+    "师生关系": 7.0,
+    "工作时间": 5.0,
+    "毕业去向": 6.0
+  },
+  "dimensionReasons": {
+    "导师能力": "生科院领先方向，但评价两极分化",
+    "经费情况": "‘最有钱导师之一’，博士实验有保障",
+    "学生补助": "未明确硕士补助标准",
+    "师生关系": "多数评价‘照顾’‘没架子’，个别负面",
+    "工作时间": "未提及具体强度",
+    "毕业去向": "研毕多转互联网，但专业对口岗稀缺"
+  },
+  "overallRecommendation": "博士优选；硕士可选但需接受跨领域就业转型",
   "evaluations": [
     {
       "comment": "一言难尽 http://wsq.discuz.com/?c=index&a=viewth ... 1&_bpage=1",

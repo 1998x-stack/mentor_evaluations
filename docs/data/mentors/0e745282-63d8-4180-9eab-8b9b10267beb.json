@@ -4,8 +4,24 @@
   "school": "大连理工大学",
   "department": "计算机科学与技术学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.33,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘年轻有为’，隐含潜力与活力",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "信息过少，仅知年轻有潜力，需进一步核实。",
   "evaluations": [
     {
       "comment": "年轻有为！",

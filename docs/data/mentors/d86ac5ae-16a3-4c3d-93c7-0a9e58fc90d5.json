@@ -4,8 +4,24 @@
   "school": "上海大学",
   "department": "机电工程与自动化学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅称‘很好老师’，无具体能力描述",
+    "经费情况": "未提及经费",
+    "学生补助": "未提及补助",
+    "师生关系": "明确‘尊重学生’",
+    "工作时间": "未提及工作安排",
+    "毕业去向": "未提及毕业支持"
+  },
+  "overallRecommendation": "师生关系良好，但科研与资源支持信息缺失",
   "evaluations": [
     {
       "comment": "很好的老师， 尊重学生",

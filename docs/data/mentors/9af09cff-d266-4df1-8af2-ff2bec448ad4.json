@@ -4,8 +4,24 @@
   "school": "北京航空航天大学",
   "department": "仪器科学与光电工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.67,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅‘为人师表’，无学术细节",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "书香气质、君子风范",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "师德形象佳但信息过少，需补充科研与培养实绩评估。",
   "evaluations": [
     {
       "comment": "为人师表，书香气质，君子",

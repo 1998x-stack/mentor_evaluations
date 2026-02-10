@@ -4,8 +4,24 @@
   "school": "华中科技大学",
   "department": "数学与统计学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.0,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 2.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "学生评价‘大忽悠’，强烈负面",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及学生补助",
+    "师生关系": "‘大忽悠’暗示信任缺失，关系差",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业去向支持"
+  },
+  "overallRecommendation": "存在严重信誉风险，不建议选择",
   "evaluations": [
     {
       "comment": "大忽悠！",

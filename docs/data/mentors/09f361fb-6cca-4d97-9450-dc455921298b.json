@@ -4,16 +4,28 @@
   "school": "中国科学技术大学",
   "department": "数学科学学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
+  "totalScore": 5.83,
   "dimensionScores": {
-    "师生关系": 5.0
+    "导师能力": 6.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
   },
+  "dimensionReasons": {
+    "导师能力": "仅提‘nice’和减肥，无科研能力信息",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "非常nice，具亲和力与榜样作用",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业支持或去向信息"
+  },
+  "overallRecommendation": "师生关系友好，但科研与资源信息严重不足，需进一步核实",
   "evaluations": [
     {
       "comment": "与学生关系：非常nice的老师 减肥励志role model",
-      "dimensions": {
-        "师生关系": "非常nice的老师 减肥励志role model"
-      }
+      "dimensions": {}
     }
   ]
 }

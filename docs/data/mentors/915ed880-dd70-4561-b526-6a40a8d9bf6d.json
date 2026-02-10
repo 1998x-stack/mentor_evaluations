@@ -4,8 +4,24 @@
   "school": "河北工业大学",
   "department": "土木工程学院",
   "evaluationCount": 5,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 6.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 7.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "评价空泛‘好’，缺乏实证",
+    "经费情况": "未提经费情况",
+    "学生补助": "未提补助情况",
+    "师生关系": "多称‘对学生很好’",
+    "工作时间": "未提工作强度",
+    "毕业去向": "未提职业支持"
+  },
+  "overallRecommendation": "口碑正面但信息单薄，需进一步核实",
   "evaluations": [
     {
       "comment": "咋说呢，来就对了！～怎一个“好”字了得",

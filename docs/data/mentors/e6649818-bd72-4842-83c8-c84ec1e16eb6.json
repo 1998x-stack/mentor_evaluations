@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.33,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "两次评价‘学术不错’‘学术可以’，简洁正向",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "未提及师生关系",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业去向"
+  },
+  "overallRecommendation": "学术口碑正面，但其余维度空白，需进一步调研",
   "evaluations": [
     {
       "comment": "学术不错哦",

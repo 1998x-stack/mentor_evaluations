@@ -4,8 +4,24 @@
   "school": "未知学校",
   "department": "未知院系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.17,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "认真负责，兢兢业业",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "正面评价，无保留",
+    "工作时间": "未提及工作时间",
+    "毕业去向": "未提及职业支持"
+  },
+  "overallRecommendation": "倾向推荐：师德良好，但需确认科研方向与资源匹配度",
   "evaluations": [
     {
       "comment": "认真负责，兢兢业业的好导师！",

@@ -4,8 +4,24 @@
   "school": "清华大学",
   "department": "计算机科学与技术系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.17,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "清华计算机系教师，学生评价nice且推荐",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及学生补助",
+    "师生关系": "学生明确评价人nice，推荐参考",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业去向支持"
+  },
+  "overallRecommendation": "学术背景强、师生关系好，但信息有限需进一步核实",
   "evaluations": [
     {
       "comment": "人nice，推荐参考，如果能考上清华的话",

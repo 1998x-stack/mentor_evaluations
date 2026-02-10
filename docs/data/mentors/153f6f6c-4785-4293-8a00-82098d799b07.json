@@ -4,8 +4,24 @@
   "school": "华中科技大学",
   "department": "物理学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.0,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 8.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘青年千人’代表高水平学术认可",
+    "经费情况": "青年千人通常配套充足启动经费",
+    "学生补助": "未提及具体发放情况",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "潜力突出的青椒，但缺乏学生反馈，建议面谈确认风格",
   "evaluations": [
     {
       "comment": "青年千人",

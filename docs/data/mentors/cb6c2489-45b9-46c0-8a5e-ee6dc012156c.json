@@ -4,8 +4,24 @@
   "school": "厦门大学",
   "department": "材料学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.17,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "治学严谨，材料领域资深",
+    "经费情况": "未提及经费",
+    "学生补助": "未提及补助",
+    "师生关系": "对学生很好，态度友善",
+    "工作时间": "未提及工作时间",
+    "毕业去向": "未提及毕业支持"
+  },
+  "overallRecommendation": "严谨亲和型导师，学术口碑好，适合踏实科研者",
   "evaluations": [
     {
       "comment": "治学严谨，对学生也很好",

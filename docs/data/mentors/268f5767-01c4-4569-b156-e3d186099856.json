@@ -4,8 +4,24 @@
   "school": "西安交通大学",
   "department": "电子与信息工程学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.17,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "班主任负责，人超nice，口碑佳",
+    "经费情况": "未提及经费，中立",
+    "学生补助": "未提及补助，中立",
+    "师生关系": "超nice、非常负责，师生关系极佳",
+    "工作时间": "未提及工作强度，中立",
+    "毕业去向": "未提及去向，中立"
+  },
+  "overallRecommendation": "师德突出、责任心强，适合重视人文关怀与过程体验的学生",
   "evaluations": [
     {
       "comment": "真的好老师，人超nice",

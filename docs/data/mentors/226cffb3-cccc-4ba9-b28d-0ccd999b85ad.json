@@ -4,8 +4,24 @@
   "school": "东北农业大学",
   "department": "食品学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.83,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 1.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "学生直评‘没有真才实学’",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "学生称‘坑学生’，负面定性",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "强烈不推荐；评价极负面且无正面信息支撑",
   "evaluations": [
     {
       "comment": "坑学生，没有真才实学！",

@@ -4,8 +4,24 @@
   "school": "西南科技大学",
   "department": "建筑环境与能源应用工程",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅‘还不错’，无具体能力描述",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "亲和力佳，正面定性明确",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "温和型导师，适合入门适应期学生，但学术成长性待观察",
   "evaluations": [
     {
       "comment": "亲和力佳，还不错的老师",

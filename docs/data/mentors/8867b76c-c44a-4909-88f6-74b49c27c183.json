@@ -4,8 +4,24 @@
   "school": "辽宁大学",
   "department": "药学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.83,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 1.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "评价含不当谐音，暗示学术不严肃",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "用语轻浮，缺乏师德基本尊重",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "严重不推荐：评价含低俗双关，师德存疑，无任何正面学术或育人信息",
   "evaluations": [
     {
       "comment": "大家一起来做保健品，大保健",

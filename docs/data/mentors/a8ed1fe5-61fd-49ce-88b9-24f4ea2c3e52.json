@@ -5,7 +5,23 @@
   "department": "理学院",
   "evaluationCount": 1,
   "totalScore": 5.0,
-  "dimensionScores": {},
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "等待评价，无有效信息",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "无法评估：零评价，无任何参考依据，建议暂不选择",
   "evaluations": [
     {
       "comment": "等待评价",

@@ -4,26 +4,28 @@
   "school": "中国海洋大学",
   "department": "水产学院",
   "evaluationCount": 1,
-  "totalScore": 5.71,
+  "totalScore": 8.17,
   "dimensionScores": {
-    "导师能力": 5.0,
-    "经费情况": 5.0,
-    "学生补助": 5.0,
-    "师生关系": 6.75,
-    "工作时间": 5.0,
-    "毕业去向": 7.5
+    "导师能力": 9.0,
+    "经费情况": 8.0,
+    "学生补助": 6.0,
+    "师生关系": 9.0,
+    "工作时间": 8.0,
+    "毕业去向": 9.0
   },
+  "dimensionReasons": {
+    "导师能力": "高水平进化微生物学，多顶刊一作",
+    "经费情况": "国自然+筑峰+基本科研经费充足",
+    "学生补助": "800元/月属中等偏上",
+    "师生关系": "平等合作，幽默严谨，尊重学生选择",
+    "工作时间": "完全弹性，不强制坐班",
+    "毕业去向": "全力支持升学/就业/出国多元路径"
+  },
+  "overallRecommendation": "顶尖学术能力+高度人文关怀，强烈推荐",
   "evaluations": [
     {
       "comment": "利益相关：龙红岸 教授，博士生导师，以微生物为主要研究对象，利用组学、分子遗传学和细胞生物学方法，结合种群遗传学与微生物学理论，聚焦微生物的基因组突变以及行为的进化生物学研究。办公地点位于中国海洋大学达尔文馆201 导师能力：近期代表性论文： Long*, H.; Miller, S.F.; Williams, E.; Lynch, M. 2018. Specificity of the DNA mismatch repair system (MMR) and mutagenesis bias in bacteria. Molecular Biology and Evolution. In press. Long#, H.; Sung#, W.; Kucukyildirim#,S.; Williams,E.; Miller, S.;Guo, W.; Patterson, C.; Gregory, C.; Strauss, C.; Stone, C.; Berne, C.; Kysela, D.; Shoemaker, W.; Muscarella, M.; Luo, H.; Lennon, J.; Brun, Y.; Lynch*, M. 2018. Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution. 2: 237-240. Strauss, C.; Long*, H.; Patterson, C.; Te,R.; Lynch, M. 2017. Genome-wide mutation rate response to pH change in the coral reef pathogen Vibrio shilonii AK1. mBio.8 (4): e01021-17 Long, H.; Miller, Samuel F; Strauss, Chloe; Zhao, Chaoxian; Cheng, Lei; Ye, Zhiqiang; Griffin, Katherine; Te, Ronald; Lee, Heewook; Chen, Chi-Chun; Lynch*, Michael. 2016. Antibiotic treatment enhances the genome-wide mutation rate of target cells. Proceedings of the National Academy of Sciences U.S.A. 113(18): E2498-E2505 （本研究由首作者独立设计） Long*,#, H.; Kucukyildirim#, Sibel; Sung, Way; Williams, Emily; Lee, Heewook; Ackerman, Matthew; Doak, Thomas G; Tang, Haixu; Lynch, Michael. 2015. Background mutational features of the radiation-resistant bacterium Deinococcus radiodurans. Molecular Biology and Evolution 32(9): 2383-2392 Long*, H.; Sung, Way; Miller, Samuel F; Ackerman, Matthew S; Doak, Thomas G; Lynch, Michael. 2015. Mutation rate, spectrum, topology, and context-dependency in the DNA mismatch repair-deficient Pseudomonas fluorescensATCC948. Genome Biology and Evolution 7(1): 262-271 Farlow#,*, Ashley; Long#, H.; Arnoux, Stéphanie; Sung, Way; Doak, Thomas G; Nordborg, Magnus; Lynch, Michael. 2015. The spontaneous mutation rate in the fission yeast Schizosaccharomyces pombe. Genetics 201(2):737-744 Long*, H.; Paixão, Tiago; Azevedo, Ricardo BR; Zufall, Rebecca A. 2013. Accumulation of spontaneous mutations in the ciliate Tetrahymena thermophila. Genetics 195(2): 527-540 Long*, H.; Zufall, R.A. 2010. Diverse modes of reproduction in the marine free-living ciliate Glauconema trihymene. BMC Microbiology 10(1): 108 经费发放：国家自然科学基金面上项目（31872228; 2019.1-2022.12） 中国海洋大学“筑峰人才计划”启动经费（2018.9-2021.8） 中央高校基本科研业务费（2018.1-2021.1） 学生补助：每个月800元 与学生关系：初识红岸，是在一来一往邮件中，其风趣话语引人好奇。初见红岸，其直率严谨名副其实，以平等合作之名要求直呼其名，幽默又不缺谆谆诱导。 工作时间：工作时间一般学生自行安排，导师不强制安排。 学生毕业去向：红岸尊重每一个学生的选择，无论是工作，读博还是出国，他都会尽力帮助每个人学生，并且我也相信他有这个能力！",
-      "dimensions": {
-        "导师能力": "近期代表性论文： Long*, H.; Miller, S.F.; Williams, E.; Lynch, M. 2018. Specificity of the DNA mismatch repair system (MMR) and mutagenesis bias in bacteria. Molecular Biology and Evolution. In press. Long#, H.; Sung#, W.; Kucukyildirim#,S.; Williams,E.; Miller, S.;Guo, W.; Patterson, C.; Gregory, C.; Strauss, C.; Stone, C.; Berne, C.; Kysela, D.; Shoemaker, W.; Muscarella, M.; Luo, H.; Lennon, J.; Brun, Y.; Lynch*, M. 2018. Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution. 2: 237-240. Strauss, C.; Long*, H.; Patterson, C.; Te,R.; Lynch, M. 2017. Genome-wide mutation rate response to pH change in the coral reef pathogen Vibrio shilonii AK1. mBio.8 (4): e01021-17 Long, H.; Miller, Samuel F; Strauss, Chloe; Zhao, Chaoxian; Cheng, Lei; Ye, Zhiqiang; Griffin, Katherine; Te, Ronald; Lee, Heewook; Chen, Chi-Chun; Lynch*, Michael. 2016. Antibiotic treatment enhances the genome-wide mutation rate of target cells. Proceedings of the National Academy of Sciences U.S.A. 113(18): E2498-E2505 （本研究由首作者独立设计） Long*,#, H.; Kucukyildirim#, Sibel; Sung, Way; Williams, Emily; Lee, Heewook; Ackerman, Matthew; Doak, Thomas G; Tang, Haixu; Lynch, Michael. 2015. Background mutational features of the radiation-resistant bacterium Deinococcus radiodurans. Molecular Biology and Evolution 32(9): 2383-2392 Long*, H.; Sung, Way; Miller, Samuel F; Ackerman, Matthew S; Doak, Thomas G; Lynch, Michael. 2015. Mutation rate, spectrum, topology, and context-dependency in the DNA mismatch repair-deficient Pseudomonas fluorescensATCC948. Genome Biology and Evolution 7(1): 262-271 Farlow#,*, Ashley; Long#, H.; Arnoux, Stéphanie; Sung, Way; Doak, Thomas G; Nordborg, Magnus; Lynch, Michael. 2015. The spontaneous mutation rate in the fission yeast Schizosaccharomyces pombe. Genetics 201(2):737-744 Long*, H.; Paixão, Tiago; Azevedo, Ricardo BR; Zufall, Rebecca A. 2013. Accumulation of spontaneous mutations in the ciliate Tetrahymena thermophila. Genetics 195(2): 527-540 Long*, H.; Zufall, R.A. 2010. Diverse modes of reproduction in the marine free-living ciliate Glauconema trihymene. BMC Microbiology 10(1): 108",
-        "经费情况": "国家自然科学基金面上项目（31872228; 2019.1-2022.12） 中国海洋大学“筑峰人才计划”启动",
-        "学生补助": "每个月800元 与学生",
-        "师生关系": "初识红岸，是在一来一往邮件中，其风趣话语引人好奇。初见红岸，其直率严谨名副其实，以平等合作之名要求直呼其名，幽默又不缺谆谆诱导。 工作",
-        "工作时间": "工作",
-        "毕业去向": "红岸尊重每一个学生的选择，无论是工作，读博还是出国，他都会尽力帮助每个人学生，并且我也相信他有这个能力！"
-      }
+      "dimensions": {}
     }
   ]
 }

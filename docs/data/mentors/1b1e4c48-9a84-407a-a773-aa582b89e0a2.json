@@ -4,8 +4,24 @@
   "school": "华南师范大学",
   "department": "计算机学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.83,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 1.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘除了Rust什么都不会’‘傻逼’‘吹牛’",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "负面情绪强烈，存在人格贬低",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业支持信息"
+  },
+  "overallRecommendation": "坚决不推荐；能力与师德双重质疑，风险极高",
   "evaluations": [
     {
       "comment": "除了Rust 什么都不会 垃圾",

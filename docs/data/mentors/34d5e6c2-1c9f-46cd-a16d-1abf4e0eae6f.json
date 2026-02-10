@@ -4,8 +4,24 @@
   "school": "未知",
   "department": "微电子学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.33,
+  "dimensionScores": {
+    "导师能力": 3.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 3.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "高频课‘很绝望’，教学体验差",
+    "经费情况": "未提及经费",
+    "学生补助": "未提及补助",
+    "师生关系": "非研究生但授课体验极差",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "教学口碑差，非本组学生评价谨慎参考",
   "evaluations": [
     {
       "comment": "不是他的研究生，但上过他的高频课，很绝望，很难受",

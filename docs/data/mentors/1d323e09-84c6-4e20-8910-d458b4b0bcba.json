@@ -4,8 +4,24 @@
   "school": "天津大学",
   "department": "理学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.83,
+  "dimensionScores": {
+    "导师能力": 7.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "被认可为好老师，教学受肯定",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "学生表达敬意与喜爱",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "教学口碑好，师生关系温暖，适合作为基础课或入门导师",
   "evaluations": [
     {
       "comment": "虽然高代一直学的不好 但不能否认您是位好老师.. -_-",

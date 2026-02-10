@@ -4,8 +4,24 @@
   "school": "东南大学",
   "department": "仪器科学与工程学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.5,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 2.0,
+    "工作时间": 5.0,
+    "毕业去向": 2.0
+  },
+  "dimensionReasons": {
+    "导师能力": "两评均称‘报了会后悔’",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "负面情绪强烈，隐含关系恶劣",
+    "工作时间": "未提及工作安排",
+    "毕业去向": "‘一定后悔’暗示发展受限"
+  },
+  "overallRecommendation": "高度负面口碑，应坚决回避",
   "evaluations": [
     {
       "comment": "报了会后悔的！",

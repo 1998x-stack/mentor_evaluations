@@ -4,8 +4,24 @@
   "school": "北京理工大学",
   "department": "生命学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.33,
+  "dimensionScores": {
+    "导师能力": 3.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 3.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘搞学术的话，还是不要选’",
+    "经费情况": "未提及经费",
+    "学生补助": "未提及补助",
+    "师生关系": "未提及关系",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "学术导向差，隐含支持弱"
+  },
+  "overallRecommendation": "明确不推荐学术发展，仅适合非学术路径学生",
   "evaluations": [
     {
       "comment": "搞学术的话，还是不要选",

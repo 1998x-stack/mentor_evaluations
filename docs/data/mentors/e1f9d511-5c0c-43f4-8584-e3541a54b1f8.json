@@ -4,8 +4,24 @@
   "school": "未知",
   "department": "上海高等研究院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.33,
+  "dimensionScores": {
+    "导师能力": 1.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "几乎没有导师能力",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "能力严重不足，存在重大指导风险，坚决回避。",
   "evaluations": [
     {
       "comment": "几乎没有导师能力",

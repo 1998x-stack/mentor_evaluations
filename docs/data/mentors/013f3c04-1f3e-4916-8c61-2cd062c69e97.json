@@ -4,8 +4,24 @@
   "school": "中山大学",
   "department": "化学与化学工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.17,
+  "dimensionScores": {
+    "导师能力": 6.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "课印象好，但仅教学反馈，科研未知",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "仅知授课尚可，关键维度信息缺失，评估价值低",
   "evaluations": [
     {
       "comment": "上过他的课，印象还不错，挺好的",

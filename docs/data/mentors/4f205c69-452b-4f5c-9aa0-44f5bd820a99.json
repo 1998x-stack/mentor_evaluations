@@ -4,8 +4,24 @@
   "school": "天津大学",
   "department": "电气与自动化工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.17,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 2.0,
+    "师生关系": 3.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅‘抠门’，无能力信息",
+    "经费情况": "未提及经费来源或规模",
+    "学生补助": "‘抠门！巨抠！！！’强烈负面",
+    "师生关系": "吝啬行为反映尊重不足",
+    "工作时间": "未提及",
+    "毕业去向": "未提及"
+  },
+  "overallRecommendation": "经济克扣明确，师生信任基础薄弱，不推荐",
   "evaluations": [
     {
       "comment": "抠门！巨抠！！！",

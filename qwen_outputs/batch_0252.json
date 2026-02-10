@@ -1,0 +1,609 @@
+{
+  "batch_id": 252,
+  "mentors": [
+    "王进欣",
+    "边凯归",
+    "段翰聪",
+    "nan",
+    "nan",
+    "周玮",
+    "刘立庄",
+    "谷勇浩",
+    "李磊",
+    "nan",
+    "nan",
+    "李佳峰",
+    "Chen Minghua",
+    "赵吉东",
+    "任光亮",
+    "nan",
+    "陶美凤",
+    "郭雄",
+    "郑文明",
+    "周文安"
+  ],
+  "response": {
+    "mentors": [
+      {
+        "mentor_index": 1,
+        "name": "王进欣",
+        "导师能力": {
+          "score": 3,
+          "reason": "学生评价讲课差、人不好"
+        },
+        "经费情况": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "师生关系": {
+          "score": 2,
+          "reason": "明确负面：感觉人不太好"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "overall_recommendation": "评价极差且唯一，存在显著风险，不建议选择。"
+      },
+      {
+        "mentor_index": 2,
+        "name": "边凯归",
+        "导师能力": {
+          "score": 9,
+          "reason": "Cognitive Radio等领域科研一流"
+        },
+        "经费情况": {
+          "score": 9,
+          "reason": "经费充足"
+        },
+        "学生补助": {
+          "score": 7,
+          "reason": "Above avg，未明确数值但偏高"
+        },
+        "师生关系": {
+          "score": 9,
+          "reason": "亲切和蔼，不push，关系好"
+        },
+        "工作时间": {
+          "score": 8,
+          "reason": "不强制加班打卡，自主性强"
+        },
+        "毕业去向": {
+          "score": 9,
+          "reason": "允许实习，毕业去向优秀"
+        },
+        "overall_recommendation": "科研强、氛围好、支持充分，属优质导师。"
+      },
+      {
+        "mentor_index": 3,
+        "name": "段翰聪",
+        "导师能力": {
+          "score": 7,
+          "reason": "工程实力强，学术性弱但产出高"
+        },
+        "经费情况": {
+          "score": 10,
+          "reason": "工程项目多得做不完"
+        },
+        "学生补助": {
+          "score": 8,
+          "reason": "挺好的，BAT保底体现支持力度"
+        },
+        "师生关系": {
+          "score": 5,
+          "reason": "因能力差异待遇两极，有冷淡倾向"
+        },
+        "工作时间": {
+          "score": 3,
+          "reason": "加班很多，累，成高级技工"
+        },
+        "毕业去向": {
+          "score": 10,
+          "reason": "基本BAT，最差华为，去向极佳"
+        },
+        "overall_recommendation": "适合强工程能力者，但需承受高压与不确定性。"
+      },
+      {
+        "mentor_index": 4,
+        "name": "nan",
+        "导师能力": {
+          "score": 6,
+          "reason": "论文发得多，能力还可以"
+        },
+        "经费情况": {
+          "score": 6,
+          "reason": "经费正常"
+        },
+        "学生补助": {
+          "score": 2,
+          "reason": "发工资抠门"
+        },
+        "师生关系": {
+          "score": 1,
+          "reason": "差，压榨学生"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 3,
+          "reason": "帮不上忙，需学生自己找工作"
+        },
+        "overall_recommendation": "压榨明显、支持薄弱，强烈不建议选择。"
+      },
+      {
+        "mentor_index": 5,
+        "name": "nan",
+        "导师能力": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "经费情况": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "师生关系": {
+          "score": 9,
+          "reason": "为学生着想，相处开心"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 9,
+          "reason": "帮找实习，找工作不错"
+        },
+        "overall_recommendation": "师生关系与就业支持突出，但学术信息缺失需核实。"
+      },
+      {
+        "mentor_index": 6,
+        "name": "周玮",
+        "导师能力": {
+          "score": 9,
+          "reason": "严谨，能力非常好"
+        },
+        "经费情况": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "师生关系": {
+          "score": 9,
+          "reason": "人很好"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "overall_recommendation": "学术与人格双优，但其他维度信息不足，需进一步了解。"
+      },
+      {
+        "mentor_index": 7,
+        "name": "刘立庄",
+        "导师能力": {
+          "score": 1,
+          "reason": "几乎没有导师能力"
+        },
+        "经费情况": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "师生关系": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "overall_recommendation": "能力严重不足，存在重大指导风险，坚决回避。"
+      },
+      {
+        "mentor_index": 8,
+        "name": "谷勇浩",
+        "导师能力": {
+          "score": 2,
+          "reason": "近40岁仍讲师，2星好评"
+        },
+        "经费情况": {
+          "score": 1,
+          "reason": "半毛钱不给"
+        },
+        "学生补助": {
+          "score": 1,
+          "reason": "0元"
+        },
+        "师生关系": {
+          "score": 2,
+          "reason": "呵呵，等级压迫感强"
+        },
+        "工作时间": {
+          "score": 1,
+          "reason": "请假即‘去死’，严控自由"
+        },
+        "毕业去向": {
+          "score": 3,
+          "reason": "招新时才许实习，无实质支持"
+        },
+        "overall_recommendation": "全方位负面，管理极端严苛，高风险导师。"
+      },
+      {
+        "mentor_index": 9,
+        "name": "李磊",
+        "导师能力": {
+          "score": 10,
+          "reason": "学术能力强，受益匪浅"
+        },
+        "经费情况": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "师生关系": {
+          "score": 10,
+          "reason": "对学生没得说，超级好"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "overall_recommendation": "学术与育人俱佳，但职业发展支持信息缺失。"
+      },
+      {
+        "mentor_index": 10,
+        "name": "nan",
+        "导师能力": {
+          "score": 1,
+          "reason": "不能，出试卷坑害学生"
+        },
+        "经费情况": {
+          "score": 2,
+          "reason": "基本不给，很抠门"
+        },
+        "学生补助": {
+          "score": 1,
+          "reason": "有么？暗示无"
+        },
+        "师生关系": {
+          "score": 1,
+          "reason": "皇帝和奴才，压迫关系"
+        },
+        "工作时间": {
+          "score": 6,
+          "reason": "每天工作两小时，较轻松"
+        },
+        "毕业去向": {
+          "score": 1,
+          "reason": "前途不存在"
+        },
+        "overall_recommendation": "学术失职、剥削严重、发展无望，绝对规避。"
+      },
+      {
+        "mentor_index": 11,
+        "name": "nan",
+        "导师能力": {
+          "score": 8,
+          "reason": "年年出好文章，院士实验室"
+        },
+        "经费情况": {
+          "score": 10,
+          "reason": "院士实验室经费充足"
+        },
+        "学生补助": {
+          "score": 8,
+          "reason": "3500元，高于平均水平"
+        },
+        "师生关系": {
+          "score": 8,
+          "reason": "学生评价较高"
+        },
+        "工作时间": {
+          "score": 9,
+          "reason": "相当自由"
+        },
+        "毕业去向": {
+          "score": 10,
+          "reason": "研究员、教授、政府多路径成功"
+        },
+        "overall_recommendation": "顶尖平台资源丰富，自由度高，强烈推荐。"
+      },
+      {
+        "mentor_index": 12,
+        "name": "李佳峰",
+        "导师能力": {
+          "score": 5,
+          "reason": "仅提口音和地点，无实质信息"
+        },
+        "经费情况": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "师生关系": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "overall_recommendation": "信息完全缺失，无法评估，需另行调研。"
+      },
+      {
+        "mentor_index": 13,
+        "name": "Chen Minghua",
+        "导师能力": {
+          "score": 9,
+          "reason": "CUHK副教授，DREAMS Lab负责人"
+        },
+        "经费情况": {
+          "score": 8,
+          "reason": "CUHK+Tsinghua双聘，资源丰富"
+        },
+        "学生补助": {
+          "score": 7,
+          "reason": "港校标准，应属中上水平"
+        },
+        "师生关系": {
+          "score": 5,
+          "reason": "未提及具体互动"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "overall_recommendation": "学术背景扎实，但师生互动与职业支持信息不足。"
+      },
+      {
+        "mentor_index": 14,
+        "name": "赵吉东",
+        "导师能力": {
+          "score": 9,
+          "reason": "学术声誉好，站在前沿"
+        },
+        "经费情况": {
+          "score": 6,
+          "reason": "未明确，但港科大平台可靠"
+        },
+        "学生补助": {
+          "score": 8,
+          "reason": "香港水准，属优厚"
+        },
+        "师生关系": {
+          "score": 9,
+          "reason": "和蔼亲切，不安排杂活"
+        },
+        "工作时间": {
+          "score": 8,
+          "reason": "PhD自主安排时间"
+        },
+        "毕业去向": {
+          "score": 7,
+          "reason": "高校为主，去向良好但未详述"
+        },
+        "overall_recommendation": "学术强、人文佳、自由度高，港校优质选择。"
+      },
+      {
+        "mentor_index": 15,
+        "name": "任光亮",
+        "导师能力": {
+          "score": 9,
+          "reason": "学术大牛，Top期刊论文多"
+        },
+        "经费情况": {
+          "score": 10,
+          "reason": "经费充足，项目多"
+        },
+        "学生补助": {
+          "score": 7,
+          "reason": "最高3000+，大方但非顶尖"
+        },
+        "师生关系": {
+          "score": 8,
+          "reason": "平易近人，因材施教"
+        },
+        "工作时间": {
+          "score": 4,
+          "reason": "朝九晚十995，打卡严格"
+        },
+        "毕业去向": {
+          "score": 9,
+          "reason": "中兴华为为主，互联网亦可"
+        },
+        "overall_recommendation": "科研与资源极强，但工作强度大，适合抗压者。"
+      },
+      {
+        "mentor_index": 16,
+        "name": "nan",
+        "导师能力": {
+          "score": 5,
+          "reason": "未评价学术能力"
+        },
+        "经费情况": {
+          "score": 7,
+          "reason": "多肽直接买，暗示经费可用"
+        },
+        "学生补助": {
+          "score": 4,
+          "reason": "喂狗粮类比，暗示补助低/不正式"
+        },
+        "师生关系": {
+          "score": 5,
+          "reason": "只带两人，未显恶意或善意"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 4,
+          "reason": "不知道，缺乏支持信息"
+        },
+        "overall_recommendation": "信息碎片化，倾向资源有限、支持模糊，谨慎考虑。"
+      },
+      {
+        "mentor_index": 17,
+        "name": "陶美凤",
+        "导师能力": {
+          "score": 5,
+          "reason": "论文3-6分，分子生物学水平高但大文章少"
+        },
+        "经费情况": {
+          "score": 6,
+          "reason": "不差钱，实验室不至于关门"
+        },
+        "学生补助": {
+          "score": 6,
+          "reason": "不低，但延期后减少"
+        },
+        "师生关系": {
+          "score": 3,
+          "reason": "易致抑郁，有转导师案例"
+        },
+        "工作时间": {
+          "score": 2,
+          "reason": "7天不定期查岗，压力极大"
+        },
+        "毕业去向": {
+          "score": 6,
+          "reason": "有深造有就业，但学生放弃科研"
+        },
+        "overall_recommendation": "学术尚可但身心压榨严重，心理负荷极高。"
+      },
+      {
+        "mentor_index": 18,
+        "name": "郭雄",
+        "导师能力": {
+          "score": 9,
+          "reason": "科研能力极强，人际关系好"
+        },
+        "经费情况": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "师生关系": {
+          "score": 10,
+          "reason": "出了名的好，师恩永记"
+        },
+        "工作时间": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "毕业去向": {
+          "score": 5,
+          "reason": "未提及"
+        },
+        "overall_recommendation": "育人典范，情感与学术双重支持，值得信赖。"
+      },
+      {
+        "mentor_index": 19,
+        "name": "郑文明",
+        "导师能力": {
+          "score": 10,
+          "reason": "学术大佬，学院顶尖"
+        },
+        "经费情况": {
+          "score": 10,
+          "reason": "经费太充足了"
+        },
+        "学生补助": {
+          "score": 10,
+          "reason": "学院最高补助"
+        },
+        "师生关系": {
+          "score": 10,
+          "reason": "对学生很好，平易近人"
+        },
+        "工作时间": {
+          "score": 8,
+          "reason": "工作轻松，很好"
+        },
+        "毕业去向": {
+          "score": 9,
+          "reason": "海康威视、留校任教，去向优质"
+        },
+        "overall_recommendation": "全维度卓越，东南大学标杆级导师，强烈首选。"
+      },
+      {
+        "mentor_index": 20,
+        "name": "周文安",
+        "导师能力": {
+          "score": 3,
+          "reason": "年纪大，出不来东西"
+        },
+        "经费情况": {
+          "score": 3,
+          "reason": "一人带学生，资源孤立"
+        },
+        "学生补助": {
+          "score": 5,
+          "reason": "500元，中等"
+        },
+        "师生关系": {
+          "score": 2,
+          "reason": "鸽人，承诺不兑现，心态炸裂"
+        },
+        "工作时间": {
+          "score": 6,
+          "reason": "按时完成即可，相对合理"
+        },
+        "毕业去向": {
+          "score": 4,
+          "reason": "靠自己多学，支持薄弱"
+        },
+        "overall_recommendation": "诚信存疑、资源匮乏、支持缺位，高风险导师。"
+      }
+    ]
+  }
+}

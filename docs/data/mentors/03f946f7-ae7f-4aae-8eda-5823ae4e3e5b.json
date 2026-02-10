@@ -4,8 +4,24 @@
   "school": "北京邮电大学",
   "department": "理学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.33,
+  "dimensionScores": {
+    "导师能力": 6.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 6.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "同学评价不错，但信息模糊",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及学生补助",
+    "师生关系": "据传不错，但无细节支撑",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "未提及毕业去向"
+  },
+  "overallRecommendation": "口碑尚可但信息极少，需面谈验证",
   "evaluations": [
     {
       "comment": "据同学说是个不错的老师 ",

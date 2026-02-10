@@ -4,8 +4,24 @@
   "school": "济南大学",
   "department": "自动化",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.83,
+  "dimensionScores": {
+    "导师能力": 8.0,
+    "经费情况": 9.0,
+    "学生补助": 5.0,
+    "师生关系": 9.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "评价‘十分Nice、有耐心’隐含指导力强",
+    "经费情况": "明确‘经费充足’",
+    "学生补助": "未提及",
+    "师生关系": "‘十分Nice，有耐心’高度正面",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及职业支持"
+  },
+  "overallRecommendation": "综合口碑佳，经费足，师生关系优，推荐",
   "evaluations": [
     {
       "comment": "十分Nice，有耐心，经费也充足！",

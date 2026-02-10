@@ -4,8 +4,24 @@
   "school": "香港科技大学",
   "department": "Department of Physics",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 6.33,
+  "dimensionScores": {
+    "导师能力": 9.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 9.0
+  },
+  "dimensionReasons": {
+    "导师能力": "系里大牛，前途很好，隐含学术强",
+    "经费情况": "未提及，中立默认",
+    "学生补助": "未提及",
+    "师生关系": "未提及",
+    "工作时间": "未提及",
+    "毕业去向": "‘前途很好’，港科大平台加持"
+  },
+  "overallRecommendation": "名校大牛，平台优势显著，需主动争取",
   "evaluations": [
     {
       "comment": "系里大牛，选他的应该前途很好。",

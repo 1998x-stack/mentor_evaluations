@@ -4,8 +4,24 @@
   "school": "南京大学",
   "department": "计算机科学与技术系",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 4.17,
+  "dimensionScores": {
+    "导师能力": 4.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 3.0,
+    "工作时间": 5.0,
+    "毕业去向": 3.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘Keng，Qipa，别被骗了’暗示风险",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "负面暗示强烈，信任度低",
+    "工作时间": "未提及工作时间安排",
+    "毕业去向": "隐含发展受限或信息不透明"
+  },
+  "overallRecommendation": "存在显著负面暗示，缺乏正面佐证，强烈建议回避并多方核实",
   "evaluations": [
     {
       "comment": "Keng，Qipa，别被骗了",

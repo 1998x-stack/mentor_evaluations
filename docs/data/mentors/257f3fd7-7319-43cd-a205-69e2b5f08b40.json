@@ -4,8 +4,24 @@
   "school": "北京航空航天大学",
   "department": "电子信息工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.17,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 2.0,
+    "工作时间": 3.0,
+    "毕业去向": 2.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘最好别去’属严重负面预警",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助情况",
+    "师生关系": "负面评价暗示关系紧张",
+    "工作时间": "隐含高压或不适配工作模式",
+    "毕业去向": "负面评价暗示发展受限"
+  },
+  "overallRecommendation": "存在显著风险，不建议选择",
   "evaluations": [
     {
       "comment": "最好别去",

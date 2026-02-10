@@ -4,8 +4,24 @@
   "school": "沈阳农业大学",
   "department": "农学",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 2.5,
+  "dimensionScores": {
+    "导师能力": 0.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 0.0,
+    "工作时间": 5.0,
+    "毕业去向": 0.0
+  },
+  "dimensionReasons": {
+    "导师能力": "0分评价，能力奇差",
+    "经费情况": "未提及经费",
+    "学生补助": "未提及补助",
+    "师生关系": "对学生一点也不好",
+    "工作时间": "未提及工作安排",
+    "毕业去向": "0分评价，前途渺茫"
+  },
+  "overallRecommendation": "单条0分差评且无反向佐证，风险极高，回避",
   "evaluations": [
     {
       "comment": "0分，导师能力奇差，对学生一点也不好",

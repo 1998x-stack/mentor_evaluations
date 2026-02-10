@@ -5,7 +5,23 @@
   "department": "未知院系",
   "evaluationCount": 1,
   "totalScore": 5.0,
-  "dimensionScores": {},
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅‘还不错’，无实质信息",
+    "经费情况": "信息缺失",
+    "学生补助": "信息缺失",
+    "师生关系": "信息缺失",
+    "工作时间": "信息缺失",
+    "毕业去向": "信息缺失"
+  },
+  "overallRecommendation": "信息严重不足，无法评估，不建议选择",
   "evaluations": [
     {
       "comment": "还不错",

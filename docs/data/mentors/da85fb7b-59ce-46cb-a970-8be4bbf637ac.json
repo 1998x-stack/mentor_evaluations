@@ -4,8 +4,24 @@
   "school": "北京航空航天大学",
   "department": "生物与医学工程学院",
   "evaluationCount": 1,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 5.5,
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 8.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅称‘nice’，无能力佐证",
+    "经费情况": "未提及经费情况",
+    "学生补助": "未提及补助",
+    "师生关系": "明确‘非常nice’，关系融洽",
+    "工作时间": "未提及工作强度",
+    "毕业去向": "未提及就业支持"
+  },
+  "overallRecommendation": "师生关系好，但科研、资源、就业等关键维度信息缺失",
   "evaluations": [
     {
       "comment": "裴老师，是一个非常不错的老师，人非常nice，",

@@ -5,7 +5,23 @@
   "department": "深圳研究生院",
   "evaluationCount": 1,
   "totalScore": 5.0,
-  "dimensionScores": {},
+  "dimensionScores": {
+    "导师能力": 5.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 5.0,
+    "工作时间": 5.0,
+    "毕业去向": 5.0
+  },
+  "dimensionReasons": {
+    "导师能力": "仅‘you guys’，无实质信息",
+    "经费情况": "无经费相关信息",
+    "学生补助": "未提及补助",
+    "师生关系": "无师生互动描述",
+    "工作时间": "无工作时间说明",
+    "毕业去向": "无毕业去向信息"
+  },
+  "overallRecommendation": "信息完全无效，无法评估，建议排除或重新查证",
   "evaluations": [
     {
       "comment": "利益相关：you guys",

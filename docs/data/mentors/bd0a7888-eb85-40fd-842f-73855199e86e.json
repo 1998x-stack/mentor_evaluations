@@ -4,8 +4,24 @@
   "school": "东南大学",
   "department": "医学院",
   "evaluationCount": 2,
-  "totalScore": 5.0,
-  "dimensionScores": {},
+  "totalScore": 3.33,
+  "dimensionScores": {
+    "导师能力": 2.0,
+    "经费情况": 5.0,
+    "学生补助": 5.0,
+    "师生关系": 1.0,
+    "工作时间": 5.0,
+    "毕业去向": 2.0
+  },
+  "dimensionReasons": {
+    "导师能力": "‘很差劲’‘坑货’，无正面评价",
+    "经费情况": "未提及",
+    "学生补助": "未提及",
+    "师生关系": "毕业生称‘跳出火坑’",
+    "工作时间": "未提及",
+    "毕业去向": "‘前途不清楚’‘凉凉’"
+  },
+  "overallRecommendation": "负面口碑集中，已毕业学生强烈警示，不建议选择。",
   "evaluations": [
     {
       "comment": "很差劲",
